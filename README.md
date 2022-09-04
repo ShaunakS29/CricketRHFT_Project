@@ -12,18 +12,18 @@ This project puts its focus on match data of the 2020 and 2021 seasons and analy
 The analysis inclusive of visualization and modelling was primarily done using Python 3.8 programming language along with associated libraries like NumPy, Pandas, Matplotlib, Seaborn and Scikit-Learn. Microsoft Excel was used for some data investigation and preparation.
 
 The project contains the below mentioned Jupyter notebook files with relevant code snippets and outputs.
-### 1.CricketRHFT_project_initial_datacleaning 
+### [1.CricketRHFT_project_initial_datacleaning](https://github.com/ShaunakS29/CricketRHFT_Project/blob/main/1.CricketRHFT_project_initial_datacleaning.ipynb)
 (initial data cleaning and preparation)
-### 2.CricketRHFT_project_analysis_part1 
+### [2.CricketRHFT_project_analysis_part1](https://github.com/ShaunakS29/CricketRHFT_Project/blob/main/%202.CricketRHFT_project_analysis_part1.ipynb)
 (toss/ winner /winning margin)
-### 3.CricketRHFT_project_analysis_part2 
+### [3.CricketRHFT_project_analysis_part2](https://github.com/ShaunakS29/CricketRHFT_Project/blob/main/%203.CricketRHFT_project_analysis_part2.ipynb) 
 (batting/bowling parameters)
-### 4.CricketRHFT_project_analysis_part3 
+### [4.CricketRHFT_project_analysis_part3](https://github.com/ShaunakS29/CricketRHFT_Project/blob/main/%204.CricketRHFT_project_analysis_part3.ipynb)
 (batting partnerships)
-### 5.CricketRHFT_project_analysis_part4 
+### [5.CricketRHFT_project_analysis_part4](https://github.com/ShaunakS29/CricketRHFT_Project/blob/main/%205.CricketRHFT_project_analysis_part4.ipynb) 
 (player and team evaluation with batting and bowling scores)
-### 6.CricketRHFT_project_modelling_part1 
+### [6.CricketRHFT_project_modelling_part1](https://github.com/ShaunakS29/CricketRHFT_Project/blob/main/%206.CricketRHFT_project_modelling_part1.ipynb) 
 (predicting winner of match)
-### 7.CricketRHFT_project_modelling_part2 
+### [7.CricketRHFT_project_modelling_part2](https://github.com/ShaunakS29/CricketRHFT_Project/blob/main/%207.CricketRHFT_project_modelling_part2.ipynb) 
 (predicitng second innings runs)
 
