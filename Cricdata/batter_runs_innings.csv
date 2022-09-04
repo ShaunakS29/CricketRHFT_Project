@@ -1,0 +1,1020 @@
+match_id,season,start_date,innings,batting_team,bowling_team,striker,runs_off_bat,balls_faced,strike_rate,50s,100s,wicket_status,batter_labels,message,runs_range
+1229326,2020,29-08-2020,1,Sunrisers,Southern Vipers,AD Carr,4,15,26.67,0,0,out,AD Carr (Sunrisers),vs Southern Vipers (29/08/2020),<20
+1229326,2020,29-08-2020,1,Sunrisers,Southern Vipers,AJ Macleod,2,4,50,0,0,out,AJ Macleod (Sunrisers),vs Southern Vipers (29/08/2020),<20
+1229326,2020,29-08-2020,1,Sunrisers,Southern Vipers,FC Wilson,11,15,73.33,0,0,out,FC Wilson (Sunrisers),vs Southern Vipers (29/08/2020),<20
+1229326,2020,29-08-2020,1,Sunrisers,Southern Vipers,G Scrivens,8,21,38.1,0,0,out,G Scrivens (Sunrisers),vs Southern Vipers (29/08/2020),<20
+1229326,2020,29-08-2020,1,Sunrisers,Southern Vipers,J Gardner,13,15,86.67,0,0,out,J Gardner (Sunrisers),vs Southern Vipers (29/08/2020),<20
+1229326,2020,29-08-2020,1,Sunrisers,Southern Vipers,KJ Wolfe,2,6,33.33,0,0,out,KJ Wolfe (Sunrisers),vs Southern Vipers (29/08/2020),<20
+1229326,2020,29-08-2020,1,Sunrisers,Southern Vipers,KL Midwood,6,24,25,0,0,out,KL Midwood (Sunrisers),vs Southern Vipers (29/08/2020),<20
+1229326,2020,29-08-2020,1,Sunrisers,Southern Vipers,KS Castle,8,13,61.54,0,0,not out,KS Castle (Sunrisers),vs Southern Vipers (29/08/2020),<20
+1229326,2020,29-08-2020,1,Sunrisers,Southern Vipers,MK Villiers,64,87,73.56,1,0,out,MK Villiers (Sunrisers),vs Southern Vipers (29/08/2020),50-99
+1229326,2020,29-08-2020,1,Sunrisers,Southern Vipers,ND Dattani,42,82,51.22,0,0,out,ND Dattani (Sunrisers),vs Southern Vipers (29/08/2020),20-49
+1229326,2020,29-08-2020,1,Sunrisers,Southern Vipers,Sonali Patel,4,18,22.22,0,0,out,Sonali Patel (Sunrisers),vs Southern Vipers (29/08/2020),<20
+1229326,2020,29-08-2020,2,Southern Vipers,Sunrisers,CE Dean,27,40,67.5,0,0,not out,CE Dean (Southern Vipers),vs Sunrisers (29/08/2020),20-49
+1229326,2020,29-08-2020,2,Southern Vipers,Sunrisers,DN Wyatt,66,79,83.54,1,0,out,DN Wyatt (Southern Vipers),vs Sunrisers (29/08/2020),50-99
+1229326,2020,29-08-2020,2,Southern Vipers,Sunrisers,GL Adams,37,50,74,0,0,out,GL Adams (Southern Vipers),vs Sunrisers (29/08/2020),20-49
+1229326,2020,29-08-2020,2,Southern Vipers,Sunrisers,ME Bouchier,33,40,82.5,0,0,out,ME Bouchier (Southern Vipers),vs Sunrisers (29/08/2020),20-49
+1229326,2020,29-08-2020,2,Southern Vipers,Sunrisers,PJ Scholfield,23,24,95.83,0,0,not out,PJ Scholfield (Southern Vipers),vs Sunrisers (29/08/2020),20-49
+1229327,2020,29-08-2020,1,Central Sparks,Northern Diamonds,E Jones,15,30,50,0,0,out,E Jones (Central Sparks),vs Northern Diamonds (29/08/2020),<20
+1229327,2020,29-08-2020,1,Central Sparks,Northern Diamonds,AE Jones,26,38,68.42,0,0,out,AE Jones (Central Sparks),vs Northern Diamonds (29/08/2020),20-49
+1229327,2020,29-08-2020,1,Central Sparks,Northern Diamonds,Marie Kelly,4,6,66.66,0,0,out,Marie Kelly (Central Sparks),vs Northern Diamonds (29/08/2020),<20
+1229327,2020,29-08-2020,1,Central Sparks,Northern Diamonds,GM Davies,33,44,75,0,0,out,GM Davies (Central Sparks),vs Northern Diamonds (29/08/2020),20-49
+1229327,2020,29-08-2020,1,Central Sparks,Northern Diamonds,S Glenn,23,43,53.48,0,0,out,S Glenn (Central Sparks),vs Northern Diamonds (29/08/2020),20-49
+1229327,2020,29-08-2020,1,Central Sparks,Northern Diamonds,TF Brookes,4,13,30.76,0,0,out,TF Brookes (Central Sparks),vs Northern Diamonds (29/08/2020),<20
+1229327,2020,29-08-2020,1,Central Sparks,Northern Diamonds,CK Boycott,10,37,27.02,0,0,out,CK Boycott (Central Sparks),vs Northern Diamonds (29/08/2020),<20
+1229327,2020,29-08-2020,1,Central Sparks,Northern Diamonds,EL Arlott,5,12,41.66,0,0,out,EL Arlott (Central Sparks),vs Northern Diamonds (29/08/2020),<20
+1229327,2020,29-08-2020,1,Central Sparks,Northern Diamonds,IECM Wong,0,3,0,0,0,out,IECM Wong (Central Sparks),vs Northern Diamonds (29/08/2020),<20
+1229327,2020,29-08-2020,1,Central Sparks,Northern Diamonds,EA Russell,0,0,0,0,0,not out,EA Russell (Central Sparks),vs Northern Diamonds (29/08/2020),<20
+1229327,2020,29-08-2020,1,Central Sparks,Northern Diamonds,Anisha Patel,1,5,20,0,0,out,Anisha Patel (Central Sparks),vs Northern Diamonds (29/08/2020),<20
+1229327,2020,29-08-2020,2,Northern Diamonds,Central Sparks,L Winfield,72,71,101.4,1,0,out,L Winfield (Northern Diamonds),vs Central Sparks (29/08/2020),50-99
+1229327,2020,29-08-2020,2,Northern Diamonds,Central Sparks,HJ Armitage,54,73,73.97,1,0,not out,HJ Armitage (Northern Diamonds),vs Central Sparks (29/08/2020),50-99
+1229327,2020,29-08-2020,2,Northern Diamonds,Central Sparks,NR Sciver,4,1,400,0,0,not out,NR Sciver (Northern Diamonds),vs Central Sparks (29/08/2020),<20
+1229328,2020,29-08-2020,1,Thunder,Lightning,L Marshall,5,5,100,0,0,out,L Marshall (Thunder),vs Lightning (29/08/2020),<20
+1229328,2020,29-08-2020,1,Thunder,Lightning,GEB Boyce,18,30,60,0,0,out,GEB Boyce (Thunder),vs Lightning (29/08/2020),<20
+1229328,2020,29-08-2020,1,Thunder,Lightning,EL Lamb,3,15,20,0,0,out,EL Lamb (Thunder),vs Lightning (29/08/2020),<20
+1229328,2020,29-08-2020,1,Thunder,Lightning,E Threlkeld,52,82,63.41,1,0,out,E Threlkeld (Thunder),vs Lightning (29/08/2020),50-99
+1229328,2020,29-08-2020,1,Thunder,Lightning,N Brown,38,55,69.09,0,0,out,N Brown (Thunder),vs Lightning (29/08/2020),20-49
+1229328,2020,29-08-2020,1,Thunder,Lightning,S Ecclestone,60,61,98.36,1,0,not out,S Ecclestone (Thunder),vs Lightning (29/08/2020),50-99
+1229328,2020,29-08-2020,1,Thunder,Lightning,KL Cross,8,25,32,0,0,out,KL Cross (Thunder),vs Lightning (29/08/2020),<20
+1229328,2020,29-08-2020,1,Thunder,Lightning,S Turner,2,10,20,0,0,out,S Turner (Thunder),vs Lightning (29/08/2020),<20
+1229328,2020,29-08-2020,1,Thunder,Lightning,Olivia Thomas,1,11,9.09,0,0,out,Olivia Thomas (Thunder),vs Lightning (29/08/2020),<20
+1229328,2020,29-08-2020,1,Thunder,Lightning,HE Jones,0,7,0,0,0,out,HE Jones (Thunder),vs Lightning (29/08/2020),<20
+1229328,2020,29-08-2020,1,Thunder,Lightning,A Hartley,0,0,0,0,0,not out,A Hartley (Thunder),vs Lightning (29/08/2020),<20
+1229328,2020,29-08-2020,2,Lightning,Thunder,TT Beaumont,2,14,14.28,0,0,out,TT Beaumont (Lightning),vs Thunder (29/08/2020),<20
+1229328,2020,29-08-2020,2,Lightning,Thunder,SJ Bryce,52,69,75.36,1,0,out,SJ Bryce (Lightning),vs Thunder (29/08/2020),50-99
+1229328,2020,29-08-2020,2,Lightning,Thunder,KE Bryce,17,42,40.47,0,0,out,KE Bryce (Lightning),vs Thunder (29/08/2020),<20
+1229328,2020,29-08-2020,2,Lightning,Thunder,AJ Freeborn,29,44,65.9,0,0,out,AJ Freeborn (Lightning),vs Thunder (29/08/2020),20-49
+1229328,2020,29-08-2020,2,Lightning,Thunder,B Ellis,1,6,16.66,0,0,out,B Ellis (Lightning),vs Thunder (29/08/2020),<20
+1229328,2020,29-08-2020,2,Lightning,Thunder,LF Higham,19,29,65.51,0,0,out,LF Higham (Lightning),vs Thunder (29/08/2020),<20
+1229328,2020,29-08-2020,2,Lightning,Thunder,T Graves,1,1,100,0,0,out,T Graves (Lightning),vs Thunder (29/08/2020),<20
+1229328,2020,29-08-2020,2,Lightning,Thunder,N Harman,11,6,183.33,0,0,out,N Harman (Lightning),vs Thunder (29/08/2020),<20
+1229328,2020,29-08-2020,2,Lightning,Thunder,KL Gordon,0,3,0,0,0,out,KL Gordon (Lightning),vs Thunder (29/08/2020),<20
+1229328,2020,29-08-2020,2,Lightning,Thunder,S Munro,2,2,100,0,0,out,S Munro (Lightning),vs Thunder (29/08/2020),<20
+1229328,2020,29-08-2020,2,Lightning,Thunder,G Ballinger,0,0,0,0,0,not out,G Ballinger (Lightning),vs Thunder (29/08/2020),<20
+1229329,2020,29-08-2020,1,South East Stars,Western Storm,A Capsey,13,30,43.33,0,0,out,A Capsey (South East Stars),vs Western Storm (29/08/2020),<20
+1229329,2020,29-08-2020,1,South East Stars,Western Storm,A Cranstone,14,33,42.42,0,0,out,A Cranstone (South East Stars),vs Western Storm (29/08/2020),<20
+1229329,2020,29-08-2020,1,South East Stars,Western Storm,AN Davidson-Richards,6,19,31.58,0,0,out,AN Davidson-Richards (South East Stars),vs Western Storm (29/08/2020),<20
+1229329,2020,29-08-2020,1,South East Stars,Western Storm,BF Smith,5,14,35.71,0,0,out,BF Smith (South East Stars),vs Western Storm (29/08/2020),<20
+1229329,2020,29-08-2020,1,South East Stars,Western Storm,FR Davies,12,53,22.64,0,0,out,FR Davies (South East Stars),vs Western Storm (29/08/2020),<20
+1229329,2020,29-08-2020,1,South East Stars,Western Storm,GJ Gibbs,1,5,20,0,0,not out,GJ Gibbs (South East Stars),vs Western Storm (29/08/2020),<20
+1229329,2020,29-08-2020,1,South East Stars,Western Storm,HV Jones,16,28,57.14,0,0,out,HV Jones (South East Stars),vs Western Storm (29/08/2020),<20
+1229329,2020,29-08-2020,1,South East Stars,Western Storm,NE Farrant,37,61,60.66,0,0,out,NE Farrant (South East Stars),vs Western Storm (29/08/2020),20-49
+1229329,2020,29-08-2020,1,South East Stars,Western Storm,R Southby,2,5,40,0,0,out,R Southby (South East Stars),vs Western Storm (29/08/2020),<20
+1229329,2020,29-08-2020,1,South East Stars,Western Storm,SE Rowe,38,47,80.85,0,0,out,SE Rowe (South East Stars),vs Western Storm (29/08/2020),20-49
+1229329,2020,29-08-2020,1,South East Stars,Western Storm,SIR Dunkley,5,7,71.43,0,0,out,SIR Dunkley (South East Stars),vs Western Storm (29/08/2020),<20
+1229329,2020,29-08-2020,2,Western Storm,South East Stars,FMK Morris,27,66,40.91,0,0,out,FMK Morris (Western Storm),vs South East Stars (29/08/2020),20-49
+1229329,2020,29-08-2020,2,Western Storm,South East Stars,GM Hennessy,6,23,26.09,0,0,out,GM Hennessy (Western Storm),vs South East Stars (29/08/2020),<20
+1229329,2020,29-08-2020,2,Western Storm,South East Stars,HC Knight,91,99,91.92,1,0,not out,HC Knight (Western Storm),vs South East Stars (29/08/2020),50-99
+1229329,2020,29-08-2020,2,Western Storm,South East Stars,KL George,19,23,82.61,0,0,not out,KL George (Western Storm),vs South East Stars (29/08/2020),<20
+1229329,2020,29-08-2020,2,Western Storm,South East Stars,NAJ Wraith,6,17,35.29,0,0,out,NAJ Wraith (Western Storm),vs South East Stars (29/08/2020),<20
+1229329,2020,29-08-2020,2,Western Storm,South East Stars,SN Luff,8,20,40,0,0,out,SN Luff (Western Storm),vs South East Stars (29/08/2020),<20
+1229330,2020,31-08-2020,1,Southern Vipers,Western Storm,CE Dean,60,74,81.08,1,0,not out,CE Dean (Southern Vipers),vs Western Storm (31/08/2020),50-99
+1229330,2020,31-08-2020,1,Southern Vipers,Western Storm,CE Rudd,5,8,62.5,0,0,out,CE Rudd (Southern Vipers),vs Western Storm (31/08/2020),<20
+1229330,2020,31-08-2020,1,Southern Vipers,Western Storm,DN Wyatt,53,64,82.81,1,0,out,DN Wyatt (Southern Vipers),vs Western Storm (31/08/2020),50-99
+1229330,2020,31-08-2020,1,Southern Vipers,Western Storm,E Windsor,14,20,70,0,0,out,E Windsor (Southern Vipers),vs Western Storm (31/08/2020),<20
+1229330,2020,31-08-2020,1,Southern Vipers,Western Storm,EM McCaughan,5,14,35.71,0,0,out,EM McCaughan (Southern Vipers),vs Western Storm (31/08/2020),<20
+1229330,2020,31-08-2020,1,Southern Vipers,Western Storm,GL Adams,55,80,68.75,1,0,out,GL Adams (Southern Vipers),vs Western Storm (31/08/2020),50-99
+1229330,2020,31-08-2020,1,Southern Vipers,Western Storm,ME Bouchier,16,29,55.17,0,0,out,ME Bouchier (Southern Vipers),vs Western Storm (31/08/2020),<20
+1229330,2020,31-08-2020,1,Southern Vipers,Western Storm,PJ Scholfield,9,19,47.37,0,0,out,PJ Scholfield (Southern Vipers),vs Western Storm (31/08/2020),<20
+1229330,2020,31-08-2020,1,Southern Vipers,Western Storm,TG Norris,10,12,83.33,0,0,not out,TG Norris (Southern Vipers),vs Western Storm (31/08/2020),<20
+1229330,2020,31-08-2020,2,Western Storm,Southern Vipers,A Griffiths,3,6,50,0,0,out,A Griffiths (Western Storm),vs Southern Vipers (31/08/2020),<20
+1229330,2020,31-08-2020,2,Western Storm,Southern Vipers,C Nicholas,22,37,59.46,0,0,out,C Nicholas (Western Storm),vs Southern Vipers (31/08/2020),20-49
+1229330,2020,31-08-2020,2,Western Storm,Southern Vipers,E Corney,3,6,50,0,0,out,E Corney (Western Storm),vs Southern Vipers (31/08/2020),<20
+1229330,2020,31-08-2020,2,Western Storm,Southern Vipers,FMK Morris,4,9,44.44,0,0,out,FMK Morris (Western Storm),vs Southern Vipers (31/08/2020),<20
+1229330,2020,31-08-2020,2,Western Storm,Southern Vipers,GM Hennessy,4,6,66.67,0,0,out,GM Hennessy (Western Storm),vs Southern Vipers (31/08/2020),<20
+1229330,2020,31-08-2020,2,Western Storm,Southern Vipers,HC Knight,67,86,77.91,1,0,out,HC Knight (Western Storm),vs Southern Vipers (31/08/2020),50-99
+1229330,2020,31-08-2020,2,Western Storm,Southern Vipers,KL George,0,5,0,0,0,out,KL George (Western Storm),vs Southern Vipers (31/08/2020),<20
+1229330,2020,31-08-2020,2,Western Storm,Southern Vipers,LA Parfitt,33,37,89.19,0,0,not out,LA Parfitt (Western Storm),vs Southern Vipers (31/08/2020),20-49
+1229330,2020,31-08-2020,2,Western Storm,Southern Vipers,N Holland,0,3,0,0,0,out,N Holland (Western Storm),vs Southern Vipers (31/08/2020),<20
+1229330,2020,31-08-2020,2,Western Storm,Southern Vipers,NAJ Wraith,7,28,25,0,0,out,NAJ Wraith (Western Storm),vs Southern Vipers (31/08/2020),<20
+1229330,2020,31-08-2020,2,Western Storm,Southern Vipers,SN Luff,60,87,68.97,1,0,out,SN Luff (Western Storm),vs Southern Vipers (31/08/2020),50-99
+1229331,2020,31-08-2020,1,South East Stars,Sunrisers,A Capsey,11,15,73.33,0,0,out,A Capsey (South East Stars),vs Sunrisers (31/08/2020),<20
+1229331,2020,31-08-2020,1,South East Stars,Sunrisers,A Cranstone,0,1,0,0,0,out,A Cranstone (South East Stars),vs Sunrisers (31/08/2020),<20
+1229331,2020,31-08-2020,1,South East Stars,Sunrisers,AN Davidson-Richards,61,76,80.26,1,0,out,AN Davidson-Richards (South East Stars),vs Sunrisers (31/08/2020),50-99
+1229331,2020,31-08-2020,1,South East Stars,Sunrisers,BF Smith,4,2,200,0,0,out,BF Smith (South East Stars),vs Sunrisers (31/08/2020),<20
+1229331,2020,31-08-2020,1,South East Stars,Sunrisers,FR Davies,2,2,100,0,0,not out,FR Davies (South East Stars),vs Sunrisers (31/08/2020),<20
+1229331,2020,31-08-2020,1,South East Stars,Sunrisers,HV Jones,3,11,27.27,0,0,out,HV Jones (South East Stars),vs Sunrisers (31/08/2020),<20
+1229331,2020,31-08-2020,1,South East Stars,Sunrisers,NE Farrant,37,28,132.14,0,0,out,NE Farrant (South East Stars),vs Sunrisers (31/08/2020),20-49
+1229331,2020,31-08-2020,1,South East Stars,Sunrisers,R Southby,7,8,87.5,0,0,not out,R Southby (South East Stars),vs Sunrisers (31/08/2020),<20
+1229331,2020,31-08-2020,1,South East Stars,Sunrisers,SE Rowe,39,53,73.58,0,0,out,SE Rowe (South East Stars),vs Sunrisers (31/08/2020),20-49
+1229331,2020,31-08-2020,1,South East Stars,Sunrisers,SIR Dunkley,97,119,81.51,1,0,out,SIR Dunkley (South East Stars),vs Sunrisers (31/08/2020),50-99
+1229331,2020,31-08-2020,2,Sunrisers,South East Stars,AD Carr,99,113,87.61,1,0,out,AD Carr (Sunrisers),vs South East Stars (31/08/2020),50-99
+1229331,2020,31-08-2020,2,Sunrisers,South East Stars,AJ Macleod,0,2,0,0,0,out,AJ Macleod (Sunrisers),vs South East Stars (31/08/2020),<20
+1229331,2020,31-08-2020,2,Sunrisers,South East Stars,FC Wilson,29,32,90.62,0,0,out,FC Wilson (Sunrisers),vs South East Stars (31/08/2020),20-49
+1229331,2020,31-08-2020,2,Sunrisers,South East Stars,G Scrivens,2,12,16.67,0,0,out,G Scrivens (Sunrisers),vs South East Stars (31/08/2020),<20
+1229331,2020,31-08-2020,2,Sunrisers,South East Stars,J Gardner,25,28,89.29,0,0,out,J Gardner (Sunrisers),vs South East Stars (31/08/2020),20-49
+1229331,2020,31-08-2020,2,Sunrisers,South East Stars,KL Midwood,0,3,0,0,0,out,KL Midwood (Sunrisers),vs South East Stars (31/08/2020),<20
+1229331,2020,31-08-2020,2,Sunrisers,South East Stars,KS Castle,25,48,52.08,0,0,out,KS Castle (Sunrisers),vs South East Stars (31/08/2020),20-49
+1229331,2020,31-08-2020,2,Sunrisers,South East Stars,MK Villiers,12,17,70.59,0,0,out,MK Villiers (Sunrisers),vs South East Stars (31/08/2020),<20
+1229331,2020,31-08-2020,2,Sunrisers,South East Stars,ND Dattani,2,4,50,0,0,out,ND Dattani (Sunrisers),vs South East Stars (31/08/2020),<20
+1229331,2020,31-08-2020,2,Sunrisers,South East Stars,Sonali Patel,7,19,36.84,0,0,out,Sonali Patel (Sunrisers),vs South East Stars (31/08/2020),<20
+1229332,2020,31-08-2020,1,Thunder,Central Sparks,A Hartley,0,2,0,0,0,out,A Hartley (Thunder),vs Central Sparks (31/08/2020),<20
+1229332,2020,31-08-2020,1,Thunder,Central Sparks,E Threlkeld,7,17,41.18,0,0,out,E Threlkeld (Thunder),vs Central Sparks (31/08/2020),<20
+1229332,2020,31-08-2020,1,Thunder,Central Sparks,EL Lamb,6,24,25,0,0,out,EL Lamb (Thunder),vs Central Sparks (31/08/2020),<20
+1229332,2020,31-08-2020,1,Thunder,Central Sparks,GEB Boyce,0,4,0,0,0,out,GEB Boyce (Thunder),vs Central Sparks (31/08/2020),<20
+1229332,2020,31-08-2020,1,Thunder,Central Sparks,HE Jones,3,8,37.5,0,0,out,HE Jones (Thunder),vs Central Sparks (31/08/2020),<20
+1229332,2020,31-08-2020,1,Thunder,Central Sparks,KL Cross,45,73,61.64,0,0,out,KL Cross (Thunder),vs Central Sparks (31/08/2020),20-49
+1229332,2020,31-08-2020,1,Thunder,Central Sparks,L Marshall,0,1,0,0,0,out,L Marshall (Thunder),vs Central Sparks (31/08/2020),<20
+1229332,2020,31-08-2020,1,Thunder,Central Sparks,N Brown,35,41,85.37,0,0,out,N Brown (Thunder),vs Central Sparks (31/08/2020),20-49
+1229332,2020,31-08-2020,1,Thunder,Central Sparks,Olivia Thomas,16,75,21.33,0,0,not out,Olivia Thomas (Thunder),vs Central Sparks (31/08/2020),<20
+1229332,2020,31-08-2020,1,Thunder,Central Sparks,S Ecclestone,14,22,63.64,0,0,out,S Ecclestone (Thunder),vs Central Sparks (31/08/2020),<20
+1229332,2020,31-08-2020,1,Thunder,Central Sparks,S Turner,1,16,6.25,0,0,out,S Turner (Thunder),vs Central Sparks (31/08/2020),<20
+1229332,2020,31-08-2020,2,Central Sparks,Thunder,AE Jones,12,21,57.14,0,0,out,AE Jones (Central Sparks),vs Thunder (31/08/2020),<20
+1229332,2020,31-08-2020,2,Central Sparks,Thunder,CK Boycott,5,18,27.78,0,0,out,CK Boycott (Central Sparks),vs Thunder (31/08/2020),<20
+1229332,2020,31-08-2020,2,Central Sparks,Thunder,E Jones,27,43,62.79,0,0,out,E Jones (Central Sparks),vs Thunder (31/08/2020),20-49
+1229332,2020,31-08-2020,2,Central Sparks,Thunder,GM Davies,1,18,5.56,0,0,out,GM Davies (Central Sparks),vs Thunder (31/08/2020),<20
+1229332,2020,31-08-2020,2,Central Sparks,Thunder,M Home,17,40,42.5,0,0,out,M Home (Central Sparks),vs Thunder (31/08/2020),<20
+1229332,2020,31-08-2020,2,Central Sparks,Thunder,Marie Kelly,59,101,58.42,1,0,not out,Marie Kelly (Central Sparks),vs Thunder (31/08/2020),50-99
+1229332,2020,31-08-2020,2,Central Sparks,Thunder,S Glenn,0,2,0,0,0,out,S Glenn (Central Sparks),vs Thunder (31/08/2020),<20
+1229332,2020,31-08-2020,2,Central Sparks,Thunder,TF Brookes,6,27,22.22,0,0,not out,TF Brookes (Central Sparks),vs Thunder (31/08/2020),<20
+1229333,2020,31-08-2020,1,Northern Diamonds,Lightning,AL MacDonald,28,64,43.75,0,0,out,AL MacDonald (Northern Diamonds),vs Lightning (31/08/2020),20-49
+1229333,2020,31-08-2020,1,Northern Diamonds,Lightning,BA Langston,8,10,80,0,0,not out,BA Langston (Northern Diamonds),vs Lightning (31/08/2020),<20
+1229333,2020,31-08-2020,1,Northern Diamonds,Lightning,BAM Heath,3,6,50,0,0,out,BAM Heath (Northern Diamonds),vs Lightning (31/08/2020),<20
+1229333,2020,31-08-2020,1,Northern Diamonds,Lightning,HJ Armitage,2,11,18.18,0,0,out,HJ Armitage (Northern Diamonds),vs Lightning (31/08/2020),<20
+1229333,2020,31-08-2020,1,Northern Diamonds,Lightning,JL Gunn,20,57,35.09,0,0,out,JL Gunn (Northern Diamonds),vs Lightning (31/08/2020),20-49
+1229333,2020,31-08-2020,1,Northern Diamonds,Lightning,KA Levick,7,7,100,0,0,not out,KA Levick (Northern Diamonds),vs Lightning (31/08/2020),<20
+1229333,2020,31-08-2020,1,Northern Diamonds,Lightning,KH Brunt,5,10,50,0,0,out,KH Brunt (Northern Diamonds),vs Lightning (31/08/2020),<20
+1229333,2020,31-08-2020,1,Northern Diamonds,Lightning,L Winfield,1,5,20,0,0,out,L Winfield (Northern Diamonds),vs Lightning (31/08/2020),<20
+1229333,2020,31-08-2020,1,Northern Diamonds,Lightning,LCN Smith,23,24,95.83,0,0,out,LCN Smith (Northern Diamonds),vs Lightning (31/08/2020),20-49
+1229333,2020,31-08-2020,1,Northern Diamonds,Lightning,NR Sciver,104,121,85.95,0,1,out,NR Sciver (Northern Diamonds),vs Lightning (31/08/2020),>=100
+1229333,2020,31-08-2020,1,Northern Diamonds,Lightning,SL Kalis,0,2,0,0,0,out,SL Kalis (Northern Diamonds),vs Lightning (31/08/2020),<20
+1229333,2020,31-08-2020,2,Lightning,Northern Diamonds,B Ellis,6,20,30,0,0,out,B Ellis (Lightning),vs Northern Diamonds (31/08/2020),<20
+1229333,2020,31-08-2020,2,Lightning,Northern Diamonds,KE Bryce,71,82,86.59,1,0,not out,KE Bryce (Lightning),vs Northern Diamonds (31/08/2020),50-99
+1229333,2020,31-08-2020,2,Lightning,Northern Diamonds,KL Gordon,2,2,100,0,0,not out,KL Gordon (Lightning),vs Northern Diamonds (31/08/2020),<20
+1229333,2020,31-08-2020,2,Lightning,Northern Diamonds,LF Higham,0,2,0,0,0,out,LF Higham (Lightning),vs Northern Diamonds (31/08/2020),<20
+1229333,2020,31-08-2020,2,Lightning,Northern Diamonds,N Harman,0,2,0,0,0,out,N Harman (Lightning),vs Northern Diamonds (31/08/2020),<20
+1229333,2020,31-08-2020,2,Lightning,Northern Diamonds,RA Fackrell,8,23,34.78,0,0,out,RA Fackrell (Lightning),vs Northern Diamonds (31/08/2020),<20
+1229333,2020,31-08-2020,2,Lightning,Northern Diamonds,SJ Bryce,57,102,55.88,1,0,out,SJ Bryce (Lightning),vs Northern Diamonds (31/08/2020),50-99
+1229333,2020,31-08-2020,2,Lightning,Northern Diamonds,T Graves,2,4,50,0,0,out,T Graves (Lightning),vs Northern Diamonds (31/08/2020),<20
+1229333,2020,31-08-2020,2,Lightning,Northern Diamonds,TT Beaumont,51,73,69.86,1,0,out,TT Beaumont (Lightning),vs Northern Diamonds (31/08/2020),50-99
+1229334,2020,05-09-2020,1,Thunder,Central Sparks,A Hartley,5,3,166.67,0,0,not out,A Hartley (Thunder),vs Central Sparks (05/09/2020),<20
+1229334,2020,05-09-2020,1,Thunder,Central Sparks,AE Dyson,21,24,87.5,0,0,out,AE Dyson (Thunder),vs Central Sparks (05/09/2020),20-49
+1229334,2020,05-09-2020,1,Thunder,Central Sparks,E Threlkeld,22,40,55,0,0,out,E Threlkeld (Thunder),vs Central Sparks (05/09/2020),20-49
+1229334,2020,05-09-2020,1,Thunder,Central Sparks,GEB Boyce,27,68,39.71,0,0,out,GEB Boyce (Thunder),vs Central Sparks (05/09/2020),20-49
+1229334,2020,05-09-2020,1,Thunder,Central Sparks,L Heap,0,5,0,0,0,out,L Heap (Thunder),vs Central Sparks (05/09/2020),<20
+1229334,2020,05-09-2020,1,Thunder,Central Sparks,L Jackson,1,21,4.76,0,0,out,L Jackson (Thunder),vs Central Sparks (05/09/2020),<20
+1229334,2020,05-09-2020,1,Thunder,Central Sparks,L Marshall,25,53,47.17,0,0,out,L Marshall (Thunder),vs Central Sparks (05/09/2020),20-49
+1229334,2020,05-09-2020,1,Thunder,Central Sparks,N Brown,27,50,54,0,0,out,N Brown (Thunder),vs Central Sparks (05/09/2020),20-49
+1229334,2020,05-09-2020,1,Thunder,Central Sparks,Olivia Thomas,0,4,0,0,0,out,Olivia Thomas (Thunder),vs Central Sparks (05/09/2020),<20
+1229334,2020,05-09-2020,1,Thunder,Central Sparks,R Duckworth,18,47,38.3,0,0,not out,R Duckworth (Thunder),vs Central Sparks (05/09/2020),<20
+1229334,2020,05-09-2020,2,Central Sparks,Thunder,E Jones,90,117,76.92,1,0,out,E Jones (Central Sparks),vs Thunder (05/09/2020),50-99
+1229334,2020,05-09-2020,2,Central Sparks,Thunder,GM Davies,37,75,49.33,0,0,out,GM Davies (Central Sparks),vs Thunder (05/09/2020),20-49
+1229334,2020,05-09-2020,2,Central Sparks,Thunder,Marie Kelly,21,40,52.5,0,0,not out,Marie Kelly (Central Sparks),vs Thunder (05/09/2020),20-49
+1229334,2020,05-09-2020,2,Central Sparks,Thunder,P Davies,2,5,40,0,0,not out,P Davies (Central Sparks),vs Thunder (05/09/2020),<20
+1229335,2020,05-09-2020,1,Western Storm,Sunrisers,A Griffiths,43,37,116.22,0,0,out,A Griffiths (Western Storm),vs Sunrisers (05/09/2020),20-49
+1229335,2020,05-09-2020,1,Western Storm,Sunrisers,C Nicholas,24,36,66.67,0,0,not out,C Nicholas (Western Storm),vs Sunrisers (05/09/2020),20-49
+1229335,2020,05-09-2020,1,Western Storm,Sunrisers,E Corney,6,10,60,0,0,not out,E Corney (Western Storm),vs Sunrisers (05/09/2020),<20
+1229335,2020,05-09-2020,1,Western Storm,Sunrisers,FMK Morris,24,36,66.67,0,0,out,FMK Morris (Western Storm),vs Sunrisers (05/09/2020),20-49
+1229335,2020,05-09-2020,1,Western Storm,Sunrisers,GM Hennessy,4,9,44.44,0,0,out,GM Hennessy (Western Storm),vs Sunrisers (05/09/2020),<20
+1229335,2020,05-09-2020,1,Western Storm,Sunrisers,LA Parfitt,18,32,56.25,0,0,out,LA Parfitt (Western Storm),vs Sunrisers (05/09/2020),<20
+1229335,2020,05-09-2020,1,Western Storm,Sunrisers,NAJ Wraith,18,37,48.65,0,0,out,NAJ Wraith (Western Storm),vs Sunrisers (05/09/2020),<20
+1229335,2020,05-09-2020,1,Western Storm,Sunrisers,SN Luff,85,122,69.67,1,0,out,SN Luff (Western Storm),vs Sunrisers (05/09/2020),50-99
+1229335,2020,05-09-2020,2,Sunrisers,Western Storm,AD Carr,0,1,0,0,0,out,AD Carr (Sunrisers),vs Western Storm (05/09/2020),<20
+1229335,2020,05-09-2020,2,Sunrisers,Western Storm,AJ Macleod,0,1,0,0,0,out,AJ Macleod (Sunrisers),vs Western Storm (05/09/2020),<20
+1229335,2020,05-09-2020,2,Sunrisers,Western Storm,CL Griffith,15,25,60,0,0,out,CL Griffith (Sunrisers),vs Western Storm (05/09/2020),<20
+1229335,2020,05-09-2020,2,Sunrisers,Western Storm,E Thorpe,12,15,80,0,0,not out,E Thorpe (Sunrisers),vs Western Storm (05/09/2020),<20
+1229335,2020,05-09-2020,2,Sunrisers,Western Storm,G Scrivens,26,75,34.67,0,0,out,G Scrivens (Sunrisers),vs Western Storm (05/09/2020),20-49
+1229335,2020,05-09-2020,2,Sunrisers,Western Storm,GKS Gole,4,13,30.77,0,0,out,GKS Gole (Sunrisers),vs Western Storm (05/09/2020),<20
+1229335,2020,05-09-2020,2,Sunrisers,Western Storm,J Gardner,54,82,65.85,1,0,out,J Gardner (Sunrisers),vs Western Storm (05/09/2020),50-99
+1229335,2020,05-09-2020,2,Sunrisers,Western Storm,KJ Wolfe,3,10,30,0,0,out,KJ Wolfe (Sunrisers),vs Western Storm (05/09/2020),<20
+1229335,2020,05-09-2020,2,Sunrisers,Western Storm,KS Castle,8,17,47.06,0,0,out,KS Castle (Sunrisers),vs Western Storm (05/09/2020),<20
+1229335,2020,05-09-2020,2,Sunrisers,Western Storm,ND Dattani,27,50,54,0,0,out,ND Dattani (Sunrisers),vs Western Storm (05/09/2020),20-49
+1229335,2020,05-09-2020,2,Sunrisers,Western Storm,Sonali Patel,0,3,0,0,0,out,Sonali Patel (Sunrisers),vs Western Storm (05/09/2020),<20
+1229336,2020,05-09-2020,1,Lightning,Northern Diamonds,AD Presland,4,9,44.44,0,0,not out,AD Presland (Lightning),vs Northern Diamonds (05/09/2020),<20
+1229336,2020,05-09-2020,1,Lightning,Northern Diamonds,AJ Freeborn,34,45,75.56,0,0,out,AJ Freeborn (Lightning),vs Northern Diamonds (05/09/2020),20-49
+1229336,2020,05-09-2020,1,Lightning,Northern Diamonds,B Ellis,21,29,72.41,0,0,out,B Ellis (Lightning),vs Northern Diamonds (05/09/2020),20-49
+1229336,2020,05-09-2020,1,Lightning,Northern Diamonds,G Ballinger,5,13,38.46,0,0,out,G Ballinger (Lightning),vs Northern Diamonds (05/09/2020),<20
+1229336,2020,05-09-2020,1,Lightning,Northern Diamonds,KE Bryce,7,12,58.33,0,0,out,KE Bryce (Lightning),vs Northern Diamonds (05/09/2020),<20
+1229336,2020,05-09-2020,1,Lightning,Northern Diamonds,LF Higham,5,17,29.41,0,0,out,LF Higham (Lightning),vs Northern Diamonds (05/09/2020),<20
+1229336,2020,05-09-2020,1,Lightning,Northern Diamonds,LG Kellogg,0,2,0,0,0,out,LG Kellogg (Lightning),vs Northern Diamonds (05/09/2020),<20
+1229336,2020,05-09-2020,1,Lightning,Northern Diamonds,N Harman,21,35,60,0,0,out,N Harman (Lightning),vs Northern Diamonds (05/09/2020),20-49
+1229336,2020,05-09-2020,1,Lightning,Northern Diamonds,S Pai,9,19,47.37,0,0,out,S Pai (Lightning),vs Northern Diamonds (05/09/2020),<20
+1229336,2020,05-09-2020,1,Lightning,Northern Diamonds,SJ Bryce,51,76,67.11,1,0,out,SJ Bryce (Lightning),vs Northern Diamonds (05/09/2020),50-99
+1229336,2020,05-09-2020,1,Lightning,Northern Diamonds,T Graves,37,62,59.68,0,0,out,T Graves (Lightning),vs Northern Diamonds (05/09/2020),20-49
+1229336,2020,05-09-2020,2,Northern Diamonds,Lightning,A Campbell,43,49,87.76,0,0,out,A Campbell (Northern Diamonds),vs Lightning (05/09/2020),20-49
+1229336,2020,05-09-2020,2,Northern Diamonds,Lightning,AL MacDonald,1,2,50,0,0,out,AL MacDonald (Northern Diamonds),vs Lightning (05/09/2020),<20
+1229336,2020,05-09-2020,2,Northern Diamonds,Lightning,BA Langston,37,49,75.51,0,0,out,BA Langston (Northern Diamonds),vs Lightning (05/09/2020),20-49
+1229336,2020,05-09-2020,2,Northern Diamonds,Lightning,BAM Heath,11,19,57.89,0,0,out,BAM Heath (Northern Diamonds),vs Lightning (05/09/2020),<20
+1229336,2020,05-09-2020,2,Northern Diamonds,Lightning,HJ Armitage,30,58,51.72,0,0,out,HJ Armitage (Northern Diamonds),vs Lightning (05/09/2020),20-49
+1229336,2020,05-09-2020,2,Northern Diamonds,Lightning,JL Gunn,50,76,65.79,1,0,not out,JL Gunn (Northern Diamonds),vs Lightning (05/09/2020),50-99
+1229336,2020,05-09-2020,2,Northern Diamonds,Lightning,L Tipton,14,24,58.33,0,0,out,L Tipton (Northern Diamonds),vs Lightning (05/09/2020),<20
+1229336,2020,05-09-2020,2,Northern Diamonds,Lightning,PC Graham,15,16,93.75,0,0,not out,PC Graham (Northern Diamonds),vs Lightning (05/09/2020),<20
+1229336,2020,05-09-2020,2,Northern Diamonds,Lightning,RHM Hopkins,1,21,4.76,0,0,out,RHM Hopkins (Northern Diamonds),vs Lightning (05/09/2020),<20
+1229336,2020,05-09-2020,2,Northern Diamonds,Lightning,SL Kalis,0,2,0,0,0,out,SL Kalis (Northern Diamonds),vs Lightning (05/09/2020),<20
+1229337,2020,05-09-2020,1,Southern Vipers,South East Stars,AZ Monaghan,2,4,50,0,0,not out,AZ Monaghan (Southern Vipers),vs South East Stars (05/09/2020),<20
+1229337,2020,05-09-2020,1,Southern Vipers,South East Stars,CE Dean,28,46,60.87,0,0,out,CE Dean (Southern Vipers),vs South East Stars (05/09/2020),20-49
+1229337,2020,05-09-2020,1,Southern Vipers,South East Stars,CE Rudd,21,29,72.41,0,0,out,CE Rudd (Southern Vipers),vs South East Stars (05/09/2020),20-49
+1229337,2020,05-09-2020,1,Southern Vipers,South East Stars,CM Taylor,1,1,100,0,0,not out,CM Taylor (Southern Vipers),vs South East Stars (05/09/2020),<20
+1229337,2020,05-09-2020,1,Southern Vipers,South East Stars,EM McCaughan,50,83,60.24,1,0,out,EM McCaughan (Southern Vipers),vs South East Stars (05/09/2020),50-99
+1229337,2020,05-09-2020,1,Southern Vipers,South East Stars,ER Chandler,5,6,83.33,0,0,out,ER Chandler (Southern Vipers),vs South East Stars (05/09/2020),<20
+1229337,2020,05-09-2020,1,Southern Vipers,South East Stars,GL Adams,44,70,62.86,0,0,out,GL Adams (Southern Vipers),vs South East Stars (05/09/2020),20-49
+1229337,2020,05-09-2020,1,Southern Vipers,South East Stars,ME Bouchier,28,36,77.78,0,0,out,ME Bouchier (Southern Vipers),vs South East Stars (05/09/2020),20-49
+1229337,2020,05-09-2020,1,Southern Vipers,South East Stars,PJ Scholfield,13,25,52,0,0,out,PJ Scholfield (Southern Vipers),vs South East Stars (05/09/2020),<20
+1229337,2020,05-09-2020,1,Southern Vipers,South East Stars,TG Norris,7,8,87.5,0,0,out,TG Norris (Southern Vipers),vs South East Stars (05/09/2020),<20
+1229337,2020,05-09-2020,2,South East Stars,Southern Vipers,A Capsey,12,29,41.38,0,0,out,A Capsey (South East Stars),vs Southern Vipers (05/09/2020),<20
+1229337,2020,05-09-2020,2,South East Stars,Southern Vipers,A Cranstone,28,55,50.91,0,0,out,A Cranstone (South East Stars),vs Southern Vipers (05/09/2020),20-49
+1229337,2020,05-09-2020,2,South East Stars,Southern Vipers,AG Gordon,2,20,10,0,0,not out,AG Gordon (South East Stars),vs Southern Vipers (05/09/2020),<20
+1229337,2020,05-09-2020,2,South East Stars,Southern Vipers,E Gray,3,13,23.08,0,0,out,E Gray (South East Stars),vs Southern Vipers (05/09/2020),<20
+1229337,2020,05-09-2020,2,South East Stars,Southern Vipers,HV Jones,19,38,50,0,0,out,HV Jones (South East Stars),vs Southern Vipers (05/09/2020),<20
+1229337,2020,05-09-2020,2,South East Stars,Southern Vipers,KE White,10,26,38.46,0,0,out,KE White (South East Stars),vs Southern Vipers (05/09/2020),<20
+1229337,2020,05-09-2020,2,South East Stars,Southern Vipers,M Blythin,6,21,28.57,0,0,out,M Blythin (South East Stars),vs Southern Vipers (05/09/2020),<20
+1229337,2020,05-09-2020,2,South East Stars,Southern Vipers,MS Belt,0,6,0,0,0,out,MS Belt (South East Stars),vs Southern Vipers (05/09/2020),<20
+1229337,2020,05-09-2020,2,South East Stars,Southern Vipers,NE Farrant,1,4,25,0,0,out,NE Farrant (South East Stars),vs Southern Vipers (05/09/2020),<20
+1229337,2020,05-09-2020,2,South East Stars,Southern Vipers,R Southby,5,6,83.33,0,0,out,R Southby (South East Stars),vs Southern Vipers (05/09/2020),<20
+1229337,2020,05-09-2020,2,South East Stars,Southern Vipers,SE Rowe,1,11,9.09,0,0,out,SE Rowe (South East Stars),vs Southern Vipers (05/09/2020),<20
+1229338,2020,10-09-2020,1,Northern Diamonds,Thunder,A Campbell,15,12,125,0,0,out,A Campbell (Northern Diamonds),vs Thunder (10/09/2020),<20
+1229338,2020,10-09-2020,1,Northern Diamonds,Thunder,AL MacDonald,92,113,81.42,1,0,out,AL MacDonald (Northern Diamonds),vs Thunder (10/09/2020),50-99
+1229338,2020,10-09-2020,1,Northern Diamonds,Thunder,BA Langston,1,7,14.29,0,0,out,BA Langston (Northern Diamonds),vs Thunder (10/09/2020),<20
+1229338,2020,10-09-2020,1,Northern Diamonds,Thunder,BAM Heath,23,22,104.55,0,0,out,BAM Heath (Northern Diamonds),vs Thunder (10/09/2020),20-49
+1229338,2020,10-09-2020,1,Northern Diamonds,Thunder,HJ Armitage,10,25,40,0,0,out,HJ Armitage (Northern Diamonds),vs Thunder (10/09/2020),<20
+1229338,2020,10-09-2020,1,Northern Diamonds,Thunder,HL Fenby,6,5,120,0,0,not out,HL Fenby (Northern Diamonds),vs Thunder (10/09/2020),<20
+1229338,2020,10-09-2020,1,Northern Diamonds,Thunder,JL Gunn,29,45,64.44,0,0,out,JL Gunn (Northern Diamonds),vs Thunder (10/09/2020),20-49
+1229338,2020,10-09-2020,1,Northern Diamonds,Thunder,PC Graham,29,28,103.57,0,0,not out,PC Graham (Northern Diamonds),vs Thunder (10/09/2020),20-49
+1229338,2020,10-09-2020,1,Northern Diamonds,Thunder,RHM Hopkins,16,51,31.37,0,0,out,RHM Hopkins (Northern Diamonds),vs Thunder (10/09/2020),<20
+1229338,2020,10-09-2020,1,Northern Diamonds,Thunder,SL Kalis,0,3,0,0,0,out,SL Kalis (Northern Diamonds),vs Thunder (10/09/2020),<20
+1229338,2020,10-09-2020,2,Thunder,Northern Diamonds,A Hartley,14,18,77.78,0,0,not out,A Hartley (Thunder),vs Northern Diamonds (10/09/2020),<20
+1229338,2020,10-09-2020,2,Thunder,Northern Diamonds,AE Dyson,25,54,46.3,0,0,not out,AE Dyson (Thunder),vs Northern Diamonds (10/09/2020),20-49
+1229338,2020,10-09-2020,2,Thunder,Northern Diamonds,DL Collins,18,39,46.15,0,0,out,DL Collins (Thunder),vs Northern Diamonds (10/09/2020),<20
+1229338,2020,10-09-2020,2,Thunder,Northern Diamonds,E Threlkeld,16,26,61.54,0,0,out,E Threlkeld (Thunder),vs Northern Diamonds (10/09/2020),<20
+1229338,2020,10-09-2020,2,Thunder,Northern Diamonds,GEB Boyce,0,6,0,0,0,out,GEB Boyce (Thunder),vs Northern Diamonds (10/09/2020),<20
+1229338,2020,10-09-2020,2,Thunder,Northern Diamonds,L Heap,15,24,62.5,0,0,out,L Heap (Thunder),vs Northern Diamonds (10/09/2020),<20
+1229338,2020,10-09-2020,2,Thunder,Northern Diamonds,L Jackson,22,97,22.68,0,0,out,L Jackson (Thunder),vs Northern Diamonds (10/09/2020),20-49
+1229338,2020,10-09-2020,2,Thunder,Northern Diamonds,L Marshall,20,42,47.62,0,0,out,L Marshall (Thunder),vs Northern Diamonds (10/09/2020),20-49
+1229338,2020,10-09-2020,2,Thunder,Northern Diamonds,N Brown,5,10,50,0,0,out,N Brown (Thunder),vs Northern Diamonds (10/09/2020),<20
+1229338,2020,10-09-2020,2,Thunder,Northern Diamonds,R Duckworth,2,8,25,0,0,out,R Duckworth (Thunder),vs Northern Diamonds (10/09/2020),<20
+1229339,2020,11-09-2020,1,South East Stars,Western Storm,A Capsey,3,22,13.64,0,0,out,A Capsey (South East Stars),vs Western Storm (11/09/2020),<20
+1229339,2020,11-09-2020,1,South East Stars,Western Storm,A Cranstone,17,27,62.96,0,0,out,A Cranstone (South East Stars),vs Western Storm (11/09/2020),<20
+1229339,2020,11-09-2020,1,South East Stars,Western Storm,AG Gordon,0,1,0,0,0,out,AG Gordon (South East Stars),vs Western Storm (11/09/2020),<20
+1229339,2020,11-09-2020,1,South East Stars,Western Storm,E Gray,1,3,33.33,0,0,out,E Gray (South East Stars),vs Western Storm (11/09/2020),<20
+1229339,2020,11-09-2020,1,South East Stars,Western Storm,GJ Gibbs,5,5,100,0,0,out,GJ Gibbs (South East Stars),vs Western Storm (11/09/2020),<20
+1229339,2020,11-09-2020,1,South East Stars,Western Storm,HV Jones,28,30,93.33,0,0,out,HV Jones (South East Stars),vs Western Storm (11/09/2020),20-49
+1229339,2020,11-09-2020,1,South East Stars,Western Storm,KE White,50,86,58.14,1,0,out,KE White (South East Stars),vs Western Storm (11/09/2020),50-99
+1229339,2020,11-09-2020,1,South East Stars,Western Storm,M Blythin,50,93,53.76,1,0,out,M Blythin (South East Stars),vs Western Storm (11/09/2020),50-99
+1229339,2020,11-09-2020,1,South East Stars,Western Storm,MS Belt,5,2,250,0,0,not out,MS Belt (South East Stars),vs Western Storm (11/09/2020),<20
+1229339,2020,11-09-2020,1,South East Stars,Western Storm,NE Farrant,10,41,24.39,0,0,out,NE Farrant (South East Stars),vs Western Storm (11/09/2020),<20
+1229339,2020,11-09-2020,1,South East Stars,Western Storm,R Southby,10,13,76.92,0,0,not out,R Southby (South East Stars),vs Western Storm (11/09/2020),<20
+1229339,2020,11-09-2020,2,Western Storm,South East Stars,FMK Morris,0,3,0,0,0,out,FMK Morris (Western Storm),vs South East Stars (11/09/2020),<20
+1229339,2020,11-09-2020,2,Western Storm,South East Stars,GM Hennessy,86,106,81.13,1,0,out,GM Hennessy (Western Storm),vs South East Stars (11/09/2020),50-99
+1229339,2020,11-09-2020,2,Western Storm,South East Stars,LA Parfitt,18,38,47.37,0,0,out,LA Parfitt (Western Storm),vs South East Stars (11/09/2020),<20
+1229339,2020,11-09-2020,2,Western Storm,South East Stars,NAJ Wraith,0,1,0,0,0,not out,NAJ Wraith (Western Storm),vs South East Stars (11/09/2020),<20
+1229339,2020,11-09-2020,2,Western Storm,South East Stars,SN Luff,104,133,78.2,0,1,not out,SN Luff (Western Storm),vs South East Stars (11/09/2020),>=100
+1229340,2020,11-09-2020,1,Southern Vipers,Sunrisers,AZ Monaghan,8,19,42.11,0,0,out,AZ Monaghan (Southern Vipers),vs Sunrisers (11/09/2020),<20
+1229340,2020,11-09-2020,1,Southern Vipers,Sunrisers,CE Dean,39,42,92.86,0,0,out,CE Dean (Southern Vipers),vs Sunrisers (11/09/2020),20-49
+1229340,2020,11-09-2020,1,Southern Vipers,Sunrisers,CE Rudd,19,27,70.37,0,0,out,CE Rudd (Southern Vipers),vs Sunrisers (11/09/2020),<20
+1229340,2020,11-09-2020,1,Southern Vipers,Sunrisers,CM Taylor,12,14,85.71,0,0,not out,CM Taylor (Southern Vipers),vs Sunrisers (11/09/2020),<20
+1229340,2020,11-09-2020,1,Southern Vipers,Sunrisers,E Windsor,14,43,32.56,0,0,out,E Windsor (Southern Vipers),vs Sunrisers (11/09/2020),<20
+1229340,2020,11-09-2020,1,Southern Vipers,Sunrisers,EM McCaughan,8,12,66.67,0,0,out,EM McCaughan (Southern Vipers),vs Sunrisers (11/09/2020),<20
+1229340,2020,11-09-2020,1,Southern Vipers,Sunrisers,GL Adams,89,109,81.65,1,0,out,GL Adams (Southern Vipers),vs Sunrisers (11/09/2020),50-99
+1229340,2020,11-09-2020,1,Southern Vipers,Sunrisers,ME Bouchier,18,23,78.26,0,0,out,ME Bouchier (Southern Vipers),vs Sunrisers (11/09/2020),<20
+1229340,2020,11-09-2020,1,Southern Vipers,Sunrisers,PAC Cowdrill,4,6,66.67,0,0,out,PAC Cowdrill (Southern Vipers),vs Sunrisers (11/09/2020),<20
+1229340,2020,11-09-2020,1,Southern Vipers,Sunrisers,PJ Scholfield,8,13,61.54,0,0,out,PJ Scholfield (Southern Vipers),vs Sunrisers (11/09/2020),<20
+1229340,2020,11-09-2020,1,Southern Vipers,Sunrisers,TG Norris,0,3,0,0,0,out,TG Norris (Southern Vipers),vs Sunrisers (11/09/2020),<20
+1229340,2020,11-09-2020,2,Sunrisers,Southern Vipers,AD Carr,0,2,0,0,0,out,AD Carr (Sunrisers),vs Southern Vipers (11/09/2020),<20
+1229340,2020,11-09-2020,2,Sunrisers,Southern Vipers,AJ Macleod,35,49,71.43,0,0,out,AJ Macleod (Sunrisers),vs Southern Vipers (11/09/2020),20-49
+1229340,2020,11-09-2020,2,Sunrisers,Southern Vipers,CL Griffith,1,2,50,0,0,out,CL Griffith (Sunrisers),vs Southern Vipers (11/09/2020),<20
+1229340,2020,11-09-2020,2,Sunrisers,Southern Vipers,E Thorpe,11,11,100,0,0,out,E Thorpe (Sunrisers),vs Southern Vipers (11/09/2020),<20
+1229340,2020,11-09-2020,2,Sunrisers,Southern Vipers,G Scrivens,13,28,46.43,0,0,out,G Scrivens (Sunrisers),vs Southern Vipers (11/09/2020),<20
+1229340,2020,11-09-2020,2,Sunrisers,Southern Vipers,J Gardner,39,56,69.64,0,0,out,J Gardner (Sunrisers),vs Southern Vipers (11/09/2020),20-49
+1229340,2020,11-09-2020,2,Sunrisers,Southern Vipers,KJ Wolfe,7,11,63.64,0,0,out,KJ Wolfe (Sunrisers),vs Southern Vipers (11/09/2020),<20
+1229340,2020,11-09-2020,2,Sunrisers,Southern Vipers,KL Midwood,12,20,60,0,0,not out,KL Midwood (Sunrisers),vs Southern Vipers (11/09/2020),<20
+1229340,2020,11-09-2020,2,Sunrisers,Southern Vipers,KS Castle,24,50,48,0,0,out,KS Castle (Sunrisers),vs Southern Vipers (11/09/2020),20-49
+1229340,2020,11-09-2020,2,Sunrisers,Southern Vipers,ND Dattani,20,37,54.05,0,0,out,ND Dattani (Sunrisers),vs Southern Vipers (11/09/2020),20-49
+1229340,2020,11-09-2020,2,Sunrisers,Southern Vipers,Sonali Patel,4,12,33.33,0,0,out,Sonali Patel (Sunrisers),vs Southern Vipers (11/09/2020),<20
+1229341,2020,11-09-2020,1,Lightning,Central Sparks,AJ Freeborn,36,40,90,0,0,out,AJ Freeborn (Lightning),vs Central Sparks (11/09/2020),20-49
+1229341,2020,11-09-2020,1,Lightning,Central Sparks,B Ellis,62,104,59.62,1,0,out,B Ellis (Lightning),vs Central Sparks (11/09/2020),50-99
+1229341,2020,11-09-2020,1,Lightning,Central Sparks,KE Bryce,10,23,43.48,0,0,out,KE Bryce (Lightning),vs Central Sparks (11/09/2020),<20
+1229341,2020,11-09-2020,1,Lightning,Central Sparks,LF Higham,15,15,100,0,0,out,LF Higham (Lightning),vs Central Sparks (11/09/2020),<20
+1229341,2020,11-09-2020,1,Lightning,Central Sparks,LG Kellogg,1,8,12.5,0,0,not out,LG Kellogg (Lightning),vs Central Sparks (11/09/2020),<20
+1229341,2020,11-09-2020,1,Lightning,Central Sparks,N Harman,7,5,140,0,0,out,N Harman (Lightning),vs Central Sparks (11/09/2020),<20
+1229341,2020,11-09-2020,1,Lightning,Central Sparks,S Pai,7,8,87.5,0,0,out,S Pai (Lightning),vs Central Sparks (11/09/2020),<20
+1229341,2020,11-09-2020,1,Lightning,Central Sparks,SJ Bryce,75,103,72.82,1,0,out,SJ Bryce (Lightning),vs Central Sparks (11/09/2020),50-99
+1229341,2020,11-09-2020,1,Lightning,Central Sparks,T Graves,1,3,33.33,0,0,out,T Graves (Lightning),vs Central Sparks (11/09/2020),<20
+1229341,2020,11-09-2020,2,Central Sparks,Lightning,Anisha Patel,2,2,100,0,0,not out,Anisha Patel (Central Sparks),vs Lightning (11/09/2020),<20
+1229341,2020,11-09-2020,2,Central Sparks,Lightning,CAE Hill,6,27,22.22,0,0,out,CAE Hill (Central Sparks),vs Lightning (11/09/2020),<20
+1229341,2020,11-09-2020,2,Central Sparks,Lightning,CK Boycott,33,60,55,0,0,not out,CK Boycott (Central Sparks),vs Lightning (11/09/2020),20-49
+1229341,2020,11-09-2020,2,Central Sparks,Lightning,E Jones,10,21,47.62,0,0,out,E Jones (Central Sparks),vs Lightning (11/09/2020),<20
+1229341,2020,11-09-2020,2,Central Sparks,Lightning,EA Russell,1,1,100,0,0,out,EA Russell (Central Sparks),vs Lightning (11/09/2020),<20
+1229341,2020,11-09-2020,2,Central Sparks,Lightning,EL Arlott,19,20,95,0,0,out,EL Arlott (Central Sparks),vs Lightning (11/09/2020),<20
+1229341,2020,11-09-2020,2,Central Sparks,Lightning,GK Davis,3,7,42.86,0,0,out,GK Davis (Central Sparks),vs Lightning (11/09/2020),<20
+1229341,2020,11-09-2020,2,Central Sparks,Lightning,GM Davies,50,71,70.42,1,0,out,GM Davies (Central Sparks),vs Lightning (11/09/2020),50-99
+1229341,2020,11-09-2020,2,Central Sparks,Lightning,M Home,2,5,40,0,0,out,M Home (Central Sparks),vs Lightning (11/09/2020),<20
+1229341,2020,11-09-2020,2,Central Sparks,Lightning,Marie Kelly,53,92,57.61,1,0,out,Marie Kelly (Central Sparks),vs Lightning (11/09/2020),50-99
+1229341,2020,11-09-2020,2,Central Sparks,Lightning,P Davies,8,26,30.77,0,0,out,P Davies (Central Sparks),vs Lightning (11/09/2020),<20
+1229342,2020,13-09-2020,1,Southern Vipers,Western Storm,EM McCaughan,63,99,63.64,1,0,out,EM McCaughan (Southern Vipers),vs Western Storm (13/09/2020),50-99
+1229342,2020,13-09-2020,1,Southern Vipers,Western Storm,GL Adams,154,163,94.48,0,1,not out,GL Adams (Southern Vipers),vs Western Storm (13/09/2020),>=100
+1229342,2020,13-09-2020,1,Southern Vipers,Western Storm,ME Bouchier,50,47,106.38,1,0,not out,ME Bouchier (Southern Vipers),vs Western Storm (13/09/2020),50-99
+1229342,2020,13-09-2020,2,Western Storm,Southern Vipers,A Griffiths,15,11,136.36,0,0,out,A Griffiths (Western Storm),vs Southern Vipers (13/09/2020),<20
+1229342,2020,13-09-2020,2,Western Storm,Southern Vipers,E Corney,12,15,80,0,0,out,E Corney (Western Storm),vs Southern Vipers (13/09/2020),<20
+1229342,2020,13-09-2020,2,Western Storm,Southern Vipers,EM Edgcombe,10,10,100,0,0,out,EM Edgcombe (Western Storm),vs Southern Vipers (13/09/2020),<20
+1229342,2020,13-09-2020,2,Western Storm,Southern Vipers,FMK Morris,33,46,71.74,0,0,out,FMK Morris (Western Storm),vs Southern Vipers (13/09/2020),20-49
+1229342,2020,13-09-2020,2,Western Storm,Southern Vipers,GM Hennessy,4,7,57.14,0,0,out,GM Hennessy (Western Storm),vs Southern Vipers (13/09/2020),<20
+1229342,2020,13-09-2020,2,Western Storm,Southern Vipers,L Filer,3,6,50,0,0,not out,L Filer (Western Storm),vs Southern Vipers (13/09/2020),<20
+1229342,2020,13-09-2020,2,Western Storm,Southern Vipers,LA Parfitt,10,24,41.67,0,0,out,LA Parfitt (Western Storm),vs Southern Vipers (13/09/2020),<20
+1229342,2020,13-09-2020,2,Western Storm,Southern Vipers,N Holland,8,11,72.73,0,0,out,N Holland (Western Storm),vs Southern Vipers (13/09/2020),<20
+1229342,2020,13-09-2020,2,Western Storm,Southern Vipers,NAJ Wraith,68,75,90.67,1,0,out,NAJ Wraith (Western Storm),vs Southern Vipers (13/09/2020),50-99
+1229342,2020,13-09-2020,2,Western Storm,Southern Vipers,S Hutchins,4,11,36.36,0,0,out,S Hutchins (Western Storm),vs Southern Vipers (13/09/2020),<20
+1229342,2020,13-09-2020,2,Western Storm,Southern Vipers,SN Luff,79,89,88.76,1,0,out,SN Luff (Western Storm),vs Southern Vipers (13/09/2020),50-99
+1229343,2020,13-09-2020,1,Sunrisers,South East Stars,AD Carr,6,15,40,0,0,out,AD Carr (Sunrisers),vs South East Stars (13/09/2020),<20
+1229343,2020,13-09-2020,1,Sunrisers,South East Stars,AJ Macleod,3,6,50,0,0,out,AJ Macleod (Sunrisers),vs South East Stars (13/09/2020),<20
+1229343,2020,13-09-2020,1,Sunrisers,South East Stars,CL Griffith,27,47,57.45,0,0,out,CL Griffith (Sunrisers),vs South East Stars (13/09/2020),20-49
+1229343,2020,13-09-2020,1,Sunrisers,South East Stars,G Scrivens,16,29,55.17,0,0,out,G Scrivens (Sunrisers),vs South East Stars (13/09/2020),<20
+1229343,2020,13-09-2020,1,Sunrisers,South East Stars,H Brown,16,47,34.04,0,0,out,H Brown (Sunrisers),vs South East Stars (13/09/2020),<20
+1229343,2020,13-09-2020,1,Sunrisers,South East Stars,J Gardner,30,57,52.63,0,0,out,J Gardner (Sunrisers),vs South East Stars (13/09/2020),20-49
+1229343,2020,13-09-2020,1,Sunrisers,South East Stars,KJ Wolfe,1,7,14.29,0,0,out,KJ Wolfe (Sunrisers),vs South East Stars (13/09/2020),<20
+1229343,2020,13-09-2020,1,Sunrisers,South East Stars,KL Midwood,27,45,60,0,0,out,KL Midwood (Sunrisers),vs South East Stars (13/09/2020),20-49
+1229343,2020,13-09-2020,1,Sunrisers,South East Stars,KS Castle,0,3,0,0,0,out,KS Castle (Sunrisers),vs South East Stars (13/09/2020),<20
+1229343,2020,13-09-2020,1,Sunrisers,South East Stars,ND Dattani,33,44,75,0,0,out,ND Dattani (Sunrisers),vs South East Stars (13/09/2020),20-49
+1229343,2020,13-09-2020,1,Sunrisers,South East Stars,Sonali Patel,9,11,81.82,0,0,not out,Sonali Patel (Sunrisers),vs South East Stars (13/09/2020),<20
+1229343,2020,13-09-2020,2,South East Stars,Sunrisers,A Capsey,73,75,97.33,1,0,not out,A Capsey (South East Stars),vs Sunrisers (13/09/2020),50-99
+1229343,2020,13-09-2020,2,South East Stars,Sunrisers,A Cranstone,46,74,62.16,0,0,out,A Cranstone (South East Stars),vs Sunrisers (13/09/2020),20-49
+1229343,2020,13-09-2020,2,South East Stars,Sunrisers,AG Gordon,7,19,36.84,0,0,out,AG Gordon (South East Stars),vs Sunrisers (13/09/2020),<20
+1229343,2020,13-09-2020,2,South East Stars,Sunrisers,C Brewer,40,51,78.43,0,0,out,C Brewer (South East Stars),vs Sunrisers (13/09/2020),20-49
+1229343,2020,13-09-2020,2,South East Stars,Sunrisers,KE White,5,10,50,0,0,out,KE White (South East Stars),vs Sunrisers (13/09/2020),<20
+1229343,2020,13-09-2020,2,South East Stars,Sunrisers,SE Rowe,1,5,20,0,0,not out,SE Rowe (South East Stars),vs Sunrisers (13/09/2020),<20
+1229344,2020,13-09-2020,1,Thunder,Lightning,A Hartley,4,13,30.77,0,0,not out,A Hartley (Thunder),vs Lightning (13/09/2020),<20
+1229344,2020,13-09-2020,1,Thunder,Lightning,AE Dyson,4,8,50,0,0,out,AE Dyson (Thunder),vs Lightning (13/09/2020),<20
+1229344,2020,13-09-2020,1,Thunder,Lightning,DL Collins,7,27,25.93,0,0,out,DL Collins (Thunder),vs Lightning (13/09/2020),<20
+1229344,2020,13-09-2020,1,Thunder,Lightning,E Threlkeld,4,23,17.39,0,0,out,E Threlkeld (Thunder),vs Lightning (13/09/2020),<20
+1229344,2020,13-09-2020,1,Thunder,Lightning,GEB Boyce,31,57,54.39,0,0,out,GEB Boyce (Thunder),vs Lightning (13/09/2020),20-49
+1229344,2020,13-09-2020,1,Thunder,Lightning,HE Jones,4,7,57.14,0,0,not out,HE Jones (Thunder),vs Lightning (13/09/2020),<20
+1229344,2020,13-09-2020,1,Thunder,Lightning,L Heap,1,2,50,0,0,out,L Heap (Thunder),vs Lightning (13/09/2020),<20
+1229344,2020,13-09-2020,1,Thunder,Lightning,L Jackson,0,8,0,0,0,out,L Jackson (Thunder),vs Lightning (13/09/2020),<20
+1229344,2020,13-09-2020,1,Thunder,Lightning,L Marshall,11,21,52.38,0,0,out,L Marshall (Thunder),vs Lightning (13/09/2020),<20
+1229344,2020,13-09-2020,1,Thunder,Lightning,N Brown,52,87,59.77,1,0,out,N Brown (Thunder),vs Lightning (13/09/2020),50-99
+1229344,2020,13-09-2020,1,Thunder,Lightning,R Duckworth,27,78,34.62,0,0,out,R Duckworth (Thunder),vs Lightning (13/09/2020),20-49
+1229344,2020,13-09-2020,2,Lightning,Thunder,AD Presland,5,16,31.25,0,0,out,AD Presland (Lightning),vs Thunder (13/09/2020),<20
+1229344,2020,13-09-2020,2,Lightning,Thunder,AJ Freeborn,28,67,41.79,0,0,out,AJ Freeborn (Lightning),vs Thunder (13/09/2020),20-49
+1229344,2020,13-09-2020,2,Lightning,Thunder,B Ellis,5,9,55.56,0,0,out,B Ellis (Lightning),vs Thunder (13/09/2020),<20
+1229344,2020,13-09-2020,2,Lightning,Thunder,Ilenia Sims,1,7,14.29,0,0,not out,Ilenia Sims (Lightning),vs Thunder (13/09/2020),<20
+1229344,2020,13-09-2020,2,Lightning,Thunder,KE Bryce,22,45,48.89,0,0,out,KE Bryce (Lightning),vs Thunder (13/09/2020),20-49
+1229344,2020,13-09-2020,2,Lightning,Thunder,LF Higham,0,9,0,0,0,out,LF Higham (Lightning),vs Thunder (13/09/2020),<20
+1229344,2020,13-09-2020,2,Lightning,Thunder,N Harman,4,8,50,0,0,out,N Harman (Lightning),vs Thunder (13/09/2020),<20
+1229344,2020,13-09-2020,2,Lightning,Thunder,S Munro,3,12,25,0,0,out,S Munro (Lightning),vs Thunder (13/09/2020),<20
+1229344,2020,13-09-2020,2,Lightning,Thunder,S Pai,7,22,31.82,0,0,out,S Pai (Lightning),vs Thunder (13/09/2020),<20
+1229344,2020,13-09-2020,2,Lightning,Thunder,SJ Bryce,24,38,63.16,0,0,out,SJ Bryce (Lightning),vs Thunder (13/09/2020),20-49
+1229344,2020,13-09-2020,2,Lightning,Thunder,T Graves,8,7,114.29,0,0,out,T Graves (Lightning),vs Thunder (13/09/2020),<20
+1229345,2020,13-09-2020,1,Northern Diamonds,Central Sparks,A Campbell,4,7,57.14,0,0,out,A Campbell (Northern Diamonds),vs Central Sparks (13/09/2020),<20
+1229345,2020,13-09-2020,1,Northern Diamonds,Central Sparks,AL MacDonald,0,1,0,0,0,out,AL MacDonald (Northern Diamonds),vs Central Sparks (13/09/2020),<20
+1229345,2020,13-09-2020,1,Northern Diamonds,Central Sparks,BA Langston,26,36,72.22,0,0,out,BA Langston (Northern Diamonds),vs Central Sparks (13/09/2020),20-49
+1229345,2020,13-09-2020,1,Northern Diamonds,Central Sparks,BAM Heath,0,2,0,0,0,out,BAM Heath (Northern Diamonds),vs Central Sparks (13/09/2020),<20
+1229345,2020,13-09-2020,1,Northern Diamonds,Central Sparks,HJ Armitage,18,25,72,0,0,out,HJ Armitage (Northern Diamonds),vs Central Sparks (13/09/2020),<20
+1229345,2020,13-09-2020,1,Northern Diamonds,Central Sparks,HL Fenby,11,14,78.57,0,0,out,HL Fenby (Northern Diamonds),vs Central Sparks (13/09/2020),<20
+1229345,2020,13-09-2020,1,Northern Diamonds,Central Sparks,JL Gunn,15,27,55.56,0,0,out,JL Gunn (Northern Diamonds),vs Central Sparks (13/09/2020),<20
+1229345,2020,13-09-2020,1,Northern Diamonds,Central Sparks,KA Levick,1,2,50,0,0,not out,KA Levick (Northern Diamonds),vs Central Sparks (13/09/2020),<20
+1229345,2020,13-09-2020,1,Northern Diamonds,Central Sparks,PC Graham,0,1,0,0,0,out,PC Graham (Northern Diamonds),vs Central Sparks (13/09/2020),<20
+1229345,2020,13-09-2020,1,Northern Diamonds,Central Sparks,RHM Hopkins,35,74,47.3,0,0,out,RHM Hopkins (Northern Diamonds),vs Central Sparks (13/09/2020),20-49
+1229345,2020,13-09-2020,1,Northern Diamonds,Central Sparks,SL Kalis,87,120,72.5,1,0,out,SL Kalis (Northern Diamonds),vs Central Sparks (13/09/2020),50-99
+1229345,2020,13-09-2020,2,Central Sparks,Northern Diamonds,CAE Hill,23,28,82.14,0,0,not out,CAE Hill (Central Sparks),vs Northern Diamonds (13/09/2020),20-49
+1229345,2020,13-09-2020,2,Central Sparks,Northern Diamonds,E Jones,77,118,65.25,1,0,out,E Jones (Central Sparks),vs Northern Diamonds (13/09/2020),50-99
+1229345,2020,13-09-2020,2,Central Sparks,Northern Diamonds,GM Davies,0,2,0,0,0,out,GM Davies (Central Sparks),vs Northern Diamonds (13/09/2020),<20
+1229345,2020,13-09-2020,2,Central Sparks,Northern Diamonds,M Home,0,1,0,0,0,out,M Home (Central Sparks),vs Northern Diamonds (13/09/2020),<20
+1229345,2020,13-09-2020,2,Central Sparks,Northern Diamonds,Marie Kelly,49,82,59.76,0,0,out,Marie Kelly (Central Sparks),vs Northern Diamonds (13/09/2020),20-49
+1229345,2020,13-09-2020,2,Central Sparks,Northern Diamonds,P Davies,31,67,46.27,0,0,not out,P Davies (Central Sparks),vs Northern Diamonds (13/09/2020),20-49
+1229346,2020,19-09-2020,1,South East Stars,Southern Vipers,A Capsey,29,52,55.77,0,0,out,A Capsey (South East Stars),vs Southern Vipers (19/09/2020),20-49
+1229346,2020,19-09-2020,1,South East Stars,Southern Vipers,A Cranstone,11,24,45.83,0,0,out,A Cranstone (South East Stars),vs Southern Vipers (19/09/2020),<20
+1229346,2020,19-09-2020,1,South East Stars,Southern Vipers,AN Davidson-Richards,4,10,40,0,0,out,AN Davidson-Richards (South East Stars),vs Southern Vipers (19/09/2020),<20
+1229346,2020,19-09-2020,1,South East Stars,Southern Vipers,BF Smith,8,12,66.67,0,0,out,BF Smith (South East Stars),vs Southern Vipers (19/09/2020),<20
+1229346,2020,19-09-2020,1,South East Stars,Southern Vipers,C Brewer,79,108,73.15,1,0,out,C Brewer (South East Stars),vs Southern Vipers (19/09/2020),50-99
+1229346,2020,19-09-2020,1,South East Stars,Southern Vipers,D Gregory,0,2,0,0,0,out,D Gregory (South East Stars),vs Southern Vipers (19/09/2020),<20
+1229346,2020,19-09-2020,1,South East Stars,Southern Vipers,GJ Gibbs,30,21,142.86,0,0,out,GJ Gibbs (South East Stars),vs Southern Vipers (19/09/2020),20-49
+1229346,2020,19-09-2020,1,South East Stars,Southern Vipers,HV Jones,8,16,50,0,0,out,HV Jones (South East Stars),vs Southern Vipers (19/09/2020),<20
+1229346,2020,19-09-2020,1,South East Stars,Southern Vipers,NE Farrant,1,5,20,0,0,out,NE Farrant (South East Stars),vs Southern Vipers (19/09/2020),<20
+1229346,2020,19-09-2020,1,South East Stars,Southern Vipers,PA Franklin,22,38,57.89,0,0,out,PA Franklin (South East Stars),vs Southern Vipers (19/09/2020),20-49
+1229346,2020,19-09-2020,1,South East Stars,Southern Vipers,R Southby,8,15,53.33,0,0,not out,R Southby (South East Stars),vs Southern Vipers (19/09/2020),<20
+1229346,2020,19-09-2020,2,Southern Vipers,South East Stars,CE Dean,24,48,50,0,0,out,CE Dean (Southern Vipers),vs South East Stars (19/09/2020),20-49
+1229346,2020,19-09-2020,2,Southern Vipers,South East Stars,CE Rudd,35,46,76.09,0,0,out,CE Rudd (Southern Vipers),vs South East Stars (19/09/2020),20-49
+1229346,2020,19-09-2020,2,Southern Vipers,South East Stars,E Windsor,47,43,109.3,0,0,not out,E Windsor (Southern Vipers),vs South East Stars (19/09/2020),20-49
+1229346,2020,19-09-2020,2,Southern Vipers,South East Stars,EM McCaughan,11,30,36.67,0,0,out,EM McCaughan (Southern Vipers),vs South East Stars (19/09/2020),<20
+1229346,2020,19-09-2020,2,Southern Vipers,South East Stars,GL Adams,41,62,66.13,0,0,out,GL Adams (Southern Vipers),vs South East Stars (19/09/2020),20-49
+1229346,2020,19-09-2020,2,Southern Vipers,South East Stars,ME Bouchier,10,12,83.33,0,0,out,ME Bouchier (Southern Vipers),vs South East Stars (19/09/2020),<20
+1229346,2020,19-09-2020,2,Southern Vipers,South East Stars,PJ Scholfield,31,44,70.45,0,0,out,PJ Scholfield (Southern Vipers),vs South East Stars (19/09/2020),20-49
+1229346,2020,19-09-2020,2,Southern Vipers,South East Stars,TG Norris,5,14,35.71,0,0,not out,TG Norris (Southern Vipers),vs South East Stars (19/09/2020),<20
+1229347,2020,19-09-2020,1,Thunder,Northern Diamonds,A Clarke,1,6,16.67,0,0,out,A Clarke (Thunder),vs Northern Diamonds (19/09/2020),<20
+1229347,2020,19-09-2020,1,Thunder,Northern Diamonds,A Hartley,0,2,0,0,0,out,A Hartley (Thunder),vs Northern Diamonds (19/09/2020),<20
+1229347,2020,19-09-2020,1,Thunder,Northern Diamonds,AE Dyson,2,20,10,0,0,out,AE Dyson (Thunder),vs Northern Diamonds (19/09/2020),<20
+1229347,2020,19-09-2020,1,Thunder,Northern Diamonds,DL Collins,2,6,33.33,0,0,out,DL Collins (Thunder),vs Northern Diamonds (19/09/2020),<20
+1229347,2020,19-09-2020,1,Thunder,Northern Diamonds,E Threlkeld,13,24,54.17,0,0,out,E Threlkeld (Thunder),vs Northern Diamonds (19/09/2020),<20
+1229347,2020,19-09-2020,1,Thunder,Northern Diamonds,GEB Boyce,29,52,55.77,0,0,out,GEB Boyce (Thunder),vs Northern Diamonds (19/09/2020),20-49
+1229347,2020,19-09-2020,1,Thunder,Northern Diamonds,HE Jones,2,4,50,0,0,not out,HE Jones (Thunder),vs Northern Diamonds (19/09/2020),<20
+1229347,2020,19-09-2020,1,Thunder,Northern Diamonds,L Heap,12,32,37.5,0,0,out,L Heap (Thunder),vs Northern Diamonds (19/09/2020),<20
+1229347,2020,19-09-2020,1,Thunder,Northern Diamonds,L Marshall,0,9,0,0,0,out,L Marshall (Thunder),vs Northern Diamonds (19/09/2020),<20
+1229347,2020,19-09-2020,1,Thunder,Northern Diamonds,N Brown,32,45,71.11,0,0,out,N Brown (Thunder),vs Northern Diamonds (19/09/2020),20-49
+1229347,2020,19-09-2020,1,Thunder,Northern Diamonds,R Duckworth,19,73,26.03,0,0,out,R Duckworth (Thunder),vs Northern Diamonds (19/09/2020),<20
+1229347,2020,19-09-2020,2,Northern Diamonds,Thunder,A Campbell,8,12,66.67,0,0,out,A Campbell (Northern Diamonds),vs Thunder (19/09/2020),<20
+1229347,2020,19-09-2020,2,Northern Diamonds,Thunder,AL MacDonald,1,2,50,0,0,out,AL MacDonald (Northern Diamonds),vs Thunder (19/09/2020),<20
+1229347,2020,19-09-2020,2,Northern Diamonds,Thunder,HJ Armitage,36,51,70.59,0,0,out,HJ Armitage (Northern Diamonds),vs Thunder (19/09/2020),20-49
+1229347,2020,19-09-2020,2,Northern Diamonds,Thunder,JL Gunn,26,37,70.27,0,0,not out,JL Gunn (Northern Diamonds),vs Thunder (19/09/2020),20-49
+1229347,2020,19-09-2020,2,Northern Diamonds,Thunder,RHM Hopkins,2,14,14.29,0,0,out,RHM Hopkins (Northern Diamonds),vs Thunder (19/09/2020),<20
+1229347,2020,19-09-2020,2,Northern Diamonds,Thunder,SL Kalis,55,75,73.33,1,0,not out,SL Kalis (Northern Diamonds),vs Thunder (19/09/2020),50-99
+1229348,2020,19-09-2020,1,Lightning,Central Sparks,AJ Freeborn,40,47,85.11,0,0,out,AJ Freeborn (Lightning),vs Central Sparks (19/09/2020),20-49
+1229348,2020,19-09-2020,1,Lightning,Central Sparks,B Ellis,25,42,59.52,0,0,out,B Ellis (Lightning),vs Central Sparks (19/09/2020),20-49
+1229348,2020,19-09-2020,1,Lightning,Central Sparks,KE Bryce,14,15,93.33,0,0,out,KE Bryce (Lightning),vs Central Sparks (19/09/2020),<20
+1229348,2020,19-09-2020,1,Lightning,Central Sparks,LF Higham,3,13,23.08,0,0,out,LF Higham (Lightning),vs Central Sparks (19/09/2020),<20
+1229348,2020,19-09-2020,1,Lightning,Central Sparks,SJ Bryce,136,138,98.55,0,1,not out,SJ Bryce (Lightning),vs Central Sparks (19/09/2020),>=100
+1229348,2020,19-09-2020,1,Lightning,Central Sparks,T Graves,65,58,112.07,1,0,out,T Graves (Lightning),vs Central Sparks (19/09/2020),50-99
+1229348,2020,19-09-2020,2,Central Sparks,Lightning,Anisha Patel,1,3,33.33,0,0,out,Anisha Patel (Central Sparks),vs Lightning (19/09/2020),<20
+1229348,2020,19-09-2020,2,Central Sparks,Lightning,CAE Hill,5,15,33.33,0,0,out,CAE Hill (Central Sparks),vs Lightning (19/09/2020),<20
+1229348,2020,19-09-2020,2,Central Sparks,Lightning,CK Boycott,5,7,71.43,0,0,out,CK Boycott (Central Sparks),vs Lightning (19/09/2020),<20
+1229348,2020,19-09-2020,2,Central Sparks,Lightning,E Jones,115,143,80.42,0,1,not out,E Jones (Central Sparks),vs Lightning (19/09/2020),>=100
+1229348,2020,19-09-2020,2,Central Sparks,Lightning,EA Russell,1,3,33.33,0,0,out,EA Russell (Central Sparks),vs Lightning (19/09/2020),<20
+1229348,2020,19-09-2020,2,Central Sparks,Lightning,EL Arlott,0,1,0,0,0,out,EL Arlott (Central Sparks),vs Lightning (19/09/2020),<20
+1229348,2020,19-09-2020,2,Central Sparks,Lightning,GM Davies,48,54,88.89,0,0,out,GM Davies (Central Sparks),vs Lightning (19/09/2020),20-49
+1229348,2020,19-09-2020,2,Central Sparks,Lightning,HL Baker,5,8,62.5,0,0,out,HL Baker (Central Sparks),vs Lightning (19/09/2020),<20
+1229348,2020,19-09-2020,2,Central Sparks,Lightning,IECM Wong,2,7,28.57,0,0,out,IECM Wong (Central Sparks),vs Lightning (19/09/2020),<20
+1229348,2020,19-09-2020,2,Central Sparks,Lightning,Marie Kelly,37,60,61.67,0,0,out,Marie Kelly (Central Sparks),vs Lightning (19/09/2020),20-49
+1229348,2020,19-09-2020,2,Central Sparks,Lightning,P Davies,6,12,50,0,0,out,P Davies (Central Sparks),vs Lightning (19/09/2020),<20
+1229349,2020,19-09-2020,1,Western Storm,Sunrisers,A Griffiths,80,69,115.94,1,0,out,A Griffiths (Western Storm),vs Sunrisers (19/09/2020),50-99
+1229349,2020,19-09-2020,1,Western Storm,Sunrisers,DR Gibson,33,24,137.5,0,0,not out,DR Gibson (Western Storm),vs Sunrisers (19/09/2020),20-49
+1229349,2020,19-09-2020,1,Western Storm,Sunrisers,EM Edgcombe,1,2,50,0,0,not out,EM Edgcombe (Western Storm),vs Sunrisers (19/09/2020),<20
+1229349,2020,19-09-2020,1,Western Storm,Sunrisers,FMK Morris,27,40,67.5,0,0,out,FMK Morris (Western Storm),vs Sunrisers (19/09/2020),20-49
+1229349,2020,19-09-2020,1,Western Storm,Sunrisers,GM Hennessy,105,113,92.92,0,1,out,GM Hennessy (Western Storm),vs Sunrisers (19/09/2020),>=100
+1229349,2020,19-09-2020,1,Western Storm,Sunrisers,LA Parfitt,10,25,40,0,0,out,LA Parfitt (Western Storm),vs Sunrisers (19/09/2020),<20
+1229349,2020,19-09-2020,1,Western Storm,Sunrisers,NAJ Wraith,12,27,44.44,0,0,out,NAJ Wraith (Western Storm),vs Sunrisers (19/09/2020),<20
+1229349,2020,19-09-2020,1,Western Storm,Sunrisers,SN Luff,3,13,23.08,0,0,out,SN Luff (Western Storm),vs Sunrisers (19/09/2020),<20
+1229349,2020,19-09-2020,2,Sunrisers,Western Storm,AD Carr,7,14,50,0,0,out,AD Carr (Sunrisers),vs Western Storm (19/09/2020),<20
+1229349,2020,19-09-2020,2,Sunrisers,Western Storm,AJ Macleod,28,57,49.12,0,0,out,AJ Macleod (Sunrisers),vs Western Storm (19/09/2020),20-49
+1229349,2020,19-09-2020,2,Sunrisers,Western Storm,CL Griffith,41,43,95.35,0,0,out,CL Griffith (Sunrisers),vs Western Storm (19/09/2020),20-49
+1229349,2020,19-09-2020,2,Sunrisers,Western Storm,G Scrivens,72,73,98.63,1,0,out,G Scrivens (Sunrisers),vs Western Storm (19/09/2020),50-99
+1229349,2020,19-09-2020,2,Sunrisers,Western Storm,J Gardner,32,55,58.18,0,0,out,J Gardner (Sunrisers),vs Western Storm (19/09/2020),20-49
+1229349,2020,19-09-2020,2,Sunrisers,Western Storm,KL Midwood,12,12,100,0,0,out,KL Midwood (Sunrisers),vs Western Storm (19/09/2020),<20
+1229349,2020,19-09-2020,2,Sunrisers,Western Storm,KS Castle,20,24,83.33,0,0,out,KS Castle (Sunrisers),vs Western Storm (19/09/2020),20-49
+1229349,2020,19-09-2020,2,Sunrisers,Western Storm,M Rogers,10,17,58.82,0,0,out,M Rogers (Sunrisers),vs Western Storm (19/09/2020),<20
+1229349,2020,19-09-2020,2,Sunrisers,Western Storm,ND Dattani,1,14,7.14,0,0,out,ND Dattani (Sunrisers),vs Western Storm (19/09/2020),<20
+1229350,2020,27-09-2020,1,Southern Vipers,Northern Diamonds,AZ Monaghan,1,2,50,0,0,out,AZ Monaghan (Southern Vipers),vs Northern Diamonds (27/09/2020),<20
+1229350,2020,27-09-2020,1,Southern Vipers,Northern Diamonds,CE Dean,2,5,40,0,0,out,CE Dean (Southern Vipers),vs Northern Diamonds (27/09/2020),<20
+1229350,2020,27-09-2020,1,Southern Vipers,Northern Diamonds,CE Rudd,1,3,33.33,0,0,out,CE Rudd (Southern Vipers),vs Northern Diamonds (27/09/2020),<20
+1229350,2020,27-09-2020,1,Southern Vipers,Northern Diamonds,CM Taylor,7,24,29.17,0,0,out,CM Taylor (Southern Vipers),vs Northern Diamonds (27/09/2020),<20
+1229350,2020,27-09-2020,1,Southern Vipers,Northern Diamonds,E Windsor,37,51,72.55,0,0,out,E Windsor (Southern Vipers),vs Northern Diamonds (27/09/2020),20-49
+1229350,2020,27-09-2020,1,Southern Vipers,Northern Diamonds,EM McCaughan,35,63,55.56,0,0,out,EM McCaughan (Southern Vipers),vs Northern Diamonds (27/09/2020),20-49
+1229350,2020,27-09-2020,1,Southern Vipers,Northern Diamonds,GL Adams,80,102,78.43,1,0,out,GL Adams (Southern Vipers),vs Northern Diamonds (27/09/2020),50-99
+1229350,2020,27-09-2020,1,Southern Vipers,Northern Diamonds,LK Bell,6,4,150,0,0,not out,LK Bell (Southern Vipers),vs Northern Diamonds (27/09/2020),<20
+1229350,2020,27-09-2020,1,Southern Vipers,Northern Diamonds,ME Bouchier,28,31,90.32,0,0,out,ME Bouchier (Southern Vipers),vs Northern Diamonds (27/09/2020),20-49
+1229350,2020,27-09-2020,1,Southern Vipers,Northern Diamonds,PJ Scholfield,3,7,42.86,0,0,out,PJ Scholfield (Southern Vipers),vs Northern Diamonds (27/09/2020),<20
+1229350,2020,27-09-2020,1,Southern Vipers,Northern Diamonds,TG Norris,5,18,27.78,0,0,out,TG Norris (Southern Vipers),vs Northern Diamonds (27/09/2020),<20
+1229350,2020,27-09-2020,2,Northern Diamonds,Southern Vipers,A Campbell,0,7,0,0,0,out,A Campbell (Northern Diamonds),vs Southern Vipers (27/09/2020),<20
+1229350,2020,27-09-2020,2,Northern Diamonds,Southern Vipers,AL MacDonald,0,1,0,0,0,out,AL MacDonald (Northern Diamonds),vs Southern Vipers (27/09/2020),<20
+1229350,2020,27-09-2020,2,Northern Diamonds,Southern Vipers,BA Langston,21,27,77.78,0,0,out,BA Langston (Northern Diamonds),vs Southern Vipers (27/09/2020),20-49
+1229350,2020,27-09-2020,2,Northern Diamonds,Southern Vipers,BAM Heath,0,9,0,0,0,out,BAM Heath (Northern Diamonds),vs Southern Vipers (27/09/2020),<20
+1229350,2020,27-09-2020,2,Northern Diamonds,Southern Vipers,HJ Armitage,26,51,50.98,0,0,out,HJ Armitage (Northern Diamonds),vs Southern Vipers (27/09/2020),20-49
+1229350,2020,27-09-2020,2,Northern Diamonds,Southern Vipers,JL Gunn,9,16,56.25,0,0,out,JL Gunn (Northern Diamonds),vs Southern Vipers (27/09/2020),<20
+1229350,2020,27-09-2020,2,Northern Diamonds,Southern Vipers,KA Levick,8,16,50,0,0,not out,KA Levick (Northern Diamonds),vs Southern Vipers (27/09/2020),<20
+1229350,2020,27-09-2020,2,Northern Diamonds,Southern Vipers,L Winfield,20,30,66.67,0,0,out,L Winfield (Northern Diamonds),vs Southern Vipers (27/09/2020),20-49
+1229350,2020,27-09-2020,2,Northern Diamonds,Southern Vipers,LCN Smith,7,11,63.64,0,0,out,LCN Smith (Northern Diamonds),vs Southern Vipers (27/09/2020),<20
+1229350,2020,27-09-2020,2,Northern Diamonds,Southern Vipers,PC Graham,16,28,57.14,0,0,out,PC Graham (Northern Diamonds),vs Southern Vipers (27/09/2020),<20
+1229350,2020,27-09-2020,2,Northern Diamonds,Southern Vipers,SL Kalis,55,79,69.62,1,0,out,SL Kalis (Northern Diamonds),vs Southern Vipers (27/09/2020),50-99
+1252264,2021,29-05-2021,1,Northern Diamonds,Central Sparks,A Campbell,4,3,133.33,0,0,out,A Campbell (Northern Diamonds),vs Central Sparks (29/05/2021),<20
+1252264,2021,29-05-2021,1,Northern Diamonds,Central Sparks,AL MacDonald,13,8,162.5,0,0,out,AL MacDonald (Northern Diamonds),vs Central Sparks (29/05/2021),<20
+1252264,2021,29-05-2021,1,Northern Diamonds,Central Sparks,BA Langston,13,6,216.67,0,0,out,BA Langston (Northern Diamonds),vs Central Sparks (29/05/2021),<20
+1252264,2021,29-05-2021,1,Northern Diamonds,Central Sparks,HJ Armitage,13,18,72.22,0,0,out,HJ Armitage (Northern Diamonds),vs Central Sparks (29/05/2021),<20
+1252264,2021,29-05-2021,1,Northern Diamonds,Central Sparks,JL Gunn,17,18,94.44,0,0,out,JL Gunn (Northern Diamonds),vs Central Sparks (29/05/2021),<20
+1252264,2021,29-05-2021,1,Northern Diamonds,Central Sparks,KA Levick,0,3,0,0,0,out,KA Levick (Northern Diamonds),vs Central Sparks (29/05/2021),<20
+1252264,2021,29-05-2021,1,Northern Diamonds,Central Sparks,KH Brunt,43,50,86,0,0,out,KH Brunt (Northern Diamonds),vs Central Sparks (29/05/2021),20-49
+1252264,2021,29-05-2021,1,Northern Diamonds,Central Sparks,L Winfield,110,130,84.62,0,1,out,L Winfield (Northern Diamonds),vs Central Sparks (29/05/2021),>=100
+1252264,2021,29-05-2021,1,Northern Diamonds,Central Sparks,LCN Smith,1,1,100,0,0,not out,LCN Smith (Northern Diamonds),vs Central Sparks (29/05/2021),<20
+1252264,2021,29-05-2021,1,Northern Diamonds,Central Sparks,NR Sciver,7,12,58.33,0,0,out,NR Sciver (Northern Diamonds),vs Central Sparks (29/05/2021),<20
+1252264,2021,29-05-2021,1,Northern Diamonds,Central Sparks,SL Kalis,36,62,58.06,0,0,out,SL Kalis (Northern Diamonds),vs Central Sparks (29/05/2021),20-49
+1252264,2021,29-05-2021,2,Central Sparks,Northern Diamonds,AE Jones,114,114,100,0,1,out,AE Jones (Central Sparks),vs Northern Diamonds (29/05/2021),>=100
+1252264,2021,29-05-2021,2,Central Sparks,Northern Diamonds,E Jones,0,11,0,0,0,out,E Jones (Central Sparks),vs Northern Diamonds (29/05/2021),<20
+1252264,2021,29-05-2021,2,Central Sparks,Northern Diamonds,EL Arlott,24,21,114.29,0,0,not out,EL Arlott (Central Sparks),vs Northern Diamonds (29/05/2021),20-49
+1252264,2021,29-05-2021,2,Central Sparks,Northern Diamonds,GM Davies,0,5,0,0,0,out,GM Davies (Central Sparks),vs Northern Diamonds (29/05/2021),<20
+1252264,2021,29-05-2021,2,Central Sparks,Northern Diamonds,IECM Wong,0,1,0,0,0,out,IECM Wong (Central Sparks),vs Northern Diamonds (29/05/2021),<20
+1252264,2021,29-05-2021,2,Central Sparks,Northern Diamonds,M Home,1,9,11.11,0,0,out,M Home (Central Sparks),vs Northern Diamonds (29/05/2021),<20
+1252264,2021,29-05-2021,2,Central Sparks,Northern Diamonds,Marie Kelly,31,56,55.36,0,0,out,Marie Kelly (Central Sparks),vs Northern Diamonds (29/05/2021),20-49
+1252264,2021,29-05-2021,2,Central Sparks,Northern Diamonds,RA Fackrell,9,11,81.82,0,0,out,RA Fackrell (Central Sparks),vs Northern Diamonds (29/05/2021),<20
+1252264,2021,29-05-2021,2,Central Sparks,Northern Diamonds,S Butler,3,15,20,0,0,out,S Butler (Central Sparks),vs Northern Diamonds (29/05/2021),<20
+1252264,2021,29-05-2021,2,Central Sparks,Northern Diamonds,S Glenn,71,55,129.09,1,0,not out,S Glenn (Central Sparks),vs Northern Diamonds (29/05/2021),50-99
+1252265,2021,29-05-2021,1,Thunder,Western Storm,DL Collins,4,9,44.44,0,0,out,DL Collins (Thunder),vs Western Storm (29/05/2021),<20
+1252265,2021,29-05-2021,1,Thunder,Western Storm,E Threlkeld,0,6,0,0,0,out,E Threlkeld (Thunder),vs Western Storm (29/05/2021),<20
+1252265,2021,29-05-2021,1,Thunder,Western Storm,EL Lamb,121,110,110,0,1,out,EL Lamb (Thunder),vs Western Storm (29/05/2021),>=100
+1252265,2021,29-05-2021,1,Thunder,Western Storm,GEB Boyce,11,22,50,0,0,out,GEB Boyce (Thunder),vs Western Storm (29/05/2021),<20
+1252265,2021,29-05-2021,1,Thunder,Western Storm,KL Cross,9,15,60,0,0,not out,KL Cross (Thunder),vs Western Storm (29/05/2021),<20
+1252265,2021,29-05-2021,1,Thunder,Western Storm,L Marshall,0,2,0,0,0,out,L Marshall (Thunder),vs Western Storm (29/05/2021),<20
+1252265,2021,29-05-2021,1,Thunder,Western Storm,N Brown,8,11,72.73,0,0,out,N Brown (Thunder),vs Western Storm (29/05/2021),<20
+1252265,2021,29-05-2021,1,Thunder,Western Storm,P Cleary,79,103,76.7,1,0,out,P Cleary (Thunder),vs Western Storm (29/05/2021),50-99
+1252265,2021,29-05-2021,1,Thunder,Western Storm,S Ecclestone,37,35,105.71,0,0,out,S Ecclestone (Thunder),vs Western Storm (29/05/2021),20-49
+1252265,2021,29-05-2021,2,Western Storm,Thunder,A Shrubsole,61,43,141.86,1,0,not out,A Shrubsole (Western Storm),vs Thunder (29/05/2021),50-99
+1252265,2021,29-05-2021,2,Western Storm,Thunder,DR Gibson,2,5,40,0,0,out,DR Gibson (Western Storm),vs Thunder (29/05/2021),<20
+1252265,2021,29-05-2021,2,Western Storm,Thunder,FMK Morris,25,21,119.05,0,0,out,FMK Morris (Western Storm),vs Thunder (29/05/2021),20-49
+1252265,2021,29-05-2021,2,Western Storm,Thunder,GM Hennessy,23,45,51.11,0,0,out,GM Hennessy (Western Storm),vs Thunder (29/05/2021),20-49
+1252265,2021,29-05-2021,2,Western Storm,Thunder,HC Knight,91,91,100,1,0,out,HC Knight (Western Storm),vs Thunder (29/05/2021),50-99
+1252265,2021,29-05-2021,2,Western Storm,Thunder,L Filer,6,11,54.55,0,0,not out,L Filer (Western Storm),vs Thunder (29/05/2021),<20
+1252265,2021,29-05-2021,2,Western Storm,Thunder,LA Parfitt,10,19,52.63,0,0,out,LA Parfitt (Western Storm),vs Thunder (29/05/2021),<20
+1252265,2021,29-05-2021,2,Western Storm,Thunder,MJ Robbins,0,2,0,0,0,out,MJ Robbins (Western Storm),vs Thunder (29/05/2021),<20
+1252265,2021,29-05-2021,2,Western Storm,Thunder,N Harvey,12,15,80,0,0,out,N Harvey (Western Storm),vs Thunder (29/05/2021),<20
+1252265,2021,29-05-2021,2,Western Storm,Thunder,NAJ Wraith,6,13,46.15,0,0,out,NAJ Wraith (Western Storm),vs Thunder (29/05/2021),<20
+1252265,2021,29-05-2021,2,Western Storm,Thunder,SN Luff,35,48,72.92,0,0,out,SN Luff (Western Storm),vs Thunder (29/05/2021),20-49
+1252266,2021,29-05-2021,1,South East Stars,Sunrisers,A Capsey,0,1,0,0,0,out,A Capsey (South East Stars),vs Sunrisers (29/05/2021),<20
+1252266,2021,29-05-2021,1,South East Stars,Sunrisers,A Cranstone,15,28,53.57,0,0,out,A Cranstone (South East Stars),vs Sunrisers (29/05/2021),<20
+1252266,2021,29-05-2021,1,South East Stars,Sunrisers,AN Davidson-Richards,53,73,72.6,1,0,out,AN Davidson-Richards (South East Stars),vs Sunrisers (29/05/2021),50-99
+1252266,2021,29-05-2021,1,South East Stars,Sunrisers,BF Smith,59,65,90.77,1,0,out,BF Smith (South East Stars),vs Sunrisers (29/05/2021),50-99
+1252266,2021,29-05-2021,1,South East Stars,Sunrisers,GJ Gibbs,31,24,129.17,0,0,out,GJ Gibbs (South East Stars),vs Sunrisers (29/05/2021),20-49
+1252266,2021,29-05-2021,1,South East Stars,Sunrisers,KE White,0,10,0,0,0,out,KE White (South East Stars),vs Sunrisers (29/05/2021),<20
+1252266,2021,29-05-2021,1,South East Stars,Sunrisers,NE Farrant,12,22,54.55,0,0,out,NE Farrant (South East Stars),vs Sunrisers (29/05/2021),<20
+1252266,2021,29-05-2021,1,South East Stars,Sunrisers,R Southby,6,10,60,0,0,not out,R Southby (South East Stars),vs Sunrisers (29/05/2021),<20
+1252266,2021,29-05-2021,1,South East Stars,Sunrisers,SIR Dunkley,104,99,105.05,0,1,not out,SIR Dunkley (South East Stars),vs Sunrisers (29/05/2021),>=100
+1252266,2021,29-05-2021,2,Sunrisers,South East Stars,AD Carr,7,14,50,0,0,out,AD Carr (Sunrisers),vs South East Stars (29/05/2021),<20
+1252266,2021,29-05-2021,2,Sunrisers,South East Stars,AJ Macleod,12,20,60,0,0,out,AJ Macleod (Sunrisers),vs South East Stars (29/05/2021),<20
+1252266,2021,29-05-2021,2,Sunrisers,South East Stars,CL Griffith,9,19,47.37,0,0,out,CL Griffith (Sunrisers),vs South East Stars (29/05/2021),<20
+1252266,2021,29-05-2021,2,Sunrisers,South East Stars,FC Wilson,10,12,83.33,0,0,out,FC Wilson (Sunrisers),vs South East Stars (29/05/2021),<20
+1252266,2021,29-05-2021,2,Sunrisers,South East Stars,G Scrivens,36,47,76.6,0,0,out,G Scrivens (Sunrisers),vs South East Stars (29/05/2021),20-49
+1252266,2021,29-05-2021,2,Sunrisers,South East Stars,GKS Gole,10,12,83.33,0,0,out,GKS Gole (Sunrisers),vs South East Stars (29/05/2021),<20
+1252266,2021,29-05-2021,2,Sunrisers,South East Stars,J Gardner,11,12,91.67,0,0,out,J Gardner (Sunrisers),vs South East Stars (29/05/2021),<20
+1252266,2021,29-05-2021,2,Sunrisers,South East Stars,K Speed,1,5,20,0,0,out,K Speed (Sunrisers),vs South East Stars (29/05/2021),<20
+1252266,2021,29-05-2021,2,Sunrisers,South East Stars,KS Castle,2,5,40,0,0,not out,KS Castle (Sunrisers),vs South East Stars (29/05/2021),<20
+1252266,2021,29-05-2021,2,Sunrisers,South East Stars,MK Villiers,34,31,109.68,0,0,out,MK Villiers (Sunrisers),vs South East Stars (29/05/2021),20-49
+1252266,2021,29-05-2021,2,Sunrisers,South East Stars,ND Dattani,47,64,73.44,0,0,out,ND Dattani (Sunrisers),vs South East Stars (29/05/2021),20-49
+1252267,2021,29-05-2021,1,Lightning,Southern Vipers,AJ Freeborn,9,15,60,0,0,out,AJ Freeborn (Lightning),vs Southern Vipers (29/05/2021),<20
+1252267,2021,29-05-2021,1,Lightning,Southern Vipers,KE Bryce,13,32,40.62,0,0,out,KE Bryce (Lightning),vs Southern Vipers (29/05/2021),<20
+1252267,2021,29-05-2021,1,Lightning,Southern Vipers,KL Gordon,11,12,91.67,0,0,out,KL Gordon (Lightning),vs Southern Vipers (29/05/2021),<20
+1252267,2021,29-05-2021,1,Lightning,Southern Vipers,LF Higham,32,49,65.31,0,0,out,LF Higham (Lightning),vs Southern Vipers (29/05/2021),20-49
+1252267,2021,29-05-2021,1,Lightning,Southern Vipers,ML Kirk,0,3,0,0,0,out,ML Kirk (Lightning),vs Southern Vipers (29/05/2021),<20
+1252267,2021,29-05-2021,1,Lightning,Southern Vipers,S Munro,0,3,0,0,0,not out,S Munro (Lightning),vs Southern Vipers (29/05/2021),<20
+1252267,2021,29-05-2021,1,Lightning,Southern Vipers,SB Odedra,15,34,44.12,0,0,out,SB Odedra (Lightning),vs Southern Vipers (29/05/2021),<20
+1252267,2021,29-05-2021,1,Lightning,Southern Vipers,SJ Bryce,0,3,0,0,0,out,SJ Bryce (Lightning),vs Southern Vipers (29/05/2021),<20
+1252267,2021,29-05-2021,1,Lightning,Southern Vipers,T Graves,32,43,74.42,0,0,out,T Graves (Lightning),vs Southern Vipers (29/05/2021),20-49
+1252267,2021,29-05-2021,1,Lightning,Southern Vipers,TT Beaumont,57,96,59.38,1,0,out,TT Beaumont (Lightning),vs Southern Vipers (29/05/2021),50-99
+1252267,2021,29-05-2021,1,Lightning,Southern Vipers,Y Graves,22,28,78.57,0,0,not out,Y Graves (Lightning),vs Southern Vipers (29/05/2021),20-49
+1252267,2021,29-05-2021,2,Southern Vipers,Lightning,CE Dean,32,57,56.14,0,0,out,CE Dean (Southern Vipers),vs Lightning (29/05/2021),20-49
+1252267,2021,29-05-2021,2,Southern Vipers,Lightning,DN Wyatt,53,60,88.33,1,0,out,DN Wyatt (Southern Vipers),vs Lightning (29/05/2021),50-99
+1252267,2021,29-05-2021,2,Southern Vipers,Lightning,E Windsor,15,25,60,0,0,out,E Windsor (Southern Vipers),vs Lightning (29/05/2021),<20
+1252267,2021,29-05-2021,2,Southern Vipers,Lightning,GA Elwiss,10,20,50,0,0,out,GA Elwiss (Southern Vipers),vs Lightning (29/05/2021),<20
+1252267,2021,29-05-2021,2,Southern Vipers,Lightning,GL Adams,28,40,70,0,0,out,GL Adams (Southern Vipers),vs Lightning (29/05/2021),20-49
+1252267,2021,29-05-2021,2,Southern Vipers,Lightning,ME Bouchier,21,27,77.78,0,0,out,ME Bouchier (Southern Vipers),vs Lightning (29/05/2021),20-49
+1252267,2021,29-05-2021,2,Southern Vipers,Lightning,PJ Scholfield,38,63,60.32,0,0,not out,PJ Scholfield (Southern Vipers),vs Lightning (29/05/2021),20-49
+1252267,2021,29-05-2021,2,Southern Vipers,Lightning,TG Norris,3,2,150,0,0,not out,TG Norris (Southern Vipers),vs Lightning (29/05/2021),<20
+1252268,2021,31-05-2021,1,Northern Diamonds,Lightning,A Campbell,9,12,75,0,0,out,A Campbell (Northern Diamonds),vs Lightning (31/05/2021),<20
+1252268,2021,31-05-2021,1,Northern Diamonds,Lightning,AL MacDonald,39,79,49.37,0,0,out,AL MacDonald (Northern Diamonds),vs Lightning (31/05/2021),20-49
+1252268,2021,31-05-2021,1,Northern Diamonds,Lightning,BA Langston,11,15,73.33,0,0,out,BA Langston (Northern Diamonds),vs Lightning (31/05/2021),<20
+1252268,2021,31-05-2021,1,Northern Diamonds,Lightning,HJ Armitage,12,31,38.71,0,0,out,HJ Armitage (Northern Diamonds),vs Lightning (31/05/2021),<20
+1252268,2021,31-05-2021,1,Northern Diamonds,Lightning,HL Fenby,2,14,14.29,0,0,not out,HL Fenby (Northern Diamonds),vs Lightning (31/05/2021),<20
+1252268,2021,31-05-2021,1,Northern Diamonds,Lightning,JL Gunn,40,82,48.78,0,0,out,JL Gunn (Northern Diamonds),vs Lightning (31/05/2021),20-49
+1252268,2021,31-05-2021,1,Northern Diamonds,Lightning,KA Levick,3,7,42.86,0,0,out,KA Levick (Northern Diamonds),vs Lightning (31/05/2021),<20
+1252268,2021,31-05-2021,1,Northern Diamonds,Lightning,KH Brunt,1,10,10,0,0,out,KH Brunt (Northern Diamonds),vs Lightning (31/05/2021),<20
+1252268,2021,31-05-2021,1,Northern Diamonds,Lightning,L Winfield,2,2,100,0,0,out,L Winfield (Northern Diamonds),vs Lightning (31/05/2021),<20
+1252268,2021,31-05-2021,1,Northern Diamonds,Lightning,NR Sciver,10,20,50,0,0,out,NR Sciver (Northern Diamonds),vs Lightning (31/05/2021),<20
+1252268,2021,31-05-2021,1,Northern Diamonds,Lightning,SL Kalis,7,16,43.75,0,0,out,SL Kalis (Northern Diamonds),vs Lightning (31/05/2021),<20
+1252268,2021,31-05-2021,2,Lightning,Northern Diamonds,AJ Freeborn,20,55,36.36,0,0,out,AJ Freeborn (Lightning),vs Northern Diamonds (31/05/2021),20-49
+1252268,2021,31-05-2021,2,Lightning,Northern Diamonds,KE Bryce,1,6,16.67,0,0,out,KE Bryce (Lightning),vs Northern Diamonds (31/05/2021),<20
+1252268,2021,31-05-2021,2,Lightning,Northern Diamonds,KL Gordon,19,35,54.29,0,0,out,KL Gordon (Lightning),vs Northern Diamonds (31/05/2021),<20
+1252268,2021,31-05-2021,2,Lightning,Northern Diamonds,LF Higham,1,7,14.29,0,0,out,LF Higham (Lightning),vs Northern Diamonds (31/05/2021),<20
+1252268,2021,31-05-2021,2,Lightning,Northern Diamonds,ML Kirk,14,35,40,0,0,out,ML Kirk (Lightning),vs Northern Diamonds (31/05/2021),<20
+1252268,2021,31-05-2021,2,Lightning,Northern Diamonds,S Pai,9,27,33.33,0,0,out,S Pai (Lightning),vs Northern Diamonds (31/05/2021),<20
+1252268,2021,31-05-2021,2,Lightning,Northern Diamonds,SJ Bryce,0,3,0,0,0,out,SJ Bryce (Lightning),vs Northern Diamonds (31/05/2021),<20
+1252268,2021,31-05-2021,2,Lightning,Northern Diamonds,T Graves,14,45,31.11,0,0,out,T Graves (Lightning),vs Northern Diamonds (31/05/2021),<20
+1252268,2021,31-05-2021,2,Lightning,Northern Diamonds,TT Beaumont,21,37,56.76,0,0,out,TT Beaumont (Lightning),vs Northern Diamonds (31/05/2021),20-49
+1252268,2021,31-05-2021,2,Lightning,Northern Diamonds,Y Graves,19,54,35.19,0,0,out,Y Graves (Lightning),vs Northern Diamonds (31/05/2021),<20
+1252269,2021,31-05-2021,1,Central Sparks,Western Storm,AE Jones,163,120,135.83,0,1,not out,AE Jones (Central Sparks),vs Western Storm (31/05/2021),>=100
+1252269,2021,31-05-2021,1,Central Sparks,Western Storm,E Jones,5,25,20,0,0,out,E Jones (Central Sparks),vs Western Storm (31/05/2021),<20
+1252269,2021,31-05-2021,1,Central Sparks,Western Storm,GM Davies,15,43,34.88,0,0,out,GM Davies (Central Sparks),vs Western Storm (31/05/2021),<20
+1252269,2021,31-05-2021,1,Central Sparks,Western Storm,IECM Wong,7,8,87.5,0,0,not out,IECM Wong (Central Sparks),vs Western Storm (31/05/2021),<20
+1252269,2021,31-05-2021,1,Central Sparks,Western Storm,M Home,18,45,40,0,0,out,M Home (Central Sparks),vs Western Storm (31/05/2021),<20
+1252269,2021,31-05-2021,1,Central Sparks,Western Storm,Marie Kelly,7,15,46.67,0,0,out,Marie Kelly (Central Sparks),vs Western Storm (31/05/2021),<20
+1252269,2021,31-05-2021,1,Central Sparks,Western Storm,RA Fackrell,11,17,64.71,0,0,out,RA Fackrell (Central Sparks),vs Western Storm (31/05/2021),<20
+1252269,2021,31-05-2021,1,Central Sparks,Western Storm,S Butler,27,43,62.79,0,0,out,S Butler (Central Sparks),vs Western Storm (31/05/2021),20-49
+1252269,2021,31-05-2021,1,Central Sparks,Western Storm,S Glenn,7,9,77.78,0,0,out,S Glenn (Central Sparks),vs Western Storm (31/05/2021),<20
+1252269,2021,31-05-2021,2,Western Storm,Central Sparks,A Shrubsole,13,16,81.25,0,0,out,A Shrubsole (Western Storm),vs Central Sparks (31/05/2021),<20
+1252269,2021,31-05-2021,2,Western Storm,Central Sparks,DR Gibson,18,15,120,0,0,out,DR Gibson (Western Storm),vs Central Sparks (31/05/2021),<20
+1252269,2021,31-05-2021,2,Western Storm,Central Sparks,FMK Morris,21,22,95.45,0,0,out,FMK Morris (Western Storm),vs Central Sparks (31/05/2021),20-49
+1252269,2021,31-05-2021,2,Western Storm,Central Sparks,GM Hennessy,4,11,36.36,0,0,out,GM Hennessy (Western Storm),vs Central Sparks (31/05/2021),<20
+1252269,2021,31-05-2021,2,Western Storm,Central Sparks,HC Knight,59,54,109.26,1,0,out,HC Knight (Western Storm),vs Central Sparks (31/05/2021),50-99
+1252269,2021,31-05-2021,2,Western Storm,Central Sparks,L Filer,0,2,0,0,0,not out,L Filer (Western Storm),vs Central Sparks (31/05/2021),<20
+1252269,2021,31-05-2021,2,Western Storm,Central Sparks,LA Parfitt,91,127,71.65,1,0,out,LA Parfitt (Western Storm),vs Central Sparks (31/05/2021),50-99
+1252269,2021,31-05-2021,2,Western Storm,Central Sparks,MJ Robbins,1,7,14.29,0,0,out,MJ Robbins (Western Storm),vs Central Sparks (31/05/2021),<20
+1252269,2021,31-05-2021,2,Western Storm,Central Sparks,N Harvey,5,12,41.67,0,0,not out,N Harvey (Western Storm),vs Central Sparks (31/05/2021),<20
+1252269,2021,31-05-2021,2,Western Storm,Central Sparks,NAJ Wraith,2,7,28.57,0,0,out,NAJ Wraith (Western Storm),vs Central Sparks (31/05/2021),<20
+1252269,2021,31-05-2021,2,Western Storm,Central Sparks,SN Luff,27,36,75,0,0,out,SN Luff (Western Storm),vs Central Sparks (31/05/2021),20-49
+1252270,2021,31-05-2021,1,South East Stars,Southern Vipers,A Capsey,1,8,12.5,0,0,out,A Capsey (South East Stars),vs Southern Vipers (31/05/2021),<20
+1252270,2021,31-05-2021,1,South East Stars,Southern Vipers,A Cranstone,31,51,60.78,0,0,out,A Cranstone (South East Stars),vs Southern Vipers (31/05/2021),20-49
+1252270,2021,31-05-2021,1,South East Stars,Southern Vipers,AN Davidson-Richards,0,9,0,0,0,out,AN Davidson-Richards (South East Stars),vs Southern Vipers (31/05/2021),<20
+1252270,2021,31-05-2021,1,South East Stars,Southern Vipers,BF Smith,41,38,107.89,0,0,out,BF Smith (South East Stars),vs Southern Vipers (31/05/2021),20-49
+1252270,2021,31-05-2021,1,South East Stars,Southern Vipers,D Gregory,1,13,7.69,0,0,out,D Gregory (South East Stars),vs Southern Vipers (31/05/2021),<20
+1252270,2021,31-05-2021,1,South East Stars,Southern Vipers,FR Davies,7,15,46.67,0,0,not out,FR Davies (South East Stars),vs Southern Vipers (31/05/2021),<20
+1252270,2021,31-05-2021,1,South East Stars,Southern Vipers,GJ Gibbs,29,59,49.15,0,0,out,GJ Gibbs (South East Stars),vs Southern Vipers (31/05/2021),20-49
+1252270,2021,31-05-2021,1,South East Stars,Southern Vipers,KE White,12,26,46.15,0,0,out,KE White (South East Stars),vs Southern Vipers (31/05/2021),<20
+1252270,2021,31-05-2021,1,South East Stars,Southern Vipers,NE Farrant,3,11,27.27,0,0,out,NE Farrant (South East Stars),vs Southern Vipers (31/05/2021),<20
+1252270,2021,31-05-2021,1,South East Stars,Southern Vipers,R Southby,4,14,28.57,0,0,out,R Southby (South East Stars),vs Southern Vipers (31/05/2021),<20
+1252270,2021,31-05-2021,1,South East Stars,Southern Vipers,SIR Dunkley,0,2,0,0,0,out,SIR Dunkley (South East Stars),vs Southern Vipers (31/05/2021),<20
+1252270,2021,31-05-2021,2,Southern Vipers,South East Stars,CE Dean,2,5,40,0,0,not out,CE Dean (Southern Vipers),vs South East Stars (31/05/2021),<20
+1252270,2021,31-05-2021,2,Southern Vipers,South East Stars,DN Wyatt,64,93,68.82,1,0,not out,DN Wyatt (Southern Vipers),vs South East Stars (31/05/2021),50-99
+1252270,2021,31-05-2021,2,Southern Vipers,South East Stars,GA Elwiss,45,43,104.65,0,0,out,GA Elwiss (Southern Vipers),vs South East Stars (31/05/2021),20-49
+1252270,2021,31-05-2021,2,Southern Vipers,South East Stars,GL Adams,6,17,35.29,0,0,out,GL Adams (Southern Vipers),vs South East Stars (31/05/2021),<20
+1252270,2021,31-05-2021,2,Southern Vipers,South East Stars,ME Bouchier,13,20,65,0,0,out,ME Bouchier (Southern Vipers),vs South East Stars (31/05/2021),<20
+1252271,2021,31-05-2021,1,Thunder,Sunrisers,A Hartley,0,1,0,0,0,out,A Hartley (Thunder),vs Sunrisers (31/05/2021),<20
+1252271,2021,31-05-2021,1,Thunder,Sunrisers,DL Collins,3,2,150,0,0,not out,DL Collins (Thunder),vs Sunrisers (31/05/2021),<20
+1252271,2021,31-05-2021,1,Thunder,Sunrisers,E Threlkeld,13,32,40.62,0,0,out,E Threlkeld (Thunder),vs Sunrisers (31/05/2021),<20
+1252271,2021,31-05-2021,1,Thunder,Sunrisers,EL Lamb,18,36,50,0,0,out,EL Lamb (Thunder),vs Sunrisers (31/05/2021),<20
+1252271,2021,31-05-2021,1,Thunder,Sunrisers,GEB Boyce,91,126,72.22,1,0,out,GEB Boyce (Thunder),vs Sunrisers (31/05/2021),50-99
+1252271,2021,31-05-2021,1,Thunder,Sunrisers,HE Jones,2,4,50,0,0,not out,HE Jones (Thunder),vs Sunrisers (31/05/2021),<20
+1252271,2021,31-05-2021,1,Thunder,Sunrisers,KL Cross,43,49,87.76,0,0,out,KL Cross (Thunder),vs Sunrisers (31/05/2021),20-49
+1252271,2021,31-05-2021,1,Thunder,Sunrisers,L Marshall,13,19,68.42,0,0,out,L Marshall (Thunder),vs Sunrisers (31/05/2021),<20
+1252271,2021,31-05-2021,1,Thunder,Sunrisers,N Brown,7,13,53.85,0,0,out,N Brown (Thunder),vs Sunrisers (31/05/2021),<20
+1252271,2021,31-05-2021,1,Thunder,Sunrisers,P Cleary,11,25,44,0,0,out,P Cleary (Thunder),vs Sunrisers (31/05/2021),<20
+1252271,2021,31-05-2021,1,Thunder,Sunrisers,S Ecclestone,12,17,70.59,0,0,out,S Ecclestone (Thunder),vs Sunrisers (31/05/2021),<20
+1252271,2021,31-05-2021,2,Sunrisers,Thunder,AD Carr,0,1,0,0,0,out,AD Carr (Sunrisers),vs Thunder (31/05/2021),<20
+1252271,2021,31-05-2021,2,Sunrisers,Thunder,AJ Macleod,38,59,64.41,0,0,out,AJ Macleod (Sunrisers),vs Thunder (31/05/2021),20-49
+1252271,2021,31-05-2021,2,Sunrisers,Thunder,CL Griffith,22,33,66.67,0,0,out,CL Griffith (Sunrisers),vs Thunder (31/05/2021),20-49
+1252271,2021,31-05-2021,2,Sunrisers,Thunder,FC Wilson,50,45,111.11,1,0,out,FC Wilson (Sunrisers),vs Thunder (31/05/2021),50-99
+1252271,2021,31-05-2021,2,Sunrisers,Thunder,G Scrivens,19,35,54.29,0,0,out,G Scrivens (Sunrisers),vs Thunder (31/05/2021),<20
+1252271,2021,31-05-2021,2,Sunrisers,Thunder,GKS Gole,15,21,71.43,0,0,out,GKS Gole (Sunrisers),vs Thunder (31/05/2021),<20
+1252271,2021,31-05-2021,2,Sunrisers,Thunder,J Gardner,22,32,68.75,0,0,out,J Gardner (Sunrisers),vs Thunder (31/05/2021),20-49
+1252271,2021,31-05-2021,2,Sunrisers,Thunder,KS Castle,13,26,50,0,0,out,KS Castle (Sunrisers),vs Thunder (31/05/2021),<20
+1252271,2021,31-05-2021,2,Sunrisers,Thunder,MK Villiers,0,5,0,0,0,out,MK Villiers (Sunrisers),vs Thunder (31/05/2021),<20
+1252271,2021,31-05-2021,2,Sunrisers,Thunder,ND Dattani,5,12,41.67,0,0,out,ND Dattani (Sunrisers),vs Thunder (31/05/2021),<20
+1252271,2021,31-05-2021,2,Sunrisers,Thunder,Sonali Patel,5,17,29.41,0,0,not out,Sonali Patel (Sunrisers),vs Thunder (31/05/2021),<20
+1252272,2021,05-06-2021,1,Western Storm,South East Stars,A Shrubsole,27,16,168.75,0,0,out,A Shrubsole (Western Storm),vs South East Stars (05/06/2021),20-49
+1252272,2021,05-06-2021,1,Western Storm,South East Stars,DR Gibson,12,20,60,0,0,out,DR Gibson (Western Storm),vs South East Stars (05/06/2021),<20
+1252272,2021,05-06-2021,1,Western Storm,South East Stars,FMK Morris,6,18,33.33,0,0,out,FMK Morris (Western Storm),vs South East Stars (05/06/2021),<20
+1252272,2021,05-06-2021,1,Western Storm,South East Stars,GM Hennessy,8,20,40,0,0,out,GM Hennessy (Western Storm),vs South East Stars (05/06/2021),<20
+1252272,2021,05-06-2021,1,Western Storm,South East Stars,HC Knight,73,89,82.02,1,0,out,HC Knight (Western Storm),vs South East Stars (05/06/2021),50-99
+1252272,2021,05-06-2021,1,Western Storm,South East Stars,LA Parfitt,9,20,45,0,0,out,LA Parfitt (Western Storm),vs South East Stars (05/06/2021),<20
+1252272,2021,05-06-2021,1,Western Storm,South East Stars,MJ Robbins,2,3,66.67,0,0,not out,MJ Robbins (Western Storm),vs South East Stars (05/06/2021),<20
+1252272,2021,05-06-2021,1,Western Storm,South East Stars,N Harvey,5,8,62.5,0,0,not out,N Harvey (Western Storm),vs South East Stars (05/06/2021),<20
+1252272,2021,05-06-2021,1,Western Storm,South East Stars,NAJ Wraith,21,30,70,0,0,out,NAJ Wraith (Western Storm),vs South East Stars (05/06/2021),20-49
+1252272,2021,05-06-2021,1,Western Storm,South East Stars,SN Luff,55,90,61.11,1,0,out,SN Luff (Western Storm),vs South East Stars (05/06/2021),50-99
+1252272,2021,05-06-2021,2,South East Stars,Western Storm,A Capsey,7,12,58.33,0,0,out,A Capsey (South East Stars),vs Western Storm (05/06/2021),<20
+1252272,2021,05-06-2021,2,South East Stars,Western Storm,A Cranstone,0,1,0,0,0,not out,A Cranstone (South East Stars),vs Western Storm (05/06/2021),<20
+1252272,2021,05-06-2021,2,South East Stars,Western Storm,AN Davidson-Richards,92,103,89.32,1,0,out,AN Davidson-Richards (South East Stars),vs Western Storm (05/06/2021),50-99
+1252272,2021,05-06-2021,2,South East Stars,Western Storm,BF Smith,21,20,105,0,0,out,BF Smith (South East Stars),vs Western Storm (05/06/2021),20-49
+1252272,2021,05-06-2021,2,South East Stars,Western Storm,KE White,19,20,95,0,0,not out,KE White (South East Stars),vs Western Storm (05/06/2021),<20
+1252272,2021,05-06-2021,2,South East Stars,Western Storm,SIR Dunkley,92,116,79.31,1,0,out,SIR Dunkley (South East Stars),vs Western Storm (05/06/2021),50-99
+1252273,2021,05-06-2021,1,Sunrisers,Northern Diamonds,AD Carr,17,43,39.53,0,0,out,AD Carr (Sunrisers),vs Northern Diamonds (05/06/2021),<20
+1252273,2021,05-06-2021,1,Sunrisers,Northern Diamonds,AJ Macleod,3,15,20,0,0,out,AJ Macleod (Sunrisers),vs Northern Diamonds (05/06/2021),<20
+1252273,2021,05-06-2021,1,Sunrisers,Northern Diamonds,CL Griffith,0,13,0,0,0,out,CL Griffith (Sunrisers),vs Northern Diamonds (05/06/2021),<20
+1252273,2021,05-06-2021,1,Sunrisers,Northern Diamonds,FC Wilson,6,22,27.27,0,0,out,FC Wilson (Sunrisers),vs Northern Diamonds (05/06/2021),<20
+1252273,2021,05-06-2021,1,Sunrisers,Northern Diamonds,G Scrivens,1,11,9.09,0,0,out,G Scrivens (Sunrisers),vs Northern Diamonds (05/06/2021),<20
+1252273,2021,05-06-2021,1,Sunrisers,Northern Diamonds,GKS Gole,11,31,35.48,0,0,out,GKS Gole (Sunrisers),vs Northern Diamonds (05/06/2021),<20
+1252273,2021,05-06-2021,1,Sunrisers,Northern Diamonds,J Gardner,0,2,0,0,0,out,J Gardner (Sunrisers),vs Northern Diamonds (05/06/2021),<20
+1252273,2021,05-06-2021,1,Sunrisers,Northern Diamonds,KL Coppack,4,17,23.53,0,0,not out,KL Coppack (Sunrisers),vs Northern Diamonds (05/06/2021),<20
+1252273,2021,05-06-2021,1,Sunrisers,Northern Diamonds,KS Castle,0,16,0,0,0,out,KS Castle (Sunrisers),vs Northern Diamonds (05/06/2021),<20
+1252273,2021,05-06-2021,1,Sunrisers,Northern Diamonds,MK Villiers,1,6,16.67,0,0,out,MK Villiers (Sunrisers),vs Northern Diamonds (05/06/2021),<20
+1252273,2021,05-06-2021,1,Sunrisers,Northern Diamonds,ND Dattani,0,5,0,0,0,out,ND Dattani (Sunrisers),vs Northern Diamonds (05/06/2021),<20
+1252273,2021,05-06-2021,2,Northern Diamonds,Sunrisers,HJ Armitage,14,21,66.67,0,0,not out,HJ Armitage (Northern Diamonds),vs Sunrisers (05/06/2021),<20
+1252273,2021,05-06-2021,2,Northern Diamonds,Sunrisers,L Winfield,7,18,38.89,0,0,out,L Winfield (Northern Diamonds),vs Sunrisers (05/06/2021),<20
+1252273,2021,05-06-2021,2,Northern Diamonds,Sunrisers,NR Sciver,9,20,45,0,0,not out,NR Sciver (Northern Diamonds),vs Sunrisers (05/06/2021),<20
+1252274,2021,06-06-2021,1,Lightning,Thunder,AJ Freeborn,0,4,0,0,0,out,AJ Freeborn (Lightning),vs Thunder (06/06/2021),<20
+1252274,2021,06-06-2021,1,Lightning,Thunder,KE Bryce,74,96,77.08,1,0,out,KE Bryce (Lightning),vs Thunder (06/06/2021),50-99
+1252274,2021,06-06-2021,1,Lightning,Thunder,LF Higham,19,13,146.15,0,0,not out,LF Higham (Lightning),vs Thunder (06/06/2021),<20
+1252274,2021,06-06-2021,1,Lightning,Thunder,SB Odedra,5,7,71.43,0,0,out,SB Odedra (Lightning),vs Thunder (06/06/2021),<20
+1252274,2021,06-06-2021,1,Lightning,Thunder,SJ Bryce,24,60,40,0,0,out,SJ Bryce (Lightning),vs Thunder (06/06/2021),20-49
+1252274,2021,06-06-2021,1,Lightning,Thunder,T Graves,31,24,129.17,0,0,not out,T Graves (Lightning),vs Thunder (06/06/2021),20-49
+1252274,2021,06-06-2021,1,Lightning,Thunder,TT Beaumont,89,103,86.41,1,0,out,TT Beaumont (Lightning),vs Thunder (06/06/2021),50-99
+1252274,2021,06-06-2021,2,Thunder,Lightning,A Hartley,26,41,63.41,0,0,out,A Hartley (Thunder),vs Lightning (06/06/2021),20-49
+1252274,2021,06-06-2021,2,Thunder,Lightning,DL Collins,0,3,0,0,0,out,DL Collins (Thunder),vs Lightning (06/06/2021),<20
+1252274,2021,06-06-2021,2,Thunder,Lightning,E Threlkeld,0,2,0,0,0,out,E Threlkeld (Thunder),vs Lightning (06/06/2021),<20
+1252274,2021,06-06-2021,2,Thunder,Lightning,EL Lamb,42,61,68.85,0,0,out,EL Lamb (Thunder),vs Lightning (06/06/2021),20-49
+1252274,2021,06-06-2021,2,Thunder,Lightning,GEB Boyce,13,33,39.39,0,0,out,GEB Boyce (Thunder),vs Lightning (06/06/2021),<20
+1252274,2021,06-06-2021,2,Thunder,Lightning,HE Jones,8,18,44.44,0,0,not out,HE Jones (Thunder),vs Lightning (06/06/2021),<20
+1252274,2021,06-06-2021,2,Thunder,Lightning,KL Cross,0,6,0,0,0,out,KL Cross (Thunder),vs Lightning (06/06/2021),<20
+1252274,2021,06-06-2021,2,Thunder,Lightning,L Marshall,0,1,0,0,0,out,L Marshall (Thunder),vs Lightning (06/06/2021),<20
+1252274,2021,06-06-2021,2,Thunder,Lightning,N Brown,24,52,46.15,0,0,out,N Brown (Thunder),vs Lightning (06/06/2021),20-49
+1252274,2021,06-06-2021,2,Thunder,Lightning,P Cleary,2,19,10.53,0,0,out,P Cleary (Thunder),vs Lightning (06/06/2021),<20
+1252274,2021,06-06-2021,2,Thunder,Lightning,S Ecclestone,1,8,12.5,0,0,out,S Ecclestone (Thunder),vs Lightning (06/06/2021),<20
+1252275,2021,05-06-2021,1,Central Sparks,Southern Vipers,AE Jones,5,18,27.78,0,0,out,AE Jones (Central Sparks),vs Southern Vipers (05/06/2021),<20
+1252275,2021,05-06-2021,1,Central Sparks,Southern Vipers,E Jones,55,109,50.46,1,0,out,E Jones (Central Sparks),vs Southern Vipers (05/06/2021),50-99
+1252275,2021,05-06-2021,1,Central Sparks,Southern Vipers,EA Russell,8,5,160,0,0,not out,EA Russell (Central Sparks),vs Southern Vipers (05/06/2021),<20
+1252275,2021,05-06-2021,1,Central Sparks,Southern Vipers,EL Arlott,9,6,150,0,0,out,EL Arlott (Central Sparks),vs Southern Vipers (05/06/2021),<20
+1252275,2021,05-06-2021,1,Central Sparks,Southern Vipers,GM Davies,45,73,61.64,0,0,out,GM Davies (Central Sparks),vs Southern Vipers (05/06/2021),20-49
+1252275,2021,05-06-2021,1,Central Sparks,Southern Vipers,IECM Wong,11,10,110,0,0,out,IECM Wong (Central Sparks),vs Southern Vipers (05/06/2021),<20
+1252275,2021,05-06-2021,1,Central Sparks,Southern Vipers,M Home,11,30,36.67,0,0,out,M Home (Central Sparks),vs Southern Vipers (05/06/2021),<20
+1252275,2021,05-06-2021,1,Central Sparks,Southern Vipers,Marie Kelly,0,6,0,0,0,out,Marie Kelly (Central Sparks),vs Southern Vipers (05/06/2021),<20
+1252275,2021,05-06-2021,1,Central Sparks,Southern Vipers,RA Fackrell,4,14,28.57,0,0,out,RA Fackrell (Central Sparks),vs Southern Vipers (05/06/2021),<20
+1252275,2021,05-06-2021,1,Central Sparks,Southern Vipers,S Butler,2,8,25,0,0,out,S Butler (Central Sparks),vs Southern Vipers (05/06/2021),<20
+1252275,2021,05-06-2021,1,Central Sparks,Southern Vipers,S Glenn,40,38,105.26,0,0,out,S Glenn (Central Sparks),vs Southern Vipers (05/06/2021),20-49
+1252275,2021,05-06-2021,2,Southern Vipers,Central Sparks,AZ Monaghan,0,3,0,0,0,not out,AZ Monaghan (Southern Vipers),vs Central Sparks (05/06/2021),<20
+1252275,2021,05-06-2021,2,Southern Vipers,Central Sparks,CE Dean,0,1,0,0,0,out,CE Dean (Southern Vipers),vs Central Sparks (05/06/2021),<20
+1252275,2021,05-06-2021,2,Southern Vipers,Central Sparks,CE Rudd,10,29,34.48,0,0,out,CE Rudd (Southern Vipers),vs Central Sparks (05/06/2021),<20
+1252275,2021,05-06-2021,2,Southern Vipers,Central Sparks,CM Taylor,0,3,0,0,0,out,CM Taylor (Southern Vipers),vs Central Sparks (05/06/2021),<20
+1252275,2021,05-06-2021,2,Southern Vipers,Central Sparks,DN Wyatt,61,87,70.11,1,0,out,DN Wyatt (Southern Vipers),vs Central Sparks (05/06/2021),50-99
+1252275,2021,05-06-2021,2,Southern Vipers,Central Sparks,E Windsor,14,22,63.64,0,0,out,E Windsor (Southern Vipers),vs Central Sparks (05/06/2021),<20
+1252275,2021,05-06-2021,2,Southern Vipers,Central Sparks,EM McCaughan,0,1,0,0,0,out,EM McCaughan (Southern Vipers),vs Central Sparks (05/06/2021),<20
+1252275,2021,05-06-2021,2,Southern Vipers,Central Sparks,GA Elwiss,0,3,0,0,0,out,GA Elwiss (Southern Vipers),vs Central Sparks (05/06/2021),<20
+1252275,2021,05-06-2021,2,Southern Vipers,Central Sparks,GL Adams,3,21,14.29,0,0,out,GL Adams (Southern Vipers),vs Central Sparks (05/06/2021),<20
+1252275,2021,05-06-2021,2,Southern Vipers,Central Sparks,ME Bouchier,1,2,50,0,0,out,ME Bouchier (Southern Vipers),vs Central Sparks (05/06/2021),<20
+1252275,2021,05-06-2021,2,Southern Vipers,Central Sparks,TG Norris,1,3,33.33,0,0,out,TG Norris (Southern Vipers),vs Central Sparks (05/06/2021),<20
+1252276,2021,12-06-2021,1,South East Stars,Northern Diamonds,A Capsey,21,32,65.62,0,0,out,A Capsey (South East Stars),vs Northern Diamonds (12/06/2021),20-49
+1252276,2021,12-06-2021,1,South East Stars,Northern Diamonds,A Cranstone,42,32,131.25,0,0,not out,A Cranstone (South East Stars),vs Northern Diamonds (12/06/2021),20-49
+1252276,2021,12-06-2021,1,South East Stars,Northern Diamonds,AN Davidson-Richards,14,43,32.56,0,0,out,AN Davidson-Richards (South East Stars),vs Northern Diamonds (12/06/2021),<20
+1252276,2021,12-06-2021,1,South East Stars,Northern Diamonds,BF Smith,31,37,83.78,0,0,out,BF Smith (South East Stars),vs Northern Diamonds (12/06/2021),20-49
+1252276,2021,12-06-2021,1,South East Stars,Northern Diamonds,C Brewer,25,46,54.35,0,0,out,C Brewer (South East Stars),vs Northern Diamonds (12/06/2021),20-49
+1252276,2021,12-06-2021,1,South East Stars,Northern Diamonds,GJ Gibbs,1,2,50,0,0,out,GJ Gibbs (South East Stars),vs Northern Diamonds (12/06/2021),<20
+1252276,2021,12-06-2021,1,South East Stars,Northern Diamonds,KE White,73,93,78.49,1,0,out,KE White (South East Stars),vs Northern Diamonds (12/06/2021),50-99
+1252276,2021,12-06-2021,1,South East Stars,Northern Diamonds,PA Franklin,28,25,112,0,0,not out,PA Franklin (South East Stars),vs Northern Diamonds (12/06/2021),20-49
+1252276,2021,12-06-2021,2,Northern Diamonds,South East Stars,A Campbell,0,5,0,0,0,out,A Campbell (Northern Diamonds),vs South East Stars (12/06/2021),<20
+1252276,2021,12-06-2021,2,Northern Diamonds,South East Stars,AL MacDonald,5,7,71.43,0,0,out,AL MacDonald (Northern Diamonds),vs South East Stars (12/06/2021),<20
+1252276,2021,12-06-2021,2,Northern Diamonds,South East Stars,BA Langston,59,58,101.72,1,0,not out,BA Langston (Northern Diamonds),vs South East Stars (12/06/2021),50-99
+1252276,2021,12-06-2021,2,Northern Diamonds,South East Stars,HJ Armitage,21,24,87.5,0,0,out,HJ Armitage (Northern Diamonds),vs South East Stars (12/06/2021),20-49
+1252276,2021,12-06-2021,2,Northern Diamonds,South East Stars,JL Gunn,50,72,69.44,1,0,out,JL Gunn (Northern Diamonds),vs South East Stars (12/06/2021),50-99
+1252276,2021,12-06-2021,2,Northern Diamonds,South East Stars,LCN Smith,7,8,87.5,0,0,not out,LCN Smith (Northern Diamonds),vs South East Stars (12/06/2021),<20
+1252276,2021,12-06-2021,2,Northern Diamonds,South East Stars,RHM Hopkins,12,20,60,0,0,out,RHM Hopkins (Northern Diamonds),vs South East Stars (12/06/2021),<20
+1252276,2021,12-06-2021,2,Northern Diamonds,South East Stars,SJ Taylor,2,6,33.33,0,0,out,SJ Taylor (Northern Diamonds),vs South East Stars (12/06/2021),<20
+1252276,2021,12-06-2021,2,Northern Diamonds,South East Stars,SL Kalis,76,110,69.09,1,0,out,SL Kalis (Northern Diamonds),vs South East Stars (12/06/2021),50-99
+1252277,2021,12-06-2021,1,Sunrisers,Lightning,AD Carr,10,15,66.67,0,0,out,AD Carr (Sunrisers),vs Lightning (12/06/2021),<20
+1252277,2021,12-06-2021,1,Sunrisers,Lightning,AJ Macleod,4,23,17.39,0,0,out,AJ Macleod (Sunrisers),vs Lightning (12/06/2021),<20
+1252277,2021,12-06-2021,1,Sunrisers,Lightning,CL Griffith,33,60,55,0,0,out,CL Griffith (Sunrisers),vs Lightning (12/06/2021),20-49
+1252277,2021,12-06-2021,1,Sunrisers,Lightning,G Scrivens,3,10,30,0,0,out,G Scrivens (Sunrisers),vs Lightning (12/06/2021),<20
+1252277,2021,12-06-2021,1,Sunrisers,Lightning,GKS Gole,0,2,0,0,0,out,GKS Gole (Sunrisers),vs Lightning (12/06/2021),<20
+1252277,2021,12-06-2021,1,Sunrisers,Lightning,J Gardner,0,4,0,0,0,out,J Gardner (Sunrisers),vs Lightning (12/06/2021),<20
+1252277,2021,12-06-2021,1,Sunrisers,Lightning,K Speed,2,7,28.57,0,0,out,K Speed (Sunrisers),vs Lightning (12/06/2021),<20
+1252277,2021,12-06-2021,1,Sunrisers,Lightning,KL Coppack,6,14,42.86,0,0,not out,KL Coppack (Sunrisers),vs Lightning (12/06/2021),<20
+1252277,2021,12-06-2021,1,Sunrisers,Lightning,KL Midwood,10,20,50,0,0,not out,KL Midwood (Sunrisers),vs Lightning (12/06/2021),<20
+1252277,2021,12-06-2021,1,Sunrisers,Lightning,KS Castle,52,68,76.47,1,0,out,KS Castle (Sunrisers),vs Lightning (12/06/2021),50-99
+1252277,2021,12-06-2021,1,Sunrisers,Lightning,ND Dattani,65,94,69.15,1,0,out,ND Dattani (Sunrisers),vs Lightning (12/06/2021),50-99
+1252277,2021,12-06-2021,2,Lightning,Sunrisers,AJ Freeborn,44,49,89.8,0,0,out,AJ Freeborn (Lightning),vs Sunrisers (12/06/2021),20-49
+1252277,2021,12-06-2021,2,Lightning,Sunrisers,KE Bryce,12,32,37.5,0,0,out,KE Bryce (Lightning),vs Sunrisers (12/06/2021),<20
+1252277,2021,12-06-2021,2,Lightning,Sunrisers,LF Higham,26,31,83.87,0,0,out,LF Higham (Lightning),vs Sunrisers (12/06/2021),20-49
+1252277,2021,12-06-2021,2,Lightning,Sunrisers,ML Kirk,57,71,80.28,1,0,out,ML Kirk (Lightning),vs Sunrisers (12/06/2021),50-99
+1252277,2021,12-06-2021,2,Lightning,Sunrisers,SB Odedra,24,37,64.86,0,0,not out,SB Odedra (Lightning),vs Sunrisers (12/06/2021),20-49
+1252277,2021,12-06-2021,2,Lightning,Sunrisers,SJ Bryce,16,37,43.24,0,0,out,SJ Bryce (Lightning),vs Sunrisers (12/06/2021),<20
+1252277,2021,12-06-2021,2,Lightning,Sunrisers,T Graves,5,4,125,0,0,not out,T Graves (Lightning),vs Sunrisers (12/06/2021),<20
+1252278,2021,12-06-2021,1,Central Sparks,Thunder,CK Boycott,17,41,41.46,0,0,out,CK Boycott (Central Sparks),vs Thunder (12/06/2021),<20
+1252278,2021,12-06-2021,1,Central Sparks,Thunder,E Jones,100,154,64.94,0,1,not out,E Jones (Central Sparks),vs Thunder (12/06/2021),>=100
+1252278,2021,12-06-2021,1,Central Sparks,Thunder,EA Russell,2,4,50,0,0,out,EA Russell (Central Sparks),vs Thunder (12/06/2021),<20
+1252278,2021,12-06-2021,1,Central Sparks,Thunder,GK Davis,4,4,100,0,0,out,GK Davis (Central Sparks),vs Thunder (12/06/2021),<20
+1252278,2021,12-06-2021,1,Central Sparks,Thunder,GM Davies,0,6,0,0,0,out,GM Davies (Central Sparks),vs Thunder (12/06/2021),<20
+1252278,2021,12-06-2021,1,Central Sparks,Thunder,IECM Wong,18,23,78.26,0,0,out,IECM Wong (Central Sparks),vs Thunder (12/06/2021),<20
+1252278,2021,12-06-2021,1,Central Sparks,Thunder,M Home,1,5,20,0,0,out,M Home (Central Sparks),vs Thunder (12/06/2021),<20
+1252278,2021,12-06-2021,1,Central Sparks,Thunder,P Davies,0,1,0,0,0,out,P Davies (Central Sparks),vs Thunder (12/06/2021),<20
+1252278,2021,12-06-2021,1,Central Sparks,Thunder,RA Fackrell,7,8,87.5,0,0,out,RA Fackrell (Central Sparks),vs Thunder (12/06/2021),<20
+1252278,2021,12-06-2021,1,Central Sparks,Thunder,S Butler,25,60,41.67,0,0,out,S Butler (Central Sparks),vs Thunder (12/06/2021),20-49
+1252278,2021,12-06-2021,1,Central Sparks,Thunder,S Glenn,0,6,0,0,0,out,S Glenn (Central Sparks),vs Thunder (12/06/2021),<20
+1252278,2021,12-06-2021,2,Thunder,Central Sparks,A Hartley,4,3,133.33,0,0,not out,A Hartley (Thunder),vs Central Sparks (12/06/2021),<20
+1252278,2021,12-06-2021,2,Thunder,Central Sparks,DL Collins,8,25,32,0,0,not out,DL Collins (Thunder),vs Central Sparks (12/06/2021),<20
+1252278,2021,12-06-2021,2,Thunder,Central Sparks,E Threlkeld,31,51,60.78,0,0,out,E Threlkeld (Thunder),vs Central Sparks (12/06/2021),20-49
+1252278,2021,12-06-2021,2,Thunder,Central Sparks,EL Lamb,39,47,82.98,0,0,out,EL Lamb (Thunder),vs Central Sparks (12/06/2021),20-49
+1252278,2021,12-06-2021,2,Thunder,Central Sparks,GEB Boyce,26,34,76.47,0,0,out,GEB Boyce (Thunder),vs Central Sparks (12/06/2021),20-49
+1252278,2021,12-06-2021,2,Thunder,Central Sparks,L Jackson,30,56,53.57,0,0,out,L Jackson (Thunder),vs Central Sparks (12/06/2021),20-49
+1252278,2021,12-06-2021,2,Thunder,Central Sparks,L Marshall,32,55,58.18,0,0,out,L Marshall (Thunder),vs Central Sparks (12/06/2021),20-49
+1252278,2021,12-06-2021,2,Thunder,Central Sparks,N Brown,6,12,50,0,0,out,N Brown (Thunder),vs Central Sparks (12/06/2021),<20
+1252278,2021,12-06-2021,2,Thunder,Central Sparks,P Cleary,1,6,16.67,0,0,out,P Cleary (Thunder),vs Central Sparks (12/06/2021),<20
+1252278,2021,12-06-2021,2,Thunder,Central Sparks,R Duckworth,1,12,8.33,0,0,out,R Duckworth (Thunder),vs Central Sparks (12/06/2021),<20
+1252279,2021,12-06-2021,1,Western Storm,Southern Vipers,DR Gibson,16,14,114.29,0,0,out,DR Gibson (Western Storm),vs Southern Vipers (12/06/2021),<20
+1252279,2021,12-06-2021,1,Western Storm,Southern Vipers,E Corney,7,13,53.85,0,0,out,E Corney (Western Storm),vs Southern Vipers (12/06/2021),<20
+1252279,2021,12-06-2021,1,Western Storm,Southern Vipers,FMK Morris,32,58,55.17,0,0,out,FMK Morris (Western Storm),vs Southern Vipers (12/06/2021),20-49
+1252279,2021,12-06-2021,1,Western Storm,Southern Vipers,GM Hennessy,11,25,44,0,0,out,GM Hennessy (Western Storm),vs Southern Vipers (12/06/2021),<20
+1252279,2021,12-06-2021,1,Western Storm,Southern Vipers,KL George,37,65,56.92,0,0,out,KL George (Western Storm),vs Southern Vipers (12/06/2021),20-49
+1252279,2021,12-06-2021,1,Western Storm,Southern Vipers,L Filer,5,8,62.5,0,0,not out,L Filer (Western Storm),vs Southern Vipers (12/06/2021),<20
+1252279,2021,12-06-2021,1,Western Storm,Southern Vipers,LA Parfitt,10,42,23.81,0,0,out,LA Parfitt (Western Storm),vs Southern Vipers (12/06/2021),<20
+1252279,2021,12-06-2021,1,Western Storm,Southern Vipers,MJ Robbins,6,25,24,0,0,out,MJ Robbins (Western Storm),vs Southern Vipers (12/06/2021),<20
+1252279,2021,12-06-2021,1,Western Storm,Southern Vipers,N Harvey,0,6,0,0,0,out,N Harvey (Western Storm),vs Southern Vipers (12/06/2021),<20
+1252279,2021,12-06-2021,1,Western Storm,Southern Vipers,NAJ Wraith,21,33,63.64,0,0,out,NAJ Wraith (Western Storm),vs Southern Vipers (12/06/2021),20-49
+1252279,2021,12-06-2021,1,Western Storm,Southern Vipers,SN Luff,8,26,30.77,0,0,out,SN Luff (Western Storm),vs Southern Vipers (12/06/2021),<20
+1252279,2021,12-06-2021,2,Southern Vipers,Western Storm,DN Wyatt,28,31,90.32,0,0,out,DN Wyatt (Southern Vipers),vs Western Storm (12/06/2021),20-49
+1252279,2021,12-06-2021,2,Southern Vipers,Western Storm,EM McCaughan,4,14,28.57,0,0,not out,EM McCaughan (Southern Vipers),vs Western Storm (12/06/2021),<20
+1252279,2021,12-06-2021,2,Southern Vipers,Western Storm,GL Adams,77,105,73.33,1,0,out,GL Adams (Southern Vipers),vs Western Storm (12/06/2021),50-99
+1252279,2021,12-06-2021,2,Southern Vipers,Western Storm,ME Bouchier,57,70,81.43,1,0,not out,ME Bouchier (Southern Vipers),vs Western Storm (12/06/2021),50-99
+1252280,2021,10-09-2021,1,Western Storm,Northern Diamonds,A Griffiths,36,39,92.31,0,0,out,A Griffiths (Western Storm),vs Northern Diamonds (10/09/2021),20-49
+1252280,2021,10-09-2021,1,Western Storm,Northern Diamonds,B Gammon,0,9,0,0,0,out,B Gammon (Western Storm),vs Northern Diamonds (10/09/2021),<20
+1252280,2021,10-09-2021,1,Western Storm,Northern Diamonds,C Skelton,30,52,57.69,0,0,out,C Skelton (Western Storm),vs Northern Diamonds (10/09/2021),20-49
+1252280,2021,10-09-2021,1,Western Storm,Northern Diamonds,DR Gibson,0,2,0,0,0,out,DR Gibson (Western Storm),vs Northern Diamonds (10/09/2021),<20
+1252280,2021,10-09-2021,1,Western Storm,Northern Diamonds,FMK Morris,30,33,90.91,0,0,out,FMK Morris (Western Storm),vs Northern Diamonds (10/09/2021),20-49
+1252280,2021,10-09-2021,1,Western Storm,Northern Diamonds,GM Hennessy,5,17,29.41,0,0,out,GM Hennessy (Western Storm),vs Northern Diamonds (10/09/2021),<20
+1252280,2021,10-09-2021,1,Western Storm,Northern Diamonds,J Roberts,0,4,0,0,0,out,J Roberts (Western Storm),vs Northern Diamonds (10/09/2021),<20
+1252280,2021,10-09-2021,1,Western Storm,Northern Diamonds,L Filer,0,1,0,0,0,out,L Filer (Western Storm),vs Northern Diamonds (10/09/2021),<20
+1252280,2021,10-09-2021,1,Western Storm,Northern Diamonds,NAJ Wraith,0,1,0,0,0,out,NAJ Wraith (Western Storm),vs Northern Diamonds (10/09/2021),<20
+1252280,2021,10-09-2021,1,Western Storm,Northern Diamonds,SN Luff,65,82,79.27,1,0,out,SN Luff (Western Storm),vs Northern Diamonds (10/09/2021),50-99
+1252280,2021,10-09-2021,2,Northern Diamonds,Western Storm,BAM Heath,32,33,96.97,0,0,not out,BAM Heath (Northern Diamonds),vs Western Storm (10/09/2021),20-49
+1252280,2021,10-09-2021,2,Northern Diamonds,Western Storm,HJ Armitage,68,75,90.67,1,0,not out,HJ Armitage (Northern Diamonds),vs Western Storm (10/09/2021),50-99
+1252280,2021,10-09-2021,2,Northern Diamonds,Western Storm,L Dobson,16,19,84.21,0,0,out,L Dobson (Northern Diamonds),vs Western Storm (10/09/2021),<20
+1252280,2021,10-09-2021,2,Northern Diamonds,Western Storm,L Winfield,16,30,53.33,0,0,out,L Winfield (Northern Diamonds),vs Western Storm (10/09/2021),<20
+1252280,2021,10-09-2021,2,Northern Diamonds,Western Storm,SL Kalis,32,46,69.57,0,0,out,SL Kalis (Northern Diamonds),vs Western Storm (10/09/2021),20-49
+1252281,2021,10-09-2021,1,South East Stars,Lightning,A Capsey,78,77,101.3,1,0,out,A Capsey (South East Stars),vs Lightning (10/09/2021),50-99
+1252281,2021,10-09-2021,1,South East Stars,Lightning,A Cranstone,17,23,73.91,0,0,out,A Cranstone (South East Stars),vs Lightning (10/09/2021),<20
+1252281,2021,10-09-2021,1,South East Stars,Lightning,AN Davidson-Richards,5,11,45.45,0,0,out,AN Davidson-Richards (South East Stars),vs Lightning (10/09/2021),<20
+1252281,2021,10-09-2021,1,South East Stars,Lightning,BF Smith,84,75,112,1,0,out,BF Smith (South East Stars),vs Lightning (10/09/2021),50-99
+1252281,2021,10-09-2021,1,South East Stars,Lightning,Emma Jones,20,15,133.33,0,0,not out,Emma Jones (South East Stars),vs Lightning (10/09/2021),20-49
+1252281,2021,10-09-2021,1,South East Stars,Lightning,GJ Gibbs,1,3,33.33,0,0,out,GJ Gibbs (South East Stars),vs Lightning (10/09/2021),<20
+1252281,2021,10-09-2021,1,South East Stars,Lightning,K Moore,39,35,111.43,0,0,out,K Moore (South East Stars),vs Lightning (10/09/2021),20-49
+1252281,2021,10-09-2021,1,South East Stars,Lightning,KE White,6,17,35.29,0,0,out,KE White (South East Stars),vs Lightning (10/09/2021),<20
+1252281,2021,10-09-2021,1,South East Stars,Lightning,KM Chathli,21,33,63.64,0,0,out,KM Chathli (South East Stars),vs Lightning (10/09/2021),20-49
+1252281,2021,10-09-2021,1,South East Stars,Lightning,PA Franklin,9,20,45,0,0,out,PA Franklin (South East Stars),vs Lightning (10/09/2021),<20
+1252281,2021,10-09-2021,2,Lightning,South East Stars,AJ Freeborn,24,47,51.06,0,0,out,AJ Freeborn (Lightning),vs South East Stars (10/09/2021),20-49
+1252281,2021,10-09-2021,2,Lightning,South East Stars,B Harmer,14,16,87.5,0,0,out,B Harmer (Lightning),vs South East Stars (10/09/2021),<20
+1252281,2021,10-09-2021,2,Lightning,South East Stars,E Claridge,7,13,53.85,0,0,out,E Claridge (Lightning),vs South East Stars (10/09/2021),<20
+1252281,2021,10-09-2021,2,Lightning,South East Stars,G Ballinger,6,4,150,0,0,out,G Ballinger (Lightning),vs South East Stars (10/09/2021),<20
+1252281,2021,10-09-2021,2,Lightning,South East Stars,J Groves,2,3,66.67,0,0,not out,J Groves (Lightning),vs South East Stars (10/09/2021),<20
+1252281,2021,10-09-2021,2,Lightning,South East Stars,KE Bryce,87,121,71.9,1,0,out,KE Bryce (Lightning),vs South East Stars (10/09/2021),50-99
+1252281,2021,10-09-2021,2,Lightning,South East Stars,KL Gordon,24,36,66.67,0,0,out,KL Gordon (Lightning),vs South East Stars (10/09/2021),20-49
+1252281,2021,10-09-2021,2,Lightning,South East Stars,S Munro,17,17,100,0,0,out,S Munro (Lightning),vs South East Stars (10/09/2021),<20
+1252281,2021,10-09-2021,2,Lightning,South East Stars,SJ Bryce,45,42,107.14,0,0,out,SJ Bryce (Lightning),vs South East Stars (10/09/2021),20-49
+1252281,2021,10-09-2021,2,Lightning,South East Stars,T Graves,4,10,40,0,0,out,T Graves (Lightning),vs South East Stars (10/09/2021),<20
+1252281,2021,10-09-2021,2,Lightning,South East Stars,Y Graves,4,8,50,0,0,out,Y Graves (Lightning),vs South East Stars (10/09/2021),<20
+1252282,2021,10-09-2021,1,Sunrisers,Central Sparks,AJ Macleod,46,46,100,0,0,out,AJ Macleod (Sunrisers),vs Central Sparks (10/09/2021),20-49
+1252282,2021,10-09-2021,1,Sunrisers,Central Sparks,CL Griffith,69,103,66.99,1,0,out,CL Griffith (Sunrisers),vs Central Sparks (10/09/2021),50-99
+1252282,2021,10-09-2021,1,Sunrisers,Central Sparks,FC Wilson,0,6,0,0,0,out,FC Wilson (Sunrisers),vs Central Sparks (10/09/2021),<20
+1252282,2021,10-09-2021,1,Sunrisers,Central Sparks,G Scrivens,26,57,45.61,0,0,out,G Scrivens (Sunrisers),vs Central Sparks (10/09/2021),20-49
+1252282,2021,10-09-2021,1,Sunrisers,Central Sparks,J Gardner,19,18,105.56,0,0,out,J Gardner (Sunrisers),vs Central Sparks (10/09/2021),<20
+1252282,2021,10-09-2021,1,Sunrisers,Central Sparks,KS Castle,8,14,57.14,0,0,out,KS Castle (Sunrisers),vs Central Sparks (10/09/2021),<20
+1252282,2021,10-09-2021,1,Sunrisers,Central Sparks,M Rogers,8,10,80,0,0,not out,M Rogers (Sunrisers),vs Central Sparks (10/09/2021),<20
+1252282,2021,10-09-2021,1,Sunrisers,Central Sparks,ND Dattani,7,9,77.78,0,0,out,ND Dattani (Sunrisers),vs Central Sparks (10/09/2021),<20
+1252282,2021,10-09-2021,2,Central Sparks,Sunrisers,D Perrin,20,36,55.56,0,0,out,D Perrin (Central Sparks),vs Sunrisers (10/09/2021),20-49
+1252282,2021,10-09-2021,2,Central Sparks,Sunrisers,E Jones,31,46,67.39,0,0,out,E Jones (Central Sparks),vs Sunrisers (10/09/2021),20-49
+1252282,2021,10-09-2021,2,Central Sparks,Sunrisers,GM Davies,50,63,79.37,1,0,out,GM Davies (Central Sparks),vs Sunrisers (10/09/2021),50-99
+1252282,2021,10-09-2021,2,Central Sparks,Sunrisers,Marie Kelly,58,68,85.29,1,0,out,Marie Kelly (Central Sparks),vs Sunrisers (10/09/2021),50-99
+1252282,2021,10-09-2021,2,Central Sparks,Sunrisers,TF Brookes,22,31,70.97,0,0,not out,TF Brookes (Central Sparks),vs Sunrisers (10/09/2021),20-49
+1252283,2021,10-09-2021,1,Thunder,Southern Vipers,A Hartley,0,1,0,0,0,not out,A Hartley (Thunder),vs Southern Vipers (10/09/2021),<20
+1252283,2021,10-09-2021,1,Thunder,Southern Vipers,AE Dyson,6,35,17.14,0,0,out,AE Dyson (Thunder),vs Southern Vipers (10/09/2021),<20
+1252283,2021,10-09-2021,1,Thunder,Southern Vipers,E Threlkeld,0,8,0,0,0,out,E Threlkeld (Thunder),vs Southern Vipers (10/09/2021),<20
+1252283,2021,10-09-2021,1,Thunder,Southern Vipers,EL Lamb,17,31,54.84,0,0,out,EL Lamb (Thunder),vs Southern Vipers (10/09/2021),<20
+1252283,2021,10-09-2021,1,Thunder,Southern Vipers,GEB Boyce,4,5,80,0,0,out,GEB Boyce (Thunder),vs Southern Vipers (10/09/2021),<20
+1252283,2021,10-09-2021,1,Thunder,Southern Vipers,HE Jones,2,8,25,0,0,out,HE Jones (Thunder),vs Southern Vipers (10/09/2021),<20
+1252283,2021,10-09-2021,1,Thunder,Southern Vipers,KL Cross,57,87,65.52,1,0,out,KL Cross (Thunder),vs Southern Vipers (10/09/2021),50-99
+1252283,2021,10-09-2021,1,Thunder,Southern Vipers,L Jackson,4,16,25,0,0,out,L Jackson (Thunder),vs Southern Vipers (10/09/2021),<20
+1252283,2021,10-09-2021,1,Thunder,Southern Vipers,L Marshall,2,9,22.22,0,0,out,L Marshall (Thunder),vs Southern Vipers (10/09/2021),<20
+1252283,2021,10-09-2021,1,Thunder,Southern Vipers,N Brown,1,4,25,0,0,out,N Brown (Thunder),vs Southern Vipers (10/09/2021),<20
+1252283,2021,10-09-2021,1,Thunder,Southern Vipers,S Smale,0,1,0,0,0,out,S Smale (Thunder),vs Southern Vipers (10/09/2021),<20
+1252283,2021,10-09-2021,2,Southern Vipers,Thunder,AZ Monaghan,0,1,0,0,0,not out,AZ Monaghan (Southern Vipers),vs Thunder (10/09/2021),<20
+1252283,2021,10-09-2021,2,Southern Vipers,Thunder,CE Rudd,13,42,30.95,0,0,out,CE Rudd (Southern Vipers),vs Thunder (10/09/2021),<20
+1252283,2021,10-09-2021,2,Southern Vipers,Thunder,E Windsor,26,57,45.61,0,0,not out,E Windsor (Southern Vipers),vs Thunder (10/09/2021),20-49
+1252283,2021,10-09-2021,2,Southern Vipers,Thunder,EM McCaughan,41,49,83.67,0,0,out,EM McCaughan (Southern Vipers),vs Thunder (10/09/2021),20-49
+1252283,2021,10-09-2021,2,Southern Vipers,Thunder,GA Elwiss,0,4,0,0,0,out,GA Elwiss (Southern Vipers),vs Thunder (10/09/2021),<20
+1252283,2021,10-09-2021,2,Southern Vipers,Thunder,GH Lewis,16,26,61.54,0,0,out,GH Lewis (Southern Vipers),vs Thunder (10/09/2021),<20
+1252283,2021,10-09-2021,2,Southern Vipers,Thunder,GL Adams,2,11,18.18,0,0,out,GL Adams (Southern Vipers),vs Thunder (10/09/2021),<20
+1252283,2021,10-09-2021,2,Southern Vipers,Thunder,PJ Scholfield,2,13,15.38,0,0,out,PJ Scholfield (Southern Vipers),vs Thunder (10/09/2021),<20
+1252283,2021,10-09-2021,2,Southern Vipers,Thunder,TG Norris,0,7,0,0,0,out,TG Norris (Southern Vipers),vs Thunder (10/09/2021),<20
+1252284,2021,12-09-2021,1,Northern Diamonds,Thunder,A Campbell,48,50,96,0,0,out,A Campbell (Northern Diamonds),vs Thunder (12/09/2021),20-49
+1252284,2021,12-09-2021,1,Northern Diamonds,Thunder,BA Langston,58,30,193.33,1,0,not out,BA Langston (Northern Diamonds),vs Thunder (12/09/2021),50-99
+1252284,2021,12-09-2021,1,Northern Diamonds,Thunder,BAM Heath,78,65,120,1,0,not out,BAM Heath (Northern Diamonds),vs Thunder (12/09/2021),50-99
+1252284,2021,12-09-2021,1,Northern Diamonds,Thunder,HJ Armitage,7,16,43.75,0,0,out,HJ Armitage (Northern Diamonds),vs Thunder (12/09/2021),<20
+1252284,2021,12-09-2021,1,Northern Diamonds,Thunder,L Dobson,9,22,40.91,0,0,out,L Dobson (Northern Diamonds),vs Thunder (12/09/2021),<20
+1252284,2021,12-09-2021,1,Northern Diamonds,Thunder,LCN Smith,6,13,46.15,0,0,out,LCN Smith (Northern Diamonds),vs Thunder (12/09/2021),<20
+1252284,2021,12-09-2021,1,Northern Diamonds,Thunder,RHM Hopkins,20,42,47.62,0,0,out,RHM Hopkins (Northern Diamonds),vs Thunder (12/09/2021),20-49
+1252284,2021,12-09-2021,1,Northern Diamonds,Thunder,SL Kalis,57,67,85.07,1,0,out,SL Kalis (Northern Diamonds),vs Thunder (12/09/2021),50-99
+1252284,2021,12-09-2021,2,Thunder,Northern Diamonds,A Hartley,6,6,100,0,0,not out,A Hartley (Thunder),vs Northern Diamonds (12/09/2021),<20
+1252284,2021,12-09-2021,2,Thunder,Northern Diamonds,AE Dyson,3,16,18.75,0,0,out,AE Dyson (Thunder),vs Northern Diamonds (12/09/2021),<20
+1252284,2021,12-09-2021,2,Thunder,Northern Diamonds,D Mullan,8,27,29.63,0,0,out,D Mullan (Thunder),vs Northern Diamonds (12/09/2021),<20
+1252284,2021,12-09-2021,2,Thunder,Northern Diamonds,E Threlkeld,13,25,52,0,0,out,E Threlkeld (Thunder),vs Northern Diamonds (12/09/2021),<20
+1252284,2021,12-09-2021,2,Thunder,Northern Diamonds,GEB Boyce,67,104,64.42,1,0,out,GEB Boyce (Thunder),vs Northern Diamonds (12/09/2021),50-99
+1252284,2021,12-09-2021,2,Thunder,Northern Diamonds,HE Jones,3,6,50,0,0,not out,HE Jones (Thunder),vs Northern Diamonds (12/09/2021),<20
+1252284,2021,12-09-2021,2,Thunder,Northern Diamonds,L Jackson,22,38,57.89,0,0,out,L Jackson (Thunder),vs Northern Diamonds (12/09/2021),20-49
+1252284,2021,12-09-2021,2,Thunder,Northern Diamonds,L Marshall,42,41,102.44,0,0,out,L Marshall (Thunder),vs Northern Diamonds (12/09/2021),20-49
+1252284,2021,12-09-2021,2,Thunder,Northern Diamonds,N Brown,2,13,15.38,0,0,out,N Brown (Thunder),vs Northern Diamonds (12/09/2021),<20
+1252284,2021,12-09-2021,2,Thunder,Northern Diamonds,S Smale,12,31,38.71,0,0,out,S Smale (Thunder),vs Northern Diamonds (12/09/2021),<20
+1252285,2021,12-09-2021,1,Central Sparks,South East Stars,CAE Hill,1,1,100,0,0,out,CAE Hill (Central Sparks),vs South East Stars (12/09/2021),<20
+1252285,2021,12-09-2021,1,Central Sparks,South East Stars,CK Boycott,15,28,53.57,0,0,out,CK Boycott (Central Sparks),vs South East Stars (12/09/2021),<20
+1252285,2021,12-09-2021,1,Central Sparks,South East Stars,D Perrin,43,61,70.49,0,0,out,D Perrin (Central Sparks),vs South East Stars (12/09/2021),20-49
+1252285,2021,12-09-2021,1,Central Sparks,South East Stars,E Jones,39,45,86.67,0,0,out,E Jones (Central Sparks),vs South East Stars (12/09/2021),20-49
+1252285,2021,12-09-2021,1,Central Sparks,South East Stars,EL Arlott,20,40,50,0,0,not out,EL Arlott (Central Sparks),vs South East Stars (12/09/2021),20-49
+1252285,2021,12-09-2021,1,Central Sparks,South East Stars,GK Davis,13,24,54.17,0,0,out,GK Davis (Central Sparks),vs South East Stars (12/09/2021),<20
+1252285,2021,12-09-2021,1,Central Sparks,South East Stars,GM Davies,0,5,0,0,0,out,GM Davies (Central Sparks),vs South East Stars (12/09/2021),<20
+1252285,2021,12-09-2021,1,Central Sparks,South East Stars,IECM Wong,11,15,73.33,0,0,out,IECM Wong (Central Sparks),vs South East Stars (12/09/2021),<20
+1252285,2021,12-09-2021,1,Central Sparks,South East Stars,Marie Kelly,24,43,55.81,0,0,out,Marie Kelly (Central Sparks),vs South East Stars (12/09/2021),20-49
+1252285,2021,12-09-2021,1,Central Sparks,South East Stars,RA Fackrell,1,2,50,0,0,out,RA Fackrell (Central Sparks),vs South East Stars (12/09/2021),<20
+1252285,2021,12-09-2021,1,Central Sparks,South East Stars,TF Brookes,33,47,70.21,0,0,out,TF Brookes (Central Sparks),vs South East Stars (12/09/2021),20-49
+1252285,2021,12-09-2021,2,South East Stars,Central Sparks,A Capsey,26,33,78.79,0,0,out,A Capsey (South East Stars),vs Central Sparks (12/09/2021),20-49
+1252285,2021,12-09-2021,2,South East Stars,Central Sparks,A Cranstone,18,30,60,0,0,out,A Cranstone (South East Stars),vs Central Sparks (12/09/2021),<20
+1252285,2021,12-09-2021,2,South East Stars,Central Sparks,AN Davidson-Richards,4,26,15.38,0,0,out,AN Davidson-Richards (South East Stars),vs Central Sparks (12/09/2021),<20
+1252285,2021,12-09-2021,2,South East Stars,Central Sparks,BF Smith,16,15,106.67,0,0,out,BF Smith (South East Stars),vs Central Sparks (12/09/2021),<20
+1252285,2021,12-09-2021,2,South East Stars,Central Sparks,D Gregory,0,4,0,0,0,not out,D Gregory (South East Stars),vs Central Sparks (12/09/2021),<20
+1252285,2021,12-09-2021,2,South East Stars,Central Sparks,Emma Jones,0,2,0,0,0,out,Emma Jones (South East Stars),vs Central Sparks (12/09/2021),<20
+1252285,2021,12-09-2021,2,South East Stars,Central Sparks,K Moore,11,20,55,0,0,out,K Moore (South East Stars),vs Central Sparks (12/09/2021),<20
+1252285,2021,12-09-2021,2,South East Stars,Central Sparks,KE White,13,35,37.14,0,0,out,KE White (South East Stars),vs Central Sparks (12/09/2021),<20
+1252285,2021,12-09-2021,2,South East Stars,Central Sparks,KM Chathli,3,10,30,0,0,out,KM Chathli (South East Stars),vs Central Sparks (12/09/2021),<20
+1252285,2021,12-09-2021,2,South East Stars,Central Sparks,PA Franklin,7,6,116.67,0,0,out,PA Franklin (South East Stars),vs Central Sparks (12/09/2021),<20
+1252285,2021,12-09-2021,2,South East Stars,Central Sparks,R MacDonald-Gay,0,17,0,0,0,out,R MacDonald-Gay (South East Stars),vs Central Sparks (12/09/2021),<20
+1252286,2021,12-09-2021,1,Western Storm,Lightning,A Griffiths,30,50,60,0,0,out,A Griffiths (Western Storm),vs Lightning (12/09/2021),20-49
+1252286,2021,12-09-2021,1,Western Storm,Lightning,C Skelton,13,12,108.33,0,0,not out,C Skelton (Western Storm),vs Lightning (12/09/2021),<20
+1252286,2021,12-09-2021,1,Western Storm,Lightning,DR Gibson,29,28,103.57,0,0,out,DR Gibson (Western Storm),vs Lightning (12/09/2021),20-49
+1252286,2021,12-09-2021,1,Western Storm,Lightning,FMK Morris,25,33,75.76,0,0,out,FMK Morris (Western Storm),vs Lightning (12/09/2021),20-49
+1252286,2021,12-09-2021,1,Western Storm,Lightning,GM Hennessy,0,7,0,0,0,out,GM Hennessy (Western Storm),vs Lightning (12/09/2021),<20
+1252286,2021,12-09-2021,1,Western Storm,Lightning,LA Parfitt,11,33,33.33,0,0,out,LA Parfitt (Western Storm),vs Lightning (12/09/2021),<20
+1252286,2021,12-09-2021,1,Western Storm,Lightning,N Harvey,19,20,95,0,0,not out,N Harvey (Western Storm),vs Lightning (12/09/2021),<20
+1252286,2021,12-09-2021,1,Western Storm,Lightning,NAJ Wraith,13,14,92.86,0,0,out,NAJ Wraith (Western Storm),vs Lightning (12/09/2021),<20
+1252286,2021,12-09-2021,1,Western Storm,Lightning,SN Luff,70,112,62.5,1,0,out,SN Luff (Western Storm),vs Lightning (12/09/2021),50-99
+1252286,2021,12-09-2021,2,Lightning,Western Storm,AJ Freeborn,7,19,36.84,0,0,out,AJ Freeborn (Lightning),vs Western Storm (12/09/2021),<20
+1252286,2021,12-09-2021,2,Lightning,Western Storm,B Harmer,5,6,83.33,0,0,out,B Harmer (Lightning),vs Western Storm (12/09/2021),<20
+1252286,2021,12-09-2021,2,Lightning,Western Storm,E Claridge,39,49,79.59,0,0,not out,E Claridge (Lightning),vs Western Storm (12/09/2021),20-49
+1252286,2021,12-09-2021,2,Lightning,Western Storm,G Ballinger,18,18,100,0,0,out,G Ballinger (Lightning),vs Western Storm (12/09/2021),<20
+1252286,2021,12-09-2021,2,Lightning,Western Storm,KE Bryce,4,8,50,0,0,out,KE Bryce (Lightning),vs Western Storm (12/09/2021),<20
+1252286,2021,12-09-2021,2,Lightning,Western Storm,KL Gordon,3,10,30,0,0,out,KL Gordon (Lightning),vs Western Storm (12/09/2021),<20
+1252286,2021,12-09-2021,2,Lightning,Western Storm,LF Higham,23,55,41.82,0,0,out,LF Higham (Lightning),vs Western Storm (12/09/2021),20-49
+1252286,2021,12-09-2021,2,Lightning,Western Storm,S Munro,3,7,42.86,0,0,out,S Munro (Lightning),vs Western Storm (12/09/2021),<20
+1252286,2021,12-09-2021,2,Lightning,Western Storm,SJ Bryce,27,39,69.23,0,0,out,SJ Bryce (Lightning),vs Western Storm (12/09/2021),20-49
+1252286,2021,12-09-2021,2,Lightning,Western Storm,T Graves,17,33,51.52,0,0,out,T Graves (Lightning),vs Western Storm (12/09/2021),<20
+1252286,2021,12-09-2021,2,Lightning,Western Storm,Y Graves,8,12,66.67,0,0,out,Y Graves (Lightning),vs Western Storm (12/09/2021),<20
+1252287,2021,12-09-2021,1,Southern Vipers,Sunrisers,CE Rudd,1,1,100,0,0,out,CE Rudd (Southern Vipers),vs Sunrisers (12/09/2021),<20
+1252287,2021,12-09-2021,1,Southern Vipers,Sunrisers,E Windsor,0,1,0,0,0,out,E Windsor (Southern Vipers),vs Sunrisers (12/09/2021),<20
+1252287,2021,12-09-2021,1,Southern Vipers,Sunrisers,EM McCaughan,23,14,164.29,0,0,out,EM McCaughan (Southern Vipers),vs Sunrisers (12/09/2021),20-49
+1252287,2021,12-09-2021,1,Southern Vipers,Sunrisers,GA Elwiss,112,126,88.89,0,1,not out,GA Elwiss (Southern Vipers),vs Sunrisers (12/09/2021),>=100
+1252287,2021,12-09-2021,1,Southern Vipers,Sunrisers,GH Lewis,18,20,90,0,0,out,GH Lewis (Southern Vipers),vs Sunrisers (12/09/2021),<20
+1252287,2021,12-09-2021,1,Southern Vipers,Sunrisers,GL Adams,50,80,62.5,1,0,out,GL Adams (Southern Vipers),vs Sunrisers (12/09/2021),50-99
+1252287,2021,12-09-2021,1,Southern Vipers,Sunrisers,LK Bell,1,5,20,0,0,out,LK Bell (Southern Vipers),vs Sunrisers (12/09/2021),<20
+1252287,2021,12-09-2021,1,Southern Vipers,Sunrisers,ME Bouchier,30,40,75,0,0,out,ME Bouchier (Southern Vipers),vs Sunrisers (12/09/2021),20-49
+1252287,2021,12-09-2021,1,Southern Vipers,Sunrisers,PJ Scholfield,29,34,85.29,0,0,out,PJ Scholfield (Southern Vipers),vs Sunrisers (12/09/2021),20-49
+1252287,2021,12-09-2021,1,Southern Vipers,Sunrisers,TG Norris,3,5,60,0,0,out,TG Norris (Southern Vipers),vs Sunrisers (12/09/2021),<20
+1252287,2021,12-09-2021,2,Sunrisers,Southern Vipers,AJ Macleod,79,92,85.87,1,0,out,AJ Macleod (Sunrisers),vs Southern Vipers (12/09/2021),50-99
+1252287,2021,12-09-2021,2,Sunrisers,Southern Vipers,CL Griffith,91,86,105.81,1,0,out,CL Griffith (Sunrisers),vs Southern Vipers (12/09/2021),50-99
+1252287,2021,12-09-2021,2,Sunrisers,Southern Vipers,FC Wilson,65,53,122.64,1,0,not out,FC Wilson (Sunrisers),vs Southern Vipers (12/09/2021),50-99
+1252287,2021,12-09-2021,2,Sunrisers,Southern Vipers,G Scrivens,30,54,55.56,0,0,out,G Scrivens (Sunrisers),vs Southern Vipers (12/09/2021),20-49
+1252287,2021,12-09-2021,2,Sunrisers,Southern Vipers,J Gardner,3,3,100,0,0,out,J Gardner (Sunrisers),vs Southern Vipers (12/09/2021),<20
+1252287,2021,12-09-2021,2,Sunrisers,Southern Vipers,KS Castle,11,13,84.62,0,0,out,KS Castle (Sunrisers),vs Southern Vipers (12/09/2021),<20
+1252287,2021,12-09-2021,2,Sunrisers,Southern Vipers,M Rogers,3,4,75,0,0,not out,M Rogers (Sunrisers),vs Southern Vipers (12/09/2021),<20
+1252287,2021,12-09-2021,2,Sunrisers,Southern Vipers,ND Dattani,1,6,16.67,0,0,out,ND Dattani (Sunrisers),vs Southern Vipers (12/09/2021),<20
+1252288,2021,18-09-2021,1,Lightning,Central Sparks,AJ Freeborn,1,8,12.5,0,0,out,AJ Freeborn (Lightning),vs Central Sparks (18/09/2021),<20
+1252288,2021,18-09-2021,1,Lightning,Central Sparks,B Ellis,4,8,50,0,0,out,B Ellis (Lightning),vs Central Sparks (18/09/2021),<20
+1252288,2021,18-09-2021,1,Lightning,Central Sparks,B Harmer,2,6,33.33,0,0,out,B Harmer (Lightning),vs Central Sparks (18/09/2021),<20
+1252288,2021,18-09-2021,1,Lightning,Central Sparks,E Claridge,0,4,0,0,0,out,E Claridge (Lightning),vs Central Sparks (18/09/2021),<20
+1252288,2021,18-09-2021,1,Lightning,Central Sparks,KE Bryce,162,160,101.25,0,1,out,KE Bryce (Lightning),vs Central Sparks (18/09/2021),>=100
+1252288,2021,18-09-2021,1,Lightning,Central Sparks,SB Odedra,19,17,111.76,0,0,not out,SB Odedra (Lightning),vs Central Sparks (18/09/2021),<20
+1252288,2021,18-09-2021,1,Lightning,Central Sparks,SJ Bryce,90,114,78.95,1,0,out,SJ Bryce (Lightning),vs Central Sparks (18/09/2021),50-99
+1252288,2021,18-09-2021,2,Central Sparks,Lightning,CAE Hill,34,32,106.25,0,0,not out,CAE Hill (Central Sparks),vs Lightning (18/09/2021),20-49
+1252288,2021,18-09-2021,2,Central Sparks,Lightning,CK Boycott,16,23,69.57,0,0,out,CK Boycott (Central Sparks),vs Lightning (18/09/2021),<20
+1252288,2021,18-09-2021,2,Central Sparks,Lightning,D Perrin,28,27,103.7,0,0,out,D Perrin (Central Sparks),vs Lightning (18/09/2021),20-49
+1252288,2021,18-09-2021,2,Central Sparks,Lightning,E Jones,60,88,68.18,1,0,out,E Jones (Central Sparks),vs Lightning (18/09/2021),50-99
+1252288,2021,18-09-2021,2,Central Sparks,Lightning,EL Arlott,2,4,50,0,0,out,EL Arlott (Central Sparks),vs Lightning (18/09/2021),<20
+1252288,2021,18-09-2021,2,Central Sparks,Lightning,GK Davis,4,4,100,0,0,not out,GK Davis (Central Sparks),vs Lightning (18/09/2021),<20
+1252288,2021,18-09-2021,2,Central Sparks,Lightning,GM Davies,41,30,136.67,0,0,out,GM Davies (Central Sparks),vs Lightning (18/09/2021),20-49
+1252288,2021,18-09-2021,2,Central Sparks,Lightning,IECM Wong,8,4,200,0,0,out,IECM Wong (Central Sparks),vs Lightning (18/09/2021),<20
+1252288,2021,18-09-2021,2,Central Sparks,Lightning,Marie Kelly,62,70,88.57,1,0,out,Marie Kelly (Central Sparks),vs Lightning (18/09/2021),50-99
+1252288,2021,18-09-2021,2,Central Sparks,Lightning,RA Fackrell,1,3,33.33,0,0,out,RA Fackrell (Central Sparks),vs Lightning (18/09/2021),<20
+1252288,2021,18-09-2021,2,Central Sparks,Lightning,TF Brookes,24,20,120,0,0,out,TF Brookes (Central Sparks),vs Lightning (18/09/2021),20-49
+1252289,2021,18-09-2021,1,Thunder,South East Stars,A Hartley,5,6,83.33,0,0,out,A Hartley (Thunder),vs South East Stars (18/09/2021),<20
+1252289,2021,18-09-2021,1,Thunder,South East Stars,AE Dyson,13,28,46.43,0,0,out,AE Dyson (Thunder),vs South East Stars (18/09/2021),<20
+1252289,2021,18-09-2021,1,Thunder,South East Stars,D Mullan,0,13,0,0,0,out,D Mullan (Thunder),vs South East Stars (18/09/2021),<20
+1252289,2021,18-09-2021,1,Thunder,South East Stars,E Threlkeld,70,99,70.71,1,0,not out,E Threlkeld (Thunder),vs South East Stars (18/09/2021),50-99
+1252289,2021,18-09-2021,1,Thunder,South East Stars,GEB Boyce,20,40,50,0,0,out,GEB Boyce (Thunder),vs South East Stars (18/09/2021),20-49
+1252289,2021,18-09-2021,1,Thunder,South East Stars,HE Jones,9,16,56.25,0,0,out,HE Jones (Thunder),vs South East Stars (18/09/2021),<20
+1252289,2021,18-09-2021,1,Thunder,South East Stars,L Heap,19,26,73.08,0,0,out,L Heap (Thunder),vs South East Stars (18/09/2021),<20
+1252289,2021,18-09-2021,1,Thunder,South East Stars,L Jackson,2,7,28.57,0,0,out,L Jackson (Thunder),vs South East Stars (18/09/2021),<20
+1252289,2021,18-09-2021,1,Thunder,South East Stars,L Marshall,1,4,25,0,0,out,L Marshall (Thunder),vs South East Stars (18/09/2021),<20
+1252289,2021,18-09-2021,1,Thunder,South East Stars,N Brown,14,27,51.85,0,0,out,N Brown (Thunder),vs South East Stars (18/09/2021),<20
+1252289,2021,18-09-2021,1,Thunder,South East Stars,S Smale,13,33,39.39,0,0,out,S Smale (Thunder),vs South East Stars (18/09/2021),<20
+1252289,2021,18-09-2021,2,South East Stars,Thunder,A Capsey,9,14,64.29,0,0,out,A Capsey (South East Stars),vs Thunder (18/09/2021),<20
+1252289,2021,18-09-2021,2,South East Stars,Thunder,AN Davidson-Richards,1,5,20,0,0,out,AN Davidson-Richards (South East Stars),vs Thunder (18/09/2021),<20
+1252289,2021,18-09-2021,2,South East Stars,Thunder,C Brewer,17,29,58.62,0,0,out,C Brewer (South East Stars),vs Thunder (18/09/2021),<20
+1252289,2021,18-09-2021,2,South East Stars,Thunder,D Gregory,1,7,14.29,0,0,not out,D Gregory (South East Stars),vs Thunder (18/09/2021),<20
+1252289,2021,18-09-2021,2,South East Stars,Thunder,Emma Jones,13,25,52,0,0,out,Emma Jones (South East Stars),vs Thunder (18/09/2021),<20
+1252289,2021,18-09-2021,2,South East Stars,Thunder,GJ Gibbs,11,14,78.57,0,0,out,GJ Gibbs (South East Stars),vs Thunder (18/09/2021),<20
+1252289,2021,18-09-2021,2,South East Stars,Thunder,K Moore,35,61,57.38,0,0,out,K Moore (South East Stars),vs Thunder (18/09/2021),20-49
+1252289,2021,18-09-2021,2,South East Stars,Thunder,KE White,1,12,8.33,0,0,out,KE White (South East Stars),vs Thunder (18/09/2021),<20
+1252289,2021,18-09-2021,2,South East Stars,Thunder,KM Chathli,16,28,57.14,0,0,out,KM Chathli (South East Stars),vs Thunder (18/09/2021),<20
+1252289,2021,18-09-2021,2,South East Stars,Thunder,PA Franklin,16,16,100,0,0,out,PA Franklin (South East Stars),vs Thunder (18/09/2021),<20
+1252289,2021,18-09-2021,2,South East Stars,Thunder,R MacDonald-Gay,0,8,0,0,0,out,R MacDonald-Gay (South East Stars),vs Thunder (18/09/2021),<20
+1252290,2021,18-09-2021,1,Western Storm,Sunrisers,A Griffiths,55,64,85.94,1,0,out,A Griffiths (Western Storm),vs Sunrisers (18/09/2021),50-99
+1252290,2021,18-09-2021,1,Western Storm,Sunrisers,DR Gibson,23,10,230,0,0,not out,DR Gibson (Western Storm),vs Sunrisers (18/09/2021),20-49
+1252290,2021,18-09-2021,1,Western Storm,Sunrisers,FMK Morris,30,37,81.08,0,0,out,FMK Morris (Western Storm),vs Sunrisers (18/09/2021),20-49
+1252290,2021,18-09-2021,1,Western Storm,Sunrisers,GM Hennessy,25,50,50,0,0,out,GM Hennessy (Western Storm),vs Sunrisers (18/09/2021),20-49
+1252290,2021,18-09-2021,1,Western Storm,Sunrisers,LA Parfitt,0,6,0,0,0,out,LA Parfitt (Western Storm),vs Sunrisers (18/09/2021),<20
+1252290,2021,18-09-2021,1,Western Storm,Sunrisers,SN Luff,157,145,108.28,0,1,not out,SN Luff (Western Storm),vs Sunrisers (18/09/2021),>=100
+1252290,2021,18-09-2021,2,Sunrisers,Western Storm,AD Carr,7,10,70,0,0,out,AD Carr (Sunrisers),vs Western Storm (18/09/2021),<20
+1252290,2021,18-09-2021,2,Sunrisers,Western Storm,AJ Macleod,32,41,78.05,0,0,out,AJ Macleod (Sunrisers),vs Western Storm (18/09/2021),20-49
+1252290,2021,18-09-2021,2,Sunrisers,Western Storm,CL Griffith,49,46,106.52,0,0,out,CL Griffith (Sunrisers),vs Western Storm (18/09/2021),20-49
+1252290,2021,18-09-2021,2,Sunrisers,Western Storm,FC Wilson,34,36,94.44,0,0,out,FC Wilson (Sunrisers),vs Western Storm (18/09/2021),20-49
+1252290,2021,18-09-2021,2,Sunrisers,Western Storm,G Scrivens,46,61,75.41,0,0,out,G Scrivens (Sunrisers),vs Western Storm (18/09/2021),20-49
+1252290,2021,18-09-2021,2,Sunrisers,Western Storm,J Gardner,3,3,100,0,0,not out,J Gardner (Sunrisers),vs Western Storm (18/09/2021),<20
+1252290,2021,18-09-2021,2,Sunrisers,Western Storm,KL Coppack,1,2,50,0,0,out,KL Coppack (Sunrisers),vs Western Storm (18/09/2021),<20
+1252290,2021,18-09-2021,2,Sunrisers,Western Storm,KS Castle,20,24,83.33,0,0,out,KS Castle (Sunrisers),vs Western Storm (18/09/2021),20-49
+1252290,2021,18-09-2021,2,Sunrisers,Western Storm,MK Villiers,37,34,108.82,0,0,out,MK Villiers (Sunrisers),vs Western Storm (18/09/2021),20-49
+1252290,2021,18-09-2021,2,Sunrisers,Western Storm,ND Dattani,18,23,78.26,0,0,out,ND Dattani (Sunrisers),vs Western Storm (18/09/2021),<20
+1252290,2021,18-09-2021,2,Sunrisers,Western Storm,Sonali Patel,1,3,33.33,0,0,out,Sonali Patel (Sunrisers),vs Western Storm (18/09/2021),<20
+1252291,2021,18-09-2021,1,Northern Diamonds,Southern Vipers,A Campbell,26,41,63.41,0,0,out,A Campbell (Northern Diamonds),vs Southern Vipers (18/09/2021),20-49
+1252291,2021,18-09-2021,1,Northern Diamonds,Southern Vipers,BA Langston,0,2,0,0,0,out,BA Langston (Northern Diamonds),vs Southern Vipers (18/09/2021),<20
+1252291,2021,18-09-2021,1,Northern Diamonds,Southern Vipers,BAM Heath,71,53,133.96,1,0,out,BAM Heath (Northern Diamonds),vs Southern Vipers (18/09/2021),50-99
+1252291,2021,18-09-2021,1,Northern Diamonds,Southern Vipers,HJ Armitage,21,39,53.85,0,0,out,HJ Armitage (Northern Diamonds),vs Southern Vipers (18/09/2021),20-49
+1252291,2021,18-09-2021,1,Northern Diamonds,Southern Vipers,L Dobson,49,79,62.03,0,0,out,L Dobson (Northern Diamonds),vs Southern Vipers (18/09/2021),20-49
+1252291,2021,18-09-2021,1,Northern Diamonds,Southern Vipers,LCN Smith,37,32,115.62,0,0,out,LCN Smith (Northern Diamonds),vs Southern Vipers (18/09/2021),20-49
+1252291,2021,18-09-2021,1,Northern Diamonds,Southern Vipers,PC Graham,1,3,33.33,0,0,out,PC Graham (Northern Diamonds),vs Southern Vipers (18/09/2021),<20
+1252291,2021,18-09-2021,1,Northern Diamonds,Southern Vipers,R Slater,0,2,0,0,0,out,R Slater (Northern Diamonds),vs Southern Vipers (18/09/2021),<20
+1252291,2021,18-09-2021,1,Northern Diamonds,Southern Vipers,RHM Hopkins,0,8,0,0,0,out,RHM Hopkins (Northern Diamonds),vs Southern Vipers (18/09/2021),<20
+1252291,2021,18-09-2021,1,Northern Diamonds,Southern Vipers,SL Kalis,23,50,46,0,0,out,SL Kalis (Northern Diamonds),vs Southern Vipers (18/09/2021),20-49
+1252291,2021,18-09-2021,2,Southern Vipers,Northern Diamonds,E Windsor,1,2,50,0,0,out,E Windsor (Southern Vipers),vs Northern Diamonds (18/09/2021),<20
+1252291,2021,18-09-2021,2,Southern Vipers,Northern Diamonds,EM McCaughan,2,8,25,0,0,out,EM McCaughan (Southern Vipers),vs Northern Diamonds (18/09/2021),<20
+1252291,2021,18-09-2021,2,Southern Vipers,Northern Diamonds,GA Elwiss,84,79,106.33,1,0,not out,GA Elwiss (Southern Vipers),vs Northern Diamonds (18/09/2021),50-99
+1252291,2021,18-09-2021,2,Southern Vipers,Northern Diamonds,GH Lewis,39,51,76.47,0,0,out,GH Lewis (Southern Vipers),vs Northern Diamonds (18/09/2021),20-49
+1252291,2021,18-09-2021,2,Southern Vipers,Northern Diamonds,GL Adams,67,101,66.34,1,0,out,GL Adams (Southern Vipers),vs Northern Diamonds (18/09/2021),50-99
+1252291,2021,18-09-2021,2,Southern Vipers,Northern Diamonds,ME Bouchier,40,53,75.47,0,0,out,ME Bouchier (Southern Vipers),vs Northern Diamonds (18/09/2021),20-49
+1252291,2021,18-09-2021,2,Southern Vipers,Northern Diamonds,PJ Scholfield,15,10,150,0,0,not out,PJ Scholfield (Southern Vipers),vs Northern Diamonds (18/09/2021),<20
+1252292,2021,22-09-2021,1,Central Sparks,Northern Diamonds,CAE Hill,14,57,24.56,0,0,out,CAE Hill (Central Sparks),vs Northern Diamonds (22/09/2021),<20
+1252292,2021,22-09-2021,1,Central Sparks,Northern Diamonds,D Perrin,1,4,25,0,0,out,D Perrin (Central Sparks),vs Northern Diamonds (22/09/2021),<20
+1252292,2021,22-09-2021,1,Central Sparks,Northern Diamonds,E Jones,9,30,30,0,0,out,E Jones (Central Sparks),vs Northern Diamonds (22/09/2021),<20
+1252292,2021,22-09-2021,1,Central Sparks,Northern Diamonds,EL Arlott,29,40,72.5,0,0,not out,EL Arlott (Central Sparks),vs Northern Diamonds (22/09/2021),20-49
+1252292,2021,22-09-2021,1,Central Sparks,Northern Diamonds,GM Davies,42,77,54.55,0,0,out,GM Davies (Central Sparks),vs Northern Diamonds (22/09/2021),20-49
+1252292,2021,22-09-2021,1,Central Sparks,Northern Diamonds,IECM Wong,0,1,0,0,0,out,IECM Wong (Central Sparks),vs Northern Diamonds (22/09/2021),<20
+1252292,2021,22-09-2021,1,Central Sparks,Northern Diamonds,Marie Kelly,0,1,0,0,0,out,Marie Kelly (Central Sparks),vs Northern Diamonds (22/09/2021),<20
+1252292,2021,22-09-2021,1,Central Sparks,Northern Diamonds,RA Fackrell,42,84,50,0,0,not out,RA Fackrell (Central Sparks),vs Northern Diamonds (22/09/2021),20-49
+1252292,2021,22-09-2021,1,Central Sparks,Northern Diamonds,TF Brookes,11,23,47.83,0,0,out,TF Brookes (Central Sparks),vs Northern Diamonds (22/09/2021),<20
+1252292,2021,22-09-2021,2,Northern Diamonds,Central Sparks,A Campbell,76,78,97.44,1,0,out,A Campbell (Northern Diamonds),vs Central Sparks (22/09/2021),50-99
+1252292,2021,22-09-2021,2,Northern Diamonds,Central Sparks,BAM Heath,6,7,85.71,0,0,not out,BAM Heath (Northern Diamonds),vs Central Sparks (22/09/2021),<20
+1252292,2021,22-09-2021,2,Northern Diamonds,Central Sparks,HJ Armitage,25,17,147.06,0,0,out,HJ Armitage (Northern Diamonds),vs Central Sparks (22/09/2021),20-49
+1252292,2021,22-09-2021,2,Northern Diamonds,Central Sparks,L Dobson,0,5,0,0,0,out,L Dobson (Northern Diamonds),vs Central Sparks (22/09/2021),<20
+1252292,2021,22-09-2021,2,Northern Diamonds,Central Sparks,RHM Hopkins,11,24,45.83,0,0,out,RHM Hopkins (Northern Diamonds),vs Central Sparks (22/09/2021),<20
+1252292,2021,22-09-2021,2,Northern Diamonds,Central Sparks,SL Kalis,41,76,53.95,0,0,not out,SL Kalis (Northern Diamonds),vs Central Sparks (22/09/2021),20-49
+1252293,2021,25-09-2021,1,Northern Diamonds,Southern Vipers,A Campbell,60,76,78.95,1,0,out,A Campbell (Northern Diamonds),vs Southern Vipers (25/09/2021),50-99
+1252293,2021,25-09-2021,1,Northern Diamonds,Southern Vipers,BA Langston,0,2,0,0,0,out,BA Langston (Northern Diamonds),vs Southern Vipers (25/09/2021),<20
+1252293,2021,25-09-2021,1,Northern Diamonds,Southern Vipers,BAM Heath,25,34,73.53,0,0,out,BAM Heath (Northern Diamonds),vs Southern Vipers (25/09/2021),20-49
+1252293,2021,25-09-2021,1,Northern Diamonds,Southern Vipers,HJ Armitage,16,34,47.06,0,0,out,HJ Armitage (Northern Diamonds),vs Southern Vipers (25/09/2021),<20
+1252293,2021,25-09-2021,1,Northern Diamonds,Southern Vipers,JL Gunn,2,6,33.33,0,0,out,JL Gunn (Northern Diamonds),vs Southern Vipers (25/09/2021),<20
+1252293,2021,25-09-2021,1,Northern Diamonds,Southern Vipers,KA Levick,8,18,44.44,0,0,out,KA Levick (Northern Diamonds),vs Southern Vipers (25/09/2021),<20
+1252293,2021,25-09-2021,1,Northern Diamonds,Southern Vipers,L Dobson,0,4,0,0,0,out,L Dobson (Northern Diamonds),vs Southern Vipers (25/09/2021),<20
+1252293,2021,25-09-2021,1,Northern Diamonds,Southern Vipers,LCN Smith,31,68,45.59,0,0,out,LCN Smith (Northern Diamonds),vs Southern Vipers (25/09/2021),20-49
+1252293,2021,25-09-2021,1,Northern Diamonds,Southern Vipers,PC Graham,0,2,0,0,0,out,PC Graham (Northern Diamonds),vs Southern Vipers (25/09/2021),<20
+1252293,2021,25-09-2021,1,Northern Diamonds,Southern Vipers,R Slater,6,30,20,0,0,not out,R Slater (Northern Diamonds),vs Southern Vipers (25/09/2021),<20
+1252293,2021,25-09-2021,1,Northern Diamonds,Southern Vipers,SL Kalis,18,33,54.55,0,0,out,SL Kalis (Northern Diamonds),vs Southern Vipers (25/09/2021),<20
+1252293,2021,25-09-2021,2,Southern Vipers,Northern Diamonds,CE Rudd,0,1,0,0,0,out,CE Rudd (Southern Vipers),vs Northern Diamonds (25/09/2021),<20
+1252293,2021,25-09-2021,2,Southern Vipers,Northern Diamonds,E Windsor,47,99,47.47,0,0,not out,E Windsor (Southern Vipers),vs Northern Diamonds (25/09/2021),20-49
+1252293,2021,25-09-2021,2,Southern Vipers,Northern Diamonds,EM McCaughan,0,6,0,0,0,out,EM McCaughan (Southern Vipers),vs Northern Diamonds (25/09/2021),<20
+1252293,2021,25-09-2021,2,Southern Vipers,Northern Diamonds,GA Elwiss,14,25,56,0,0,out,GA Elwiss (Southern Vipers),vs Northern Diamonds (25/09/2021),<20
+1252293,2021,25-09-2021,2,Southern Vipers,Northern Diamonds,GH Lewis,24,53,45.28,0,0,out,GH Lewis (Southern Vipers),vs Northern Diamonds (25/09/2021),20-49
+1252293,2021,25-09-2021,2,Southern Vipers,Northern Diamonds,GL Adams,0,2,0,0,0,out,GL Adams (Southern Vipers),vs Northern Diamonds (25/09/2021),<20
+1252293,2021,25-09-2021,2,Southern Vipers,Northern Diamonds,ME Bouchier,33,63,52.38,0,0,out,ME Bouchier (Southern Vipers),vs Northern Diamonds (25/09/2021),20-49
+1252293,2021,25-09-2021,2,Southern Vipers,Northern Diamonds,PJ Scholfield,9,19,47.37,0,0,out,PJ Scholfield (Southern Vipers),vs Northern Diamonds (25/09/2021),<20
+1252293,2021,25-09-2021,2,Southern Vipers,Northern Diamonds,TG Norris,40,46,86.96,0,0,not out,TG Norris (Southern Vipers),vs Northern Diamonds (25/09/2021),20-49

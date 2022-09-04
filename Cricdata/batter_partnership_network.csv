@@ -1,0 +1,465 @@
+batting_team,partnership,batter1,batter2,batter1_runs,batter2_runs,from_node,to_node
+Central Sparks,AE Jones & GM Davies,AE Jones,GM Davies,8,15,AE Jones,GM Davies
+Central Sparks,AE Jones & M Home,AE Jones,M Home,59,19,M Home,AE Jones
+Central Sparks,AE Jones & Marie Kelly,AE Jones,Marie Kelly,74,35,Marie Kelly,AE Jones
+Central Sparks,AE Jones & S Glenn,AE Jones,S Glenn,39,13,S Glenn,AE Jones
+Central Sparks,Anisha Patel & E Jones,Anisha Patel,E Jones,1,2,Anisha Patel,E Jones
+Central Sparks,Anisha Patel & EA Russell,Anisha Patel,EA Russell,1,0,EA Russell,Anisha Patel
+Central Sparks,CAE Hill & GK Davis,CAE Hill,GK Davis,8,4,GK Davis,CAE Hill
+Central Sparks,CAE Hill & M Home,CAE Hill,M Home,1,0,M Home,CAE Hill
+Central Sparks,CAE Hill & P Davies,CAE Hill,P Davies,23,11,P Davies,CAE Hill
+Central Sparks,CAE Hill & TF Brookes,CAE Hill,TF Brookes,2,0,TF Brookes,CAE Hill
+Central Sparks,CK Boycott & Anisha Patel,CK Boycott,Anisha Patel,6,2,Anisha Patel,CK Boycott
+Central Sparks,CK Boycott & CAE Hill,CK Boycott,CAE Hill,17,26,CK Boycott,CAE Hill
+Central Sparks,CK Boycott & E Jones,CK Boycott,E Jones,22,33,CK Boycott,E Jones
+Central Sparks,CK Boycott & EA Russell,CK Boycott,EA Russell,3,1,EA Russell,CK Boycott
+Central Sparks,CK Boycott & Marie Kelly,CK Boycott,Marie Kelly,5,5,CK Boycott,Marie Kelly
+Central Sparks,D Perrin & E Jones,D Perrin,E Jones,22,10,E Jones,D Perrin
+Central Sparks,E Jones & AE Jones,E Jones,AE Jones,21,23,E Jones,AE Jones
+Central Sparks,E Jones & CAE Hill,E Jones,CAE Hill,7,5,CAE Hill,E Jones
+Central Sparks,E Jones & EA Russell,E Jones,EA Russell,3,3,E Jones,EA Russell
+Central Sparks,E Jones & GM Davies,E Jones,GM Davies,168,144,GM Davies,E Jones
+Central Sparks,E Jones & HL Baker,E Jones,HL Baker,4,5,E Jones,HL Baker
+Central Sparks,E Jones & M Home,E Jones,M Home,18,12,M Home,E Jones
+Central Sparks,E Jones & RA Fackrell,E Jones,RA Fackrell,11,7,RA Fackrell,E Jones
+Central Sparks,E Jones & S Butler,E Jones,S Butler,19,25,E Jones,S Butler
+Central Sparks,EA Russell & IECM Wong,EA Russell,IECM Wong,8,7,IECM Wong,EA Russell
+Central Sparks,EL Arlott & CAE Hill,EL Arlott,CAE Hill,2,3,EL Arlott,CAE Hill
+Central Sparks,EL Arlott & CK Boycott,EL Arlott,CK Boycott,34,35,EL Arlott,CK Boycott
+Central Sparks,EL Arlott & IECM Wong,EL Arlott,IECM Wong,10,2,IECM Wong,EL Arlott
+Central Sparks,EL Arlott & RA Fackrell,EL Arlott,RA Fackrell,29,41,EL Arlott,RA Fackrell
+Central Sparks,EL Arlott & S Glenn,EL Arlott,S Glenn,24,50,EL Arlott,S Glenn
+Central Sparks,GK Davis & CK Boycott,GK Davis,CK Boycott,3,7,GK Davis,CK Boycott
+Central Sparks,GK Davis & E Jones,GK Davis,E Jones,4,3,E Jones,GK Davis
+Central Sparks,GK Davis & EL Arlott,GK Davis,EL Arlott,13,9,EL Arlott,GK Davis
+Central Sparks,GM Davies & CAE Hill,GM Davies,CAE Hill,14,13,CAE Hill,GM Davies
+Central Sparks,GM Davies & D Perrin,GM Davies,D Perrin,32,21,D Perrin,GM Davies
+Central Sparks,GM Davies & IECM Wong,GM Davies,IECM Wong,1,0,IECM Wong,GM Davies
+Central Sparks,GM Davies & Marie Kelly,GM Davies,Marie Kelly,38,47,GM Davies,Marie Kelly
+Central Sparks,GM Davies & TF Brookes,GM Davies,TF Brookes,78,44,TF Brookes,GM Davies
+Central Sparks,IECM Wong & AE Jones,IECM Wong,AE Jones,7,12,IECM Wong,AE Jones
+Central Sparks,IECM Wong & CAE Hill,IECM Wong,CAE Hill,1,1,IECM Wong,CAE Hill
+Central Sparks,IECM Wong & E Jones,IECM Wong,E Jones,20,37,IECM Wong,E Jones
+Central Sparks,M Home & Marie Kelly,M Home,Marie Kelly,17,25,M Home,Marie Kelly
+Central Sparks,M Home & P Davies,M Home,P Davies,2,1,P Davies,M Home
+Central Sparks,Marie Kelly & D Perrin,Marie Kelly,D Perrin,25,25,Marie Kelly,D Perrin
+Central Sparks,Marie Kelly & E Jones,Marie Kelly,E Jones,231,251,Marie Kelly,E Jones
+Central Sparks,Marie Kelly & P Davies,Marie Kelly,P Davies,16,10,P Davies,Marie Kelly
+Central Sparks,P Davies & E Jones,P Davies,E Jones,25,34,P Davies,E Jones
+Central Sparks,RA Fackrell & AE Jones,RA Fackrell,AE Jones,11,50,RA Fackrell,AE Jones
+Central Sparks,RA Fackrell & CAE Hill,RA Fackrell,CAE Hill,1,1,RA Fackrell,CAE Hill
+Central Sparks,RA Fackrell & IECM Wong,RA Fackrell,IECM Wong,1,7,RA Fackrell,IECM Wong
+Central Sparks,S Butler & AE Jones,S Butler,AE Jones,30,44,S Butler,AE Jones
+Central Sparks,S Butler & GM Davies,S Butler,GM Davies,2,4,S Butler,GM Davies
+Central Sparks,S Glenn & CK Boycott,S Glenn,CK Boycott,3,6,S Glenn,CK Boycott
+Central Sparks,S Glenn & GM Davies,S Glenn,GM Davies,20,26,S Glenn,GM Davies
+Central Sparks,S Glenn & IECM Wong,S Glenn,IECM Wong,6,2,IECM Wong,S Glenn
+Central Sparks,S Glenn & Marie Kelly,S Glenn,Marie Kelly,0,1,S Glenn,Marie Kelly
+Central Sparks,S Glenn & RA Fackrell,S Glenn,RA Fackrell,38,13,RA Fackrell,S Glenn
+Central Sparks,S Glenn & TF Brookes,S Glenn,TF Brookes,11,4,TF Brookes,S Glenn
+Central Sparks,TF Brookes & D Perrin,TF Brookes,D Perrin,25,24,D Perrin,TF Brookes
+Central Sparks,TF Brookes & IECM Wong,TF Brookes,IECM Wong,16,11,IECM Wong,TF Brookes
+Central Sparks,TF Brookes & Marie Kelly,TF Brookes,Marie Kelly,6,20,TF Brookes,Marie Kelly
+Central Sparks,TF Brookes & RA Fackrell,TF Brookes,RA Fackrell,5,1,RA Fackrell,TF Brookes
+Lightning,AJ Freeborn & AD Presland,AJ Freeborn,AD Presland,4,5,AJ Freeborn,AD Presland
+Lightning,AJ Freeborn & B Ellis,AJ Freeborn,B Ellis,2,1,B Ellis,AJ Freeborn
+Lightning,AJ Freeborn & KE Bryce,AJ Freeborn,KE Bryce,37,68,AJ Freeborn,KE Bryce
+Lightning,AJ Freeborn & LF Higham,AJ Freeborn,LF Higham,73,70,LF Higham,AJ Freeborn
+Lightning,AJ Freeborn & N Harman,AJ Freeborn,N Harman,2,11,AJ Freeborn,N Harman
+Lightning,AJ Freeborn & SJ Bryce,AJ Freeborn,SJ Bryce,72,56,SJ Bryce,AJ Freeborn
+Lightning,AJ Freeborn & T Graves,AJ Freeborn,T Graves,13,10,T Graves,AJ Freeborn
+Lightning,B Ellis & KE Bryce,B Ellis,KE Bryce,7,15,B Ellis,KE Bryce
+Lightning,E Claridge & KE Bryce,E Claridge,KE Bryce,7,6,KE Bryce,E Claridge
+Lightning,G Ballinger & AD Presland,G Ballinger,AD Presland,4,4,G Ballinger,AD Presland
+Lightning,G Ballinger & E Claridge,G Ballinger,E Claridge,18,19,G Ballinger,E Claridge
+Lightning,G Ballinger & S Munro,G Ballinger,S Munro,6,0,S Munro,G Ballinger
+Lightning,Ilenia Sims & AJ Freeborn,Ilenia Sims,AJ Freeborn,1,1,Ilenia Sims,AJ Freeborn
+Lightning,J Groves & S Munro,J Groves,S Munro,2,0,S Munro,J Groves
+Lightning,KE Bryce & B Harmer,KE Bryce,B Harmer,15,2,B Harmer,KE Bryce
+Lightning,KE Bryce & KL Gordon,KE Bryce,KL Gordon,13,8,KL Gordon,KE Bryce
+Lightning,KE Bryce & ML Kirk,KE Bryce,ML Kirk,12,30,KE Bryce,ML Kirk
+Lightning,KE Bryce & RA Fackrell,KE Bryce,RA Fackrell,42,8,RA Fackrell,KE Bryce
+Lightning,KE Bryce & SB Odedra,KE Bryce,SB Odedra,47,24,SB Odedra,KE Bryce
+Lightning,KE Bryce & SJ Bryce,KE Bryce,SJ Bryce,189,199,KE Bryce,SJ Bryce
+Lightning,KE Bryce & T Graves,KE Bryce,T Graves,26,18,T Graves,KE Bryce
+Lightning,KE Bryce & TT Beaumont,KE Bryce,TT Beaumont,61,50,TT Beaumont,KE Bryce
+Lightning,KL Gordon & E Claridge,KL Gordon,E Claridge,3,12,KL Gordon,E Claridge
+Lightning,KL Gordon & S Munro,KL Gordon,S Munro,23,15,S Munro,KL Gordon
+Lightning,KL Gordon & Y Graves,KL Gordon,Y Graves,25,19,Y Graves,KL Gordon
+Lightning,LF Higham & E Claridge,LF Higham,E Claridge,7,7,LF Higham,E Claridge
+Lightning,LF Higham & SJ Bryce,LF Higham,SJ Bryce,3,3,LF Higham,SJ Bryce
+Lightning,LF Higham & T Graves,LF Higham,T Graves,39,54,LF Higham,T Graves
+Lightning,LF Higham & TT Beaumont,LF Higham,TT Beaumont,24,35,LF Higham,TT Beaumont
+Lightning,LG Kellogg & G Ballinger,LG Kellogg,G Ballinger,0,1,LG Kellogg,G Ballinger
+Lightning,LG Kellogg & S Pai,LG Kellogg,S Pai,1,6,LG Kellogg,S Pai
+Lightning,ML Kirk & TT Beaumont,ML Kirk,TT Beaumont,0,1,ML Kirk,TT Beaumont
+Lightning,N Harman & S Munro,N Harman,S Munro,11,2,S Munro,N Harman
+Lightning,N Harman & T Graves,N Harman,T Graves,21,30,N Harman,T Graves
+Lightning,S Munro & AJ Freeborn,S Munro,AJ Freeborn,3,8,S Munro,AJ Freeborn
+Lightning,S Munro & E Claridge,S Munro,E Claridge,3,0,E Claridge,S Munro
+Lightning,S Pai & AJ Freeborn,S Pai,AJ Freeborn,8,10,S Pai,AJ Freeborn
+Lightning,S Pai & ML Kirk,S Pai,ML Kirk,9,6,ML Kirk,S Pai
+Lightning,S Pai & T Graves,S Pai,T Graves,9,5,T Graves,S Pai
+Lightning,SB Odedra & AJ Freeborn,SB Odedra,AJ Freeborn,24,21,AJ Freeborn,SB Odedra
+Lightning,SB Odedra & TT Beaumont,SB Odedra,TT Beaumont,15,17,SB Odedra,TT Beaumont
+Lightning,SJ Bryce & B Ellis,SJ Bryce,B Ellis,135,116,B Ellis,SJ Bryce
+Lightning,SJ Bryce & B Harmer,SJ Bryce,B Harmer,30,19,B Harmer,SJ Bryce
+Lightning,SJ Bryce & ML Kirk,SJ Bryce,ML Kirk,16,27,SJ Bryce,ML Kirk
+Lightning,SJ Bryce & N Harman,SJ Bryce,N Harman,12,0,N Harman,SJ Bryce
+Lightning,T Graves & ML Kirk,T Graves,ML Kirk,5,8,T Graves,ML Kirk
+Lightning,T Graves & SB Odedra,T Graves,SB Odedra,5,0,SB Odedra,T Graves
+Lightning,T Graves & SJ Bryce,T Graves,SJ Bryce,65,52,SJ Bryce,T Graves
+Lightning,T Graves & Y Graves,T Graves,Y Graves,25,21,Y Graves,T Graves
+Lightning,TT Beaumont & AJ Freeborn,TT Beaumont,AJ Freeborn,18,29,TT Beaumont,AJ Freeborn
+Lightning,TT Beaumont & SJ Bryce,TT Beaumont,SJ Bryce,99,94,SJ Bryce,TT Beaumont
+Lightning,Y Graves & E Claridge,Y Graves,E Claridge,8,1,E Claridge,Y Graves
+Lightning,Y Graves & S Munro,Y Graves,S Munro,5,2,S Munro,Y Graves
+Northern Diamonds,A Campbell & HJ Armitage,A Campbell,HJ Armitage,22,26,A Campbell,HJ Armitage
+Northern Diamonds,A Campbell & KH Brunt,A Campbell,KH Brunt,4,0,KH Brunt,A Campbell
+Northern Diamonds,A Campbell & L Dobson,A Campbell,L Dobson,26,10,L Dobson,A Campbell
+Northern Diamonds,A Campbell & RHM Hopkins,A Campbell,RHM Hopkins,15,3,RHM Hopkins,A Campbell
+Northern Diamonds,A Campbell & SL Kalis,A Campbell,SL Kalis,115,72,SL Kalis,A Campbell
+Northern Diamonds,AL MacDonald & BA Langston,AL MacDonald,BA Langston,12,12,AL MacDonald,BA Langston
+Northern Diamonds,AL MacDonald & NR Sciver,AL MacDonald,NR Sciver,28,48,AL MacDonald,NR Sciver
+Northern Diamonds,AL MacDonald & RHM Hopkins,AL MacDonald,RHM Hopkins,4,5,AL MacDonald,RHM Hopkins
+Northern Diamonds,BA Langston & BAM Heath,BA Langston,BAM Heath,58,33,BAM Heath,BA Langston
+Northern Diamonds,BA Langston & SL Kalis,BA Langston,SL Kalis,56,61,BA Langston,SL Kalis
+Northern Diamonds,BAM Heath & A Campbell,BAM Heath,A Campbell,49,51,BAM Heath,A Campbell
+Northern Diamonds,BAM Heath & AL MacDonald,BAM Heath,AL MacDonald,28,16,AL MacDonald,BAM Heath
+Northern Diamonds,BAM Heath & HJ Armitage,BAM Heath,HJ Armitage,32,22,HJ Armitage,BAM Heath
+Northern Diamonds,BAM Heath & SL Kalis,BAM Heath,SL Kalis,6,12,BAM Heath,SL Kalis
+Northern Diamonds,HJ Armitage & LCN Smith,HJ Armitage,LCN Smith,16,14,LCN Smith,HJ Armitage
+Northern Diamonds,HJ Armitage & RHM Hopkins,HJ Armitage,RHM Hopkins,104,38,RHM Hopkins,HJ Armitage
+Northern Diamonds,HL Fenby & AL MacDonald,HL Fenby,AL MacDonald,1,1,HL Fenby,AL MacDonald
+Northern Diamonds,HL Fenby & BA Langston,HL Fenby,BA Langston,11,13,HL Fenby,BA Langston
+Northern Diamonds,HL Fenby & PC Graham,HL Fenby,PC Graham,6,15,HL Fenby,PC Graham
+Northern Diamonds,JL Gunn & A Campbell,JL Gunn,A Campbell,5,1,A Campbell,JL Gunn
+Northern Diamonds,JL Gunn & AL MacDonald,JL Gunn,AL MacDonald,68,86,JL Gunn,AL MacDonald
+Northern Diamonds,JL Gunn & BA Langston,JL Gunn,BA Langston,42,50,JL Gunn,BA Langston
+Northern Diamonds,JL Gunn & BAM Heath,JL Gunn,BAM Heath,7,6,BAM Heath,JL Gunn
+Northern Diamonds,JL Gunn & NR Sciver,JL Gunn,NR Sciver,20,28,JL Gunn,NR Sciver
+Northern Diamonds,JL Gunn & SL Kalis,JL Gunn,SL Kalis,100,82,SL Kalis,JL Gunn
+Northern Diamonds,KA Levick & A Campbell,KA Levick,A Campbell,8,19,KA Levick,A Campbell
+Northern Diamonds,KA Levick & BA Langston,KA Levick,BA Langston,8,10,KA Levick,BA Langston
+Northern Diamonds,KA Levick & HL Fenby,KA Levick,HL Fenby,3,1,HL Fenby,KA Levick
+Northern Diamonds,KA Levick & PC Graham,KA Levick,PC Graham,8,11,KA Levick,PC Graham
+Northern Diamonds,KH Brunt & JL Gunn,KH Brunt,JL Gunn,21,8,JL Gunn,KH Brunt
+Northern Diamonds,KH Brunt & L Winfield,KH Brunt,L Winfield,22,34,KH Brunt,L Winfield
+Northern Diamonds,KH Brunt & NR Sciver,KH Brunt,NR Sciver,5,4,NR Sciver,KH Brunt
+Northern Diamonds,KH Brunt & SL Kalis,KH Brunt,SL Kalis,1,1,KH Brunt,SL Kalis
+Northern Diamonds,L Dobson & BAM Heath,L Dobson,BAM Heath,33,26,BAM Heath,L Dobson
+Northern Diamonds,L Dobson & HJ Armitage,L Dobson,HJ Armitage,16,16,L Dobson,HJ Armitage
+Northern Diamonds,L Dobson & SL Kalis,L Dobson,SL Kalis,15,19,L Dobson,SL Kalis
+Northern Diamonds,L Tipton & A Campbell,L Tipton,A Campbell,14,11,A Campbell,L Tipton
+Northern Diamonds,L Winfield & HJ Armitage,L Winfield,HJ Armitage,124,93,HJ Armitage,L Winfield
+Northern Diamonds,LCN Smith & BA Langston,LCN Smith,BA Langston,8,33,LCN Smith,BA Langston
+Northern Diamonds,LCN Smith & BAM Heath,LCN Smith,BAM Heath,37,66,LCN Smith,BAM Heath
+Northern Diamonds,LCN Smith & EF Telford,LCN Smith,EF Telford,4,0,EF Telford,LCN Smith
+Northern Diamonds,LCN Smith & PC Graham,LCN Smith,PC Graham,2,1,PC Graham,LCN Smith
+Northern Diamonds,NR Sciver & BA Langston,NR Sciver,BA Langston,1,2,NR Sciver,BA Langston
+Northern Diamonds,NR Sciver & BAM Heath,NR Sciver,BAM Heath,2,3,NR Sciver,BAM Heath
+Northern Diamonds,NR Sciver & HJ Armitage,NR Sciver,HJ Armitage,30,21,HJ Armitage,NR Sciver
+Northern Diamonds,NR Sciver & L Winfield,NR Sciver,L Winfield,7,9,NR Sciver,L Winfield
+Northern Diamonds,NR Sciver & LCN Smith,NR Sciver,LCN Smith,14,23,NR Sciver,LCN Smith
+Northern Diamonds,PC Graham & A Campbell,PC Graham,A Campbell,0,1,PC Graham,A Campbell
+Northern Diamonds,PC Graham & AL MacDonald,PC Graham,AL MacDonald,14,26,PC Graham,AL MacDonald
+Northern Diamonds,PC Graham & JL Gunn,PC Graham,JL Gunn,15,8,JL Gunn,PC Graham
+Northern Diamonds,PC Graham & SL Kalis,PC Graham,SL Kalis,5,8,PC Graham,SL Kalis
+Northern Diamonds,R Slater & A Campbell,R Slater,A Campbell,6,28,R Slater,A Campbell
+Northern Diamonds,SL Kalis & AL MacDonald,SL Kalis,AL MacDonald,1,6,SL Kalis,AL MacDonald
+Northern Diamonds,SL Kalis & HJ Armitage,SL Kalis,HJ Armitage,80,75,HJ Armitage,SL Kalis
+Northern Diamonds,SL Kalis & L Winfield,SL Kalis,L Winfield,36,61,SL Kalis,L Winfield
+Northern Diamonds,SL Kalis & LCN Smith,SL Kalis,LCN Smith,22,24,SL Kalis,LCN Smith
+Northern Diamonds,SL Kalis & RHM Hopkins,SL Kalis,RHM Hopkins,91,51,RHM Hopkins,SL Kalis
+Northern Diamonds,SL Kalis & SJ Taylor,SL Kalis,SJ Taylor,2,2,SL Kalis,SJ Taylor
+South East Stars,A Capsey & A Cranstone,A Capsey,A Cranstone,129,83,A Cranstone,A Capsey
+South East Stars,A Capsey & C Brewer,A Capsey,C Brewer,29,47,A Capsey,C Brewer
+South East Stars,A Capsey & Emma Jones,A Capsey,Emma Jones,1,0,Emma Jones,A Capsey
+South East Stars,A Capsey & K Moore,A Capsey,K Moore,9,7,K Moore,A Capsey
+South East Stars,A Capsey & KM Chathli,A Capsey,KM Chathli,13,10,KM Chathli,A Capsey
+South East Stars,A Cranstone & AN Davidson-Richards,A Cranstone,AN Davidson-Richards,3,6,A Cranstone,AN Davidson-Richards
+South East Stars,A Cranstone & C Brewer,A Cranstone,C Brewer,26,56,A Cranstone,C Brewer
+South East Stars,A Cranstone & GJ Gibbs,A Cranstone,GJ Gibbs,16,7,GJ Gibbs,A Cranstone
+South East Stars,A Cranstone & KE White,A Cranstone,KE White,57,50,KE White,A Cranstone
+South East Stars,AG Gordon & A Capsey,AG Gordon,A Capsey,7,7,AG Gordon,A Capsey
+South East Stars,AN Davidson-Richards & K Moore,AN Davidson-Richards,K Moore,1,0,K Moore,AN Davidson-Richards
+South East Stars,AN Davidson-Richards & KE White,AN Davidson-Richards,KE White,3,4,AN Davidson-Richards,KE White
+South East Stars,AN Davidson-Richards & PA Franklin,AN Davidson-Richards,PA Franklin,4,5,AN Davidson-Richards,PA Franklin
+South East Stars,AN Davidson-Richards & SIR Dunkley,AN Davidson-Richards,SIR Dunkley,158,125,SIR Dunkley,AN Davidson-Richards
+South East Stars,BF Smith & A Capsey,BF Smith,A Capsey,77,44,A Capsey,BF Smith
+South East Stars,BF Smith & AN Davidson-Richards,BF Smith,AN Davidson-Richards,137,68,AN Davidson-Richards,BF Smith
+South East Stars,BF Smith & C Brewer,BF Smith,C Brewer,8,4,C Brewer,BF Smith
+South East Stars,C Brewer & K Moore,C Brewer,K Moore,17,3,K Moore,C Brewer
+South East Stars,D Gregory & K Moore,D Gregory,K Moore,0,1,D Gregory,K Moore
+South East Stars,E Gray & HV Jones,E Gray,HV Jones,3,11,E Gray,HV Jones
+South East Stars,Emma Jones & D Gregory,Emma Jones,D Gregory,6,1,D Gregory,Emma Jones
+South East Stars,Emma Jones & K Moore,Emma Jones,K Moore,14,36,Emma Jones,K Moore
+South East Stars,FR Davies & D Gregory,FR Davies,D Gregory,5,1,D Gregory,FR Davies
+South East Stars,FR Davies & NE Farrant,FR Davies,NE Farrant,14,28,FR Davies,NE Farrant
+South East Stars,GJ Gibbs & BF Smith,GJ Gibbs,BF Smith,23,18,BF Smith,GJ Gibbs
+South East Stars,GJ Gibbs & KM Chathli,GJ Gibbs,KM Chathli,1,4,GJ Gibbs,KM Chathli
+South East Stars,GJ Gibbs & NE Farrant,GJ Gibbs,NE Farrant,1,3,GJ Gibbs,NE Farrant
+South East Stars,GJ Gibbs & R Southby,GJ Gibbs,R Southby,35,14,R Southby,GJ Gibbs
+South East Stars,HV Jones & A Cranstone,HV Jones,A Cranstone,1,0,A Cranstone,HV Jones
+South East Stars,HV Jones & AG Gordon,HV Jones,AG Gordon,5,1,AG Gordon,HV Jones
+South East Stars,HV Jones & M Blythin,HV Jones,M Blythin,28,9,M Blythin,HV Jones
+South East Stars,HV Jones & NE Farrant,HV Jones,NE Farrant,5,4,NE Farrant,HV Jones
+South East Stars,HV Jones & PA Franklin,HV Jones,PA Franklin,8,8,HV Jones,PA Franklin
+South East Stars,HV Jones & SE Rowe,HV Jones,SE Rowe,16,28,HV Jones,SE Rowe
+South East Stars,K Moore & GJ Gibbs,K Moore,GJ Gibbs,18,11,GJ Gibbs,K Moore
+South East Stars,K Moore & KM Chathli,K Moore,KM Chathli,3,1,KM Chathli,K Moore
+South East Stars,KE White & A Capsey,KE White,A Capsey,52,33,A Capsey,KE White
+South East Stars,KE White & BF Smith,KE White,BF Smith,6,17,KE White,BF Smith
+South East Stars,KE White & C Brewer,KE White,C Brewer,30,28,C Brewer,KE White
+South East Stars,KE White & K Moore,KE White,K Moore,1,7,KE White,K Moore
+South East Stars,KE White & SIR Dunkley,KE White,SIR Dunkley,15,16,KE White,SIR Dunkley
+South East Stars,KM Chathli & Emma Jones,KM Chathli,Emma Jones,11,5,Emma Jones,KM Chathli
+South East Stars,M Blythin & A Cranstone,M Blythin,A Cranstone,6,22,M Blythin,A Cranstone
+South East Stars,M Blythin & AG Gordon,M Blythin,AG Gordon,1,0,AG Gordon,M Blythin
+South East Stars,M Blythin & E Gray,M Blythin,E Gray,1,1,M Blythin,E Gray
+South East Stars,M Blythin & KE White,M Blythin,KE White,19,30,M Blythin,KE White
+South East Stars,M Blythin & R Southby,M Blythin,R Southby,2,1,R Southby,M Blythin
+South East Stars,MS Belt & AG Gordon,MS Belt,AG Gordon,0,1,MS Belt,AG Gordon
+South East Stars,NE Farrant & KE White,NE Farrant,KE White,1,1,NE Farrant,KE White
+South East Stars,NE Farrant & M Blythin,NE Farrant,M Blythin,10,18,NE Farrant,M Blythin
+South East Stars,NE Farrant & PA Franklin,NE Farrant,PA Franklin,1,2,NE Farrant,PA Franklin
+South East Stars,NE Farrant & SE Rowe,NE Farrant,SE Rowe,27,20,SE Rowe,NE Farrant
+South East Stars,PA Franklin & A Cranstone,PA Franklin,A Cranstone,28,17,A Cranstone,PA Franklin
+South East Stars,PA Franklin & C Brewer,PA Franklin,C Brewer,7,9,PA Franklin,C Brewer
+South East Stars,PA Franklin & KM Chathli,PA Franklin,KM Chathli,32,14,KM Chathli,PA Franklin
+South East Stars,R MacDonald-Gay & Emma Jones,R MacDonald-Gay,Emma Jones,0,8,R MacDonald-Gay,Emma Jones
+South East Stars,R MacDonald-Gay & K Moore,R MacDonald-Gay,K Moore,0,10,R MacDonald-Gay,K Moore
+South East Stars,R Southby & FR Davies,R Southby,FR Davies,2,2,R Southby,FR Davies
+South East Stars,R Southby & HV Jones,R Southby,HV Jones,5,0,HV Jones,R Southby
+South East Stars,R Southby & MS Belt,R Southby,MS Belt,3,5,R Southby,MS Belt
+South East Stars,R Southby & NE Farrant,R Southby,NE Farrant,11,15,R Southby,NE Farrant
+South East Stars,R Southby & SIR Dunkley,R Southby,SIR Dunkley,6,30,R Southby,SIR Dunkley
+South East Stars,SE Rowe & A Capsey,SE Rowe,A Capsey,1,0,A Capsey,SE Rowe
+South East Stars,SE Rowe & A Cranstone,SE Rowe,A Cranstone,8,0,A Cranstone,SE Rowe
+South East Stars,SE Rowe & SIR Dunkley,SE Rowe,SIR Dunkley,22,33,SE Rowe,SIR Dunkley
+South East Stars,SIR Dunkley & A Capsey,SIR Dunkley,A Capsey,22,18,A Capsey,SIR Dunkley
+South East Stars,SIR Dunkley & A Cranstone,SIR Dunkley,A Cranstone,34,15,A Cranstone,SIR Dunkley
+South East Stars,SIR Dunkley & BF Smith,SIR Dunkley,BF Smith,0,12,SIR Dunkley,BF Smith
+South East Stars,SIR Dunkley & GJ Gibbs,SIR Dunkley,GJ Gibbs,17,31,SIR Dunkley,GJ Gibbs
+South East Stars,SIR Dunkley & NE Farrant,SIR Dunkley,NE Farrant,21,12,NE Farrant,SIR Dunkley
+Southern Vipers,AZ Monaghan & CE Rudd,AZ Monaghan,CE Rudd,5,19,AZ Monaghan,CE Rudd
+Southern Vipers,AZ Monaghan & TG Norris,AZ Monaghan,TG Norris,1,0,TG Norris,AZ Monaghan
+Southern Vipers,CE Dean & CE Rudd,CE Dean,CE Rudd,24,23,CE Rudd,CE Dean
+Southern Vipers,CE Dean & DN Wyatt,CE Dean,DN Wyatt,2,1,DN Wyatt,CE Dean
+Southern Vipers,CE Dean & GA Elwiss,CE Dean,GA Elwiss,12,2,GA Elwiss,CE Dean
+Southern Vipers,CE Rudd & DN Wyatt,CE Rudd,DN Wyatt,10,39,CE Rudd,DN Wyatt
+Southern Vipers,CE Rudd & E Windsor,CE Rudd,E Windsor,49,59,CE Rudd,E Windsor
+Southern Vipers,CE Rudd & GL Adams,CE Rudd,GL Adams,0,1,CE Rudd,GL Adams
+Southern Vipers,CM Taylor & AZ Monaghan,CM Taylor,AZ Monaghan,10,3,AZ Monaghan,CM Taylor
+Southern Vipers,CM Taylor & LK Bell,CM Taylor,LK Bell,1,6,CM Taylor,LK Bell
+Southern Vipers,CM Taylor & PAC Cowdrill,CM Taylor,PAC Cowdrill,3,4,CM Taylor,PAC Cowdrill
+Southern Vipers,DN Wyatt & E Windsor,DN Wyatt,E Windsor,13,14,DN Wyatt,E Windsor
+Southern Vipers,E Windsor & AZ Monaghan,E Windsor,AZ Monaghan,6,1,AZ Monaghan,E Windsor
+Southern Vipers,E Windsor & CE Dean,E Windsor,CE Dean,14,11,CE Dean,E Windsor
+Southern Vipers,E Windsor & CM Taylor,E Windsor,CM Taylor,16,6,CM Taylor,E Windsor
+Southern Vipers,E Windsor & EM McCaughan,E Windsor,EM McCaughan,2,8,E Windsor,EM McCaughan
+Southern Vipers,E Windsor & GA Elwiss,E Windsor,GA Elwiss,1,0,GA Elwiss,E Windsor
+Southern Vipers,E Windsor & GL Adams,E Windsor,GL Adams,16,31,E Windsor,GL Adams
+Southern Vipers,E Windsor & PJ Scholfield,E Windsor,PJ Scholfield,22,34,E Windsor,PJ Scholfield
+Southern Vipers,EM McCaughan & CE Dean,EM McCaughan,CE Dean,5,7,EM McCaughan,CE Dean
+Southern Vipers,ER Chandler & AZ Monaghan,ER Chandler,AZ Monaghan,5,1,AZ Monaghan,ER Chandler
+Southern Vipers,GA Elwiss & CE Rudd,GA Elwiss,CE Rudd,2,1,CE Rudd,GA Elwiss
+Southern Vipers,GA Elwiss & DN Wyatt,GA Elwiss,DN Wyatt,45,38,DN Wyatt,GA Elwiss
+Southern Vipers,GA Elwiss & EM McCaughan,GA Elwiss,EM McCaughan,0,5,GA Elwiss,EM McCaughan
+Southern Vipers,GA Elwiss & LK Bell,GA Elwiss,LK Bell,8,1,LK Bell,GA Elwiss
+Southern Vipers,GA Elwiss & ME Bouchier,GA Elwiss,ME Bouchier,22,23,GA Elwiss,ME Bouchier
+Southern Vipers,GA Elwiss & TG Norris,GA Elwiss,TG Norris,2,3,GA Elwiss,TG Norris
+Southern Vipers,GH Lewis & E Windsor,GH Lewis,E Windsor,23,7,E Windsor,GH Lewis
+Southern Vipers,GH Lewis & EM McCaughan,GH Lewis,EM McCaughan,16,10,EM McCaughan,GH Lewis
+Southern Vipers,GH Lewis & GA Elwiss,GH Lewis,GA Elwiss,57,43,GA Elwiss,GH Lewis
+Southern Vipers,GH Lewis & ME Bouchier,GH Lewis,ME Bouchier,1,13,GH Lewis,ME Bouchier
+Southern Vipers,GL Adams & CE Dean,GL Adams,CE Dean,29,45,GL Adams,CE Dean
+Southern Vipers,GL Adams & DN Wyatt,GL Adams,DN Wyatt,135,181,GL Adams,DN Wyatt
+Southern Vipers,GL Adams & EM McCaughan,GL Adams,EM McCaughan,212,189,EM McCaughan,GL Adams
+Southern Vipers,GL Adams & GA Elwiss,GL Adams,GA Elwiss,74,99,GL Adams,GA Elwiss
+Southern Vipers,GL Adams & PJ Scholfield,GL Adams,PJ Scholfield,22,11,PJ Scholfield,GL Adams
+Southern Vipers,ME Bouchier & CE Dean,ME Bouchier,CE Dean,24,30,ME Bouchier,CE Dean
+Southern Vipers,ME Bouchier & DN Wyatt,ME Bouchier,DN Wyatt,45,53,ME Bouchier,DN Wyatt
+Southern Vipers,ME Bouchier & EM McCaughan,ME Bouchier,EM McCaughan,43,17,EM McCaughan,ME Bouchier
+Southern Vipers,ME Bouchier & GL Adams,ME Bouchier,GL Adams,230,229,GL Adams,ME Bouchier
+Southern Vipers,PJ Scholfield & CE Dean,PJ Scholfield,CE Dean,89,66,CE Dean,PJ Scholfield
+Southern Vipers,PJ Scholfield & EM McCaughan,PJ Scholfield,EM McCaughan,2,8,PJ Scholfield,EM McCaughan
+Southern Vipers,PJ Scholfield & GA Elwiss,PJ Scholfield,GA Elwiss,44,42,GA Elwiss,PJ Scholfield
+Southern Vipers,TG Norris & CE Dean,TG Norris,CE Dean,10,17,TG Norris,CE Dean
+Southern Vipers,TG Norris & CE Rudd,TG Norris,CE Rudd,7,3,CE Rudd,TG Norris
+Southern Vipers,TG Norris & DN Wyatt,TG Norris,DN Wyatt,1,0,DN Wyatt,TG Norris
+Southern Vipers,TG Norris & E Windsor,TG Norris,E Windsor,50,58,TG Norris,E Windsor
+Southern Vipers,TG Norris & PJ Scholfield,TG Norris,PJ Scholfield,3,0,PJ Scholfield,TG Norris
+Sunrisers,AD Carr & AJ Macleod,AD Carr,AJ Macleod,34,8,AJ Macleod,AD Carr
+Sunrisers,AD Carr & ND Dattani,AD Carr,ND Dattani,9,2,ND Dattani,AD Carr
+Sunrisers,AJ Macleod & CL Griffith,AJ Macleod,CL Griffith,113,182,AJ Macleod,CL Griffith
+Sunrisers,AJ Macleod & G Scrivens,AJ Macleod,G Scrivens,36,28,G Scrivens,AJ Macleod
+Sunrisers,AJ Macleod & M Rogers,AJ Macleod,M Rogers,12,3,M Rogers,AJ Macleod
+Sunrisers,AJ Macleod & MK Villiers,AJ Macleod,MK Villiers,2,0,MK Villiers,AJ Macleod
+Sunrisers,CL Griffith & AD Carr,CL Griffith,AD Carr,1,6,CL Griffith,AD Carr
+Sunrisers,CL Griffith & FC Wilson,CL Griffith,FC Wilson,0,5,CL Griffith,FC Wilson
+Sunrisers,CL Griffith & G Scrivens,CL Griffith,G Scrivens,110,87,G Scrivens,CL Griffith
+Sunrisers,E Thorpe & KL Midwood,E Thorpe,KL Midwood,11,3,KL Midwood,E Thorpe
+Sunrisers,FC Wilson & AD Carr,FC Wilson,AD Carr,30,30,FC Wilson,AD Carr
+Sunrisers,FC Wilson & AJ Macleod,FC Wilson,AJ Macleod,88,70,AJ Macleod,FC Wilson
+Sunrisers,FC Wilson & KL Midwood,FC Wilson,KL Midwood,0,5,FC Wilson,KL Midwood
+Sunrisers,FC Wilson & KS Castle,FC Wilson,KS Castle,18,11,KS Castle,FC Wilson
+Sunrisers,FC Wilson & M Rogers,FC Wilson,M Rogers,6,3,M Rogers,FC Wilson
+Sunrisers,FC Wilson & MK Villiers,FC Wilson,MK Villiers,8,1,MK Villiers,FC Wilson
+Sunrisers,FC Wilson & ND Dattani,FC Wilson,ND Dattani,39,27,ND Dattani,FC Wilson
+Sunrisers,G Scrivens & AD Carr,G Scrivens,AD Carr,2,6,G Scrivens,AD Carr
+Sunrisers,G Scrivens & GKS Gole,G Scrivens,GKS Gole,2,4,G Scrivens,GKS Gole
+Sunrisers,G Scrivens & J Gardner,G Scrivens,J Gardner,104,85,J Gardner,G Scrivens
+Sunrisers,G Scrivens & MK Villiers,G Scrivens,MK Villiers,8,10,G Scrivens,MK Villiers
+Sunrisers,G Scrivens & ND Dattani,G Scrivens,ND Dattani,32,30,ND Dattani,G Scrivens
+Sunrisers,G Scrivens & Sonali Patel,G Scrivens,Sonali Patel,5,0,Sonali Patel,G Scrivens
+Sunrisers,GKS Gole & AD Carr,GKS Gole,AD Carr,7,1,AD Carr,GKS Gole
+Sunrisers,H Brown & ND Dattani,H Brown,ND Dattani,6,14,H Brown,ND Dattani
+Sunrisers,J Gardner & AD Carr,J Gardner,AD Carr,25,22,AD Carr,J Gardner
+Sunrisers,J Gardner & AJ Macleod,J Gardner,AJ Macleod,0,4,J Gardner,AJ Macleod
+Sunrisers,J Gardner & FC Wilson,J Gardner,FC Wilson,3,11,J Gardner,FC Wilson
+Sunrisers,J Gardner & H Brown,J Gardner,H Brown,14,10,H Brown,J Gardner
+Sunrisers,K Speed & KL Midwood,K Speed,KL Midwood,2,5,K Speed,KL Midwood
+Sunrisers,K Speed & KS Castle,K Speed,KS Castle,1,0,KS Castle,K Speed
+Sunrisers,KJ Wolfe & E Thorpe,KJ Wolfe,E Thorpe,3,12,KJ Wolfe,E Thorpe
+Sunrisers,KJ Wolfe & J Gardner,KJ Wolfe,J Gardner,0,7,KJ Wolfe,J Gardner
+Sunrisers,KJ Wolfe & KL Midwood,KJ Wolfe,KL Midwood,7,2,KL Midwood,KJ Wolfe
+Sunrisers,KJ Wolfe & KS Castle,KJ Wolfe,KS Castle,2,3,KJ Wolfe,KS Castle
+Sunrisers,KL Coppack & GKS Gole,KL Coppack,GKS Gole,4,4,KL Coppack,GKS Gole
+Sunrisers,KL Coppack & J Gardner,KL Coppack,J Gardner,1,0,J Gardner,KL Coppack
+Sunrisers,KL Coppack & KL Midwood,KL Coppack,KL Midwood,6,3,KL Midwood,KL Coppack
+Sunrisers,KL Midwood & AD Carr,KL Midwood,AD Carr,1,4,KL Midwood,AD Carr
+Sunrisers,KL Midwood & G Scrivens,KL Midwood,G Scrivens,12,26,KL Midwood,G Scrivens
+Sunrisers,KL Midwood & J Gardner,KL Midwood,J Gardner,24,9,J Gardner,KL Midwood
+Sunrisers,KS Castle & AD Carr,KS Castle,AD Carr,21,31,KS Castle,AD Carr
+Sunrisers,KS Castle & G Scrivens,KS Castle,G Scrivens,4,4,KS Castle,G Scrivens
+Sunrisers,KS Castle & GKS Gole,KS Castle,GKS Gole,10,25,KS Castle,GKS Gole
+Sunrisers,KS Castle & J Gardner,KS Castle,J Gardner,58,75,KS Castle,J Gardner
+Sunrisers,KS Castle & KL Midwood,KS Castle,KL Midwood,7,2,KL Midwood,KS Castle
+Sunrisers,KS Castle & M Rogers,KS Castle,M Rogers,3,7,KS Castle,M Rogers
+Sunrisers,KS Castle & MK Villiers,KS Castle,MK Villiers,20,18,MK Villiers,KS Castle
+Sunrisers,KS Castle & ND Dattani,KS Castle,ND Dattani,44,36,ND Dattani,KS Castle
+Sunrisers,KS Castle & Sonali Patel,KS Castle,Sonali Patel,10,15,KS Castle,Sonali Patel
+Sunrisers,M Rogers & J Gardner,M Rogers,J Gardner,8,17,M Rogers,J Gardner
+Sunrisers,MK Villiers & AD Carr,MK Villiers,AD Carr,25,14,AD Carr,MK Villiers
+Sunrisers,MK Villiers & J Gardner,MK Villiers,J Gardner,22,16,J Gardner,MK Villiers
+Sunrisers,MK Villiers & ND Dattani,MK Villiers,ND Dattani,70,76,MK Villiers,ND Dattani
+Sunrisers,ND Dattani & AJ Macleod,ND Dattani,AJ Macleod,28,37,ND Dattani,AJ Macleod
+Sunrisers,ND Dattani & CL Griffith,ND Dattani,CL Griffith,55,64,ND Dattani,CL Griffith
+Sunrisers,Sonali Patel & J Gardner,Sonali Patel,J Gardner,1,0,J Gardner,Sonali Patel
+Sunrisers,Sonali Patel & KJ Wolfe,Sonali Patel,KJ Wolfe,0,1,Sonali Patel,KJ Wolfe
+Sunrisers,Sonali Patel & KL Midwood,Sonali Patel,KL Midwood,13,10,KL Midwood,Sonali Patel
+Sunrisers,Sonali Patel & MK Villiers,Sonali Patel,MK Villiers,1,2,Sonali Patel,MK Villiers
+Thunder,A Clarke & GEB Boyce,A Clarke,GEB Boyce,1,0,GEB Boyce,A Clarke
+Thunder,A Hartley & AE Dyson,A Hartley,AE Dyson,14,22,A Hartley,AE Dyson
+Thunder,A Hartley & DL Collins,A Hartley,DL Collins,4,0,DL Collins,A Hartley
+Thunder,A Hartley & N Brown,A Hartley,N Brown,12,14,A Hartley,N Brown
+Thunder,A Hartley & R Duckworth,A Hartley,R Duckworth,8,2,R Duckworth,A Hartley
+Thunder,A Hartley & S Ecclestone,A Hartley,S Ecclestone,0,20,A Hartley,S Ecclestone
+Thunder,AE Dyson & E Threlkeld,AE Dyson,E Threlkeld,13,15,AE Dyson,E Threlkeld
+Thunder,AE Dyson & KL Cross,AE Dyson,KL Cross,6,17,AE Dyson,KL Cross
+Thunder,AE Dyson & L Marshall,AE Dyson,L Marshall,3,8,AE Dyson,L Marshall
+Thunder,D Mullan & GEB Boyce,D Mullan,GEB Boyce,8,13,D Mullan,GEB Boyce
+Thunder,DL Collins & KL Cross,DL Collins,KL Cross,4,4,DL Collins,KL Cross
+Thunder,DL Collins & L Jackson,DL Collins,L Jackson,18,7,L Jackson,DL Collins
+Thunder,DL Collins & N Brown,DL Collins,N Brown,7,11,DL Collins,N Brown
+Thunder,E Threlkeld & A Hartley,E Threlkeld,A Hartley,3,5,E Threlkeld,A Hartley
+Thunder,E Threlkeld & D Mullan,E Threlkeld,D Mullan,4,0,D Mullan,E Threlkeld
+Thunder,E Threlkeld & EL Lamb,E Threlkeld,EL Lamb,13,13,E Threlkeld,EL Lamb
+Thunder,E Threlkeld & GEB Boyce,E Threlkeld,GEB Boyce,48,73,E Threlkeld,GEB Boyce
+Thunder,E Threlkeld & L Jackson,E Threlkeld,L Jackson,40,22,L Jackson,E Threlkeld
+Thunder,E Threlkeld & S Ecclestone,E Threlkeld,S Ecclestone,15,16,E Threlkeld,S Ecclestone
+Thunder,EL Lamb & GEB Boyce,EL Lamb,GEB Boyce,91,71,GEB Boyce,EL Lamb
+Thunder,EL Lamb & KL Cross,EL Lamb,KL Cross,11,21,EL Lamb,KL Cross
+Thunder,GEB Boyce & P Cleary,GEB Boyce,P Cleary,33,11,P Cleary,GEB Boyce
+Thunder,GEB Boyce & S Smale,GEB Boyce,S Smale,33,25,S Smale,GEB Boyce
+Thunder,HE Jones & A Hartley,HE Jones,A Hartley,15,21,HE Jones,A Hartley
+Thunder,HE Jones & DL Collins,HE Jones,DL Collins,2,3,HE Jones,DL Collins
+Thunder,HE Jones & E Threlkeld,HE Jones,E Threlkeld,9,9,HE Jones,E Threlkeld
+Thunder,HE Jones & KL Cross,HE Jones,KL Cross,2,0,KL Cross,HE Jones
+Thunder,HE Jones & Olivia Thomas,HE Jones,Olivia Thomas,3,1,Olivia Thomas,HE Jones
+Thunder,HE Jones & R Duckworth,HE Jones,R Duckworth,2,3,HE Jones,R Duckworth
+Thunder,KL Cross & A Hartley,KL Cross,A Hartley,1,0,A Hartley,KL Cross
+Thunder,KL Cross & GEB Boyce,KL Cross,GEB Boyce,29,7,GEB Boyce,KL Cross
+Thunder,KL Cross & N Brown,KL Cross,N Brown,9,20,KL Cross,N Brown
+Thunder,L Heap & AE Dyson,L Heap,AE Dyson,15,3,AE Dyson,L Heap
+Thunder,L Heap & E Threlkeld,L Heap,E Threlkeld,19,10,E Threlkeld,L Heap
+Thunder,L Heap & R Duckworth,L Heap,R Duckworth,13,10,R Duckworth,L Heap
+Thunder,L Jackson & GEB Boyce,L Jackson,GEB Boyce,1,10,L Jackson,GEB Boyce
+Thunder,L Jackson & KL Cross,L Jackson,KL Cross,4,9,L Jackson,KL Cross
+Thunder,L Jackson & L Marshall,L Jackson,L Marshall,37,67,L Jackson,L Marshall
+Thunder,L Marshall & DL Collins,L Marshall,DL Collins,11,8,DL Collins,L Marshall
+Thunder,L Marshall & E Threlkeld,L Marshall,E Threlkeld,1,0,E Threlkeld,L Marshall
+Thunder,L Marshall & GEB Boyce,L Marshall,GEB Boyce,46,26,GEB Boyce,L Marshall
+Thunder,L Marshall & HE Jones,L Marshall,HE Jones,2,0,HE Jones,L Marshall
+Thunder,L Marshall & KL Cross,L Marshall,KL Cross,15,17,L Marshall,KL Cross
+Thunder,L Marshall & N Brown,L Marshall,N Brown,1,1,L Marshall,N Brown
+Thunder,N Brown & E Threlkeld,N Brown,E Threlkeld,71,77,N Brown,E Threlkeld
+Thunder,N Brown & EL Lamb,N Brown,EL Lamb,11,18,N Brown,EL Lamb
+Thunder,N Brown & GEB Boyce,N Brown,GEB Boyce,48,55,N Brown,GEB Boyce
+Thunder,N Brown & L Jackson,N Brown,L Jackson,5,3,L Jackson,N Brown
+Thunder,N Brown & R Duckworth,N Brown,R Duckworth,43,21,R Duckworth,N Brown
+Thunder,N Brown & S Ecclestone,N Brown,S Ecclestone,22,15,S Ecclestone,N Brown
+Thunder,Olivia Thomas & KL Cross,Olivia Thomas,KL Cross,15,36,Olivia Thomas,KL Cross
+Thunder,Olivia Thomas & R Duckworth,Olivia Thomas,R Duckworth,0,1,Olivia Thomas,R Duckworth
+Thunder,P Cleary & E Threlkeld,P Cleary,E Threlkeld,1,2,P Cleary,E Threlkeld
+Thunder,P Cleary & EL Lamb,P Cleary,EL Lamb,81,92,P Cleary,EL Lamb
+Thunder,R Duckworth & AE Dyson,R Duckworth,AE Dyson,26,27,R Duckworth,AE Dyson
+Thunder,R Duckworth & DL Collins,R Duckworth,DL Collins,1,2,R Duckworth,DL Collins
+Thunder,R Duckworth & E Threlkeld,R Duckworth,E Threlkeld,1,1,R Duckworth,E Threlkeld
+Thunder,R Duckworth & L Jackson,R Duckworth,L Jackson,2,7,R Duckworth,L Jackson
+Thunder,S Ecclestone & EL Lamb,S Ecclestone,EL Lamb,15,20,S Ecclestone,EL Lamb
+Thunder,S Ecclestone & GEB Boyce,S Ecclestone,GEB Boyce,12,9,GEB Boyce,S Ecclestone
+Thunder,S Ecclestone & KL Cross,S Ecclestone,KL Cross,31,13,KL Cross,S Ecclestone
+Thunder,S Ecclestone & S Turner,S Ecclestone,S Turner,7,2,S Turner,S Ecclestone
+Thunder,S Turner & KL Cross,S Turner,KL Cross,1,6,S Turner,KL Cross
+Western Storm,A Griffiths & GM Hennessy,A Griffiths,GM Hennessy,80,66,GM Hennessy,A Griffiths
+Western Storm,A Griffiths & NAJ Wraith,A Griffiths,NAJ Wraith,3,0,NAJ Wraith,A Griffiths
+Western Storm,B Gammon & SN Luff,B Gammon,SN Luff,0,1,B Gammon,SN Luff
+Western Storm,C Nicholas & E Corney,C Nicholas,E Corney,13,6,E Corney,C Nicholas
+Western Storm,C Nicholas & LA Parfitt,C Nicholas,LA Parfitt,22,16,LA Parfitt,C Nicholas
+Western Storm,C Nicholas & SN Luff,C Nicholas,SN Luff,11,35,C Nicholas,SN Luff
+Western Storm,C Skelton & N Harvey,C Skelton,N Harvey,13,3,N Harvey,C Skelton
+Western Storm,DR Gibson & EM Edgcombe,DR Gibson,EM Edgcombe,14,1,EM Edgcombe,DR Gibson
+Western Storm,DR Gibson & FMK Morris,DR Gibson,FMK Morris,20,10,FMK Morris,DR Gibson
+Western Storm,DR Gibson & GM Hennessy,DR Gibson,GM Hennessy,19,30,DR Gibson,GM Hennessy
+Western Storm,DR Gibson & KL George,DR Gibson,KL George,6,3,KL George,DR Gibson
+Western Storm,DR Gibson & NAJ Wraith,DR Gibson,NAJ Wraith,12,14,DR Gibson,NAJ Wraith
+Western Storm,E Corney & DR Gibson,E Corney,DR Gibson,1,9,E Corney,DR Gibson
+Western Storm,E Corney & EM Edgcombe,E Corney,EM Edgcombe,3,6,E Corney,EM Edgcombe
+Western Storm,E Corney & LA Parfitt,E Corney,LA Parfitt,3,0,LA Parfitt,E Corney
+Western Storm,FMK Morris & A Shrubsole,FMK Morris,A Shrubsole,17,13,A Shrubsole,FMK Morris
+Western Storm,FMK Morris & GM Hennessy,FMK Morris,GM Hennessy,12,5,GM Hennessy,FMK Morris
+Western Storm,FMK Morris & LA Parfitt,FMK Morris,LA Parfitt,109,59,LA Parfitt,FMK Morris
+Western Storm,GM Hennessy & SN Luff,GM Hennessy,SN Luff,133,135,GM Hennessy,SN Luff
+Western Storm,HC Knight & FMK Morris,HC Knight,FMK Morris,81,56,FMK Morris,HC Knight
+Western Storm,HC Knight & GM Hennessy,HC Knight,GM Hennessy,65,33,GM Hennessy,HC Knight
+Western Storm,HC Knight & SN Luff,HC Knight,SN Luff,142,135,SN Luff,HC Knight
+Western Storm,KL George & GM Hennessy,KL George,GM Hennessy,18,9,GM Hennessy,KL George
+Western Storm,KL George & HC Knight,KL George,HC Knight,19,17,HC Knight,KL George
+Western Storm,KL George & NAJ Wraith,KL George,NAJ Wraith,16,23,KL George,NAJ Wraith
+Western Storm,L Filer & A Shrubsole,L Filer,A Shrubsole,6,31,L Filer,A Shrubsole
+Western Storm,L Filer & S Hutchins,L Filer,S Hutchins,3,4,L Filer,S Hutchins
+Western Storm,L Filer & SN Luff,L Filer,SN Luff,0,8,L Filer,SN Luff
+Western Storm,LA Parfitt & HC Knight,LA Parfitt,HC Knight,46,65,LA Parfitt,HC Knight
+Western Storm,LA Parfitt & N Holland,LA Parfitt,N Holland,12,0,N Holland,LA Parfitt
+Western Storm,MJ Robbins & E Corney,MJ Robbins,E Corney,2,6,MJ Robbins,E Corney
+Western Storm,MJ Robbins & L Filer,MJ Robbins,L Filer,4,5,MJ Robbins,L Filer
+Western Storm,N Harvey & A Shrubsole,N Harvey,A Shrubsole,13,41,N Harvey,A Shrubsole
+Western Storm,N Harvey & DR Gibson,N Harvey,DR Gibson,0,1,N Harvey,DR Gibson
+Western Storm,N Harvey & MJ Robbins,N Harvey,MJ Robbins,9,3,MJ Robbins,N Harvey
+Western Storm,N Harvey & NAJ Wraith,N Harvey,NAJ Wraith,16,11,NAJ Wraith,N Harvey
+Western Storm,N Holland & E Corney,N Holland,E Corney,6,9,N Holland,E Corney
+Western Storm,N Holland & S Hutchins,N Holland,S Hutchins,2,0,S Hutchins,N Holland
+Western Storm,NAJ Wraith & A Shrubsole,NAJ Wraith,A Shrubsole,3,16,NAJ Wraith,A Shrubsole
+Western Storm,NAJ Wraith & GM Hennessy,NAJ Wraith,GM Hennessy,14,9,GM Hennessy,NAJ Wraith
+Western Storm,NAJ Wraith & HC Knight,NAJ Wraith,HC Knight,13,11,HC Knight,NAJ Wraith
+Western Storm,NAJ Wraith & LA Parfitt,NAJ Wraith,LA Parfitt,4,5,NAJ Wraith,LA Parfitt
+Western Storm,SN Luff & A Griffiths,SN Luff,A Griffiths,139,179,SN Luff,A Griffiths
+Western Storm,SN Luff & C Skelton,SN Luff,C Skelton,25,30,SN Luff,C Skelton
+Western Storm,SN Luff & DR Gibson,SN Luff,DR Gibson,77,52,DR Gibson,SN Luff
+Western Storm,SN Luff & EM Edgcombe,SN Luff,EM Edgcombe,8,4,EM Edgcombe,SN Luff
+Western Storm,SN Luff & FMK Morris,SN Luff,FMK Morris,44,80,SN Luff,FMK Morris
+Western Storm,SN Luff & J Roberts,SN Luff,J Roberts,2,0,J Roberts,SN Luff
+Western Storm,SN Luff & LA Parfitt,SN Luff,LA Parfitt,61,82,SN Luff,LA Parfitt
+Western Storm,SN Luff & NAJ Wraith,SN Luff,NAJ Wraith,86,92,SN Luff,NAJ Wraith

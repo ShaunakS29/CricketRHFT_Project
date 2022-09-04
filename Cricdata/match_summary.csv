@@ -1,0 +1,56 @@
+match_id,Team1,Team2,Season,Date,Venue,Toss_Winner,Toss_Decision,Winner,Winning_Margin,ByWickets,ByRuns
+1229326,Sunrisers,Southern Vipers,2020,29-08-2020,Chelmsford,Southern Vipers,field,Southern Vipers,7,Y,N
+1229327,Central Sparks,Northern Diamonds,2020,29-08-2020,Birmingham,Central Sparks,bat,Northern Diamonds,9,Y,N
+1229328,Thunder,Lightning,2020,29-08-2020,Nottingham,Thunder,bat,Thunder,4,N,Y
+1229329,South East Stars,Western Storm,2020,29-08-2020,Beckenham,Western Storm,field,Western Storm,6,Y,N
+1229330,Southern Vipers,Western Storm,2020,31-08-2020,Bristol,Western Storm,field,Southern Vipers,22,N,Y
+1229331,South East Stars,Sunrisers,2020,31-08-2020,Beckenham,South East Stars,bat,South East Stars,77,N,Y
+1229332,Thunder,Central Sparks,2020,31-08-2020,Birmingham,Thunder,bat,Central Sparks,4,Y,N
+1229333,Northern Diamonds,Lightning,2020,31-08-2020,Chester-le-Street,Northern Diamonds,bat,Northern Diamonds,9,N,Y
+1229334,Thunder,Central Sparks,2020,05-09-2020,Worcester,Thunder,bat,Central Sparks,8,Y,N
+1229335,Western Storm,Sunrisers,2020,05-09-2020,Chelmsford,Sunrisers,field,Western Storm,86,N,Y
+1229336,Lightning,Northern Diamonds,2020,05-09-2020,Leicester,Northern Diamonds,field,Northern Diamonds,2,Y,N
+1229337,Southern Vipers,South East Stars,2020,05-09-2020,Brighton,Southern Vipers,bat,Southern Vipers,111,N,Y
+1229338,Northern Diamonds,Thunder,2020,10-09-2020,Liverpool,Thunder,field,Northern Diamonds,73,N,Y
+1229339,South East Stars,Western Storm,2020,11-09-2020,Bristol,South East Stars,bat,Western Storm,7,Y,N
+1229340,Southern Vipers,Sunrisers,2020,11-09-2020,Southampton,Southern Vipers,bat,Southern Vipers,49,N,Y
+1229341,Lightning,Central Sparks,2020,11-09-2020,Worcester,Central Sparks,field,Lightning,6,N,Y
+1229342,Southern Vipers,Western Storm,2020,13-09-2020,Southampton,Southern Vipers,bat,Southern Vipers,32,N,Y
+1229343,Sunrisers,South East Stars,2020,13-09-2020,Chelmsford,Sunrisers,bat,South East Stars,6,Y,N
+1229344,Thunder,Lightning,2020,13-09-2020,Liverpool,Thunder,bat,Thunder,72,N,Y
+1229345,Northern Diamonds,Central Sparks,2020,13-09-2020,Leeds,Northern Diamonds,bat,Central Sparks,6,Y,N
+1229346,South East Stars,Southern Vipers,2020,19-09-2020,London,South East Stars,bat,Southern Vipers,4,Y,N
+1229347,Thunder,Northern Diamonds,2020,19-09-2020,Leeds,Thunder,bat,Northern Diamonds,6,Y,N
+1229348,Lightning,Central Sparks,2020,19-09-2020,Leicester,Central Sparks,field,Lightning,55,N,Y
+1229349,Western Storm,Sunrisers,2020,19-09-2020,Bristol,Sunrisers,field,Western Storm,47,N,Y
+1229350,Southern Vipers,Northern Diamonds,2020,27-09-2020,Birmingham,Northern Diamonds,field,Southern Vipers,38,N,Y
+1252264,Northern Diamonds,Central Sparks,2021,29-05-2021,Leeds,Central Sparks,field,Central Sparks,2,Y,N
+1252265,Thunder,Western Storm,2021,29-05-2021,Bristol,Western Storm,field,Western Storm,1,Y,N
+1252266,South East Stars,Sunrisers,2021,29-05-2021,Chelmsford,Sunrisers,field,South East Stars,135,N,Y
+1252267,Lightning,Southern Vipers,2021,29-05-2021,Southampton,Lightning,bat,Southern Vipers,4,Y,N
+1252268,Northern Diamonds,Lightning,2021,31-05-2021,Kibworth,Lightning,field,Northern Diamonds,6,N,Y
+1252269,Central Sparks,Western Storm,2021,31-05-2021,Birmingham,Western Storm,field,Central Sparks,41,N,Y
+1252270,South East Stars,Southern Vipers,2021,31-05-2021,Beckenham,Southern Vipers,field,Southern Vipers,7,Y,N
+1252271,Thunder,Sunrisers,2021,31-05-2021,Chester,Thunder,bat,Thunder,36,N,Y
+1252272,Western Storm,South East Stars,2021,05-06-2021,London,South East Stars,field,South East Stars,6,Y,N
+1252273,Sunrisers,Northern Diamonds,2021,05-06-2021,Cambridge,Northern Diamonds,field,Northern Diamonds,9,Y,N
+1252274,Lightning,Thunder,2021,06-06-2021,Chester,Lightning,bat,Lightning,134,N,Y
+1252275,Central Sparks,Southern Vipers,2021,05-06-2021,Brighton,Central Sparks,bat,Central Sparks,120,N,Y
+1252276,South East Stars,Northern Diamonds,2021,12-06-2021,Leeds,South East Stars,bat,Northern Diamonds,3,Y,N
+1252277,Sunrisers,Lightning,2021,12-06-2021,Loughborough,Sunrisers,bat,Lightning,5,Y,N
+1252278,Central Sparks,Thunder,2021,12-06-2021,Worcester,Central Sparks,bat,Thunder,2,Y,N
+1252279,Western Storm,Southern Vipers,2021,12-06-2021,Taunton,Western Storm,bat,Southern Vipers,8,Y,N
+1252280,Western Storm,Northern Diamonds,2021,10-09-2021,Chester-le-Street,Northern Diamonds,field,Northern Diamonds,7,Y,N
+1252281,South East Stars,Lightning,2021,10-09-2021,Beckenham,South East Stars,bat,South East Stars,28,N,Y
+1252282,Sunrisers,Central Sparks,2021,10-09-2021,Northwood,Central Sparks,field,Central Sparks,6,Y,N
+1252283,Thunder,Southern Vipers,2021,10-09-2021,Sale,Southern Vipers,field,Southern Vipers,3,Y,N
+1252284,Northern Diamonds,Thunder,2021,12-09-2021,Chester-le-Street,Thunder,field,Northern Diamonds,105,N,Y
+1252285,Central Sparks,South East Stars,2021,12-09-2021,Worcester,Central Sparks,bat,Central Sparks,115,N,Y
+1252286,Western Storm,Lightning,2021,12-09-2021,Bristol,Lightning,field,Western Storm,62,N,Y
+1252287,Southern Vipers,Sunrisers,2021,12-09-2021,Chelmsford,Sunrisers,field,Southern Vipers,1,N,Y
+1252288,Lightning,Central Sparks,2021,18-09-2021,Loughborough,Central Sparks,field,Lightning,24,N,Y
+1252289,Thunder,South East Stars,2021,18-09-2021,Beckenham,Thunder,bat,Thunder,55,N,Y
+1252290,Western Storm,Sunrisers,2021,18-09-2021,Bristol,Western Storm,bat,Western Storm,36,N,Y
+1252291,Northern Diamonds,Southern Vipers,2021,18-09-2021,Southampton,Northern Diamonds,bat,Southern Vipers,5,Y,N
+1252292,Central Sparks,Northern Diamonds,2021,22-09-2021,Scarborough,Central Sparks,bat,Northern Diamonds,6,Y,N
+1252293,Northern Diamonds,Southern Vipers,2021,25-09-2021,Northampton,Northern Diamonds,bat,Southern Vipers,3,Y,N

@@ -1,0 +1,722 @@
+match_id,bowler,bowler_labels,overcounts,runs_conceded,econ_rate,message,wicketcounts,bowling_average,bowler_strikerate
+1229326,AJ Macleod,AJ Macleod (Sunrisers),3,14,4.67,vs Southern Vipers (29/08/2020),1,14.0,18.0
+1229326,J Gardner,J Gardner (Sunrisers),4,38,9.5,vs Southern Vipers (29/08/2020),,,
+1229326,KJ Wolfe,KJ Wolfe (Sunrisers),6,31,5.17,vs Southern Vipers (29/08/2020),,,
+1229326,KL Midwood,KL Midwood (Sunrisers),7,37,5.29,vs Southern Vipers (29/08/2020),,,
+1229326,KS Castle,KS Castle (Sunrisers),3,15,5.0,vs Southern Vipers (29/08/2020),1,15.0,18.0
+1229326,MK Villiers,MK Villiers (Sunrisers),10,49,4.9,vs Southern Vipers (29/08/2020),1,49.0,60.0
+1229326,Sonali Patel,Sonali Patel (Sunrisers),4,23,5.75,vs Southern Vipers (29/08/2020),,,
+1229326,CE Dean,CE Dean (Southern Vipers),10,47,4.7,vs Sunrisers (29/08/2020),2,23.5,30.0
+1229326,DN Wyatt,DN Wyatt (Southern Vipers),4,16,4.0,vs Sunrisers (29/08/2020),1,16.0,24.0
+1229326,GL Adams,GL Adams (Southern Vipers),2,14,7.0,vs Sunrisers (29/08/2020),,,
+1229326,LK Bell,LK Bell (Southern Vipers),8,31,3.88,vs Sunrisers (29/08/2020),1,31.0,48.0
+1229326,ME Bouchier,ME Bouchier (Southern Vipers),7,26,3.71,vs Sunrisers (29/08/2020),,,
+1229326,PJ Scholfield,PJ Scholfield (Southern Vipers),10,33,3.3,vs Sunrisers (29/08/2020),3,11.0,20.0
+1229326,TG Norris,TG Norris (Southern Vipers),6,22,3.67,vs Sunrisers (29/08/2020),1,22.0,36.0
+1229329,A Griffiths,A Griffiths (Western Storm),3,16,5.33,vs South East Stars (29/08/2020),,,
+1229329,A Shrubsole,A Shrubsole (Western Storm),9,31,3.44,vs South East Stars (29/08/2020),,,
+1229329,C Nicholas,C Nicholas (Western Storm),10,34,3.4,vs South East Stars (29/08/2020),1,34.0,60.0
+1229329,FMK Morris,FMK Morris (Western Storm),10,36,3.6,vs South East Stars (29/08/2020),3,12.0,20.0
+1229329,GM Hennessy,GM Hennessy (Western Storm),9,31,3.44,vs South East Stars (29/08/2020),4,7.75,13.5
+1229329,KL George,KL George (Western Storm),8,15,1.88,vs South East Stars (29/08/2020),1,15.0,48.0
+1229329,AN Davidson-Richards,AN Davidson-Richards (South East Stars),4,19,4.75,vs Western Storm (29/08/2020),,,
+1229329,BF Smith,BF Smith (South East Stars),4,11,2.75,vs Western Storm (29/08/2020),1,11.0,24.0
+1229329,FR Davies,FR Davies (South East Stars),8,33,4.12,vs Western Storm (29/08/2020),,,
+1229329,GJ Gibbs,GJ Gibbs (South East Stars),4,19,4.75,vs Western Storm (29/08/2020),,,
+1229329,HV Jones,HV Jones (South East Stars),4,28,7.0,vs Western Storm (29/08/2020),,,
+1229329,NE Farrant,NE Farrant (South East Stars),9,29,3.22,vs Western Storm (29/08/2020),1,29.0,54.0
+1229329,SIR Dunkley,SIR Dunkley (South East Stars),7,27,3.86,vs Western Storm (29/08/2020),1,27.0,42.0
+1229330,A Griffiths,A Griffiths (Western Storm),6,32,5.33,vs Southern Vipers (31/08/2020),,,
+1229330,C Nicholas,C Nicholas (Western Storm),7,31,4.43,vs Southern Vipers (31/08/2020),1,31.0,42.0
+1229330,FMK Morris,FMK Morris (Western Storm),9,40,4.44,vs Southern Vipers (31/08/2020),1,40.0,54.0
+1229330,GM Hennessy,GM Hennessy (Western Storm),9,57,6.33,vs Southern Vipers (31/08/2020),1,57.0,54.0
+1229330,HC Knight,HC Knight (Western Storm),10,36,3.6,vs Southern Vipers (31/08/2020),2,18.0,30.0
+1229330,KL George,KL George (Western Storm),8,43,5.38,vs Southern Vipers (31/08/2020),1,43.0,48.0
+1229330,N Holland,N Holland (Western Storm),2,14,7.0,vs Southern Vipers (31/08/2020),,,
+1229330,CE Dean,CE Dean (Southern Vipers),7,44,6.29,vs Western Storm (31/08/2020),,,
+1229330,DN Wyatt,DN Wyatt (Southern Vipers),3,11,3.67,vs Western Storm (31/08/2020),,,
+1229330,GL Adams,GL Adams (Southern Vipers),7,23,3.29,vs Western Storm (31/08/2020),3,7.67,14.0
+1229330,LK Bell,LK Bell (Southern Vipers),9,41,4.56,vs Western Storm (31/08/2020),2,20.5,27.0
+1229330,ME Bouchier,ME Bouchier (Southern Vipers),7,41,5.86,vs Western Storm (31/08/2020),,,
+1229330,PJ Scholfield,PJ Scholfield (Southern Vipers),7,25,3.57,vs Western Storm (31/08/2020),1,25.0,42.0
+1229330,TG Norris,TG Norris (Southern Vipers),8,45,5.62,vs Western Storm (31/08/2020),4,11.25,12.0
+1229331,AJ Macleod,AJ Macleod (Sunrisers),4,23,5.75,vs South East Stars (31/08/2020),,,
+1229331,J Gardner,J Gardner (Sunrisers),7,36,5.14,vs South East Stars (31/08/2020),2,18.0,21.0
+1229331,KJ Wolfe,KJ Wolfe (Sunrisers),9,60,6.67,vs South East Stars (31/08/2020),2,30.0,27.0
+1229331,KL Midwood,KL Midwood (Sunrisers),8,45,5.62,vs South East Stars (31/08/2020),,,
+1229331,MK Villiers,MK Villiers (Sunrisers),10,48,4.8,vs South East Stars (31/08/2020),,,
+1229331,ND Dattani,ND Dattani (Sunrisers),2,17,8.5,vs South East Stars (31/08/2020),,,
+1229331,Sonali Patel,Sonali Patel (Sunrisers),10,52,5.2,vs South East Stars (31/08/2020),4,13.0,15.0
+1229331,A Capsey,A Capsey (South East Stars),4,14,3.5,vs Sunrisers (31/08/2020),1,14.0,24.0
+1229331,AN Davidson-Richards,AN Davidson-Richards (South East Stars),3,18,6.0,vs Sunrisers (31/08/2020),1,18.0,18.0
+1229331,BF Smith,BF Smith (South East Stars),6,25,4.17,vs Sunrisers (31/08/2020),3,8.33,12.0
+1229331,FR Davies,FR Davies (South East Stars),7,30,4.29,vs Sunrisers (31/08/2020),,,
+1229331,GJ Gibbs,GJ Gibbs (South East Stars),1,15,15.0,vs Sunrisers (31/08/2020),,,
+1229331,HV Jones,HV Jones (South East Stars),10,34,3.4,vs Sunrisers (31/08/2020),2,17.0,30.0
+1229331,NE Farrant,NE Farrant (South East Stars),7,35,5.0,vs Sunrisers (31/08/2020),1,35.0,42.0
+1229331,SIR Dunkley,SIR Dunkley (South East Stars),8,34,4.25,vs Sunrisers (31/08/2020),2,17.0,24.0
+1229332,A Hartley,A Hartley (Thunder),10,19,1.9,vs Central Sparks (31/08/2020),2,9.5,30.0
+1229332,EL Lamb,EL Lamb (Thunder),4,18,4.5,vs Central Sparks (31/08/2020),,,
+1229332,HE Jones,HE Jones (Thunder),5,15,3.0,vs Central Sparks (31/08/2020),,,
+1229332,KL Cross,KL Cross (Thunder),10,50,5.0,vs Central Sparks (31/08/2020),1,50.0,60.0
+1229332,N Brown,N Brown (Thunder),5,18,3.6,vs Central Sparks (31/08/2020),1,18.0,30.0
+1229332,S Ecclestone,S Ecclestone (Thunder),10,13,1.3,vs Central Sparks (31/08/2020),2,6.5,30.0
+1229332,CK Boycott,CK Boycott (Central Sparks),10,32,3.2,vs Thunder (31/08/2020),2,16.0,30.0
+1229332,EL Arlott,EL Arlott (Central Sparks),8,29,3.62,vs Thunder (31/08/2020),1,29.0,48.0
+1229332,GK Davis,GK Davis (Central Sparks),9,29,3.22,vs Thunder (31/08/2020),3,9.67,18.0
+1229332,IECM Wong,IECM Wong (Central Sparks),10,26,2.6,vs Thunder (31/08/2020),3,8.67,20.0
+1229332,S Glenn,S Glenn (Central Sparks),10,17,1.7,vs Thunder (31/08/2020),1,17.0,60.0
+1229333,BA Langston,BA Langston (Northern Diamonds),7,43,6.14,vs Lightning (31/08/2020),,,
+1229333,JL Gunn,JL Gunn (Northern Diamonds),10,47,4.7,vs Lightning (31/08/2020),2,23.5,30.0
+1229333,KA Levick,KA Levick (Northern Diamonds),4,20,5.0,vs Lightning (31/08/2020),,,
+1229333,KH Brunt,KH Brunt (Northern Diamonds),9,33,3.67,vs Lightning (31/08/2020),1,33.0,54.0
+1229333,LCN Smith,LCN Smith (Northern Diamonds),10,36,3.6,vs Lightning (31/08/2020),2,18.0,30.0
+1229333,NR Sciver,NR Sciver (Northern Diamonds),10,30,3.0,vs Lightning (31/08/2020),2,15.0,30.0
+1229333,B Ellis,B Ellis (Lightning),10,34,3.4,vs Northern Diamonds (31/08/2020),2,17.0,30.0
+1229333,G Ballinger,G Ballinger (Lightning),6,39,6.5,vs Northern Diamonds (31/08/2020),,,
+1229333,KE Bryce,KE Bryce (Lightning),10,29,2.9,vs Northern Diamonds (31/08/2020),5,5.8,12.0
+1229333,KL Gordon,KL Gordon (Lightning),10,31,3.1,vs Northern Diamonds (31/08/2020),,,
+1229333,LF Higham,LF Higham (Lightning),1,15,15.0,vs Northern Diamonds (31/08/2020),,,
+1229333,S Munro,S Munro (Lightning),9,46,5.11,vs Northern Diamonds (31/08/2020),1,46.0,54.0
+1229333,T Graves,T Graves (Lightning),4,27,6.75,vs Northern Diamonds (31/08/2020),1,27.0,24.0
+1229334,A Hartley,A Hartley (Thunder),10,32,3.2,vs Central Sparks (05/09/2020),,,
+1229334,AE Dyson,AE Dyson (Thunder),4,23,5.75,vs Central Sparks (05/09/2020),,,
+1229334,GEB Boyce,GEB Boyce (Thunder),1,10,10.0,vs Central Sparks (05/09/2020),,,
+1229334,HE Jones,HE Jones (Thunder),5,17,3.4,vs Central Sparks (05/09/2020),,,
+1229334,L Jackson,L Jackson (Thunder),7,20,2.86,vs Central Sparks (05/09/2020),,,
+1229334,N Brown,N Brown (Thunder),8,28,3.5,vs Central Sparks (05/09/2020),,,
+1229334,Olivia Thomas,Olivia Thomas (Thunder),4,29,7.25,vs Central Sparks (05/09/2020),1,29.0,24.0
+1229334,Anisha Patel,Anisha Patel (Central Sparks),10,22,2.2,vs Thunder (05/09/2020),1,22.0,60.0
+1229334,CK Boycott,CK Boycott (Central Sparks),10,40,4.0,vs Thunder (05/09/2020),4,10.0,15.0
+1229334,EA Russell,EA Russell (Central Sparks),10,25,2.5,vs Thunder (05/09/2020),,,
+1229334,EL Arlott,EL Arlott (Central Sparks),10,34,3.4,vs Thunder (05/09/2020),,,
+1229334,TF Brookes,TF Brookes (Central Sparks),10,43,4.3,vs Thunder (05/09/2020),2,21.5,30.0
+1229335,A Griffiths,A Griffiths (Western Storm),5,16,3.2,vs Sunrisers (05/09/2020),1,16.0,30.0
+1229335,C Nicholas,C Nicholas (Western Storm),7,24,3.43,vs Sunrisers (05/09/2020),,,
+1229335,E Corney,E Corney (Western Storm),5,18,3.6,vs Sunrisers (05/09/2020),,,
+1229335,FMK Morris,FMK Morris (Western Storm),10,26,2.6,vs Sunrisers (05/09/2020),5,5.2,12.0
+1229335,GM Hennessy,GM Hennessy (Western Storm),10,42,4.2,vs Sunrisers (05/09/2020),1,42.0,60.0
+1229335,L Filer,L Filer (Western Storm),2,24,12.0,vs Sunrisers (05/09/2020),2,12.0,6.0
+1229335,S Hutchins,S Hutchins (Western Storm),6,26,4.33,vs Sunrisers (05/09/2020),1,26.0,36.0
+1229335,AJ Macleod,AJ Macleod (Sunrisers),10,34,3.4,vs Western Storm (05/09/2020),1,34.0,60.0
+1229335,E Thorpe,E Thorpe (Sunrisers),2,19,9.5,vs Western Storm (05/09/2020),,,
+1229335,G Scrivens,G Scrivens (Sunrisers),5,27,5.4,vs Western Storm (05/09/2020),1,27.0,30.0
+1229335,GKS Gole,GKS Gole (Sunrisers),5,41,8.2,vs Western Storm (05/09/2020),,,
+1229335,J Gardner,J Gardner (Sunrisers),8,34,4.25,vs Western Storm (05/09/2020),1,34.0,48.0
+1229335,KJ Wolfe,KJ Wolfe (Sunrisers),6,25,4.17,vs Western Storm (05/09/2020),1,25.0,36.0
+1229335,KS Castle,KS Castle (Sunrisers),4,29,7.25,vs Western Storm (05/09/2020),,,
+1229335,ND Dattani,ND Dattani (Sunrisers),2,18,9.0,vs Western Storm (05/09/2020),,,
+1229335,Sonali Patel,Sonali Patel (Sunrisers),8,31,3.88,vs Western Storm (05/09/2020),1,31.0,48.0
+1229336,AL MacDonald,AL MacDonald (Northern Diamonds),10,31,3.1,vs Lightning (05/09/2020),2,15.5,30.0
+1229336,BA Langston,BA Langston (Northern Diamonds),9,48,5.33,vs Lightning (05/09/2020),2,24.0,27.0
+1229336,HJ Armitage,HJ Armitage (Northern Diamonds),6,24,4.0,vs Lightning (05/09/2020),2,12.0,18.0
+1229336,JL Gunn,JL Gunn (Northern Diamonds),10,45,4.5,vs Lightning (05/09/2020),2,22.5,30.0
+1229336,KA Levick,KA Levick (Northern Diamonds),10,38,3.8,vs Lightning (05/09/2020),1,38.0,60.0
+1229336,L Tipton,L Tipton (Northern Diamonds),2,12,6.0,vs Lightning (05/09/2020),,,
+1229336,PC Graham,PC Graham (Northern Diamonds),4,21,5.25,vs Lightning (05/09/2020),,,
+1229336,AD Presland,AD Presland (Lightning),5,26,5.2,vs Northern Diamonds (05/09/2020),1,26.0,30.0
+1229336,B Ellis,B Ellis (Lightning),8,42,5.25,vs Northern Diamonds (05/09/2020),,,
+1229336,KE Bryce,KE Bryce (Lightning),9,35,3.89,vs Northern Diamonds (05/09/2020),1,35.0,54.0
+1229336,LF Higham,LF Higham (Lightning),10,38,3.8,vs Northern Diamonds (05/09/2020),3,12.67,20.0
+1229336,LG Kellogg,LG Kellogg (Lightning),8,31,3.88,vs Northern Diamonds (05/09/2020),1,31.0,48.0
+1229336,N Harman,N Harman (Lightning),9,54,6.0,vs Northern Diamonds (05/09/2020),2,27.0,27.0
+1229337,CE Dean,CE Dean (Southern Vipers),3,16,5.33,vs South East Stars (05/09/2020),1,16.0,18.0
+1229337,CM Taylor,CM Taylor (Southern Vipers),7,13,1.86,vs South East Stars (05/09/2020),2,6.5,21.0
+1229337,GL Adams,GL Adams (Southern Vipers),8,23,2.88,vs South East Stars (05/09/2020),,,
+1229337,ME Bouchier,ME Bouchier (Southern Vipers),1,3,3.0,vs South East Stars (05/09/2020),,,
+1229337,PAC Cowdrill,PAC Cowdrill (Southern Vipers),3,5,1.67,vs South East Stars (05/09/2020),1,5.0,18.0
+1229337,PJ Scholfield,PJ Scholfield (Southern Vipers),6,10,1.67,vs South East Stars (05/09/2020),2,5.0,18.0
+1229337,TG Norris,TG Norris (Southern Vipers),9,27,3.0,vs South East Stars (05/09/2020),3,9.0,18.0
+1229337,A Capsey,A Capsey (South East Stars),9,34,3.78,vs Southern Vipers (05/09/2020),1,34.0,54.0
+1229337,AG Gordon,AG Gordon (South East Stars),4,22,5.5,vs Southern Vipers (05/09/2020),1,22.0,24.0
+1229337,E Gray,E Gray (South East Stars),7,33,4.71,vs Southern Vipers (05/09/2020),2,16.5,21.0
+1229337,HV Jones,HV Jones (South East Stars),10,47,4.7,vs Southern Vipers (05/09/2020),,,
+1229337,MS Belt,MS Belt (South East Stars),10,43,4.3,vs Southern Vipers (05/09/2020),1,43.0,60.0
+1229337,NE Farrant,NE Farrant (South East Stars),10,28,2.8,vs Southern Vipers (05/09/2020),2,14.0,30.0
+1229338,A Hartley,A Hartley (Thunder),10,41,4.1,vs Northern Diamonds (10/09/2020),2,20.5,30.0
+1229338,AE Dyson,AE Dyson (Thunder),6,38,6.33,vs Northern Diamonds (10/09/2020),2,19.0,18.0
+1229338,HE Jones,HE Jones (Thunder),10,34,3.4,vs Northern Diamonds (10/09/2020),,,
+1229338,L Heap,L Heap (Thunder),5,30,6.0,vs Northern Diamonds (10/09/2020),1,30.0,30.0
+1229338,L Jackson,L Jackson (Thunder),9,23,2.56,vs Northern Diamonds (10/09/2020),2,11.5,27.0
+1229338,N Brown,N Brown (Thunder),10,74,7.4,vs Northern Diamonds (10/09/2020),1,74.0,60.0
+1229338,AL MacDonald,AL MacDonald (Northern Diamonds),5,14,2.8,vs Thunder (10/09/2020),1,14.0,30.0
+1229338,BA Langston,BA Langston (Northern Diamonds),9,32,3.56,vs Thunder (10/09/2020),2,16.0,27.0
+1229338,HJ Armitage,HJ Armitage (Northern Diamonds),7,16,2.29,vs Thunder (10/09/2020),2,8.0,21.0
+1229338,HL Fenby,HL Fenby (Northern Diamonds),5,38,7.6,vs Thunder (10/09/2020),,,
+1229338,JL Gunn,JL Gunn (Northern Diamonds),4,12,3.0,vs Thunder (10/09/2020),,,
+1229338,KA Levick,KA Levick (Northern Diamonds),10,22,2.2,vs Thunder (10/09/2020),3,7.33,20.0
+1229338,PC Graham,PC Graham (Northern Diamonds),10,28,2.8,vs Thunder (10/09/2020),,,
+1229339,A Griffiths,A Griffiths (Western Storm),9,53,5.89,vs South East Stars (11/09/2020),2,26.5,27.0
+1229339,E Corney,E Corney (Western Storm),6,23,3.83,vs South East Stars (11/09/2020),1,23.0,36.0
+1229339,FMK Morris,FMK Morris (Western Storm),10,48,4.8,vs South East Stars (11/09/2020),,,
+1229339,GM Hennessy,GM Hennessy (Western Storm),10,40,4.0,vs South East Stars (11/09/2020),3,13.33,20.0
+1229339,L Filer,L Filer (Western Storm),5,20,4.0,vs South East Stars (11/09/2020),1,20.0,30.0
+1229339,S Hutchins,S Hutchins (Western Storm),10,27,2.7,vs South East Stars (11/09/2020),1,27.0,60.0
+1229339,A Capsey,A Capsey (South East Stars),7,35,5.0,vs Western Storm (11/09/2020),,,
+1229339,AG Gordon,AG Gordon (South East Stars),8,26,3.25,vs Western Storm (11/09/2020),,,
+1229339,E Gray,E Gray (South East Stars),4,23,5.75,vs Western Storm (11/09/2020),,,
+1229339,GJ Gibbs,GJ Gibbs (South East Stars),4,21,5.25,vs Western Storm (11/09/2020),,,
+1229339,HV Jones,HV Jones (South East Stars),10,40,4.0,vs Western Storm (11/09/2020),1,40.0,60.0
+1229339,MS Belt,MS Belt (South East Stars),7,39,5.57,vs Western Storm (11/09/2020),1,39.0,42.0
+1229339,NE Farrant,NE Farrant (South East Stars),7,28,4.0,vs Western Storm (11/09/2020),1,28.0,42.0
+1229340,AJ Macleod,AJ Macleod (Sunrisers),2,22,11.0,vs Southern Vipers (11/09/2020),,,
+1229340,E Thorpe,E Thorpe (Sunrisers),3,13,4.33,vs Southern Vipers (11/09/2020),,,
+1229340,G Scrivens,G Scrivens (Sunrisers),10,53,5.3,vs Southern Vipers (11/09/2020),1,53.0,60.0
+1229340,J Gardner,J Gardner (Sunrisers),6,35,5.83,vs Southern Vipers (11/09/2020),1,35.0,36.0
+1229340,KJ Wolfe,KJ Wolfe (Sunrisers),8,29,3.62,vs Southern Vipers (11/09/2020),1,29.0,48.0
+1229340,KL Midwood,KL Midwood (Sunrisers),10,33,3.3,vs Southern Vipers (11/09/2020),2,16.5,30.0
+1229340,ND Dattani,ND Dattani (Sunrisers),4,17,4.25,vs Southern Vipers (11/09/2020),,,
+1229340,Sonali Patel,Sonali Patel (Sunrisers),7,29,4.14,vs Southern Vipers (11/09/2020),1,29.0,42.0
+1229340,AZ Monaghan,AZ Monaghan (Southern Vipers),1,6,6.0,vs Sunrisers (11/09/2020),,,
+1229340,CE Dean,CE Dean (Southern Vipers),10,35,3.5,vs Sunrisers (11/09/2020),2,17.5,30.0
+1229340,CM Taylor,CM Taylor (Southern Vipers),7,26,3.71,vs Sunrisers (11/09/2020),1,26.0,42.0
+1229340,GL Adams,GL Adams (Southern Vipers),7,26,3.71,vs Sunrisers (11/09/2020),1,26.0,42.0
+1229340,PAC Cowdrill,PAC Cowdrill (Southern Vipers),5,21,4.2,vs Sunrisers (11/09/2020),2,10.5,15.0
+1229340,PJ Scholfield,PJ Scholfield (Southern Vipers),7,31,4.43,vs Sunrisers (11/09/2020),1,31.0,42.0
+1229340,TG Norris,TG Norris (Southern Vipers),7,37,5.29,vs Sunrisers (11/09/2020),3,12.33,14.0
+1229341,AD Presland,AD Presland (Lightning),10,26,2.6,vs Central Sparks (11/09/2020),3,8.67,20.0
+1229341,B Ellis,B Ellis (Lightning),9,47,5.22,vs Central Sparks (11/09/2020),,,
+1229341,KE Bryce,KE Bryce (Lightning),10,42,4.2,vs Central Sparks (11/09/2020),1,42.0,60.0
+1229341,LF Higham,LF Higham (Lightning),7,40,5.71,vs Central Sparks (11/09/2020),,,
+1229341,LG Kellogg,LG Kellogg (Lightning),2,14,7.0,vs Central Sparks (11/09/2020),1,14.0,12.0
+1229341,N Harman,N Harman (Lightning),3,20,6.67,vs Central Sparks (11/09/2020),,,
+1229341,S Munro,S Munro (Lightning),3,16,5.33,vs Central Sparks (11/09/2020),,,
+1229341,T Graves,T Graves (Lightning),6,17,2.83,vs Central Sparks (11/09/2020),2,8.5,18.0
+1229341,Anisha Patel,Anisha Patel (Central Sparks),10,49,4.9,vs Lightning (11/09/2020),3,16.33,20.0
+1229341,CK Boycott,CK Boycott (Central Sparks),10,43,4.3,vs Lightning (11/09/2020),,,
+1229341,E Jones,E Jones (Central Sparks),2,15,7.5,vs Lightning (11/09/2020),,,
+1229341,EA Russell,EA Russell (Central Sparks),10,43,4.3,vs Lightning (11/09/2020),2,21.5,30.0
+1229341,EL Arlott,EL Arlott (Central Sparks),8,24,3.0,vs Lightning (11/09/2020),1,24.0,48.0
+1229341,GK Davis,GK Davis (Central Sparks),10,52,5.2,vs Lightning (11/09/2020),1,52.0,60.0
+1229342,A Griffiths,A Griffiths (Western Storm),9,49,5.44,vs Southern Vipers (13/09/2020),,,
+1229342,E Corney,E Corney (Western Storm),5,31,6.2,vs Southern Vipers (13/09/2020),,,
+1229342,EM Edgcombe,EM Edgcombe (Western Storm),6,32,5.33,vs Southern Vipers (13/09/2020),,,
+1229342,FMK Morris,FMK Morris (Western Storm),10,49,4.9,vs Southern Vipers (13/09/2020),1,49.0,60.0
+1229342,GM Hennessy,GM Hennessy (Western Storm),10,58,5.8,vs Southern Vipers (13/09/2020),,,
+1229342,L Filer,L Filer (Western Storm),4,26,6.5,vs Southern Vipers (13/09/2020),,,
+1229342,S Hutchins,S Hutchins (Western Storm),6,35,5.83,vs Southern Vipers (13/09/2020),,,
+1229342,CE Dean,CE Dean (Southern Vipers),10,50,5.0,vs Western Storm (13/09/2020),3,16.67,20.0
+1229342,CM Taylor,CM Taylor (Southern Vipers),10,41,4.1,vs Western Storm (13/09/2020),4,10.25,15.0
+1229342,GL Adams,GL Adams (Southern Vipers),7,34,4.86,vs Western Storm (13/09/2020),2,17.0,21.0
+1229342,PAC Cowdrill,PAC Cowdrill (Southern Vipers),7,47,6.71,vs Western Storm (13/09/2020),,,
+1229342,PJ Scholfield,PJ Scholfield (Southern Vipers),10,45,4.5,vs Western Storm (13/09/2020),1,45.0,60.0
+1229342,TG Norris,TG Norris (Southern Vipers),6,34,5.67,vs Western Storm (13/09/2020),,,
+1229343,AJ Macleod,AJ Macleod (Sunrisers),8,39,4.88,vs South East Stars (13/09/2020),,,
+1229343,G Scrivens,G Scrivens (Sunrisers),10,34,3.4,vs South East Stars (13/09/2020),1,34.0,60.0
+1229343,J Gardner,J Gardner (Sunrisers),4,13,3.25,vs South East Stars (13/09/2020),2,6.5,12.0
+1229343,KJ Wolfe,KJ Wolfe (Sunrisers),6,34,5.67,vs South East Stars (13/09/2020),1,34.0,36.0
+1229343,KL Midwood,KL Midwood (Sunrisers),4,24,6.0,vs South East Stars (13/09/2020),,,
+1229343,ND Dattani,ND Dattani (Sunrisers),4,29,7.25,vs South East Stars (13/09/2020),,,
+1229343,Sonali Patel,Sonali Patel (Sunrisers),2,16,8.0,vs South East Stars (13/09/2020),,,
+1229343,A Capsey,A Capsey (South East Stars),10,35,3.5,vs Sunrisers (13/09/2020),,,
+1229343,AG Gordon,AG Gordon (South East Stars),6,39,6.5,vs Sunrisers (13/09/2020),,,
+1229343,C Brewer,C Brewer (South East Stars),4,26,6.5,vs Sunrisers (13/09/2020),1,26.0,24.0
+1229343,D Gregory,D Gregory (South East Stars),10,30,3.0,vs Sunrisers (13/09/2020),2,15.0,30.0
+1229343,HV Jones,HV Jones (South East Stars),9,36,4.0,vs Sunrisers (13/09/2020),2,18.0,27.0
+1229343,NE Farrant,NE Farrant (South East Stars),10,24,2.4,vs Sunrisers (13/09/2020),3,8.0,20.0
+1229344,A Hartley,A Hartley (Thunder),10,8,0.8,vs Lightning (13/09/2020),4,2.0,15.0
+1229344,AE Dyson,AE Dyson (Thunder),6,27,4.5,vs Lightning (13/09/2020),,,
+1229344,HE Jones,HE Jones (Thunder),9,20,2.22,vs Lightning (13/09/2020),2,10.0,27.0
+1229344,L Heap,L Heap (Thunder),10,34,3.4,vs Lightning (13/09/2020),3,11.33,20.0
+1229344,N Brown,N Brown (Thunder),5,23,4.6,vs Lightning (13/09/2020),1,23.0,30.0
+1229344,AD Presland,AD Presland (Lightning),7,40,5.71,vs Thunder (13/09/2020),1,40.0,42.0
+1229344,B Ellis,B Ellis (Lightning),8,34,4.25,vs Thunder (13/09/2020),1,34.0,48.0
+1229344,KE Bryce,KE Bryce (Lightning),10,38,3.8,vs Thunder (13/09/2020),4,9.5,15.0
+1229344,LF Higham,LF Higham (Lightning),7,17,2.43,vs Thunder (13/09/2020),1,17.0,42.0
+1229344,N Harman,N Harman (Lightning),5,18,3.6,vs Thunder (13/09/2020),,,
+1229344,S Munro,S Munro (Lightning),10,27,2.7,vs Thunder (13/09/2020),,,
+1229344,T Graves,T Graves (Lightning),3,8,2.67,vs Thunder (13/09/2020),,,
+1229345,AL MacDonald,AL MacDonald (Northern Diamonds),8,36,4.5,vs Central Sparks (13/09/2020),1,36.0,48.0
+1229345,BA Langston,BA Langston (Northern Diamonds),8,27,3.38,vs Central Sparks (13/09/2020),2,13.5,24.0
+1229345,HJ Armitage,HJ Armitage (Northern Diamonds),6,41,6.83,vs Central Sparks (13/09/2020),,,
+1229345,HL Fenby,HL Fenby (Northern Diamonds),6,30,5.0,vs Central Sparks (13/09/2020),,,
+1229345,JL Gunn,JL Gunn (Northern Diamonds),2,14,7.0,vs Central Sparks (13/09/2020),,,
+1229345,KA Levick,KA Levick (Northern Diamonds),10,33,3.3,vs Central Sparks (13/09/2020),1,33.0,60.0
+1229345,PC Graham,PC Graham (Northern Diamonds),7,25,3.57,vs Central Sparks (13/09/2020),,,
+1229345,Anisha Patel,Anisha Patel (Central Sparks),10,49,4.9,vs Northern Diamonds (13/09/2020),2,24.5,30.0
+1229345,E Jones,E Jones (Central Sparks),2,22,11.0,vs Northern Diamonds (13/09/2020),,,
+1229345,EA Russell,EA Russell (Central Sparks),9,28,3.11,vs Northern Diamonds (13/09/2020),4,7.0,13.5
+1229345,EL Arlott,EL Arlott (Central Sparks),10,47,4.7,vs Northern Diamonds (13/09/2020),1,47.0,60.0
+1229345,HL Baker,HL Baker (Central Sparks),10,26,2.6,vs Northern Diamonds (13/09/2020),3,8.67,20.0
+1229345,S Butler,S Butler (Central Sparks),9,38,4.22,vs Northern Diamonds (13/09/2020),,,
+1229346,AZ Monaghan,AZ Monaghan (Southern Vipers),3,12,4.0,vs South East Stars (19/09/2020),,,
+1229346,CE Dean,CE Dean (Southern Vipers),8,42,5.25,vs South East Stars (19/09/2020),,,
+1229346,CM Taylor,CM Taylor (Southern Vipers),10,38,3.8,vs South East Stars (19/09/2020),2,19.0,30.0
+1229346,GL Adams,GL Adams (Southern Vipers),5,21,4.2,vs South East Stars (19/09/2020),,,
+1229346,LK Bell,LK Bell (Southern Vipers),10,36,3.6,vs South East Stars (19/09/2020),4,9.0,15.0
+1229346,PJ Scholfield,PJ Scholfield (Southern Vipers),8,43,5.38,vs South East Stars (19/09/2020),1,43.0,48.0
+1229346,TG Norris,TG Norris (Southern Vipers),5,28,5.6,vs South East Stars (19/09/2020),1,28.0,30.0
+1229346,A Capsey,A Capsey (South East Stars),5,28,5.6,vs Southern Vipers (19/09/2020),,,
+1229346,AN Davidson-Richards,AN Davidson-Richards (South East Stars),5,27,5.4,vs Southern Vipers (19/09/2020),,,
+1229346,BF Smith,BF Smith (South East Stars),2,16,8.0,vs Southern Vipers (19/09/2020),,,
+1229346,C Brewer,C Brewer (South East Stars),4,12,3.0,vs Southern Vipers (19/09/2020),,,
+1229346,D Gregory,D Gregory (South East Stars),10,44,4.4,vs Southern Vipers (19/09/2020),3,14.67,20.0
+1229346,GJ Gibbs,GJ Gibbs (South East Stars),2,17,8.5,vs Southern Vipers (19/09/2020),,,
+1229346,HV Jones,HV Jones (South East Stars),10,47,4.7,vs Southern Vipers (19/09/2020),2,23.5,30.0
+1229346,NE Farrant,NE Farrant (South East Stars),10,33,3.3,vs Southern Vipers (19/09/2020),1,33.0,60.0
+1229347,A Hartley,A Hartley (Thunder),8,35,4.38,vs Northern Diamonds (19/09/2020),1,35.0,48.0
+1229347,AE Dyson,AE Dyson (Thunder),3,18,6.0,vs Northern Diamonds (19/09/2020),,,
+1229347,HE Jones,HE Jones (Thunder),8,28,3.5,vs Northern Diamonds (19/09/2020),1,28.0,48.0
+1229347,L Heap,L Heap (Thunder),4,27,6.75,vs Northern Diamonds (19/09/2020),1,27.0,24.0
+1229347,N Brown,N Brown (Thunder),7,35,5.0,vs Northern Diamonds (19/09/2020),,,
+1229347,BA Langston,BA Langston (Northern Diamonds),9,18,2.0,vs Thunder (19/09/2020),3,6.0,18.0
+1229347,HJ Armitage,HJ Armitage (Northern Diamonds),2,8,4.0,vs Thunder (19/09/2020),,,
+1229347,JL Gunn,JL Gunn (Northern Diamonds),6,18,3.0,vs Thunder (19/09/2020),2,9.0,18.0
+1229347,KA Levick,KA Levick (Northern Diamonds),8,39,4.88,vs Thunder (19/09/2020),2,19.5,24.0
+1229347,LCN Smith,LCN Smith (Northern Diamonds),9,26,2.89,vs Thunder (19/09/2020),1,26.0,54.0
+1229347,PC Graham,PC Graham (Northern Diamonds),9,29,3.22,vs Thunder (19/09/2020),2,14.5,27.0
+1229348,AD Presland,AD Presland (Lightning),5,27,5.4,vs Central Sparks (19/09/2020),,,
+1229348,B Ellis,B Ellis (Lightning),5,25,5.0,vs Central Sparks (19/09/2020),3,8.33,10.0
+1229348,KE Bryce,KE Bryce (Lightning),10,54,5.4,vs Central Sparks (19/09/2020),3,18.0,20.0
+1229348,KL Gordon,KL Gordon (Lightning),10,40,4.0,vs Central Sparks (19/09/2020),2,20.0,30.0
+1229348,LF Higham,LF Higham (Lightning),10,35,3.5,vs Central Sparks (19/09/2020),2,17.5,30.0
+1229348,S Munro,S Munro (Lightning),7,42,6.0,vs Central Sparks (19/09/2020),,,
+1229348,T Graves,T Graves (Lightning),4,23,5.75,vs Central Sparks (19/09/2020),,,
+1229348,Anisha Patel,Anisha Patel (Central Sparks),10,46,4.6,vs Lightning (19/09/2020),2,23.0,30.0
+1229348,CK Boycott,CK Boycott (Central Sparks),6,40,6.67,vs Lightning (19/09/2020),1,40.0,36.0
+1229348,EA Russell,EA Russell (Central Sparks),8,53,6.62,vs Lightning (19/09/2020),,,
+1229348,EL Arlott,EL Arlott (Central Sparks),9,56,6.22,vs Lightning (19/09/2020),,,
+1229348,HL Baker,HL Baker (Central Sparks),10,49,4.9,vs Lightning (19/09/2020),1,49.0,60.0
+1229348,IECM Wong,IECM Wong (Central Sparks),7,57,8.14,vs Lightning (19/09/2020),,,
+1229349,A Griffiths,A Griffiths (Western Storm),4,23,5.75,vs Sunrisers (19/09/2020),,,
+1229349,E Corney,E Corney (Western Storm),4,16,4.0,vs Sunrisers (19/09/2020),1,16.0,24.0
+1229349,EM Edgcombe,EM Edgcombe (Western Storm),8,39,4.88,vs Sunrisers (19/09/2020),1,39.0,48.0
+1229349,FMK Morris,FMK Morris (Western Storm),10,41,4.1,vs Sunrisers (19/09/2020),1,41.0,60.0
+1229349,GM Hennessy,GM Hennessy (Western Storm),6,29,4.83,vs Sunrisers (19/09/2020),2,14.5,18.0
+1229349,N Holland,N Holland (Western Storm),4,21,5.25,vs Sunrisers (19/09/2020),1,21.0,24.0
+1229349,S Hutchins,S Hutchins (Western Storm),9,42,4.67,vs Sunrisers (19/09/2020),1,42.0,54.0
+1229349,SN Luff,SN Luff (Western Storm),4,27,6.75,vs Sunrisers (19/09/2020),1,27.0,24.0
+1229349,AJ Macleod,AJ Macleod (Sunrisers),10,64,6.4,vs Western Storm (19/09/2020),2,32.0,30.0
+1229349,G Scrivens,G Scrivens (Sunrisers),4,30,7.5,vs Western Storm (19/09/2020),,,
+1229349,J Gardner,J Gardner (Sunrisers),10,52,5.2,vs Western Storm (19/09/2020),1,52.0,60.0
+1229349,KJ Wolfe,KJ Wolfe (Sunrisers),10,34,3.4,vs Western Storm (19/09/2020),2,17.0,30.0
+1229349,KL Midwood,KL Midwood (Sunrisers),10,41,4.1,vs Western Storm (19/09/2020),,,
+1229349,KS Castle,KS Castle (Sunrisers),6,51,8.5,vs Western Storm (19/09/2020),,,
+1229349,Sonali Patel,Sonali Patel (Sunrisers),2,14,7.0,vs Western Storm (19/09/2020),1,14.0,12.0
+1229350,CE Dean,CE Dean (Southern Vipers),10,35,3.5,vs Northern Diamonds (27/09/2020),1,35.0,60.0
+1229350,CM Taylor,CM Taylor (Southern Vipers),10,34,3.4,vs Northern Diamonds (27/09/2020),6,5.67,10.0
+1229350,GL Adams,GL Adams (Southern Vipers),3,13,4.33,vs Northern Diamonds (27/09/2020),1,13.0,18.0
+1229350,LK Bell,LK Bell (Southern Vipers),9,43,4.78,vs Northern Diamonds (27/09/2020),,,
+1229350,ME Bouchier,ME Bouchier (Southern Vipers),3,13,4.33,vs Northern Diamonds (27/09/2020),1,13.0,18.0
+1229350,PJ Scholfield,PJ Scholfield (Southern Vipers),4,25,6.25,vs Northern Diamonds (27/09/2020),,,
+1229350,TG Norris,TG Norris (Southern Vipers),4,22,5.5,vs Northern Diamonds (27/09/2020),,,
+1229350,BA Langston,BA Langston (Northern Diamonds),10,35,3.5,vs Southern Vipers (27/09/2020),1,35.0,60.0
+1229350,HJ Armitage,HJ Armitage (Northern Diamonds),8,33,4.12,vs Southern Vipers (27/09/2020),2,16.5,24.0
+1229350,JL Gunn,JL Gunn (Northern Diamonds),9,32,3.56,vs Southern Vipers (27/09/2020),1,32.0,54.0
+1229350,KA Levick,KA Levick (Northern Diamonds),8,49,6.12,vs Southern Vipers (27/09/2020),3,16.33,16.0
+1229350,LCN Smith,LCN Smith (Northern Diamonds),7,31,4.43,vs Southern Vipers (27/09/2020),1,31.0,42.0
+1229350,PC Graham,PC Graham (Northern Diamonds),8,43,5.38,vs Southern Vipers (27/09/2020),,,
+1252264,BA Langston,BA Langston (Northern Diamonds),8,26,3.25,vs Central Sparks (29/05/2021),2,13.0,24.0
+1252264,JL Gunn,JL Gunn (Northern Diamonds),10,50,5.0,vs Central Sparks (29/05/2021),1,50.0,60.0
+1252264,KA Levick,KA Levick (Northern Diamonds),4,30,7.5,vs Central Sparks (29/05/2021),,,
+1252264,KH Brunt,KH Brunt (Northern Diamonds),9,41,4.56,vs Central Sparks (29/05/2021),2,20.5,27.0
+1252264,LCN Smith,LCN Smith (Northern Diamonds),9,54,6.0,vs Central Sparks (29/05/2021),3,18.0,18.0
+1252264,NR Sciver,NR Sciver (Northern Diamonds),9,64,7.11,vs Central Sparks (29/05/2021),,,
+1252264,E Jones,E Jones (Central Sparks),3,18,6.0,vs Northern Diamonds (29/05/2021),,,
+1252264,EA Russell,EA Russell (Central Sparks),6,35,5.83,vs Northern Diamonds (29/05/2021),1,35.0,36.0
+1252264,EL Arlott,EL Arlott (Central Sparks),8,44,5.5,vs Northern Diamonds (29/05/2021),1,44.0,48.0
+1252264,IECM Wong,IECM Wong (Central Sparks),10,49,4.9,vs Northern Diamonds (29/05/2021),5,9.8,12.0
+1252264,RA Fackrell,RA Fackrell (Central Sparks),7,50,7.14,vs Northern Diamonds (29/05/2021),,,
+1252264,S Butler,S Butler (Central Sparks),6,46,7.67,vs Northern Diamonds (29/05/2021),2,23.0,18.0
+1252264,S Glenn,S Glenn (Central Sparks),10,35,3.5,vs Northern Diamonds (29/05/2021),1,35.0,60.0
+1252265,A Shrubsole,A Shrubsole (Western Storm),10,29,2.9,vs Thunder (29/05/2021),3,9.67,20.0
+1252265,DR Gibson,DR Gibson (Western Storm),9,68,7.56,vs Thunder (29/05/2021),,,
+1252265,FMK Morris,FMK Morris (Western Storm),3,18,6.0,vs Thunder (29/05/2021),,,
+1252265,GM Hennessy,GM Hennessy (Western Storm),10,57,5.7,vs Thunder (29/05/2021),3,19.0,20.0
+1252265,HC Knight,HC Knight (Western Storm),4,31,7.75,vs Thunder (29/05/2021),,,
+1252265,L Filer,L Filer (Western Storm),4,20,5.0,vs Thunder (29/05/2021),,,
+1252265,MJ Robbins,MJ Robbins (Western Storm),2,21,10.5,vs Thunder (29/05/2021),,,
+1252265,N Harvey,N Harvey (Western Storm),8,43,5.38,vs Thunder (29/05/2021),,,
+1252265,A Hartley,A Hartley (Thunder),10,60,6.0,vs Western Storm (29/05/2021),,,
+1252265,EL Lamb,EL Lamb (Thunder),5,29,5.8,vs Western Storm (29/05/2021),,,
+1252265,HE Jones,HE Jones (Thunder),6,46,7.67,vs Western Storm (29/05/2021),2,23.0,18.0
+1252265,KL Cross,KL Cross (Thunder),10,35,3.5,vs Western Storm (29/05/2021),3,11.67,20.0
+1252265,P Cleary,P Cleary (Thunder),9,56,6.22,vs Western Storm (29/05/2021),1,56.0,54.0
+1252265,S Ecclestone,S Ecclestone (Thunder),10,63,6.3,vs Western Storm (29/05/2021),3,21.0,20.0
+1252266,AJ Macleod,AJ Macleod (Sunrisers),4,28,7.0,vs South East Stars (29/05/2021),1,28.0,24.0
+1252266,G Scrivens,G Scrivens (Sunrisers),7,37,5.29,vs South East Stars (29/05/2021),1,37.0,42.0
+1252266,GKS Gole,GKS Gole (Sunrisers),6,46,7.67,vs South East Stars (29/05/2021),,,
+1252266,J Gardner,J Gardner (Sunrisers),6,49,8.17,vs South East Stars (29/05/2021),,,
+1252266,KS Castle,KS Castle (Sunrisers),8,40,5.0,vs South East Stars (29/05/2021),3,13.33,16.0
+1252266,MK Villiers,MK Villiers (Sunrisers),10,70,7.0,vs South East Stars (29/05/2021),,,
+1252266,ND Dattani,ND Dattani (Sunrisers),10,50,5.0,vs South East Stars (29/05/2021),1,50.0,60.0
+1252266,A Capsey,A Capsey (South East Stars),4,14,3.5,vs Sunrisers (29/05/2021),1,14.0,24.0
+1252266,AN Davidson-Richards,AN Davidson-Richards (South East Stars),2,20,10.0,vs Sunrisers (29/05/2021),,,
+1252266,BF Smith,BF Smith (South East Stars),10,47,4.7,vs Sunrisers (29/05/2021),3,15.67,20.0
+1252266,D Gregory,D Gregory (South East Stars),5,28,5.6,vs Sunrisers (29/05/2021),,,
+1252266,FR Davies,FR Davies (South East Stars),8,25,3.12,vs Sunrisers (29/05/2021),,,
+1252266,GJ Gibbs,GJ Gibbs (South East Stars),3,17,5.67,vs Sunrisers (29/05/2021),1,17.0,18.0
+1252266,NE Farrant,NE Farrant (South East Stars),8,33,4.12,vs Sunrisers (29/05/2021),5,6.6,9.6
+1252267,CE Dean,CE Dean (Southern Vipers),10,52,5.2,vs Lightning (29/05/2021),2,26.0,30.0
+1252267,CM Taylor,CM Taylor (Southern Vipers),10,30,3.0,vs Lightning (29/05/2021),1,30.0,60.0
+1252267,DN Wyatt,DN Wyatt (Southern Vipers),1,6,6.0,vs Lightning (29/05/2021),,,
+1252267,GA Elwiss,GA Elwiss (Southern Vipers),10,38,3.8,vs Lightning (29/05/2021),1,38.0,60.0
+1252267,GL Adams,GL Adams (Southern Vipers),3,9,3.0,vs Lightning (29/05/2021),1,9.0,18.0
+1252267,LK Bell,LK Bell (Southern Vipers),6,27,4.5,vs Lightning (29/05/2021),1,27.0,36.0
+1252267,TG Norris,TG Norris (Southern Vipers),10,47,4.7,vs Lightning (29/05/2021),3,15.67,20.0
+1252267,KE Bryce,KE Bryce (Lightning),9,45,5.0,vs Southern Vipers (29/05/2021),1,45.0,54.0
+1252267,KL Gordon,KL Gordon (Lightning),10,35,3.5,vs Southern Vipers (29/05/2021),4,8.75,15.0
+1252267,LF Higham,LF Higham (Lightning),6,29,4.83,vs Southern Vipers (29/05/2021),,,
+1252267,S Munro,S Munro (Lightning),7,40,5.71,vs Southern Vipers (29/05/2021),,,
+1252267,SB Odedra,SB Odedra (Lightning),4,23,5.75,vs Southern Vipers (29/05/2021),,,
+1252267,T Graves,T Graves (Lightning),7,19,2.71,vs Southern Vipers (29/05/2021),1,19.0,42.0
+1252267,Y Graves,Y Graves (Lightning),4,22,5.5,vs Southern Vipers (29/05/2021),,,
+1252268,BA Langston,BA Langston (Northern Diamonds),9,32,3.56,vs Lightning (31/05/2021),2,16.0,27.0
+1252268,HJ Armitage,HJ Armitage (Northern Diamonds),1,7,7.0,vs Lightning (31/05/2021),,,
+1252268,JL Gunn,JL Gunn (Northern Diamonds),9,23,2.56,vs Lightning (31/05/2021),,,
+1252268,KA Levick,KA Levick (Northern Diamonds),10,26,2.6,vs Lightning (31/05/2021),2,13.0,30.0
+1252268,KH Brunt,KH Brunt (Northern Diamonds),10,23,2.3,vs Lightning (31/05/2021),4,5.75,15.0
+1252268,NR Sciver,NR Sciver (Northern Diamonds),10,24,2.4,vs Lightning (31/05/2021),2,12.0,30.0
+1252268,KE Bryce,KE Bryce (Lightning),8,16,2.0,vs Northern Diamonds (31/05/2021),4,4.0,12.0
+1252268,KL Gordon,KL Gordon (Lightning),10,25,2.5,vs Northern Diamonds (31/05/2021),,,
+1252268,LF Higham,LF Higham (Lightning),8,37,4.62,vs Northern Diamonds (31/05/2021),2,18.5,24.0
+1252268,S Munro,S Munro (Lightning),7,21,3.0,vs Northern Diamonds (31/05/2021),1,21.0,42.0
+1252268,T Graves,T Graves (Lightning),7,32,4.57,vs Northern Diamonds (31/05/2021),2,16.0,21.0
+1252268,Y Graves,Y Graves (Lightning),6,18,3.0,vs Northern Diamonds (31/05/2021),1,18.0,36.0
+1252269,A Shrubsole,A Shrubsole (Western Storm),10,35,3.5,vs Central Sparks (31/05/2021),1,35.0,60.0
+1252269,DR Gibson,DR Gibson (Western Storm),8,61,7.62,vs Central Sparks (31/05/2021),,,
+1252269,FMK Morris,FMK Morris (Western Storm),9,44,4.89,vs Central Sparks (31/05/2021),2,22.0,27.0
+1252269,GM Hennessy,GM Hennessy (Western Storm),9,75,8.33,vs Central Sparks (31/05/2021),,,
+1252269,HC Knight,HC Knight (Western Storm),5,30,6.0,vs Central Sparks (31/05/2021),1,30.0,30.0
+1252269,L Filer,L Filer (Western Storm),6,21,3.5,vs Central Sparks (31/05/2021),2,10.5,18.0
+1252269,MJ Robbins,MJ Robbins (Western Storm),3,23,7.67,vs Central Sparks (31/05/2021),,,
+1252269,EA Russell,EA Russell (Central Sparks),10,47,4.7,vs Western Storm (31/05/2021),1,47.0,60.0
+1252269,EL Arlott,EL Arlott (Central Sparks),10,48,4.8,vs Western Storm (31/05/2021),2,24.0,30.0
+1252269,IECM Wong,IECM Wong (Central Sparks),8,41,5.12,vs Western Storm (31/05/2021),,,
+1252269,RA Fackrell,RA Fackrell (Central Sparks),9,34,3.78,vs Western Storm (31/05/2021),4,8.5,13.5
+1252269,S Butler,S Butler (Central Sparks),3,28,9.33,vs Western Storm (31/05/2021),,,
+1252269,S Glenn,S Glenn (Central Sparks),10,52,5.2,vs Western Storm (31/05/2021),2,26.0,30.0
+1252270,CE Dean,CE Dean (Southern Vipers),10,22,2.2,vs South East Stars (31/05/2021),2,11.0,30.0
+1252270,CM Taylor,CM Taylor (Southern Vipers),8,21,2.62,vs South East Stars (31/05/2021),4,5.25,12.0
+1252270,DN Wyatt,DN Wyatt (Southern Vipers),7,19,2.71,vs South East Stars (31/05/2021),3,6.33,14.0
+1252270,GA Elwiss,GA Elwiss (Southern Vipers),5,24,4.8,vs South East Stars (31/05/2021),,,
+1252270,GL Adams,GL Adams (Southern Vipers),4,11,2.75,vs South East Stars (31/05/2021),1,11.0,24.0
+1252270,TG Norris,TG Norris (Southern Vipers),6,39,6.5,vs South East Stars (31/05/2021),,,
+1252270,A Capsey,A Capsey (South East Stars),2,13,6.5,vs Southern Vipers (31/05/2021),,,
+1252270,AN Davidson-Richards,AN Davidson-Richards (South East Stars),2,5,2.5,vs Southern Vipers (31/05/2021),,,
+1252270,BF Smith,BF Smith (South East Stars),4,25,6.25,vs Southern Vipers (31/05/2021),2,12.5,12.0
+1252270,D Gregory,D Gregory (South East Stars),5,28,5.6,vs Southern Vipers (31/05/2021),,,
+1252270,FR Davies,FR Davies (South East Stars),6,23,3.83,vs Southern Vipers (31/05/2021),1,23.0,36.0
+1252270,GJ Gibbs,GJ Gibbs (South East Stars),1,9,9.0,vs Southern Vipers (31/05/2021),,,
+1252270,NE Farrant,NE Farrant (South East Stars),9,33,3.67,vs Southern Vipers (31/05/2021),,,
+1252271,A Hartley,A Hartley (Thunder),10,46,4.6,vs Sunrisers (31/05/2021),2,23.0,30.0
+1252271,EL Lamb,EL Lamb (Thunder),7,32,4.57,vs Sunrisers (31/05/2021),1,32.0,42.0
+1252271,HE Jones,HE Jones (Thunder),6,35,5.83,vs Sunrisers (31/05/2021),1,35.0,36.0
+1252271,KL Cross,KL Cross (Thunder),9,49,5.44,vs Sunrisers (31/05/2021),3,16.33,18.0
+1252271,P Cleary,P Cleary (Thunder),4,17,4.25,vs Sunrisers (31/05/2021),,,
+1252271,S Ecclestone,S Ecclestone (Thunder),10,28,2.8,vs Sunrisers (31/05/2021),3,9.33,20.0
+1252271,AJ Macleod,AJ Macleod (Sunrisers),4,21,5.25,vs Thunder (31/05/2021),,,
+1252271,G Scrivens,G Scrivens (Sunrisers),10,51,5.1,vs Thunder (31/05/2021),1,51.0,60.0
+1252271,GKS Gole,GKS Gole (Sunrisers),9,43,4.78,vs Thunder (31/05/2021),,,
+1252271,KS Castle,KS Castle (Sunrisers),6,25,4.17,vs Thunder (31/05/2021),1,25.0,36.0
+1252271,MK Villiers,MK Villiers (Sunrisers),10,47,4.7,vs Thunder (31/05/2021),3,15.67,20.0
+1252271,ND Dattani,ND Dattani (Sunrisers),4,18,4.5,vs Thunder (31/05/2021),,,
+1252271,Sonali Patel,Sonali Patel (Sunrisers),7,40,5.71,vs Thunder (31/05/2021),4,10.0,10.5
+1252272,A Shrubsole,A Shrubsole (Western Storm),9,47,5.22,vs South East Stars (05/06/2021),,,
+1252272,DR Gibson,DR Gibson (Western Storm),2,19,9.5,vs South East Stars (05/06/2021),,,
+1252272,FMK Morris,FMK Morris (Western Storm),7,42,6.0,vs South East Stars (05/06/2021),,,
+1252272,GM Hennessy,GM Hennessy (Western Storm),7,21,3.0,vs South East Stars (05/06/2021),1,21.0,42.0
+1252272,HC Knight,HC Knight (Western Storm),4,29,7.25,vs South East Stars (05/06/2021),,,
+1252272,L Filer,L Filer (Western Storm),8,47,5.88,vs South East Stars (05/06/2021),1,47.0,48.0
+1252272,N Harvey,N Harvey (Western Storm),7,43,6.14,vs South East Stars (05/06/2021),2,21.5,21.0
+1252272,AN Davidson-Richards,AN Davidson-Richards (South East Stars),4,30,7.5,vs Western Storm (05/06/2021),,,
+1252272,BF Smith,BF Smith (South East Stars),10,34,3.4,vs Western Storm (05/06/2021),1,34.0,60.0
+1252272,D Gregory,D Gregory (South East Stars),7,29,4.14,vs Western Storm (05/06/2021),1,29.0,42.0
+1252272,FR Davies,FR Davies (South East Stars),10,48,4.8,vs Western Storm (05/06/2021),1,48.0,60.0
+1252272,GJ Gibbs,GJ Gibbs (South East Stars),9,34,3.78,vs Western Storm (05/06/2021),1,34.0,54.0
+1252272,NE Farrant,NE Farrant (South East Stars),10,58,5.8,vs Western Storm (05/06/2021),4,14.5,15.0
+1252273,J Gardner,J Gardner (Sunrisers),1,8,8.0,vs Northern Diamonds (05/06/2021),,,
+1252273,KL Coppack,KL Coppack (Sunrisers),3,14,4.67,vs Northern Diamonds (05/06/2021),1,14.0,18.0
+1252273,KS Castle,KS Castle (Sunrisers),2,4,2.0,vs Northern Diamonds (05/06/2021),,,
+1252273,ND Dattani,ND Dattani (Sunrisers),2,22,11.0,vs Northern Diamonds (05/06/2021),,,
+1252273,BA Langston,BA Langston (Northern Diamonds),5,12,2.4,vs Sunrisers (05/06/2021),2,6.0,15.0
+1252273,JL Gunn,JL Gunn (Northern Diamonds),6,10,1.67,vs Sunrisers (05/06/2021),3,3.33,12.0
+1252273,KA Levick,KA Levick (Northern Diamonds),1,0,0.0,vs Sunrisers (05/06/2021),1,0.0,6.0
+1252273,KH Brunt,KH Brunt (Northern Diamonds),8,11,1.38,vs Sunrisers (05/06/2021),3,3.67,16.0
+1252273,LCN Smith,LCN Smith (Northern Diamonds),5,3,0.6,vs Sunrisers (05/06/2021),1,3.0,30.0
+1252273,NR Sciver,NR Sciver (Northern Diamonds),5,13,2.6,vs Sunrisers (05/06/2021),,,
+1252274,A Hartley,A Hartley (Thunder),10,61,6.1,vs Lightning (06/06/2021),2,30.5,30.0
+1252274,EL Lamb,EL Lamb (Thunder),7,36,5.14,vs Lightning (06/06/2021),1,36.0,42.0
+1252274,HE Jones,HE Jones (Thunder),4,29,7.25,vs Lightning (06/06/2021),,,
+1252274,KL Cross,KL Cross (Thunder),10,52,5.2,vs Lightning (06/06/2021),,,
+1252274,P Cleary,P Cleary (Thunder),9,52,5.78,vs Lightning (06/06/2021),,,
+1252274,S Ecclestone,S Ecclestone (Thunder),10,23,2.3,vs Lightning (06/06/2021),2,11.5,30.0
+1252274,KE Bryce,KE Bryce (Lightning),7,26,3.71,vs Thunder (06/06/2021),,,
+1252274,KL Gordon,KL Gordon (Lightning),10,23,2.3,vs Thunder (06/06/2021),4,5.75,15.0
+1252274,LF Higham,LF Higham (Lightning),7,10,1.43,vs Thunder (06/06/2021),3,3.33,14.0
+1252274,N Harman,N Harman (Lightning),4,22,5.5,vs Thunder (06/06/2021),,,
+1252274,S Munro,S Munro (Lightning),7,23,3.29,vs Thunder (06/06/2021),1,23.0,42.0
+1252274,T Graves,T Graves (Lightning),5,21,4.2,vs Thunder (06/06/2021),2,10.5,15.0
+1252275,CE Dean,CE Dean (Southern Vipers),10,37,3.7,vs Central Sparks (05/06/2021),3,12.33,20.0
+1252275,CM Taylor,CM Taylor (Southern Vipers),10,22,2.2,vs Central Sparks (05/06/2021),3,7.33,20.0
+1252275,DN Wyatt,DN Wyatt (Southern Vipers),4,23,5.75,vs Central Sparks (05/06/2021),,,
+1252275,GA Elwiss,GA Elwiss (Southern Vipers),10,44,4.4,vs Central Sparks (05/06/2021),1,44.0,60.0
+1252275,GL Adams,GL Adams (Southern Vipers),6,36,6.0,vs Central Sparks (05/06/2021),2,18.0,18.0
+1252275,TG Norris,TG Norris (Southern Vipers),10,58,5.8,vs Central Sparks (05/06/2021),,,
+1252275,EA Russell,EA Russell (Central Sparks),3,13,4.33,vs Southern Vipers (05/06/2021),1,13.0,18.0
+1252275,EL Arlott,EL Arlott (Central Sparks),8,29,3.62,vs Southern Vipers (05/06/2021),5,5.8,9.6
+1252275,IECM Wong,IECM Wong (Central Sparks),8,18,2.25,vs Southern Vipers (05/06/2021),3,6.0,16.0
+1252275,RA Fackrell,RA Fackrell (Central Sparks),3,22,7.33,vs Southern Vipers (05/06/2021),,,
+1252275,S Glenn,S Glenn (Central Sparks),6,16,2.67,vs Southern Vipers (05/06/2021),1,16.0,36.0
+1252276,A Capsey,A Capsey (South East Stars),3,14,4.67,vs Northern Diamonds (12/06/2021),,,
+1252276,AN Davidson-Richards,AN Davidson-Richards (South East Stars),7,49,7.0,vs Northern Diamonds (12/06/2021),,,
+1252276,BF Smith,BF Smith (South East Stars),10,40,4.0,vs Northern Diamonds (12/06/2021),1,40.0,60.0
+1252276,D Gregory,D Gregory (South East Stars),10,31,3.1,vs Northern Diamonds (12/06/2021),2,15.5,30.0
+1252276,FR Davies,FR Davies (South East Stars),10,57,5.7,vs Northern Diamonds (12/06/2021),1,57.0,60.0
+1252276,GJ Gibbs,GJ Gibbs (South East Stars),8,40,5.0,vs Northern Diamonds (12/06/2021),2,20.0,24.0
+1252276,PA Franklin,PA Franklin (South East Stars),2,16,8.0,vs Northern Diamonds (12/06/2021),,,
+1252276,AL MacDonald,AL MacDonald (Northern Diamonds),3,21,7.0,vs South East Stars (12/06/2021),,,
+1252276,BA Langston,BA Langston (Northern Diamonds),10,62,6.2,vs South East Stars (12/06/2021),1,62.0,60.0
+1252276,HJ Armitage,HJ Armitage (Northern Diamonds),3,22,7.33,vs South East Stars (12/06/2021),,,
+1252276,JL Gunn,JL Gunn (Northern Diamonds),9,45,5.0,vs South East Stars (12/06/2021),2,22.5,27.0
+1252276,KA Levick,KA Levick (Northern Diamonds),7,30,4.29,vs South East Stars (12/06/2021),1,30.0,42.0
+1252276,LCN Smith,LCN Smith (Northern Diamonds),10,31,3.1,vs South East Stars (12/06/2021),1,31.0,60.0
+1252276,PC Graham,PC Graham (Northern Diamonds),8,38,4.75,vs South East Stars (12/06/2021),1,38.0,48.0
+1252277,AJ Macleod,AJ Macleod (Sunrisers),1,5,5.0,vs Lightning (12/06/2021),1,5.0,6.0
+1252277,G Scrivens,G Scrivens (Sunrisers),4,21,5.25,vs Lightning (12/06/2021),,,
+1252277,GKS Gole,GKS Gole (Sunrisers),3,10,3.33,vs Lightning (12/06/2021),,,
+1252277,J Gardner,J Gardner (Sunrisers),6,35,5.83,vs Lightning (12/06/2021),1,35.0,36.0
+1252277,KL Coppack,KL Coppack (Sunrisers),7,22,3.14,vs Lightning (12/06/2021),,,
+1252277,KL Midwood,KL Midwood (Sunrisers),8,42,5.25,vs Lightning (12/06/2021),1,42.0,48.0
+1252277,KS Castle,KS Castle (Sunrisers),6,24,4.0,vs Lightning (12/06/2021),2,12.0,18.0
+1252277,ND Dattani,ND Dattani (Sunrisers),6,45,7.5,vs Lightning (12/06/2021),,,
+1252277,KE Bryce,KE Bryce (Lightning),10,19,1.9,vs Sunrisers (12/06/2021),1,19.0,60.0
+1252277,KL Gordon,KL Gordon (Lightning),10,27,2.7,vs Sunrisers (12/06/2021),1,27.0,60.0
+1252277,LF Higham,LF Higham (Lightning),7,49,7.0,vs Sunrisers (12/06/2021),,,
+1252277,S Munro,S Munro (Lightning),7,36,5.14,vs Sunrisers (12/06/2021),2,18.0,21.0
+1252277,T Graves,T Graves (Lightning),10,39,3.9,vs Sunrisers (12/06/2021),4,9.75,15.0
+1252277,Y Graves,Y Graves (Lightning),6,32,5.33,vs Sunrisers (12/06/2021),1,32.0,36.0
+1252278,A Hartley,A Hartley (Thunder),10,26,2.6,vs Central Sparks (12/06/2021),,,
+1252278,EL Lamb,EL Lamb (Thunder),10,44,4.4,vs Central Sparks (12/06/2021),,,
+1252278,HE Jones,HE Jones (Thunder),10,33,3.3,vs Central Sparks (12/06/2021),3,11.0,20.0
+1252278,L Jackson,L Jackson (Thunder),9,35,3.89,vs Central Sparks (12/06/2021),3,11.67,18.0
+1252278,N Brown,N Brown (Thunder),2,11,5.5,vs Central Sparks (12/06/2021),,,
+1252278,P Cleary,P Cleary (Thunder),9,40,4.44,vs Central Sparks (12/06/2021),1,40.0,54.0
+1252278,CK Boycott,CK Boycott (Central Sparks),2,5,2.5,vs Thunder (12/06/2021),,,
+1252278,EA Russell,EA Russell (Central Sparks),10,48,4.8,vs Thunder (12/06/2021),1,48.0,60.0
+1252278,GK Davis,GK Davis (Central Sparks),10,42,4.2,vs Thunder (12/06/2021),3,14.0,20.0
+1252278,IECM Wong,IECM Wong (Central Sparks),9,40,4.44,vs Thunder (12/06/2021),1,40.0,54.0
+1252278,RA Fackrell,RA Fackrell (Central Sparks),4,15,3.75,vs Thunder (12/06/2021),1,15.0,24.0
+1252278,S Butler,S Butler (Central Sparks),3,14,4.67,vs Thunder (12/06/2021),,,
+1252278,S Glenn,S Glenn (Central Sparks),10,32,3.2,vs Thunder (12/06/2021),2,16.0,30.0
+1252279,DR Gibson,DR Gibson (Western Storm),4,16,4.0,vs Southern Vipers (12/06/2021),,,
+1252279,FMK Morris,FMK Morris (Western Storm),6,37,6.17,vs Southern Vipers (12/06/2021),1,37.0,36.0
+1252279,GM Hennessy,GM Hennessy (Western Storm),7,26,3.71,vs Southern Vipers (12/06/2021),,,
+1252279,L Filer,L Filer (Western Storm),6,37,6.17,vs Southern Vipers (12/06/2021),1,37.0,36.0
+1252279,MJ Robbins,MJ Robbins (Western Storm),4,23,5.75,vs Southern Vipers (12/06/2021),,,
+1252279,N Harvey,N Harvey (Western Storm),6,22,3.67,vs Southern Vipers (12/06/2021),,,
+1252279,SN Luff,SN Luff (Western Storm),2,16,8.0,vs Southern Vipers (12/06/2021),,,
+1252279,AZ Monaghan,AZ Monaghan (Southern Vipers),2,13,6.5,vs Western Storm (12/06/2021),1,13.0,12.0
+1252279,CE Dean,CE Dean (Southern Vipers),10,27,2.7,vs Western Storm (12/06/2021),3,9.0,20.0
+1252279,CM Taylor,CM Taylor (Southern Vipers),10,36,3.6,vs Western Storm (12/06/2021),1,36.0,60.0
+1252279,E Windsor,E Windsor (Southern Vipers),5,15,3.0,vs Western Storm (12/06/2021),,,
+1252279,GL Adams,GL Adams (Southern Vipers),3,10,3.33,vs Western Storm (12/06/2021),1,10.0,18.0
+1252279,LK Bell,LK Bell (Southern Vipers),10,40,4.0,vs Western Storm (12/06/2021),3,13.33,20.0
+1252279,TG Norris,TG Norris (Southern Vipers),10,32,3.2,vs Western Storm (12/06/2021),,,
+1252280,A Griffiths,A Griffiths (Western Storm),3,19,6.33,vs Northern Diamonds (10/09/2021),,,
+1252280,C Skelton,C Skelton (Western Storm),3,20,6.67,vs Northern Diamonds (10/09/2021),,,
+1252280,DR Gibson,DR Gibson (Western Storm),2,14,7.0,vs Northern Diamonds (10/09/2021),,,
+1252280,FMK Morris,FMK Morris (Western Storm),3,27,9.0,vs Northern Diamonds (10/09/2021),,,
+1252280,GM Hennessy,GM Hennessy (Western Storm),8,35,4.38,vs Northern Diamonds (10/09/2021),1,35.0,48.0
+1252280,J Roberts,J Roberts (Western Storm),3,15,5.0,vs Northern Diamonds (10/09/2021),,,
+1252280,L Filer,L Filer (Western Storm),5,24,4.8,vs Northern Diamonds (10/09/2021),,,
+1252280,S Hutchins,S Hutchins (Western Storm),5,27,5.4,vs Northern Diamonds (10/09/2021),2,13.5,15.0
+1252280,BA Langston,BA Langston (Northern Diamonds),7,30,4.29,vs Western Storm (10/09/2021),2,15.0,21.0
+1252280,EF Telford,EF Telford (Northern Diamonds),7,40,5.71,vs Western Storm (10/09/2021),,,
+1252280,JL Gunn,JL Gunn (Northern Diamonds),1,7,7.0,vs Western Storm (10/09/2021),,,
+1252280,KA Levick,KA Levick (Northern Diamonds),8,25,3.12,vs Western Storm (10/09/2021),2,12.5,24.0
+1252280,LCN Smith,LCN Smith (Northern Diamonds),10,34,3.4,vs Western Storm (10/09/2021),5,6.8,12.0
+1252280,PC Graham,PC Graham (Northern Diamonds),6,45,7.5,vs Western Storm (10/09/2021),,,
+1252281,A Capsey,A Capsey (South East Stars),9,55,6.11,vs Lightning (10/09/2021),2,27.5,27.0
+1252281,AN Davidson-Richards,AN Davidson-Richards (South East Stars),7,35,5.0,vs Lightning (10/09/2021),2,17.5,21.0
+1252281,BF Smith,BF Smith (South East Stars),10,46,4.6,vs Lightning (10/09/2021),3,15.33,20.0
+1252281,D Gregory,D Gregory (South East Stars),10,46,4.6,vs Lightning (10/09/2021),,,
+1252281,GJ Gibbs,GJ Gibbs (South East Stars),5,37,7.4,vs Lightning (10/09/2021),,,
+1252281,K Moore,K Moore (South East Stars),3,18,6.0,vs Lightning (10/09/2021),,,
+1252281,PA Franklin,PA Franklin (South East Stars),6,20,3.33,vs Lightning (10/09/2021),2,10.0,18.0
+1252281,G Ballinger,G Ballinger (Lightning),7,51,7.29,vs South East Stars (10/09/2021),1,51.0,42.0
+1252281,J Groves,J Groves (Lightning),8,59,7.38,vs South East Stars (10/09/2021),,,
+1252281,KE Bryce,KE Bryce (Lightning),9,50,5.56,vs South East Stars (10/09/2021),2,25.0,27.0
+1252281,KL Gordon,KL Gordon (Lightning),10,37,3.7,vs South East Stars (10/09/2021),2,18.5,30.0
+1252281,S Munro,S Munro (Lightning),2,23,11.5,vs South East Stars (10/09/2021),,,
+1252281,T Graves,T Graves (Lightning),4,28,7.0,vs South East Stars (10/09/2021),,,
+1252281,Y Graves,Y Graves (Lightning),10,43,4.3,vs South East Stars (10/09/2021),3,14.33,20.0
+1252282,E Thorpe,E Thorpe (Sunrisers),4,27,6.75,vs Central Sparks (10/09/2021),,,
+1252282,G Scrivens,G Scrivens (Sunrisers),7,35,5.0,vs Central Sparks (10/09/2021),1,35.0,42.0
+1252282,GKS Gole,GKS Gole (Sunrisers),4,31,7.75,vs Central Sparks (10/09/2021),1,31.0,24.0
+1252282,J Gardner,J Gardner (Sunrisers),2,11,5.5,vs Central Sparks (10/09/2021),,,
+1252282,KL Coppack,KL Coppack (Sunrisers),7,40,5.71,vs Central Sparks (10/09/2021),1,40.0,42.0
+1252282,KS Castle,KS Castle (Sunrisers),9,22,2.44,vs Central Sparks (10/09/2021),1,22.0,54.0
+1252282,ND Dattani,ND Dattani (Sunrisers),6,39,6.5,vs Central Sparks (10/09/2021),,,
+1252282,Anisha Patel,Anisha Patel (Central Sparks),6,33,5.5,vs Sunrisers (10/09/2021),1,33.0,36.0
+1252282,CK Boycott,CK Boycott (Central Sparks),9,42,4.67,vs Sunrisers (10/09/2021),,,
+1252282,E Jones,E Jones (Central Sparks),6,31,5.17,vs Sunrisers (10/09/2021),2,15.5,18.0
+1252282,EL Arlott,EL Arlott (Central Sparks),7,27,3.86,vs Sunrisers (10/09/2021),,,
+1252282,IECM Wong,IECM Wong (Central Sparks),8,33,4.12,vs Sunrisers (10/09/2021),1,33.0,48.0
+1252282,RA Fackrell,RA Fackrell (Central Sparks),6,30,5.0,vs Sunrisers (10/09/2021),3,10.0,12.0
+1252283,A Hartley,A Hartley (Thunder),9,28,3.11,vs Southern Vipers (10/09/2021),2,14.0,27.0
+1252283,EL Lamb,EL Lamb (Thunder),6,13,2.17,vs Southern Vipers (10/09/2021),1,13.0,36.0
+1252283,HE Jones,HE Jones (Thunder),5,9,1.8,vs Southern Vipers (10/09/2021),2,4.5,15.0
+1252283,KL Cross,KL Cross (Thunder),10,34,3.4,vs Southern Vipers (10/09/2021),2,17.0,30.0
+1252283,L Jackson,L Jackson (Thunder),4,24,6.0,vs Southern Vipers (10/09/2021),,,
+1252283,CM Taylor,CM Taylor (Southern Vipers),10,22,2.2,vs Thunder (10/09/2021),1,22.0,60.0
+1252283,GA Elwiss,GA Elwiss (Southern Vipers),3,16,5.33,vs Thunder (10/09/2021),,,
+1252283,LK Bell,LK Bell (Southern Vipers),7,33,4.71,vs Thunder (10/09/2021),2,16.5,21.0
+1252283,PJ Scholfield,PJ Scholfield (Southern Vipers),5,16,3.2,vs Thunder (10/09/2021),3,5.33,10.0
+1252283,TG Norris,TG Norris (Southern Vipers),8,14,1.75,vs Thunder (10/09/2021),4,3.5,12.0
+1252284,A Hartley,A Hartley (Thunder),10,57,5.7,vs Northern Diamonds (12/09/2021),2,28.5,30.0
+1252284,AE Dyson,AE Dyson (Thunder),9,59,6.56,vs Northern Diamonds (12/09/2021),1,59.0,54.0
+1252284,EL Lamb,EL Lamb (Thunder),3,8,2.67,vs Northern Diamonds (12/09/2021),,,
+1252284,HE Jones,HE Jones (Thunder),10,54,5.4,vs Northern Diamonds (12/09/2021),1,54.0,60.0
+1252284,L Jackson,L Jackson (Thunder),10,59,5.9,vs Northern Diamonds (12/09/2021),,,
+1252284,N Brown,N Brown (Thunder),9,55,6.11,vs Northern Diamonds (12/09/2021),1,55.0,54.0
+1252284,BA Langston,BA Langston (Northern Diamonds),7,12,1.71,vs Thunder (12/09/2021),,,
+1252284,EF Telford,EF Telford (Northern Diamonds),5,41,8.2,vs Thunder (12/09/2021),,,
+1252284,HJ Armitage,HJ Armitage (Northern Diamonds),8,32,4.0,vs Thunder (12/09/2021),2,16.0,24.0
+1252284,KA Levick,KA Levick (Northern Diamonds),10,34,3.4,vs Thunder (12/09/2021),4,8.5,15.0
+1252284,LCN Smith,LCN Smith (Northern Diamonds),10,26,2.6,vs Thunder (12/09/2021),,,
+1252284,PC Graham,PC Graham (Northern Diamonds),10,41,4.1,vs Thunder (12/09/2021),1,41.0,60.0
+1252285,A Capsey,A Capsey (South East Stars),6,33,5.5,vs Central Sparks (12/09/2021),,,
+1252285,AN Davidson-Richards,AN Davidson-Richards (South East Stars),8,40,5.0,vs Central Sparks (12/09/2021),2,20.0,24.0
+1252285,BF Smith,BF Smith (South East Stars),9,40,4.44,vs Central Sparks (12/09/2021),2,20.0,27.0
+1252285,D Gregory,D Gregory (South East Stars),5,29,5.8,vs Central Sparks (12/09/2021),1,29.0,30.0
+1252285,Emma Jones,Emma Jones (South East Stars),4,20,5.0,vs Central Sparks (12/09/2021),,,
+1252285,K Moore,K Moore (South East Stars),4,12,3.0,vs Central Sparks (12/09/2021),1,12.0,24.0
+1252285,PA Franklin,PA Franklin (South East Stars),5,15,3.0,vs Central Sparks (12/09/2021),1,15.0,30.0
+1252285,R MacDonald-Gay,R MacDonald-Gay (South East Stars),9,31,3.44,vs Central Sparks (12/09/2021),2,15.5,27.0
+1252285,CK Boycott,CK Boycott (Central Sparks),5,23,4.6,vs South East Stars (12/09/2021),,,
+1252285,E Jones,E Jones (Central Sparks),1,0,0.0,vs South East Stars (12/09/2021),1,0.0,6.0
+1252285,EL Arlott,EL Arlott (Central Sparks),3,17,5.67,vs South East Stars (12/09/2021),,,
+1252285,GK Davis,GK Davis (Central Sparks),10,26,2.6,vs South East Stars (12/09/2021),4,6.5,15.0
+1252285,IECM Wong,IECM Wong (Central Sparks),8,27,3.38,vs South East Stars (12/09/2021),1,27.0,48.0
+1252285,RA Fackrell,RA Fackrell (Central Sparks),5,20,4.0,vs South East Stars (12/09/2021),3,6.67,10.0
+1252286,C Nicholas,C Nicholas (Western Storm),7,22,3.14,vs Lightning (12/09/2021),1,22.0,42.0
+1252286,DR Gibson,DR Gibson (Western Storm),5,27,5.4,vs Lightning (12/09/2021),1,27.0,30.0
+1252286,FMK Morris,FMK Morris (Western Storm),7,34,4.86,vs Lightning (12/09/2021),2,17.0,21.0
+1252286,GM Hennessy,GM Hennessy (Western Storm),8,22,2.75,vs Lightning (12/09/2021),2,11.0,24.0
+1252286,L Filer,L Filer (Western Storm),6,34,5.67,vs Lightning (12/09/2021),1,34.0,36.0
+1252286,N Harvey,N Harvey (Western Storm),9,25,2.78,vs Lightning (12/09/2021),2,12.5,27.0
+1252286,G Ballinger,G Ballinger (Lightning),9,50,5.56,vs Western Storm (12/09/2021),1,50.0,54.0
+1252286,KE Bryce,KE Bryce (Lightning),10,44,4.4,vs Western Storm (12/09/2021),1,44.0,60.0
+1252286,KL Gordon,KL Gordon (Lightning),10,43,4.3,vs Western Storm (12/09/2021),3,14.33,20.0
+1252286,S Munro,S Munro (Lightning),10,35,3.5,vs Western Storm (12/09/2021),2,17.5,30.0
+1252286,T Graves,T Graves (Lightning),4,9,2.25,vs Western Storm (12/09/2021),,,
+1252286,Y Graves,Y Graves (Lightning),7,39,5.57,vs Western Storm (12/09/2021),,,
+1252287,E Thorpe,E Thorpe (Sunrisers),7,55,7.86,vs Southern Vipers (12/09/2021),,,
+1252287,G Scrivens,G Scrivens (Sunrisers),7,31,4.43,vs Southern Vipers (12/09/2021),1,31.0,42.0
+1252287,J Gardner,J Gardner (Sunrisers),5,42,8.4,vs Southern Vipers (12/09/2021),,,
+1252287,KL Coppack,KL Coppack (Sunrisers),8,49,6.12,vs Southern Vipers (12/09/2021),,,
+1252287,KS Castle,KS Castle (Sunrisers),10,59,5.9,vs Southern Vipers (12/09/2021),2,29.5,30.0
+1252287,ND Dattani,ND Dattani (Sunrisers),3,20,6.67,vs Southern Vipers (12/09/2021),2,10.0,9.0
+1252287,Sonali Patel,Sonali Patel (Sunrisers),10,46,4.6,vs Southern Vipers (12/09/2021),3,15.33,20.0
+1252287,CM Taylor,CM Taylor (Southern Vipers),10,46,4.6,vs Sunrisers (12/09/2021),1,46.0,60.0
+1252287,GA Elwiss,GA Elwiss (Southern Vipers),9,58,6.44,vs Sunrisers (12/09/2021),1,58.0,54.0
+1252287,GL Adams,GL Adams (Southern Vipers),6,36,6.0,vs Sunrisers (12/09/2021),2,18.0,18.0
+1252287,LK Bell,LK Bell (Southern Vipers),10,63,6.3,vs Sunrisers (12/09/2021),1,63.0,60.0
+1252287,ME Bouchier,ME Bouchier (Southern Vipers),2,13,6.5,vs Sunrisers (12/09/2021),,,
+1252287,PJ Scholfield,PJ Scholfield (Southern Vipers),5,38,7.6,vs Sunrisers (12/09/2021),,,
+1252287,TG Norris,TG Norris (Southern Vipers),8,48,6.0,vs Sunrisers (12/09/2021),1,48.0,48.0
+1252288,B Ellis,B Ellis (Lightning),2,16,8.0,vs Central Sparks (18/09/2021),,,
+1252288,G Ballinger,G Ballinger (Lightning),10,60,6.0,vs Central Sparks (18/09/2021),2,30.0,30.0
+1252288,KE Bryce,KE Bryce (Lightning),10,46,4.6,vs Central Sparks (18/09/2021),1,46.0,60.0
+1252288,KL Gordon,KL Gordon (Lightning),10,57,5.7,vs Central Sparks (18/09/2021),2,28.5,30.0
+1252288,LF Higham,LF Higham (Lightning),4,29,7.25,vs Central Sparks (18/09/2021),,,
+1252288,SB Odedra,SB Odedra (Lightning),9,56,6.22,vs Central Sparks (18/09/2021),2,28.0,27.0
+1252288,Y Graves,Y Graves (Lightning),5,25,5.0,vs Central Sparks (18/09/2021),1,25.0,30.0
+1252288,CK Boycott,CK Boycott (Central Sparks),6,33,5.5,vs Lightning (18/09/2021),,,
+1252288,E Jones,E Jones (Central Sparks),5,26,5.2,vs Lightning (18/09/2021),,,
+1252288,EL Arlott,EL Arlott (Central Sparks),10,61,6.1,vs Lightning (18/09/2021),1,61.0,60.0
+1252288,GK Davis,GK Davis (Central Sparks),10,49,4.9,vs Lightning (18/09/2021),1,49.0,60.0
+1252288,IECM Wong,IECM Wong (Central Sparks),10,61,6.1,vs Lightning (18/09/2021),3,20.33,20.0
+1252288,RA Fackrell,RA Fackrell (Central Sparks),9,74,8.22,vs Lightning (18/09/2021),,,
+1252289,A Hartley,A Hartley (Thunder),10,17,1.7,vs South East Stars (18/09/2021),2,8.5,30.0
+1252289,AE Dyson,AE Dyson (Thunder),5,26,5.2,vs South East Stars (18/09/2021),1,26.0,30.0
+1252289,HE Jones,HE Jones (Thunder),9,33,3.67,vs South East Stars (18/09/2021),5,6.6,10.8
+1252289,L Heap,L Heap (Thunder),6,41,6.83,vs South East Stars (18/09/2021),1,41.0,36.0
+1252289,L Jackson,L Jackson (Thunder),5,12,2.4,vs South East Stars (18/09/2021),1,12.0,30.0
+1252289,A Capsey,A Capsey (South East Stars),10,32,3.2,vs Thunder (18/09/2021),2,16.0,30.0
+1252289,AN Davidson-Richards,AN Davidson-Richards (South East Stars),2,16,8.0,vs Thunder (18/09/2021),,,
+1252289,D Gregory,D Gregory (South East Stars),10,23,2.3,vs Thunder (18/09/2021),2,11.5,30.0
+1252289,Emma Jones,Emma Jones (South East Stars),3,16,5.33,vs Thunder (18/09/2021),1,16.0,18.0
+1252289,GJ Gibbs,GJ Gibbs (South East Stars),4,16,4.0,vs Thunder (18/09/2021),,,
+1252289,K Moore,K Moore (South East Stars),6,34,5.67,vs Thunder (18/09/2021),1,34.0,36.0
+1252289,PA Franklin,PA Franklin (South East Stars),8,32,4.0,vs Thunder (18/09/2021),1,32.0,48.0
+1252289,R MacDonald-Gay,R MacDonald-Gay (South East Stars),4,14,3.5,vs Thunder (18/09/2021),,,
+1252290,C Nicholas,C Nicholas (Western Storm),9,60,6.67,vs Sunrisers (18/09/2021),2,30.0,27.0
+1252290,C Skelton,C Skelton (Western Storm),3,15,5.0,vs Sunrisers (18/09/2021),,,
+1252290,DR Gibson,DR Gibson (Western Storm),8,56,7.0,vs Sunrisers (18/09/2021),2,28.0,24.0
+1252290,GM Hennessy,GM Hennessy (Western Storm),8,45,5.62,vs Sunrisers (18/09/2021),2,22.5,24.0
+1252290,L Filer,L Filer (Western Storm),5,29,5.8,vs Sunrisers (18/09/2021),,,
+1252290,LA Parfitt,LA Parfitt (Western Storm),3,17,5.67,vs Sunrisers (18/09/2021),,,
+1252290,N Harvey,N Harvey (Western Storm),10,46,4.6,vs Sunrisers (18/09/2021),2,23.0,30.0
+1252290,G Scrivens,G Scrivens (Sunrisers),9,64,7.11,vs Western Storm (18/09/2021),,,
+1252290,J Gardner,J Gardner (Sunrisers),3,18,6.0,vs Western Storm (18/09/2021),,,
+1252290,KL Coppack,KL Coppack (Sunrisers),9,57,6.33,vs Western Storm (18/09/2021),1,57.0,54.0
+1252290,KS Castle,KS Castle (Sunrisers),7,37,5.29,vs Western Storm (18/09/2021),1,37.0,42.0
+1252290,MK Villiers,MK Villiers (Sunrisers),10,39,3.9,vs Western Storm (18/09/2021),2,19.5,30.0
+1252290,ND Dattani,ND Dattani (Sunrisers),5,31,6.2,vs Western Storm (18/09/2021),,,
+1252290,Sonali Patel,Sonali Patel (Sunrisers),8,56,7.0,vs Western Storm (18/09/2021),,,
+1252291,CM Taylor,CM Taylor (Southern Vipers),4,33,8.25,vs Northern Diamonds (18/09/2021),,,
+1252291,GA Elwiss,GA Elwiss (Southern Vipers),10,43,4.3,vs Northern Diamonds (18/09/2021),1,43.0,60.0
+1252291,GL Adams,GL Adams (Southern Vipers),7,36,5.14,vs Northern Diamonds (18/09/2021),1,36.0,42.0
+1252291,LK Bell,LK Bell (Southern Vipers),10,29,2.9,vs Northern Diamonds (18/09/2021),2,14.5,30.0
+1252291,ME Bouchier,ME Bouchier (Southern Vipers),3,20,6.67,vs Northern Diamonds (18/09/2021),1,20.0,18.0
+1252291,PJ Scholfield,PJ Scholfield (Southern Vipers),8,35,4.38,vs Northern Diamonds (18/09/2021),2,17.5,24.0
+1252291,TG Norris,TG Norris (Southern Vipers),7,57,8.14,vs Northern Diamonds (18/09/2021),1,57.0,42.0
+1252291,BA Langston,BA Langston (Northern Diamonds),9,26,2.89,vs Southern Vipers (18/09/2021),,,
+1252291,EF Telford,EF Telford (Northern Diamonds),2,17,8.5,vs Southern Vipers (18/09/2021),,,
+1252291,HJ Armitage,HJ Armitage (Northern Diamonds),8,52,6.5,vs Southern Vipers (18/09/2021),,,
+1252291,LCN Smith,LCN Smith (Northern Diamonds),10,73,7.3,vs Southern Vipers (18/09/2021),,,
+1252291,PC Graham,PC Graham (Northern Diamonds),10,44,4.4,vs Southern Vipers (18/09/2021),3,14.67,20.0
+1252291,R Slater,R Slater (Northern Diamonds),10,47,4.7,vs Southern Vipers (18/09/2021),,,
+1252292,BA Langston,BA Langston (Northern Diamonds),10,29,2.9,vs Central Sparks (22/09/2021),2,14.5,30.0
+1252292,HJ Armitage,HJ Armitage (Northern Diamonds),3,12,4.0,vs Central Sparks (22/09/2021),,,
+1252292,KA Levick,KA Levick (Northern Diamonds),10,25,2.5,vs Central Sparks (22/09/2021),1,25.0,60.0
+1252292,LCN Smith,LCN Smith (Northern Diamonds),10,25,2.5,vs Central Sparks (22/09/2021),2,12.5,30.0
+1252292,PC Graham,PC Graham (Northern Diamonds),9,44,4.89,vs Central Sparks (22/09/2021),,,
+1252292,R Slater,R Slater (Northern Diamonds),8,39,4.88,vs Central Sparks (22/09/2021),2,19.5,24.0
+1252292,CK Boycott,CK Boycott (Central Sparks),3,23,7.67,vs Northern Diamonds (22/09/2021),,,
+1252292,D Perrin,D Perrin (Central Sparks),1,10,10.0,vs Northern Diamonds (22/09/2021),,,
+1252292,E Jones,E Jones (Central Sparks),1,8,8.0,vs Northern Diamonds (22/09/2021),,,
+1252292,EL Arlott,EL Arlott (Central Sparks),9,35,3.89,vs Northern Diamonds (22/09/2021),2,17.5,27.0
+1252292,GK Davis,GK Davis (Central Sparks),10,35,3.5,vs Northern Diamonds (22/09/2021),1,35.0,60.0
+1252292,IECM Wong,IECM Wong (Central Sparks),3,30,10.0,vs Northern Diamonds (22/09/2021),,,
+1252292,Marie Kelly,Marie Kelly (Central Sparks),2,9,4.5,vs Northern Diamonds (22/09/2021),1,9.0,12.0
+1252292,RA Fackrell,RA Fackrell (Central Sparks),4,20,5.0,vs Northern Diamonds (22/09/2021),,,
+1252293,CM Taylor,CM Taylor (Southern Vipers),10,26,2.6,vs Northern Diamonds (25/09/2021),2,13.0,30.0
+1252293,GA Elwiss,GA Elwiss (Southern Vipers),7,25,3.57,vs Northern Diamonds (25/09/2021),1,25.0,42.0
+1252293,GL Adams,GL Adams (Southern Vipers),10,35,3.5,vs Northern Diamonds (25/09/2021),4,8.75,15.0
+1252293,LK Bell,LK Bell (Southern Vipers),10,46,4.6,vs Northern Diamonds (25/09/2021),,,
+1252293,PJ Scholfield,PJ Scholfield (Southern Vipers),3,10,3.33,vs Northern Diamonds (25/09/2021),1,10.0,18.0
+1252293,TG Norris,TG Norris (Southern Vipers),10,36,3.6,vs Northern Diamonds (25/09/2021),2,18.0,30.0
+1252293,BA Langston,BA Langston (Northern Diamonds),10,40,4.0,vs Southern Vipers (25/09/2021),2,20.0,30.0
+1252293,JL Gunn,JL Gunn (Northern Diamonds),10,31,3.1,vs Southern Vipers (25/09/2021),3,10.33,20.0
+1252293,KA Levick,KA Levick (Northern Diamonds),10,20,2.0,vs Southern Vipers (25/09/2021),1,20.0,60.0
+1252293,LCN Smith,LCN Smith (Northern Diamonds),10,40,4.0,vs Southern Vipers (25/09/2021),,,
+1252293,PC Graham,PC Graham (Northern Diamonds),6,38,6.33,vs Southern Vipers (25/09/2021),1,38.0,36.0
+1252293,R Slater,R Slater (Northern Diamonds),4,14,3.5,vs Southern Vipers (25/09/2021),,,
+1229327,BA Langston,BA Langston (Northern Diamonds),6,30,5.8,vs Central Sparks (29/08/2020),2,15.0,18.0
+1229327,KH Brunt,KH Brunt (Northern Diamonds),9,20,2.22,vs Central Sparks (29/08/2020),5,4.0,10.8
+1229327,KA Levick,KA Levick (Northern Diamonds),10,43,4.3,vs Central Sparks (29/08/2020),1,43.0,60.0
+1229327,JL Gunn,JL Gunn (Northern Diamonds),5,19,3.8,vs Central Sparks (29/08/2020),1,19.0,30.0
+1229327,NR Sciver,NR Sciver (Northern Diamonds),5,16,3.2,vs Central Sparks (29/08/2020),,,
+1229327,LCN Smith,LCN Smith (Northern Diamonds),4,9,2.25,vs Central Sparks (29/08/2020),,,
+1229327,CK Boycott,CK Boycott (Central Sparks),1,5,5.0,vs Northern Diamonds (29/08/2020),1,5.0,6.0
+1229327,IECM Wong,IECM Wong (Central Sparks),5,23,4.6,vs Northern Diamonds (29/08/2020),,,
+1229327,EL Arlott,EL Arlott (Central Sparks),4,19,4.75,vs Northern Diamonds (29/08/2020),,,
+1229327,EA Russell,EA Russell (Central Sparks),4,25,6.25,vs Northern Diamonds (29/08/2020),,,
+1229327,S Glenn,S Glenn (Central Sparks),7,35,5.67,vs Northern Diamonds (29/08/2020),,,
+1229327,Anisha Patel,Anisha Patel (Central Sparks),4,36,9.0,vs Northern Diamonds (29/08/2020),,,
+1229328,S Munro,S Munro (Lightning),9,32,3.55,vs Thunder (29/08/2020),3,10.67,18.0
+1229328,KL Gordon,KL Gordon (Lightning),9,30,3.33,vs Thunder (29/08/2020),1,30.0,54.0
+1229328,LF Higham,LF Higham (Lightning),9,50,5.55,vs Thunder (29/08/2020),2,25.0,27.0
+1229328,KE Bryce,KE Bryce (Lightning),7,18,2.57,vs Thunder (29/08/2020),,,
+1229328,G Ballinger,G Ballinger (Lightning),5,21,4.2,vs Thunder (29/08/2020),,,
+1229328,B Ellis,B Ellis (Lightning),8,28,3.5,vs Thunder (29/08/2020),,,
+1229328,N Harman,N Harman (Lightning),3,20,6.66,vs Thunder (29/08/2020),,,
+1229328,KL Cross,KL Cross (Thunder),7,26,3.71,vs Lightning (29/08/2020),1,26.0,42.0
+1229328,N Brown,N Brown (Thunder),7,25,3.57,vs Lightning (29/08/2020),1,25.0,42.0
+1229328,A Hartley,A Hartley (Thunder),6,35,5.83,vs Lightning (29/08/2020),2,17.5,18.0
+1229328,S Ecclestone,S Ecclestone (Thunder),8,29,3.7,vs Lightning (29/08/2020),2,14.5,24.0
+1229328,HE Jones,HE Jones (Thunder),6,17,2.83,vs Lightning (29/08/2020),1,17.0,36.0
+1229328,EL Lamb,EL Lamb (Thunder),2,14,7.0,vs Lightning (29/08/2020),,,

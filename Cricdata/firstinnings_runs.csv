@@ -1,0 +1,56 @@
+match_id,start_date,venue,innings,batting_team,bowling_team,runs_off_bat,extras,total_score,Winner,Result
+1229326,29-08-2020,Chelmsford,1,Sunrisers,Southern Vipers,164,38,202,Southern Vipers,Lost
+1229327,29-08-2020,Birmingham,1,Central Sparks,Northern Diamonds,121,23,144,Northern Diamonds,Lost
+1229328,29-08-2020,Nottingham,1,Thunder,Lightning,187,19,206,Thunder,Won
+1229329,29-08-2020,Beckenham,1,South East Stars,Western Storm,149,17,166,Western Storm,Lost
+1229330,31-08-2020,Bristol,1,Southern Vipers,Western Storm,227,34,261,Southern Vipers,Won
+1229331,31-08-2020,Beckenham,1,South East Stars,Sunrisers,261,28,289,South East Stars,Won
+1229332,31-08-2020,Birmingham,1,Thunder,Central Sparks,127,8,135,Central Sparks,Lost
+1229333,31-08-2020,Chester-le-Street,1,Northern Diamonds,Lightning,201,25,226,Northern Diamonds,Won
+1229334,05-09-2020,Worcester,1,Thunder,Central Sparks,146,20,166,Central Sparks,Lost
+1229335,05-09-2020,Chelmsford,1,Western Storm,Sunrisers,222,43,265,Western Storm,Won
+1229336,05-09-2020,Leicester,1,Lightning,Northern Diamonds,194,32,226,Northern Diamonds,Lost
+1229337,05-09-2020,Hove,1,Southern Vipers,South East Stars,199,10,209,Southern Vipers,Won
+1229338,10-09-2020,Liverpool,1,Northern Diamonds,Thunder,221,27,248,Northern Diamonds,Won
+1229339,11-09-2020,Bristol,1,South East Stars,Western Storm,179,33,212,Western Storm,Lost
+1229340,11-09-2020,Southampton,1,Southern Vipers,Sunrisers,219,13,232,Southern Vipers,Won
+1229341,11-09-2020,Worcester,1,Lightning,Central Sparks,214,19,233,Lightning,Won
+1229342,13-09-2020,Southampton,1,Southern Vipers,Western Storm,267,21,288,Southern Vipers,Won
+1229343,13-09-2020,Chelmsford,1,Sunrisers,South East Stars,168,30,198,South East Stars,Lost
+1229344,13-09-2020,Liverpool,1,Thunder,Lightning,145,43,188,Thunder,Won
+1229345,13-09-2020,Leeds,1,Northern Diamonds,Central Sparks,197,20,217,Central Sparks,Lost
+1229346,19-09-2020,London,1,South East Stars,Southern Vipers,200,27,227,Southern Vipers,Lost
+1229347,19-09-2020,Leeds,1,Thunder,Northern Diamonds,112,31,143,Northern Diamonds,Lost
+1229348,19-09-2020,Leicester,1,Lightning,Central Sparks,283,20,303,Lightning,Won
+1229349,19-09-2020,Bristol,1,Western Storm,Sunrisers,271,17,288,Western Storm,Won
+1229350,27-09-2020,Birmingham,1,Southern Vipers,Northern Diamonds,205,26,231,Southern Vipers,Won
+1252264,29-05-2021,Leeds,1,Northern Diamonds,Central Sparks,257,22,279,Central Sparks,Lost
+1252265,29-05-2021,Bristol,1,Thunder,Western Storm,269,22,291,Western Storm,Lost
+1252266,29-05-2021,Chelmsford,1,South East Stars,Sunrisers,280,44,324,South East Stars,Won
+1252267,29-05-2021,Southampton,1,Lightning,Southern Vipers,191,23,214,Southern Vipers,Lost
+1252268,31-05-2021,Kibworth,1,Northern Diamonds,Lightning,136,15,151,Northern Diamonds,Won
+1252269,31-05-2021,Birmingham,1,Central Sparks,Western Storm,260,35,295,Central Sparks,Won
+1252270,31-05-2021,Beckenham,1,South East Stars,Southern Vipers,129,8,137,Southern Vipers,Lost
+1252271,31-05-2021,Chester,1,Thunder,Sunrisers,213,34,247,Thunder,Won
+1252272,05-06-2021,London,1,Western Storm,South East Stars,218,27,245,South East Stars,Lost
+1252273,05-06-2021,Cambridge,1,Sunrisers,Northern Diamonds,43,10,53,Northern Diamonds,Lost
+1252274,06-06-2021,Chester,1,Lightning,Thunder,242,17,259,Lightning,Won
+1252275,05-06-2021,Hove,1,Central Sparks,Southern Vipers,190,34,224,Central Sparks,Won
+1252276,12-06-2021,Leeds,1,South East Stars,Northern Diamonds,235,15,250,Northern Diamonds,Lost
+1252277,12-06-2021,Loughborough,1,Sunrisers,Lightning,185,21,206,Lightning,Lost
+1252278,12-06-2021,Worcester,1,Central Sparks,Thunder,174,29,203,Thunder,Lost
+1252279,12-06-2021,Taunton,1,Western Storm,Southern Vipers,153,24,177,Southern Vipers,Lost
+1252280,10-09-2021,Chester-le-Street,1,Western Storm,Northern Diamonds,166,17,183,Northern Diamonds,Lost
+1252281,10-09-2021,Beckenham,1,South East Stars,Lightning,280,13,293,South East Stars,Won
+1252282,10-09-2021,Northwood,1,Sunrisers,Central Sparks,183,21,204,Central Sparks,Lost
+1252283,10-09-2021,Sale,1,Thunder,Southern Vipers,93,17,110,Southern Vipers,Lost
+1252284,12-09-2021,Chester-le-Street,1,Northern Diamonds,Thunder,283,11,294,Northern Diamonds,Won
+1252285,12-09-2021,Worcester,1,Central Sparks,South East Stars,200,29,229,Central Sparks,Won
+1252286,12-09-2021,Bristol,1,Western Storm,Lightning,210,18,228,Western Storm,Won
+1252287,12-09-2021,Chelmsford,1,Southern Vipers,Sunrisers,267,42,309,Southern Vipers,Won
+1252288,18-09-2021,Loughborough,1,Lightning,Central Sparks,278,42,320,Lightning,Won
+1252289,18-09-2021,Beckenham,1,Thunder,South East Stars,166,19,185,Thunder,Won
+1252290,18-09-2021,Bristol,1,Western Storm,Sunrisers,290,23,313,Western Storm,Won
+1252291,18-09-2021,Southampton,1,Northern Diamonds,Southern Vipers,228,28,256,Southern Vipers,Lost
+1252292,22-09-2021,Scarborough,1,Central Sparks,Northern Diamonds,148,27,175,Northern Diamonds,Lost
+1252293,25-09-2021,Northampton,1,Northern Diamonds,Southern Vipers,166,17,183,Southern Vipers,Lost

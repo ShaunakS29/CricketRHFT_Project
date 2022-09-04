@@ -1,0 +1,595 @@
+season,batting_team,partnership,batter1,batter2,net_runs,batter1_runs,batter2_runs
+2020,Southern Vipers,GL Adams & EM McCaughan,GL Adams,EM McCaughan,401,202,154
+2021,Central Sparks,Marie Kelly & E Jones,Marie Kelly,E Jones,281,119,125
+2021,Lightning,KE Bryce & SJ Bryce,KE Bryce,SJ Bryce,280,120,127
+2020,Southern Vipers,ME Bouchier & GL Adams,ME Bouchier,GL Adams,277,122,142
+2020,Lightning,SJ Bryce & B Ellis,SJ Bryce,B Ellis,268,130,112
+2020,Central Sparks,Marie Kelly & E Jones,Marie Kelly,E Jones,266,112,126
+2020,Central Sparks,E Jones & GM Davies,E Jones,GM Davies,261,120,104
+2021,Western Storm,SN Luff & A Griffiths,SN Luff,A Griffiths,254,114,121
+2021,Sunrisers,AJ Macleod & CL Griffith,AJ Macleod,CL Griffith,250,96,139
+2021,Sunrisers,CL Griffith & G Scrivens,CL Griffith,G Scrivens,232,110,87
+2021,South East Stars,BF Smith & AN Davidson-Richards,BF Smith,AN Davidson-Richards,223,137,68
+2020,Southern Vipers,GL Adams & DN Wyatt,GL Adams,DN Wyatt,216,73,107
+2021,Southern Vipers,ME Bouchier & GL Adams,ME Bouchier,GL Adams,209,108,87
+2021,Thunder,P Cleary & EL Lamb,P Cleary,EL Lamb,189,81,92
+2021,Southern Vipers,GL Adams & GA Elwiss,GL Adams,GA Elwiss,189,74,99
+2021,Thunder,EL Lamb & GEB Boyce,EL Lamb,GEB Boyce,189,89,69
+2021,South East Stars,AN Davidson-Richards & SIR Dunkley,AN Davidson-Richards,SIR Dunkley,184,97,70
+2020,Northern Diamonds,L Winfield & HJ Armitage,L Winfield,HJ Armitage,179,93,60
+2020,Western Storm,GM Hennessy & SN Luff,GM Hennessy,SN Luff,179,94,82
+2021,Sunrisers,FC Wilson & AJ Macleod,FC Wilson,AJ Macleod,175,88,70
+2020,Western Storm,SN Luff & NAJ Wraith,SN Luff,NAJ Wraith,173,79,86
+2021,Northern Diamonds,A Campbell & SL Kalis,A Campbell,SL Kalis,169,103,56
+2020,Western Storm,HC Knight & SN Luff,HC Knight,SN Luff,156,73,68
+2020,Western Storm,A Griffiths & GM Hennessy,A Griffiths,GM Hennessy,155,80,66
+2020,South East Stars,A Capsey & A Cranstone,A Capsey,A Cranstone,155,84,48
+2020,Lightning,KE Bryce & SJ Bryce,KE Bryce,SJ Bryce,153,69,72
+2021,Southern Vipers,GL Adams & DN Wyatt,GL Adams,DN Wyatt,150,62,74
+2021,Western Storm,HC Knight & SN Luff,HC Knight,SN Luff,150,69,67
+2020,Sunrisers,G Scrivens & J Gardner,G Scrivens,J Gardner,148,73,57
+2021,Western Storm,SN Luff & DR Gibson,SN Luff,DR Gibson,141,77,52
+2020,Lightning,TT Beaumont & SJ Bryce,TT Beaumont,SJ Bryce,137,53,70
+2020,Southern Vipers,PJ Scholfield & CE Dean,PJ Scholfield,CE Dean,136,75,46
+2020,Lightning,AJ Freeborn & SJ Bryce,AJ Freeborn,SJ Bryce,136,72,56
+2021,Central Sparks,GM Davies & TF Brookes,GM Davies,TF Brookes,133,78,44
+2021,Lightning,KE Bryce & TT Beaumont,KE Bryce,TT Beaumont,130,61,50
+2021,Central Sparks,E Jones & GM Davies,E Jones,GM Davies,127,48,40
+2020,Lightning,T Graves & SJ Bryce,T Graves,SJ Bryce,127,65,52
+2020,Sunrisers,KS Castle & J Gardner,KS Castle,J Gardner,123,45,68
+2020,South East Stars,AN Davidson-Richards & SIR Dunkley,AN Davidson-Richards,SIR Dunkley,123,61,55
+2021,Western Storm,LA Parfitt & HC Knight,LA Parfitt,HC Knight,119,46,65
+2020,Western Storm,FMK Morris & LA Parfitt,FMK Morris,LA Parfitt,117,66,38
+2020,Thunder,N Brown & E Threlkeld,N Brown,E Threlkeld,117,51,53
+2021,South East Stars,BF Smith & A Capsey,BF Smith,A Capsey,115,68,43
+2021,Northern Diamonds,SL Kalis & L Winfield,SL Kalis,L Winfield,112,36,61
+2021,Western Storm,SN Luff & LA Parfitt,SN Luff,LA Parfitt,106,36,64
+2021,Southern Vipers,GH Lewis & GA Elwiss,GH Lewis,GA Elwiss,106,57,43
+2020,Northern Diamonds,JL Gunn & SL Kalis,JL Gunn,SL Kalis,106,50,46
+2021,Northern Diamonds,LCN Smith & BAM Heath,LCN Smith,BAM Heath,105,37,66
+2021,Central Sparks,AE Jones & Marie Kelly,AE Jones,Marie Kelly,103,71,31
+2021,Western Storm,GM Hennessy & SN Luff,GM Hennessy,SN Luff,102,39,53
+2021,Northern Diamonds,SL Kalis & HJ Armitage,SL Kalis,HJ Armitage,100,49,40
+2020,Western Storm,SN Luff & A Griffiths,SN Luff,A Griffiths,100,25,58
+2021,Lightning,AJ Freeborn & KE Bryce,AJ Freeborn,KE Bryce,98,27,60
+2021,Lightning,LF Higham & T Graves,LF Higham,T Graves,97,37,52
+2020,Western Storm,HC Knight & FMK Morris,HC Knight,FMK Morris,97,50,31
+2021,Southern Vipers,PJ Scholfield & GA Elwiss,PJ Scholfield,GA Elwiss,96,44,42
+2021,Northern Diamonds,JL Gunn & AL MacDonald,JL Gunn,AL MacDonald,96,39,49
+2021,Western Storm,SN Luff & FMK Morris,SN Luff,FMK Morris,95,27,62
+2020,South East Stars,A Cranstone & C Brewer,A Cranstone,C Brewer,95,26,56
+2021,Thunder,L Jackson & L Marshall,L Jackson,L Marshall,94,35,52
+2021,Northern Diamonds,BAM Heath & A Campbell,BAM Heath,A Campbell,93,49,41
+2021,Central Sparks,AE Jones & M Home,AE Jones,M Home,93,59,19
+2020,Sunrisers,MK Villiers & ND Dattani,MK Villiers,ND Dattani,92,36,40
+2021,Northern Diamonds,BA Langston & BAM Heath,BA Langston,BAM Heath,91,58,33
+2021,Northern Diamonds,JL Gunn & SL Kalis,JL Gunn,SL Kalis,90,50,36
+2021,Northern Diamonds,HJ Armitage & RHM Hopkins,HJ Armitage,RHM Hopkins,88,53,17
+2021,Sunrisers,KS Castle & ND Dattani,KS Castle,ND Dattani,87,44,36
+2021,Southern Vipers,GA Elwiss & DN Wyatt,GA Elwiss,DN Wyatt,87,45,38
+2021,Central Sparks,EL Arlott & S Glenn,EL Arlott,S Glenn,87,24,50
+2021,South East Stars,A Capsey & A Cranstone,A Capsey,A Cranstone,86,45,35
+2020,Sunrisers,ND Dattani & CL Griffith,ND Dattani,CL Griffith,86,26,40
+2020,Northern Diamonds,HJ Armitage & RHM Hopkins,HJ Armitage,RHM Hopkins,85,51,21
+2020,Lightning,AJ Freeborn & LF Higham,AJ Freeborn,LF Higham,85,45,37
+2020,Northern Diamonds,SL Kalis & RHM Hopkins,SL Kalis,RHM Hopkins,85,47,25
+2021,Northern Diamonds,L Winfield & HJ Armitage,L Winfield,HJ Armitage,84,31,33
+2020,Thunder,L Marshall & GEB Boyce,L Marshall,GEB Boyce,84,46,26
+2020,Northern Diamonds,AL MacDonald & NR Sciver,AL MacDonald,NR Sciver,84,28,48
+2020,Central Sparks,GM Davies & Marie Kelly,GM Davies,Marie Kelly,84,32,40
+2020,Thunder,N Brown & GEB Boyce,N Brown,GEB Boyce,83,40,29
+2020,Northern Diamonds,JL Gunn & BA Langston,JL Gunn,BA Langston,81,35,37
+2021,Central Sparks,S Butler & AE Jones,S Butler,AE Jones,80,30,44
+2021,Western Storm,HC Knight & GM Hennessy,HC Knight,GM Hennessy,79,52,23
+2020,Southern Vipers,GL Adams & CE Dean,GL Adams,CE Dean,79,29,45
+2020,Southern Vipers,CE Rudd & E Windsor,CE Rudd,E Windsor,79,36,40
+2021,Thunder,E Threlkeld & GEB Boyce,E Threlkeld,GEB Boyce,79,29,42
+2021,Southern Vipers,TG Norris & E Windsor,TG Norris,E Windsor,79,40,35
+2021,Northern Diamonds,SL Kalis & RHM Hopkins,SL Kalis,RHM Hopkins,79,44,26
+2021,South East Stars,A Cranstone & KE White,A Cranstone,KE White,78,40,35
+2021,Western Storm,FMK Morris & LA Parfitt,FMK Morris,LA Parfitt,78,43,21
+2020,Northern Diamonds,BA Langston & SL Kalis,BA Langston,SL Kalis,77,30,41
+2020,South East Stars,A Capsey & C Brewer,A Capsey,C Brewer,77,29,47
+2021,Lightning,KE Bryce & SB Odedra,KE Bryce,SB Odedra,77,47,24
+2020,Northern Diamonds,SL Kalis & HJ Armitage,SL Kalis,HJ Armitage,76,31,35
+2020,Thunder,N Brown & R Duckworth,N Brown,R Duckworth,74,43,21
+2021,Central Sparks,EL Arlott & RA Fackrell,EL Arlott,RA Fackrell,74,29,41
+2021,Lightning,TT Beaumont & SJ Bryce,TT Beaumont,SJ Bryce,74,46,24
+2021,Sunrisers,MK Villiers & ND Dattani,MK Villiers,ND Dattani,73,34,36
+2021,Southern Vipers,ME Bouchier & DN Wyatt,ME Bouchier,DN Wyatt,72,28,41
+2021,Thunder,GEB Boyce & S Smale,GEB Boyce,S Smale,67,33,25
+2021,Lightning,AJ Freeborn & LF Higham,AJ Freeborn,LF Higham,67,28,33
+2020,Northern Diamonds,JL Gunn & AL MacDonald,JL Gunn,AL MacDonald,67,29,37
+2021,Northern Diamonds,L Dobson & BAM Heath,L Dobson,BAM Heath,66,33,26
+2020,Thunder,E Threlkeld & GEB Boyce,E Threlkeld,GEB Boyce,65,19,31
+2020,Sunrisers,AJ Macleod & CL Griffith,AJ Macleod,CL Griffith,65,17,43
+2021,Lightning,LF Higham & TT Beaumont,LF Higham,TT Beaumont,65,24,35
+2021,Central Sparks,S Glenn & RA Fackrell,S Glenn,RA Fackrell,65,38,13
+2020,Central Sparks,P Davies & E Jones,P Davies,E Jones,64,25,33
+2021,Sunrisers,FC Wilson & ND Dattani,FC Wilson,ND Dattani,64,28,25
+2021,South East Stars,KE White & A Capsey,KE White,A Capsey,63,37,24
+2021,Central Sparks,E Jones & S Butler,E Jones,S Butler,62,19,25
+2021,Central Sparks,RA Fackrell & AE Jones,RA Fackrell,AE Jones,62,11,50
+2021,Western Storm,N Harvey & A Shrubsole,N Harvey,A Shrubsole,62,13,41
+2021,Western Storm,SN Luff & C Skelton,SN Luff,C Skelton,61,25,30
+2021,Western Storm,HC Knight & FMK Morris,HC Knight,FMK Morris,61,31,25
+2021,Lightning,TT Beaumont & AJ Freeborn,TT Beaumont,AJ Freeborn,61,18,29
+2021,Sunrisers,ND Dattani & CL Griffith,ND Dattani,CL Griffith,60,29,24
+2021,Sunrisers,G Scrivens & J Gardner,G Scrivens,J Gardner,60,31,28
+2020,South East Stars,SE Rowe & SIR Dunkley,SE Rowe,SIR Dunkley,58,22,33
+2020,Lightning,N Harman & T Graves,N Harman,T Graves,58,21,30
+2021,Southern Vipers,GA Elwiss & ME Bouchier,GA Elwiss,ME Bouchier,58,22,23
+2020,Thunder,R Duckworth & AE Dyson,R Duckworth,AE Dyson,58,26,27
+2021,Southern Vipers,E Windsor & PJ Scholfield,E Windsor,PJ Scholfield,57,21,33
+2021,Northern Diamonds,KH Brunt & L Winfield,KH Brunt,L Winfield,57,22,34
+2021,Lightning,SJ Bryce & ML Kirk,SJ Bryce,ML Kirk,57,16,27
+2021,Northern Diamonds,NR Sciver & HJ Armitage,NR Sciver,HJ Armitage,56,19,17
+2021,Central Sparks,Marie Kelly & D Perrin,Marie Kelly,D Perrin,56,25,25
+2020,Sunrisers,FC Wilson & AD Carr,FC Wilson,AD Carr,56,29,24
+2020,Thunder,Olivia Thomas & KL Cross,Olivia Thomas,KL Cross,56,15,36
+2021,South East Stars,KE White & C Brewer,KE White,C Brewer,56,25,25
+2020,Northern Diamonds,JL Gunn & NR Sciver,JL Gunn,NR Sciver,55,20,28
+2021,Central Sparks,GM Davies & D Perrin,GM Davies,D Perrin,55,32,21
+2021,Central Sparks,IECM Wong & E Jones,IECM Wong,E Jones,55,18,36
+2020,Southern Vipers,ME Bouchier & CE Dean,ME Bouchier,CE Dean,55,24,30
+2020,Sunrisers,ND Dattani & AJ Macleod,ND Dattani,AJ Macleod,55,21,28
+2020,Northern Diamonds,A Campbell & HJ Armitage,A Campbell,HJ Armitage,55,22,26
+2021,Central Sparks,TF Brookes & D Perrin,TF Brookes,D Perrin,55,25,24
+2020,Western Storm,C Nicholas & SN Luff,C Nicholas,SN Luff,55,11,35
+2021,Southern Vipers,GL Adams & EM McCaughan,GL Adams,EM McCaughan,55,10,35
+2021,Northern Diamonds,BAM Heath & HJ Armitage,BAM Heath,HJ Armitage,54,32,22
+2020,South East Stars,NE Farrant & SE Rowe,NE Farrant,SE Rowe,54,27,20
+2021,Central Sparks,AE Jones & S Glenn,AE Jones,S Glenn,54,39,13
+2021,South East Stars,SIR Dunkley & GJ Gibbs,SIR Dunkley,GJ Gibbs,53,17,31
+2021,Sunrisers,AJ Macleod & G Scrivens,AJ Macleod,G Scrivens,53,28,19
+2020,Southern Vipers,CE Dean & CE Rudd,CE Dean,CE Rudd,52,24,23
+2021,Southern Vipers,CE Rudd & DN Wyatt,CE Rudd,DN Wyatt,52,10,39
+2021,South East Stars,SIR Dunkley & A Cranstone,SIR Dunkley,A Cranstone,52,29,15
+2020,Lightning,KE Bryce & RA Fackrell,KE Bryce,RA Fackrell,52,42,8
+2020,South East Stars,GJ Gibbs & R Southby,GJ Gibbs,R Southby,52,35,14
+2020,Sunrisers,KS Castle & AD Carr,KS Castle,AD Carr,52,21,26
+2021,Thunder,N Brown & E Threlkeld,N Brown,E Threlkeld,51,20,24
+2021,Lightning,T Graves & Y Graves,T Graves,Y Graves,51,25,21
+2020,Southern Vipers,E Windsor & GL Adams,E Windsor,GL Adams,51,16,31
+2021,Lightning,SB Odedra & AJ Freeborn,SB Odedra,AJ Freeborn,51,24,21
+2021,Lightning,SJ Bryce & B Harmer,SJ Bryce,B Harmer,51,30,19
+2020,Northern Diamonds,PC Graham & AL MacDonald,PC Graham,AL MacDonald,51,14,26
+2020,South East Stars,M Blythin & KE White,M Blythin,KE White,50,19,30
+2021,South East Stars,Emma Jones & K Moore,Emma Jones,K Moore,50,14,36
+2021,Northern Diamonds,BA Langston & SL Kalis,BA Langston,SL Kalis,49,26,20
+2021,Thunder,E Threlkeld & L Jackson,E Threlkeld,L Jackson,49,24,19
+2020,Western Storm,SN Luff & LA Parfitt,SN Luff,LA Parfitt,49,25,18
+2020,South East Stars,FR Davies & NE Farrant,FR Davies,NE Farrant,49,12,28
+2020,Western Storm,DR Gibson & GM Hennessy,DR Gibson,GM Hennessy,49,19,30
+2020,Thunder,A Hartley & AE Dyson,A Hartley,AE Dyson,48,14,22
+2021,Northern Diamonds,A Campbell & L Dobson,A Campbell,L Dobson,48,26,10
+2021,South East Stars,PA Franklin & A Cranstone,PA Franklin,A Cranstone,47,28,17
+2020,Western Storm,C Nicholas & LA Parfitt,C Nicholas,LA Parfitt,47,22,16
+2020,South East Stars,HV Jones & SE Rowe,HV Jones,SE Rowe,47,16,28
+2021,Lightning,KE Bryce & ML Kirk,KE Bryce,ML Kirk,47,12,30
+2021,Lightning,KL Gordon & Y Graves,KL Gordon,Y Graves,47,25,19
+2021,Northern Diamonds,LCN Smith & BA Langston,LCN Smith,BA Langston,46,8,33
+2021,South East Stars,PA Franklin & KM Chathli,PA Franklin,KM Chathli,46,32,14
+2021,Lightning,KL Gordon & S Munro,KL Gordon,S Munro,46,23,15
+2020,Central Sparks,CAE Hill & P Davies,CAE Hill,P Davies,46,23,11
+2020,South East Stars,A Cranstone & KE White,A Cranstone,KE White,45,17,15
+2020,Northern Diamonds,BAM Heath & AL MacDonald,BAM Heath,AL MacDonald,45,28,16
+2021,Thunder,GEB Boyce & P Cleary,GEB Boyce,P Cleary,45,33,11
+2021,Central Sparks,E Jones & M Home,E Jones,M Home,45,18,12
+2020,Central Sparks,M Home & Marie Kelly,M Home,Marie Kelly,45,17,25
+2021,Thunder,L Marshall & KL Cross,L Marshall,KL Cross,45,15,17
+2020,Central Sparks,EL Arlott & CK Boycott,EL Arlott,CK Boycott,45,24,20
+2021,South East Stars,R Southby & SIR Dunkley,R Southby,SIR Dunkley,44,6,30
+2021,Western Storm,L Filer & A Shrubsole,L Filer,A Shrubsole,43,6,31
+2020,Northern Diamonds,NR Sciver & LCN Smith,NR Sciver,LCN Smith,42,14,23
+2021,Western Storm,KL George & NAJ Wraith,KL George,NAJ Wraith,42,16,21
+2020,Sunrisers,J Gardner & AD Carr,J Gardner,AD Carr,42,25,17
+2021,South East Stars,GJ Gibbs & BF Smith,GJ Gibbs,BF Smith,41,23,18
+2020,Western Storm,SN Luff & FMK Morris,SN Luff,FMK Morris,40,17,18
+2021,Sunrisers,KS Castle & MK Villiers,KS Castle,MK Villiers,40,20,18
+2020,South East Stars,HV Jones & M Blythin,HV Jones,M Blythin,40,28,9
+2020,Central Sparks,E Jones & AE Jones,E Jones,AE Jones,40,14,18
+2021,South East Stars,KE White & SIR Dunkley,KE White,SIR Dunkley,40,15,16
+2021,Northern Diamonds,R Slater & A Campbell,R Slater,A Campbell,39,6,28
+2020,Sunrisers,KL Midwood & G Scrivens,KL Midwood,G Scrivens,39,12,26
+2021,Lightning,KE Bryce & T Graves,KE Bryce,T Graves,38,22,16
+2020,Western Storm,KL George & HC Knight,KL George,HC Knight,38,19,17
+2021,Thunder,KL Cross & GEB Boyce,KL Cross,GEB Boyce,38,29,7
+2021,Lightning,G Ballinger & E Claridge,G Ballinger,E Claridge,38,18,19
+2021,Central Sparks,CK Boycott & CAE Hill,CK Boycott,CAE Hill,38,16,21
+2021,Thunder,S Ecclestone & EL Lamb,S Ecclestone,EL Lamb,37,15,20
+2020,Sunrisers,KL Midwood & J Gardner,KL Midwood,J Gardner,37,24,9
+2021,Sunrisers,KS Castle & GKS Gole,KS Castle,GKS Gole,37,10,25
+2021,Central Sparks,CK Boycott & E Jones,CK Boycott,E Jones,37,17,19
+2021,Northern Diamonds,SL Kalis & LCN Smith,SL Kalis,LCN Smith,37,17,17
+2021,Southern Vipers,CE Rudd & E Windsor,CE Rudd,E Windsor,37,13,19
+2021,Sunrisers,G Scrivens & ND Dattani,G Scrivens,ND Dattani,36,24,10
+2021,Southern Vipers,PJ Scholfield & CE Dean,PJ Scholfield,CE Dean,36,14,20
+2020,Northern Diamonds,A Campbell & SL Kalis,A Campbell,SL Kalis,36,12,16
+2021,Northern Diamonds,HJ Armitage & LCN Smith,HJ Armitage,LCN Smith,35,16,14
+2021,Northern Diamonds,L Dobson & SL Kalis,L Dobson,SL Kalis,35,15,19
+2021,South East Stars,SIR Dunkley & NE Farrant,SIR Dunkley,NE Farrant,35,21,12
+2020,Southern Vipers,ME Bouchier & EM McCaughan,ME Bouchier,EM McCaughan,35,20,13
+2020,Thunder,N Brown & S Ecclestone,N Brown,S Ecclestone,35,20,14
+2021,Thunder,N Brown & GEB Boyce,N Brown,GEB Boyce,34,8,26
+2021,Lightning,SB Odedra & TT Beaumont,SB Odedra,TT Beaumont,34,15,17
+2021,Southern Vipers,DN Wyatt & E Windsor,DN Wyatt,E Windsor,34,13,14
+2020,South East Stars,NE Farrant & M Blythin,NE Farrant,M Blythin,34,10,18
+2020,Southern Vipers,GL Adams & PJ Scholfield,GL Adams,PJ Scholfield,34,22,11
+2020,Southern Vipers,TG Norris & E Windsor,TG Norris,E Windsor,33,10,23
+2020,Sunrisers,MK Villiers & J Gardner,MK Villiers,J Gardner,33,16,13
+2021,Central Sparks,D Perrin & E Jones,D Perrin,E Jones,33,22,10
+2020,South East Stars,KE White & A Capsey,KE White,A Capsey,33,15,9
+2021,Thunder,EL Lamb & KL Cross,EL Lamb,KL Cross,33,11,21
+2021,Northern Diamonds,L Dobson & HJ Armitage,L Dobson,HJ Armitage,33,16,16
+2020,Thunder,E Threlkeld & S Ecclestone,E Threlkeld,S Ecclestone,33,15,16
+2021,Thunder,AE Dyson & E Threlkeld,AE Dyson,E Threlkeld,32,13,15
+2021,South East Stars,K Moore & GJ Gibbs,K Moore,GJ Gibbs,32,18,11
+2020,Central Sparks,Marie Kelly & P Davies,Marie Kelly,P Davies,32,16,10
+2021,Northern Diamonds,KH Brunt & JL Gunn,KH Brunt,JL Gunn,31,21,8
+2021,Thunder,HE Jones & A Hartley,HE Jones,A Hartley,31,11,20
+2020,Sunrisers,G Scrivens & ND Dattani,G Scrivens,ND Dattani,31,8,20
+2020,Thunder,L Heap & R Duckworth,L Heap,R Duckworth,31,13,10
+2021,Southern Vipers,GH Lewis & E Windsor,GH Lewis,E Windsor,31,23,7
+2021,Western Storm,DR Gibson & FMK Morris,DR Gibson,FMK Morris,31,20,10
+2021,Western Storm,KL George & GM Hennessy,KL George,GM Hennessy,31,18,9
+2020,Central Sparks,S Glenn & GM Davies,S Glenn,GM Davies,31,9,14
+2021,Sunrisers,AD Carr & AJ Macleod,AD Carr,AJ Macleod,30,17,7
+2021,Southern Vipers,ME Bouchier & EM McCaughan,ME Bouchier,EM McCaughan,30,23,4
+2021,Thunder,L Heap & E Threlkeld,L Heap,E Threlkeld,30,19,10
+2021,Sunrisers,FC Wilson & KS Castle,FC Wilson,KS Castle,30,18,11
+2021,Western Storm,FMK Morris & A Shrubsole,FMK Morris,A Shrubsole,30,17,13
+2020,South East Stars,M Blythin & A Cranstone,M Blythin,A Cranstone,30,6,22
+2021,Central Sparks,GM Davies & CAE Hill,GM Davies,CAE Hill,30,14,13
+2021,Central Sparks,TF Brookes & IECM Wong,TF Brookes,IECM Wong,29,16,11
+2020,Southern Vipers,TG Norris & CE Dean,TG Norris,CE Dean,29,10,17
+2020,Southern Vipers,ME Bouchier & DN Wyatt,ME Bouchier,DN Wyatt,29,17,12
+2020,Northern Diamonds,PC Graham & JL Gunn,PC Graham,JL Gunn,29,15,8
+2021,Western Storm,N Harvey & NAJ Wraith,N Harvey,NAJ Wraith,29,16,11
+2020,Southern Vipers,E Windsor & CM Taylor,E Windsor,CM Taylor,29,16,6
+2021,Northern Diamonds,KA Levick & A Campbell,KA Levick,A Campbell,28,8,19
+2021,Central Sparks,EL Arlott & CK Boycott,EL Arlott,CK Boycott,28,10,15
+2021,Western Storm,DR Gibson & NAJ Wraith,DR Gibson,NAJ Wraith,28,12,14
+2020,Thunder,E Threlkeld & L Jackson,E Threlkeld,L Jackson,28,16,3
+2021,Thunder,S Ecclestone & KL Cross,S Ecclestone,KL Cross,28,22,5
+2020,Thunder,DL Collins & L Jackson,DL Collins,L Jackson,28,18,7
+2020,Northern Diamonds,L Tipton & A Campbell,L Tipton,A Campbell,28,14,11
+2021,Thunder,AE Dyson & KL Cross,AE Dyson,KL Cross,28,6,17
+2021,Southern Vipers,GH Lewis & EM McCaughan,GH Lewis,EM McCaughan,28,16,10
+2021,Thunder,A Hartley & N Brown,A Hartley,N Brown,27,12,14
+2021,South East Stars,A Capsey & KM Chathli,A Capsey,KM Chathli,27,13,10
+2020,Northern Diamonds,HL Fenby & BA Langston,HL Fenby,BA Langston,27,11,13
+2020,Thunder,DL Collins & N Brown,DL Collins,N Brown,27,7,10
+2020,Central Sparks,TF Brookes & Marie Kelly,TF Brookes,Marie Kelly,27,6,20
+2021,Sunrisers,M Rogers & J Gardner,M Rogers,J Gardner,26,8,17
+2020,Thunder,L Jackson & L Marshall,L Jackson,L Marshall,26,2,15
+2020,Southern Vipers,E Windsor & CE Dean,E Windsor,CE Dean,26,14,11
+2020,Lightning,AJ Freeborn & T Graves,AJ Freeborn,T Graves,26,13,10
+2020,Southern Vipers,AZ Monaghan & CE Rudd,AZ Monaghan,CE Rudd,26,5,19
+2021,South East Stars,A Cranstone & GJ Gibbs,A Cranstone,GJ Gibbs,25,16,7
+2020,Sunrisers,Sonali Patel & KL Midwood,Sonali Patel,KL Midwood,25,13,10
+2021,Thunder,D Mullan & GEB Boyce,D Mullan,GEB Boyce,25,8,13
+2020,South East Stars,HV Jones & PA Franklin,HV Jones,PA Franklin,24,8,8
+2020,Sunrisers,J Gardner & H Brown,J Gardner,H Brown,24,14,10
+2020,Western Storm,NAJ Wraith & GM Hennessy,NAJ Wraith,GM Hennessy,24,12,9
+2021,South East Stars,KE White & BF Smith,KE White,BF Smith,24,6,17
+2021,Thunder,N Brown & EL Lamb,N Brown,EL Lamb,24,8,16
+2020,Lightning,B Ellis & KE Bryce,B Ellis,KE Bryce,24,7,15
+2021,Central Sparks,GK Davis & EL Arlott,GK Davis,EL Arlott,23,13,9
+2021,Thunder,L Marshall & DL Collins,L Marshall,DL Collins,23,11,8
+2021,Thunder,S Ecclestone & GEB Boyce,S Ecclestone,GEB Boyce,23,12,9
+2020,Western Storm,HC Knight & GM Hennessy,HC Knight,GM Hennessy,23,13,10
+2021,Central Sparks,S Glenn & GM Davies,S Glenn,GM Davies,23,11,12
+2020,South East Stars,SIR Dunkley & A Capsey,SIR Dunkley,A Capsey,23,9,11
+2020,South East Stars,R Southby & NE Farrant,R Southby,NE Farrant,23,7,13
+2020,Northern Diamonds,HL Fenby & PC Graham,HL Fenby,PC Graham,22,6,15
+2021,Sunrisers,MK Villiers & AD Carr,MK Villiers,AD Carr,22,13,7
+2021,Sunrisers,KS Castle & J Gardner,KS Castle,J Gardner,22,13,7
+2021,Lightning,KE Bryce & KL Gordon,KE Bryce,KL Gordon,22,10,6
+2021,South East Stars,SIR Dunkley & A Capsey,SIR Dunkley,A Capsey,22,13,7
+2020,Sunrisers,AJ Macleod & G Scrivens,AJ Macleod,G Scrivens,22,8,9
+2021,South East Stars,C Brewer & K Moore,C Brewer,K Moore,22,17,3
+2020,Sunrisers,H Brown & ND Dattani,H Brown,ND Dattani,22,6,14
+2020,Northern Diamonds,KA Levick & PC Graham,KA Levick,PC Graham,21,8,11
+2021,Western Storm,FMK Morris & GM Hennessy,FMK Morris,GM Hennessy,21,12,5
+2021,Central Sparks,E Jones & RA Fackrell,E Jones,RA Fackrell,21,11,7
+2020,Sunrisers,AD Carr & AJ Macleod,AD Carr,AJ Macleod,21,17,1
+2020,Western Storm,C Nicholas & E Corney,C Nicholas,E Corney,21,13,6
+2020,Thunder,L Heap & AE Dyson,L Heap,AE Dyson,21,15,3
+2020,Sunrisers,KS Castle & Sonali Patel,KS Castle,Sonali Patel,21,9,10
+2020,Sunrisers,G Scrivens & MK Villiers,G Scrivens,MK Villiers,21,8,10
+2021,Western Storm,NAJ Wraith & A Shrubsole,NAJ Wraith,A Shrubsole,20,3,16
+2021,Northern Diamonds,JL Gunn & BA Langston,JL Gunn,BA Langston,20,7,13
+2020,Thunder,A Hartley & S Ecclestone,A Hartley,S Ecclestone,20,0,20
+2021,Central Sparks,IECM Wong & AE Jones,IECM Wong,AE Jones,20,7,12
+2020,Sunrisers,MK Villiers & AD Carr,MK Villiers,AD Carr,20,12,7
+2020,Northern Diamonds,A Campbell & RHM Hopkins,A Campbell,RHM Hopkins,19,15,3
+2020,Lightning,S Pai & AJ Freeborn,S Pai,AJ Freeborn,19,8,10
+2020,Central Sparks,CK Boycott & E Jones,CK Boycott,E Jones,19,5,14
+2021,Western Storm,C Skelton & N Harvey,C Skelton,N Harvey,18,13,3
+2020,Lightning,AJ Freeborn & KE Bryce,AJ Freeborn,KE Bryce,18,10,8
+2021,Northern Diamonds,NR Sciver & L Winfield,NR Sciver,L Winfield,18,7,9
+2021,Thunder,HE Jones & E Threlkeld,HE Jones,E Threlkeld,18,9,9
+2021,Northern Diamonds,BAM Heath & SL Kalis,BAM Heath,SL Kalis,18,6,10
+2020,Lightning,S Pai & T Graves,S Pai,T Graves,18,9,5
+2021,Central Sparks,E Jones & AE Jones,E Jones,AE Jones,18,7,5
+2021,Lightning,S Pai & ML Kirk,S Pai,ML Kirk,18,9,6
+2020,Northern Diamonds,KA Levick & BA Langston,KA Levick,BA Langston,18,8,10
+2021,Central Sparks,GM Davies & Marie Kelly,GM Davies,Marie Kelly,18,6,7
+2021,Thunder,E Threlkeld & EL Lamb,E Threlkeld,EL Lamb,18,6,9
+2021,Lightning,KE Bryce & B Harmer,KE Bryce,B Harmer,18,15,2
+2021,Central Sparks,CAE Hill & GK Davis,CAE Hill,GK Davis,18,8,4
+2020,South East Stars,AG Gordon & A Capsey,AG Gordon,A Capsey,18,7,7
+2020,Thunder,S Ecclestone & KL Cross,S Ecclestone,KL Cross,18,9,8
+2021,South East Stars,A Capsey & K Moore,A Capsey,K Moore,17,9,7
+2021,South East Stars,KM Chathli & Emma Jones,KM Chathli,Emma Jones,17,11,5
+2021,Southern Vipers,CE Dean & GA Elwiss,CE Dean,GA Elwiss,17,12,2
+2021,Lightning,T Graves & ML Kirk,T Graves,ML Kirk,17,5,8
+2020,Central Sparks,AE Jones & GM Davies,AE Jones,GM Davies,17,6,9
+2021,Lightning,E Claridge & KE Bryce,E Claridge,KE Bryce,17,7,6
+2020,Sunrisers,KJ Wolfe & E Thorpe,KJ Wolfe,E Thorpe,17,3,12
+2020,Sunrisers,AJ Macleod & M Rogers,AJ Macleod,M Rogers,17,12,3
+2020,South East Stars,PA Franklin & C Brewer,PA Franklin,C Brewer,16,7,9
+2020,Thunder,A Hartley & R Duckworth,A Hartley,R Duckworth,16,8,2
+2021,Lightning,KL Gordon & E Claridge,KL Gordon,E Claridge,16,3,12
+2021,Sunrisers,ND Dattani & AJ Macleod,ND Dattani,AJ Macleod,16,7,9
+2021,Southern Vipers,GH Lewis & ME Bouchier,GH Lewis,ME Bouchier,15,1,13
+2020,Thunder,KL Cross & N Brown,KL Cross,N Brown,15,3,12
+2021,Thunder,L Jackson & KL Cross,L Jackson,KL Cross,15,4,9
+2020,Sunrisers,FC Wilson & ND Dattani,FC Wilson,ND Dattani,15,11,2
+2020,Sunrisers,CL Griffith & AD Carr,CL Griffith,AD Carr,15,1,6
+2020,Western Storm,DR Gibson & EM Edgcombe,DR Gibson,EM Edgcombe,15,14,1
+2020,Western Storm,N Holland & E Corney,N Holland,E Corney,15,6,9
+2021,Central Sparks,EA Russell & IECM Wong,EA Russell,IECM Wong,15,8,7
+2020,Northern Diamonds,NR Sciver & HJ Armitage,NR Sciver,HJ Armitage,15,11,4
+2020,Central Sparks,E Jones & CAE Hill,E Jones,CAE Hill,15,7,5
+2020,Central Sparks,S Glenn & TF Brookes,S Glenn,TF Brookes,15,11,4
+2021,Lightning,LF Higham & E Claridge,LF Higham,E Claridge,15,7,7
+2021,Western Storm,SN Luff & NAJ Wraith,SN Luff,NAJ Wraith,15,7,6
+2021,Sunrisers,J Gardner & FC Wilson,J Gardner,FC Wilson,15,3,11
+2020,Southern Vipers,CM Taylor & AZ Monaghan,CM Taylor,AZ Monaghan,14,10,3
+2020,Northern Diamonds,SL Kalis & LCN Smith,SL Kalis,LCN Smith,14,5,7
+2020,Sunrisers,E Thorpe & KL Midwood,E Thorpe,KL Midwood,14,11,3
+2020,South East Stars,E Gray & HV Jones,E Gray,HV Jones,14,3,11
+2020,South East Stars,AN Davidson-Richards & PA Franklin,AN Davidson-Richards,PA Franklin,14,4,5
+2021,South East Stars,AN Davidson-Richards & KE White,AN Davidson-Richards,KE White,14,3,4
+2020,Thunder,L Jackson & GEB Boyce,L Jackson,GEB Boyce,14,1,10
+2020,South East Stars,HV Jones & NE Farrant,HV Jones,NE Farrant,14,5,4
+2021,Thunder,KL Cross & N Brown,KL Cross,N Brown,14,6,8
+2020,Northern Diamonds,JL Gunn & BAM Heath,JL Gunn,BAM Heath,13,7,6
+2021,Northern Diamonds,AL MacDonald & BA Langston,AL MacDonald,BA Langston,13,2,11
+2020,Lightning,LG Kellogg & S Pai,LG Kellogg,S Pai,13,1,6
+2020,Western Storm,NAJ Wraith & HC Knight,NAJ Wraith,HC Knight,13,7,5
+2020,Lightning,N Harman & S Munro,N Harman,S Munro,13,11,2
+2021,Western Storm,N Harvey & MJ Robbins,N Harvey,MJ Robbins,13,9,3
+2020,South East Stars,BF Smith & C Brewer,BF Smith,C Brewer,13,8,4
+2020,Lightning,AJ Freeborn & N Harman,AJ Freeborn,N Harman,13,2,11
+2020,Northern Diamonds,PC Graham & SL Kalis,PC Graham,SL Kalis,13,5,8
+2020,Sunrisers,KS Castle & M Rogers,KS Castle,M Rogers,12,3,7
+2020,Lightning,SJ Bryce & N Harman,SJ Bryce,N Harman,12,12,0
+2021,Sunrisers,KS Castle & Sonali Patel,KS Castle,Sonali Patel,12,1,5
+2021,South East Stars,SIR Dunkley & BF Smith,SIR Dunkley,BF Smith,12,0,12
+2020,Lightning,AJ Freeborn & AD Presland,AJ Freeborn,AD Presland,12,4,5
+2021,Thunder,AE Dyson & L Marshall,AE Dyson,L Marshall,12,3,8
+2020,Northern Diamonds,AL MacDonald & RHM Hopkins,AL MacDonald,RHM Hopkins,12,4,5
+2021,Lightning,SJ Bryce & B Ellis,SJ Bryce,B Ellis,12,5,4
+2020,Northern Diamonds,AL MacDonald & BA Langston,AL MacDonald,BA Langston,12,10,1
+2021,Southern Vipers,E Windsor & EM McCaughan,E Windsor,EM McCaughan,12,2,8
+2021,Central Sparks,EL Arlott & IECM Wong,EL Arlott,IECM Wong,12,10,2
+2020,Western Storm,LA Parfitt & N Holland,LA Parfitt,N Holland,12,12,0
+2020,Southern Vipers,EM McCaughan & CE Dean,EM McCaughan,CE Dean,12,5,7
+2020,Sunrisers,AD Carr & ND Dattani,AD Carr,ND Dattani,12,9,2
+2020,Thunder,E Threlkeld & EL Lamb,E Threlkeld,EL Lamb,12,7,4
+2020,Western Storm,SN Luff & EM Edgcombe,SN Luff,EM Edgcombe,12,8,4
+2021,Southern Vipers,GA Elwiss & LK Bell,GA Elwiss,LK Bell,12,8,1
+2021,Western Storm,NAJ Wraith & HC Knight,NAJ Wraith,HC Knight,12,6,6
+2020,Northern Diamonds,KH Brunt & NR Sciver,KH Brunt,NR Sciver,11,5,4
+2021,Sunrisers,FC Wilson & MK Villiers,FC Wilson,MK Villiers,11,8,1
+2021,Sunrisers,KL Coppack & KL Midwood,KL Coppack,KL Midwood,11,6,3
+2020,Southern Vipers,CM Taylor & LK Bell,CM Taylor,LK Bell,11,1,6
+2020,Lightning,S Munro & AJ Freeborn,S Munro,AJ Freeborn,11,3,8
+2021,South East Stars,R MacDonald-Gay & K Moore,R MacDonald-Gay,K Moore,11,0,10
+2020,Southern Vipers,TG Norris & CE Rudd,TG Norris,CE Rudd,11,7,3
+2020,South East Stars,BF Smith & A Capsey,BF Smith,A Capsey,11,9,1
+2021,Western Storm,MJ Robbins & E Corney,MJ Robbins,E Corney,11,2,6
+2020,Central Sparks,GK Davis & CK Boycott,GK Davis,CK Boycott,11,3,7
+2020,Northern Diamonds,BAM Heath & A Campbell,BAM Heath,A Campbell,10,0,10
+2020,Sunrisers,KJ Wolfe & KS Castle,KJ Wolfe,KS Castle,10,2,3
+2020,Sunrisers,KL Midwood & AD Carr,KL Midwood,AD Carr,10,1,4
+2020,Central Sparks,CK Boycott & CAE Hill,CK Boycott,CAE Hill,10,1,5
+2020,Thunder,S Ecclestone & S Turner,S Ecclestone,S Turner,10,7,2
+2020,Central Sparks,E Jones & HL Baker,E Jones,HL Baker,10,4,5
+2020,Central Sparks,CK Boycott & Marie Kelly,CK Boycott,Marie Kelly,10,5,5
+2021,Southern Vipers,PJ Scholfield & EM McCaughan,PJ Scholfield,EM McCaughan,10,2,8
+2020,Western Storm,NAJ Wraith & LA Parfitt,NAJ Wraith,LA Parfitt,10,4,5
+2021,Western Storm,DR Gibson & KL George,DR Gibson,KL George,10,6,3
+2021,Central Sparks,AE Jones & GM Davies,AE Jones,GM Davies,10,2,6
+2020,Central Sparks,S Glenn & CK Boycott,S Glenn,CK Boycott,10,3,6
+2021,Western Storm,E Corney & DR Gibson,E Corney,DR Gibson,10,1,9
+2020,Sunrisers,G Scrivens & AD Carr,G Scrivens,AD Carr,9,2,6
+2020,Central Sparks,AE Jones & Marie Kelly,AE Jones,Marie Kelly,9,3,4
+2020,Southern Vipers,CM Taylor & PAC Cowdrill,CM Taylor,PAC Cowdrill,9,3,4
+2020,Thunder,R Duckworth & DL Collins,R Duckworth,DL Collins,9,1,2
+2020,Thunder,R Duckworth & L Jackson,R Duckworth,L Jackson,9,2,7
+2020,Western Storm,L Filer & S Hutchins,L Filer,S Hutchins,9,3,4
+2021,South East Stars,R MacDonald-Gay & Emma Jones,R MacDonald-Gay,Emma Jones,9,0,8
+2020,South East Stars,R Southby & MS Belt,R Southby,MS Belt,9,3,5
+2021,Lightning,Y Graves & E Claridge,Y Graves,E Claridge,9,8,1
+2020,Western Storm,E Corney & EM Edgcombe,E Corney,EM Edgcombe,9,3,6
+2020,South East Stars,SE Rowe & A Cranstone,SE Rowe,A Cranstone,9,8,0
+2021,Sunrisers,FC Wilson & M Rogers,FC Wilson,M Rogers,9,6,3
+2021,Western Storm,MJ Robbins & L Filer,MJ Robbins,L Filer,9,4,5
+2020,Thunder,N Brown & L Jackson,N Brown,L Jackson,9,5,3
+2020,Lightning,G Ballinger & AD Presland,G Ballinger,AD Presland,9,4,4
+2020,Central Sparks,CK Boycott & Anisha Patel,CK Boycott,Anisha Patel,9,6,2
+2020,South East Stars,A Cranstone & AN Davidson-Richards,A Cranstone,AN Davidson-Richards,9,3,6
+2021,Sunrisers,GKS Gole & AD Carr,GKS Gole,AD Carr,9,7,1
+2021,South East Stars,Emma Jones & D Gregory,Emma Jones,D Gregory,9,6,1
+2020,Lightning,LF Higham & SJ Bryce,LF Higham,SJ Bryce,9,3,3
+2020,Sunrisers,KS Castle & G Scrivens,KS Castle,G Scrivens,9,4,4
+2021,Sunrisers,KS Castle & KL Midwood,KS Castle,KL Midwood,9,7,2
+2021,Sunrisers,MK Villiers & J Gardner,MK Villiers,J Gardner,9,6,3
+2020,South East Stars,KE White & C Brewer,KE White,C Brewer,9,5,3
+2020,Sunrisers,KJ Wolfe & KL Midwood,KJ Wolfe,KL Midwood,9,7,2
+2021,Central Sparks,RA Fackrell & IECM Wong,RA Fackrell,IECM Wong,8,1,7
+2021,Lightning,Y Graves & S Munro,Y Graves,S Munro,8,5,2
+2020,Southern Vipers,ER Chandler & AZ Monaghan,ER Chandler,AZ Monaghan,8,5,1
+2021,Sunrisers,KS Castle & AD Carr,KS Castle,AD Carr,8,0,5
+2021,Sunrisers,KL Coppack & GKS Gole,KL Coppack,GKS Gole,8,4,4
+2021,Central Sparks,S Glenn & IECM Wong,S Glenn,IECM Wong,8,6,2
+2021,Thunder,E Threlkeld & A Hartley,E Threlkeld,A Hartley,8,3,5
+2021,Western Storm,L Filer & SN Luff,L Filer,SN Luff,8,0,8
+2021,Thunder,DL Collins & KL Cross,DL Collins,KL Cross,8,4,4
+2021,Sunrisers,K Speed & KL Midwood,K Speed,KL Midwood,8,2,5
+2020,South East Stars,HV Jones & AG Gordon,HV Jones,AG Gordon,8,5,1
+2021,South East Stars,KE White & K Moore,KE White,K Moore,8,1,7
+2021,Northern Diamonds,JL Gunn & A Campbell,JL Gunn,A Campbell,7,5,1
+2020,Thunder,S Turner & KL Cross,S Turner,KL Cross,7,1,6
+2021,Sunrisers,FC Wilson & AD Carr,FC Wilson,AD Carr,7,1,6
+2021,South East Stars,R Southby & NE Farrant,R Southby,NE Farrant,7,4,2
+2021,South East Stars,FR Davies & D Gregory,FR Davies,D Gregory,7,5,1
+2021,Central Sparks,GK Davis & E Jones,GK Davis,E Jones,7,4,3
+2020,Sunrisers,KJ Wolfe & J Gardner,KJ Wolfe,J Gardner,7,0,7
+2021,Sunrisers,CL Griffith & FC Wilson,CL Griffith,FC Wilson,6,0,5
+2021,Central Sparks,S Butler & GM Davies,S Butler,GM Davies,6,2,4
+2021,Lightning,G Ballinger & S Munro,G Ballinger,S Munro,6,6,0
+2021,Southern Vipers,GA Elwiss & TG Norris,GA Elwiss,TG Norris,6,2,3
+2021,Central Sparks,TF Brookes & RA Fackrell,TF Brookes,RA Fackrell,6,5,1
+2020,Thunder,HE Jones & A Hartley,HE Jones,A Hartley,6,4,1
+2020,Lightning,KE Bryce & T Graves,KE Bryce,T Graves,6,4,2
+2021,Northern Diamonds,SL Kalis & AL MacDonald,SL Kalis,AL MacDonald,6,0,5
+2020,Sunrisers,G Scrivens & GKS Gole,G Scrivens,GKS Gole,6,2,4
+2020,Thunder,N Brown & EL Lamb,N Brown,EL Lamb,6,3,2
+2020,Lightning,KE Bryce & KL Gordon,KE Bryce,KL Gordon,6,3,2
+2021,Thunder,KL Cross & A Hartley,KL Cross,A Hartley,6,1,0
+2021,Southern Vipers,E Windsor & AZ Monaghan,E Windsor,AZ Monaghan,6,4,0
+2021,Sunrisers,J Gardner & AD Carr,J Gardner,AD Carr,5,0,5
+2020,Lightning,LF Higham & T Graves,LF Higham,T Graves,5,2,2
+2021,South East Stars,D Gregory & K Moore,D Gregory,K Moore,5,0,1
+2021,Southern Vipers,GA Elwiss & EM McCaughan,GA Elwiss,EM McCaughan,5,0,5
+2021,Thunder,N Brown & S Ecclestone,N Brown,S Ecclestone,5,2,1
+2021,Northern Diamonds,KA Levick & HL Fenby,KA Levick,HL Fenby,5,3,1
+2020,Central Sparks,CAE Hill & M Home,CAE Hill,M Home,5,1,0
+2020,Thunder,HE Jones & R Duckworth,HE Jones,R Duckworth,5,2,3
+2021,Northern Diamonds,SL Kalis & SJ Taylor,SL Kalis,SJ Taylor,5,2,2
+2020,Sunrisers,FC Wilson & KL Midwood,FC Wilson,KL Midwood,5,0,5
+2020,Sunrisers,G Scrivens & Sonali Patel,G Scrivens,Sonali Patel,5,5,0
+2020,South East Stars,R Southby & HV Jones,R Southby,HV Jones,5,5,0
+2021,Lightning,T Graves & SB Odedra,T Graves,SB Odedra,5,5,0
+2021,Thunder,HE Jones & DL Collins,HE Jones,DL Collins,5,2,3
+2021,Southern Vipers,GA Elwiss & CE Rudd,GA Elwiss,CE Rudd,5,2,1
+2020,Thunder,EL Lamb & GEB Boyce,EL Lamb,GEB Boyce,5,2,2
+2020,South East Stars,SIR Dunkley & A Cranstone,SIR Dunkley,A Cranstone,5,5,0
+2020,Northern Diamonds,NR Sciver & BAM Heath,NR Sciver,BAM Heath,5,2,3
+2021,South East Stars,GJ Gibbs & KM Chathli,GJ Gibbs,KM Chathli,5,1,4
+2021,Central Sparks,EL Arlott & CAE Hill,EL Arlott,CAE Hill,5,2,3
+2021,Thunder,E Threlkeld & D Mullan,E Threlkeld,D Mullan,5,4,0
+2021,South East Stars,K Moore & KM Chathli,K Moore,KM Chathli,4,3,1
+2020,Northern Diamonds,SL Kalis & AL MacDonald,SL Kalis,AL MacDonald,4,1,1
+2020,Western Storm,E Corney & LA Parfitt,E Corney,LA Parfitt,4,3,0
+2020,Thunder,HE Jones & Olivia Thomas,HE Jones,Olivia Thomas,4,3,1
+2020,Lightning,AJ Freeborn & B Ellis,AJ Freeborn,B Ellis,4,2,1
+2020,South East Stars,GJ Gibbs & NE Farrant,GJ Gibbs,NE Farrant,4,1,3
+2021,Central Sparks,E Jones & EA Russell,E Jones,EA Russell,4,2,2
+2020,Central Sparks,IECM Wong & E Jones,IECM Wong,E Jones,4,2,1
+2021,Thunder,A Hartley & DL Collins,A Hartley,DL Collins,4,4,0
+2021,Northern Diamonds,LCN Smith & EF Telford,LCN Smith,EF Telford,4,4,0
+2021,Southern Vipers,CE Dean & DN Wyatt,CE Dean,DN Wyatt,4,2,1
+2021,Sunrisers,J Gardner & AJ Macleod,J Gardner,AJ Macleod,4,0,4
+2020,South East Stars,R Southby & FR Davies,R Southby,FR Davies,4,2,2
+2021,Northern Diamonds,A Campbell & KH Brunt,A Campbell,KH Brunt,4,4,0
+2020,Central Sparks,CK Boycott & EA Russell,CK Boycott,EA Russell,4,3,1
+2020,South East Stars,MS Belt & AG Gordon,MS Belt,AG Gordon,4,0,1
+2020,Northern Diamonds,NR Sciver & BA Langston,NR Sciver,BA Langston,3,1,2
+2020,Central Sparks,M Home & P Davies,M Home,P Davies,3,2,1
+2021,Thunder,P Cleary & E Threlkeld,P Cleary,E Threlkeld,3,1,2
+2020,Central Sparks,E Jones & EA Russell,E Jones,EA Russell,3,1,1
+2020,Central Sparks,Anisha Patel & E Jones,Anisha Patel,E Jones,3,1,2
+2021,Lightning,J Groves & S Munro,J Groves,S Munro,3,2,0
+2020,Southern Vipers,E Windsor & AZ Monaghan,E Windsor,AZ Monaghan,3,2,1
+2020,South East Stars,M Blythin & R Southby,M Blythin,R Southby,3,2,1
+2020,Western Storm,KL George & NAJ Wraith,KL George,NAJ Wraith,3,0,2
+2021,Lightning,S Munro & E Claridge,S Munro,E Claridge,3,3,0
+2020,Sunrisers,AJ Macleod & MK Villiers,AJ Macleod,MK Villiers,3,2,0
+2020,Western Storm,A Griffiths & NAJ Wraith,A Griffiths,NAJ Wraith,3,3,0
+2021,Central Sparks,RA Fackrell & CAE Hill,RA Fackrell,CAE Hill,3,1,1
+2021,Southern Vipers,TG Norris & PJ Scholfield,TG Norris,PJ Scholfield,3,3,0
+2020,South East Stars,NE Farrant & PA Franklin,NE Farrant,PA Franklin,3,1,2
+2020,Sunrisers,Sonali Patel & MK Villiers,Sonali Patel,MK Villiers,3,1,2
+2021,South East Stars,FR Davies & NE Farrant,FR Davies,NE Farrant,3,2,0
+2021,Northern Diamonds,LCN Smith & PC Graham,LCN Smith,PC Graham,3,2,1
+2021,Thunder,L Marshall & HE Jones,L Marshall,HE Jones,2,2,0
+2021,Thunder,HE Jones & KL Cross,HE Jones,KL Cross,2,2,0
+2021,Thunder,L Marshall & N Brown,L Marshall,N Brown,2,1,1
+2020,Western Storm,N Holland & S Hutchins,N Holland,S Hutchins,2,2,0
+2021,Central Sparks,IECM Wong & CAE Hill,IECM Wong,CAE Hill,2,1,1
+2020,Lightning,LG Kellogg & G Ballinger,LG Kellogg,G Ballinger,2,0,1
+2021,South East Stars,NE Farrant & KE White,NE Farrant,KE White,2,1,1
+2021,Western Storm,NAJ Wraith & GM Hennessy,NAJ Wraith,GM Hennessy,2,2,0
+2021,Central Sparks,CAE Hill & TF Brookes,CAE Hill,TF Brookes,2,2,0
+2020,Sunrisers,Sonali Patel & KJ Wolfe,Sonali Patel,KJ Wolfe,2,0,1
+2020,Lightning,Ilenia Sims & AJ Freeborn,Ilenia Sims,AJ Freeborn,2,1,1
+2021,Northern Diamonds,KH Brunt & SL Kalis,KH Brunt,SL Kalis,2,1,1
+2020,Thunder,A Clarke & GEB Boyce,A Clarke,GEB Boyce,2,1,0
+2020,South East Stars,SE Rowe & A Capsey,SE Rowe,A Capsey,2,1,0
+2021,Sunrisers,Sonali Patel & J Gardner,Sonali Patel,J Gardner,2,1,0
+2021,Western Storm,SN Luff & J Roberts,SN Luff,J Roberts,2,2,0
+2020,Southern Vipers,E Windsor & PJ Scholfield,E Windsor,PJ Scholfield,2,1,1
+2020,Central Sparks,Anisha Patel & EA Russell,Anisha Patel,EA Russell,2,1,0
+2020,South East Stars,M Blythin & E Gray,M Blythin,E Gray,2,1,1
+2021,Northern Diamonds,HL Fenby & AL MacDonald,HL Fenby,AL MacDonald,2,1,1
+2020,Northern Diamonds,BAM Heath & SL Kalis,BAM Heath,SL Kalis,2,0,2
+2020,South East Stars,HV Jones & A Cranstone,HV Jones,A Cranstone,2,1,0
+2021,Thunder,R Duckworth & E Threlkeld,R Duckworth,E Threlkeld,2,1,1
+2021,Northern Diamonds,R Slater & LCN Smith,R Slater,LCN Smith,1,0,0
+2021,South East Stars,A Capsey & Emma Jones,A Capsey,Emma Jones,1,1,0
+2021,Western Storm,B Gammon & SN Luff,B Gammon,SN Luff,1,0,1
+2021,Northern Diamonds,KA Levick & LCN Smith,KA Levick,LCN Smith,1,0,0
+2020,Central Sparks,S Glenn & Marie Kelly,S Glenn,Marie Kelly,1,0,1
+2021,Northern Diamonds,PC Graham & A Campbell,PC Graham,A Campbell,1,0,1
+2021,South East Stars,AN Davidson-Richards & K Moore,AN Davidson-Richards,K Moore,1,1,0
+2020,Thunder,Olivia Thomas & R Duckworth,Olivia Thomas,R Duckworth,1,0,1
+2021,Thunder,L Marshall & E Threlkeld,L Marshall,E Threlkeld,1,1,0
+2020,Southern Vipers,AZ Monaghan & TG Norris,AZ Monaghan,TG Norris,1,1,0
+2021,Sunrisers,K Speed & KS Castle,K Speed,KS Castle,1,1,0
+2021,Central Sparks,GM Davies & IECM Wong,GM Davies,IECM Wong,1,1,0
+2020,Lightning,N Harman & KE Bryce,N Harman,KE Bryce,1,0,0
+2021,Lightning,ML Kirk & TT Beaumont,ML Kirk,TT Beaumont,1,0,1
+2021,Southern Vipers,E Windsor & GA Elwiss,E Windsor,GA Elwiss,1,1,0
+2021,Central Sparks,P Davies & E Jones,P Davies,E Jones,1,0,1
+2021,Sunrisers,KL Coppack & J Gardner,KL Coppack,J Gardner,1,1,0
+2020,Southern Vipers,CE Rudd & GL Adams,CE Rudd,GL Adams,1,0,1
+2021,Western Storm,N Harvey & DR Gibson,N Harvey,DR Gibson,1,0,1
+2021,Southern Vipers,TG Norris & DN Wyatt,TG Norris,DN Wyatt,1,1,0
+2021,Thunder,DL Collins & N Brown,DL Collins,N Brown,1,0,1
+2020,South East Stars,M Blythin & AG Gordon,M Blythin,AG Gordon,1,1,0
+2021,Lightning,AJ Freeborn & SJ Bryce,AJ Freeborn,SJ Bryce,0,0,0
+2021,Central Sparks,S Glenn & E Jones,S Glenn,E Jones,0,0,0
+2021,Northern Diamonds,BA Langston & A Campbell,BA Langston,A Campbell,0,0,0
+2021,Western Storm,L Filer & N Harvey,L Filer,N Harvey,0,0,0
+2021,Western Storm,MJ Robbins & A Shrubsole,MJ Robbins,A Shrubsole,0,0,0
+2020,Central Sparks,EL Arlott & E Jones,EL Arlott,E Jones,0,0,0
+2020,South East Stars,D Gregory & R Southby,D Gregory,R Southby,0,0,0
+2020,Lightning,LF Higham & KE Bryce,LF Higham,KE Bryce,0,0,0
+2021,Western Storm,FMK Morris & NAJ Wraith,FMK Morris,NAJ Wraith,0,0,0
+2021,Western Storm,FMK Morris & N Harvey,FMK Morris,N Harvey,0,0,0
+2021,Sunrisers,KS Castle & G Scrivens,KS Castle,G Scrivens,0,0,0
+2020,Northern Diamonds,SL Kalis & NR Sciver,SL Kalis,NR Sciver,0,0,0
+2021,Sunrisers,G Scrivens & FC Wilson,G Scrivens,FC Wilson,0,0,0
+2020,Northern Diamonds,PC Graham & BA Langston,PC Graham,BA Langston,0,0,0
+2020,South East Stars,PA Franklin & GJ Gibbs,PA Franklin,GJ Gibbs,0,0,0
+2021,Southern Vipers,EM McCaughan & DN Wyatt,EM McCaughan,DN Wyatt,0,0,0
+2021,Southern Vipers,CM Taylor & AZ Monaghan,CM Taylor,AZ Monaghan,0,0,0
+2021,Southern Vipers,AZ Monaghan & DN Wyatt,AZ Monaghan,DN Wyatt,0,0,0
+2021,South East Stars,PA Franklin & K Moore,PA Franklin,K Moore,0,0,0
+2021,South East Stars,KM Chathli & KE White,KM Chathli,KE White,0,0,0
+2020,Sunrisers,G Scrivens & KJ Wolfe,G Scrivens,KJ Wolfe,0,0,0
+2020,Sunrisers,KS Castle & H Brown,KS Castle,H Brown,0,0,0
+2021,South East Stars,BF Smith & C Brewer,BF Smith,C Brewer,0,0,0
+2020,Sunrisers,Sonali Patel & J Gardner,Sonali Patel,J Gardner,0,0,0
+2021,Thunder,S Smale & EL Lamb,S Smale,EL Lamb,0,0,0
+2021,Western Storm,DR Gibson & A Shrubsole,DR Gibson,A Shrubsole,0,0,0
+2020,Thunder,A Hartley & Olivia Thomas,A Hartley,Olivia Thomas,0,0,0
+2020,Thunder,AE Dyson & L Jackson,AE Dyson,L Jackson,0,0,0
+2020,Thunder,DL Collins & GEB Boyce,DL Collins,GEB Boyce,0,0,0
+2021,Western Storm,SN Luff & S Hutchins,SN Luff,S Hutchins,0,0,0

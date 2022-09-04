@@ -1,0 +1,859 @@
+match_id,season,start_date,batting_team,bowling_team,bowler,wicket_type,player_dismissed
+1229326,2020,29-08-2020,Sunrisers,Southern Vipers,LK Bell,caught,AD Carr
+1229326,2020,29-08-2020,Sunrisers,Southern Vipers,TG Norris,run out,KL Midwood
+1229326,2020,29-08-2020,Sunrisers,Southern Vipers,TG Norris,caught,FC Wilson
+1229326,2020,29-08-2020,Sunrisers,Southern Vipers,DN Wyatt,lbw,ND Dattani
+1229326,2020,29-08-2020,Sunrisers,Southern Vipers,CE Dean,caught,G Scrivens
+1229326,2020,29-08-2020,Sunrisers,Southern Vipers,CE Dean,caught and bowled,AJ Macleod
+1229326,2020,29-08-2020,Sunrisers,Southern Vipers,PJ Scholfield,caught and bowled,J Gardner
+1229326,2020,29-08-2020,Sunrisers,Southern Vipers,CE Dean,run out,MK Villiers
+1229326,2020,29-08-2020,Sunrisers,Southern Vipers,PJ Scholfield,caught,Sonali Patel
+1229326,2020,29-08-2020,Sunrisers,Southern Vipers,PJ Scholfield,caught,KJ Wolfe
+1229326,2020,29-08-2020,Southern Vipers,Sunrisers,MK Villiers,lbw,GL Adams
+1229326,2020,29-08-2020,Southern Vipers,Sunrisers,AJ Macleod,caught,DN Wyatt
+1229326,2020,29-08-2020,Southern Vipers,Sunrisers,KS Castle,caught,ME Bouchier
+1229329,2020,29-08-2020,South East Stars,Western Storm,KL George,caught,BF Smith
+1229329,2020,29-08-2020,South East Stars,Western Storm,GM Hennessy,caught,A Capsey
+1229329,2020,29-08-2020,South East Stars,Western Storm,C Nicholas,caught,SIR Dunkley
+1229329,2020,29-08-2020,South East Stars,Western Storm,GM Hennessy,caught,AN Davidson-Richards
+1229329,2020,29-08-2020,South East Stars,Western Storm,GM Hennessy,caught,A Cranstone
+1229329,2020,29-08-2020,South East Stars,Western Storm,FMK Morris,bowled,HV Jones
+1229329,2020,29-08-2020,South East Stars,Western Storm,FMK Morris,caught and bowled,SE Rowe
+1229329,2020,29-08-2020,South East Stars,Western Storm,FMK Morris,bowled,R Southby
+1229329,2020,29-08-2020,South East Stars,Western Storm,GM Hennessy,bowled,FR Davies
+1229329,2020,29-08-2020,South East Stars,Western Storm,GM Hennessy,run out,NE Farrant
+1229329,2020,29-08-2020,Western Storm,South East Stars,GJ Gibbs,run out,FMK Morris
+1229329,2020,29-08-2020,Western Storm,South East Stars,BF Smith,caught,SN Luff
+1229329,2020,29-08-2020,Western Storm,South East Stars,SIR Dunkley,caught,GM Hennessy
+1229329,2020,29-08-2020,Western Storm,South East Stars,NE Farrant,bowled,NAJ Wraith
+1229330,2020,31-08-2020,Southern Vipers,Western Storm,FMK Morris,bowled,DN Wyatt
+1229330,2020,31-08-2020,Southern Vipers,Western Storm,HC Knight,caught,ME Bouchier
+1229330,2020,31-08-2020,Southern Vipers,Western Storm,C Nicholas,run out,GL Adams
+1229330,2020,31-08-2020,Southern Vipers,Western Storm,C Nicholas,caught,PJ Scholfield
+1229330,2020,31-08-2020,Southern Vipers,Western Storm,HC Knight,caught,E Windsor
+1229330,2020,31-08-2020,Southern Vipers,Western Storm,KL George,bowled,EM McCaughan
+1229330,2020,31-08-2020,Southern Vipers,Western Storm,GM Hennessy,stumped,CE Rudd
+1229330,2020,31-08-2020,Western Storm,Southern Vipers,LK Bell,bowled,FMK Morris
+1229330,2020,31-08-2020,Western Storm,Southern Vipers,GL Adams,caught,SN Luff
+1229330,2020,31-08-2020,Western Storm,Southern Vipers,TG Norris,caught,GM Hennessy
+1229330,2020,31-08-2020,Western Storm,Southern Vipers,TG Norris,bowled,HC Knight
+1229330,2020,31-08-2020,Western Storm,Southern Vipers,TG Norris,caught,KL George
+1229330,2020,31-08-2020,Western Storm,Southern Vipers,TG Norris,caught,A Griffiths
+1229330,2020,31-08-2020,Western Storm,Southern Vipers,LK Bell,bowled,NAJ Wraith
+1229330,2020,31-08-2020,Western Storm,Southern Vipers,PJ Scholfield,bowled,E Corney
+1229330,2020,31-08-2020,Western Storm,Southern Vipers,GL Adams,caught,C Nicholas
+1229330,2020,31-08-2020,Western Storm,Southern Vipers,GL Adams,caught,N Holland
+1229331,2020,31-08-2020,South East Stars,Sunrisers,KJ Wolfe,caught,BF Smith
+1229331,2020,31-08-2020,South East Stars,Sunrisers,KJ Wolfe,bowled,A Cranstone
+1229331,2020,31-08-2020,South East Stars,Sunrisers,J Gardner,bowled,A Capsey
+1229331,2020,31-08-2020,South East Stars,Sunrisers,Sonali Patel,caught,AN Davidson-Richards
+1229331,2020,31-08-2020,South East Stars,Sunrisers,J Gardner,caught,SIR Dunkley
+1229331,2020,31-08-2020,South East Stars,Sunrisers,Sonali Patel,bowled,SE Rowe
+1229331,2020,31-08-2020,South East Stars,Sunrisers,Sonali Patel,caught,HV Jones
+1229331,2020,31-08-2020,South East Stars,Sunrisers,Sonali Patel,caught,NE Farrant
+1229331,2020,31-08-2020,Sunrisers,South East Stars,NE Farrant,bowled,KL Midwood
+1229331,2020,31-08-2020,Sunrisers,South East Stars,AN Davidson-Richards,caught,FC Wilson
+1229331,2020,31-08-2020,Sunrisers,South East Stars,HV Jones,lbw,ND Dattani
+1229331,2020,31-08-2020,Sunrisers,South East Stars,SIR Dunkley,caught and bowled,MK Villiers
+1229331,2020,31-08-2020,Sunrisers,South East Stars,HV Jones,caught,G Scrivens
+1229331,2020,31-08-2020,Sunrisers,South East Stars,SIR Dunkley,caught,AJ Macleod
+1229331,2020,31-08-2020,Sunrisers,South East Stars,A Capsey,bowled,J Gardner
+1229331,2020,31-08-2020,Sunrisers,South East Stars,BF Smith,stumped,AD Carr
+1229331,2020,31-08-2020,Sunrisers,South East Stars,BF Smith,caught,KS Castle
+1229331,2020,31-08-2020,Sunrisers,South East Stars,BF Smith,caught,Sonali Patel
+1229332,2020,31-08-2020,Thunder,Central Sparks,IECM Wong,bowled,L Marshall
+1229332,2020,31-08-2020,Thunder,Central Sparks,EL Arlott,caught,GEB Boyce
+1229332,2020,31-08-2020,Thunder,Central Sparks,IECM Wong,bowled,E Threlkeld
+1229332,2020,31-08-2020,Thunder,Central Sparks,IECM Wong,caught,EL Lamb
+1229332,2020,31-08-2020,Thunder,Central Sparks,CK Boycott,caught,S Ecclestone
+1229332,2020,31-08-2020,Thunder,Central Sparks,CK Boycott,bowled,N Brown
+1229332,2020,31-08-2020,Thunder,Central Sparks,S Glenn,caught,S Turner
+1229332,2020,31-08-2020,Thunder,Central Sparks,GK Davis,caught,KL Cross
+1229332,2020,31-08-2020,Thunder,Central Sparks,GK Davis,caught,A Hartley
+1229332,2020,31-08-2020,Thunder,Central Sparks,GK Davis,caught,HE Jones
+1229332,2020,31-08-2020,Central Sparks,Thunder,N Brown,bowled,AE Jones
+1229332,2020,31-08-2020,Central Sparks,Thunder,A Hartley,lbw,E Jones
+1229332,2020,31-08-2020,Central Sparks,Thunder,A Hartley,lbw,GM Davies
+1229332,2020,31-08-2020,Central Sparks,Thunder,KL Cross,lbw,M Home
+1229332,2020,31-08-2020,Central Sparks,Thunder,S Ecclestone,bowled,S Glenn
+1229332,2020,31-08-2020,Central Sparks,Thunder,S Ecclestone,caught and bowled,CK Boycott
+1229333,2020,31-08-2020,Northern Diamonds,Lightning,KE Bryce,bowled,L Winfield
+1229333,2020,31-08-2020,Northern Diamonds,Lightning,KE Bryce,stumped,HJ Armitage
+1229333,2020,31-08-2020,Northern Diamonds,Lightning,KE Bryce,lbw,SL Kalis
+1229333,2020,31-08-2020,Northern Diamonds,Lightning,KE Bryce,caught and bowled,KH Brunt
+1229333,2020,31-08-2020,Northern Diamonds,Lightning,B Ellis,caught,JL Gunn
+1229333,2020,31-08-2020,Northern Diamonds,Lightning,B Ellis,bowled,BAM Heath
+1229333,2020,31-08-2020,Northern Diamonds,Lightning,T Graves,caught,AL MacDonald
+1229333,2020,31-08-2020,Northern Diamonds,Lightning,S Munro,caught,LCN Smith
+1229333,2020,31-08-2020,Northern Diamonds,Lightning,KE Bryce,bowled,NR Sciver
+1229333,2020,31-08-2020,Lightning,Northern Diamonds,LCN Smith,bowled,TT Beaumont
+1229333,2020,31-08-2020,Lightning,Northern Diamonds,LCN Smith,caught,SJ Bryce
+1229333,2020,31-08-2020,Lightning,Northern Diamonds,NR Sciver,bowled,B Ellis
+1229333,2020,31-08-2020,Lightning,Northern Diamonds,NR Sciver,lbw,LF Higham
+1229333,2020,31-08-2020,Lightning,Northern Diamonds,JL Gunn,caught,RA Fackrell
+1229333,2020,31-08-2020,Lightning,Northern Diamonds,KH Brunt,bowled,T Graves
+1229333,2020,31-08-2020,Lightning,Northern Diamonds,JL Gunn,caught,N Harman
+1229334,2020,05-09-2020,Thunder,Central Sparks,Anisha Patel,lbw,L Marshall
+1229334,2020,05-09-2020,Thunder,Central Sparks,CK Boycott,bowled,L Jackson
+1229334,2020,05-09-2020,Thunder,Central Sparks,CK Boycott,caught,GEB Boyce
+1229334,2020,05-09-2020,Thunder,Central Sparks,TF Brookes,run out,E Threlkeld
+1229334,2020,05-09-2020,Thunder,Central Sparks,TF Brookes,caught,N Brown
+1229334,2020,05-09-2020,Thunder,Central Sparks,CK Boycott,bowled,L Heap
+1229334,2020,05-09-2020,Thunder,Central Sparks,TF Brookes,lbw,Olivia Thomas
+1229334,2020,05-09-2020,Thunder,Central Sparks,CK Boycott,caught,AE Dyson
+1229334,2020,05-09-2020,Central Sparks,Thunder,Olivia Thomas,lbw,GM Davies
+1229334,2020,05-09-2020,Central Sparks,Thunder,A Hartley,run out,E Jones
+1229335,2020,05-09-2020,Western Storm,Sunrisers,J Gardner,lbw,LA Parfitt
+1229335,2020,05-09-2020,Western Storm,Sunrisers,AJ Macleod,lbw,FMK Morris
+1229335,2020,05-09-2020,Western Storm,Sunrisers,AJ Macleod,run out,GM Hennessy
+1229335,2020,05-09-2020,Western Storm,Sunrisers,G Scrivens,caught,NAJ Wraith
+1229335,2020,05-09-2020,Western Storm,Sunrisers,Sonali Patel,lbw,A Griffiths
+1229335,2020,05-09-2020,Western Storm,Sunrisers,KJ Wolfe,stumped,SN Luff
+1229335,2020,05-09-2020,Sunrisers,Western Storm,L Filer,caught,AD Carr
+1229335,2020,05-09-2020,Sunrisers,Western Storm,L Filer,bowled,AJ Macleod
+1229335,2020,05-09-2020,Sunrisers,Western Storm,A Griffiths,bowled,CL Griffith
+1229335,2020,05-09-2020,Sunrisers,Western Storm,FMK Morris,stumped,ND Dattani
+1229335,2020,05-09-2020,Sunrisers,Western Storm,FMK Morris,caught,GKS Gole
+1229335,2020,05-09-2020,Sunrisers,Western Storm,S Hutchins,lbw,G Scrivens
+1229335,2020,05-09-2020,Sunrisers,Western Storm,FMK Morris,lbw,KS Castle
+1229335,2020,05-09-2020,Sunrisers,Western Storm,FMK Morris,bowled,Sonali Patel
+1229335,2020,05-09-2020,Sunrisers,Western Storm,FMK Morris,caught,J Gardner
+1229335,2020,05-09-2020,Sunrisers,Western Storm,GM Hennessy,caught,KJ Wolfe
+1229336,2020,05-09-2020,Lightning,Northern Diamonds,KA Levick,lbw,B Ellis
+1229336,2020,05-09-2020,Lightning,Northern Diamonds,JL Gunn,bowled,KE Bryce
+1229336,2020,05-09-2020,Lightning,Northern Diamonds,HJ Armitage,caught,SJ Bryce
+1229336,2020,05-09-2020,Lightning,Northern Diamonds,HJ Armitage,bowled,AJ Freeborn
+1229336,2020,05-09-2020,Lightning,Northern Diamonds,AL MacDonald,caught and bowled,LF Higham
+1229336,2020,05-09-2020,Lightning,Northern Diamonds,BA Langston,caught,N Harman
+1229336,2020,05-09-2020,Lightning,Northern Diamonds,JL Gunn,lbw,T Graves
+1229336,2020,05-09-2020,Lightning,Northern Diamonds,AL MacDonald,caught,S Pai
+1229336,2020,05-09-2020,Lightning,Northern Diamonds,JL Gunn,run out,LG Kellogg
+1229336,2020,05-09-2020,Lightning,Northern Diamonds,BA Langston,caught,G Ballinger
+1229336,2020,05-09-2020,Northern Diamonds,Lightning,LG Kellogg,lbw,RHM Hopkins
+1229336,2020,05-09-2020,Northern Diamonds,Lightning,KE Bryce,lbw,SL Kalis
+1229336,2020,05-09-2020,Northern Diamonds,Lightning,AD Presland,caught,HJ Armitage
+1229336,2020,05-09-2020,Northern Diamonds,Lightning,LF Higham,bowled,L Tipton
+1229336,2020,05-09-2020,Northern Diamonds,Lightning,N Harman,caught,A Campbell
+1229336,2020,05-09-2020,Northern Diamonds,Lightning,LF Higham,bowled,AL MacDonald
+1229336,2020,05-09-2020,Northern Diamonds,Lightning,LF Higham,caught,BAM Heath
+1229336,2020,05-09-2020,Northern Diamonds,Lightning,N Harman,lbw,BA Langston
+1229337,2020,05-09-2020,Southern Vipers,South East Stars,AG Gordon,caught,GL Adams
+1229337,2020,05-09-2020,Southern Vipers,South East Stars,MS Belt,caught,EM McCaughan
+1229337,2020,05-09-2020,Southern Vipers,South East Stars,A Capsey,caught,ME Bouchier
+1229337,2020,05-09-2020,Southern Vipers,South East Stars,NE Farrant,caught,PJ Scholfield
+1229337,2020,05-09-2020,Southern Vipers,South East Stars,E Gray,caught,CE Dean
+1229337,2020,05-09-2020,Southern Vipers,South East Stars,NE Farrant,caught,CE Rudd
+1229337,2020,05-09-2020,Southern Vipers,South East Stars,E Gray,bowled,TG Norris
+1229337,2020,05-09-2020,Southern Vipers,South East Stars,NE Farrant,run out,ER Chandler
+1229337,2020,05-09-2020,South East Stars,Southern Vipers,TG Norris,lbw,KE White
+1229337,2020,05-09-2020,South East Stars,Southern Vipers,CE Dean,caught,A Capsey
+1229337,2020,05-09-2020,South East Stars,Southern Vipers,CM Taylor,caught,M Blythin
+1229337,2020,05-09-2020,South East Stars,Southern Vipers,PJ Scholfield,caught,SE Rowe
+1229337,2020,05-09-2020,South East Stars,Southern Vipers,TG Norris,run out,A Cranstone
+1229337,2020,05-09-2020,South East Stars,Southern Vipers,TG Norris,lbw,NE Farrant
+1229337,2020,05-09-2020,South East Stars,Southern Vipers,PJ Scholfield,lbw,R Southby
+1229337,2020,05-09-2020,South East Stars,Southern Vipers,PAC Cowdrill,caught,E Gray
+1229337,2020,05-09-2020,South East Stars,Southern Vipers,CM Taylor,caught,HV Jones
+1229337,2020,05-09-2020,South East Stars,Southern Vipers,TG Norris,caught,MS Belt
+1229338,2020,10-09-2020,Northern Diamonds,Thunder,AE Dyson,caught,HJ Armitage
+1229338,2020,10-09-2020,Northern Diamonds,Thunder,AE Dyson,bowled,SL Kalis
+1229338,2020,10-09-2020,Northern Diamonds,Thunder,N Brown,bowled,A Campbell
+1229338,2020,10-09-2020,Northern Diamonds,Thunder,L Jackson,caught,RHM Hopkins
+1229338,2020,10-09-2020,Northern Diamonds,Thunder,L Heap,lbw,JL Gunn
+1229338,2020,10-09-2020,Northern Diamonds,Thunder,A Hartley,caught,BAM Heath
+1229338,2020,10-09-2020,Northern Diamonds,Thunder,A Hartley,stumped,BA Langston
+1229338,2020,10-09-2020,Northern Diamonds,Thunder,L Jackson,bowled,AL MacDonald
+1229338,2020,10-09-2020,Thunder,Northern Diamonds,BA Langston,bowled,GEB Boyce
+1229338,2020,10-09-2020,Thunder,Northern Diamonds,KA Levick,caught,L Marshall
+1229338,2020,10-09-2020,Thunder,Northern Diamonds,KA Levick,lbw,E Threlkeld
+1229338,2020,10-09-2020,Thunder,Northern Diamonds,KA Levick,caught,N Brown
+1229338,2020,10-09-2020,Thunder,Northern Diamonds,AL MacDonald,bowled,DL Collins
+1229338,2020,10-09-2020,Thunder,Northern Diamonds,HJ Armitage,lbw,R Duckworth
+1229338,2020,10-09-2020,Thunder,Northern Diamonds,BA Langston,bowled,L Jackson
+1229338,2020,10-09-2020,Thunder,Northern Diamonds,HJ Armitage,bowled,L Heap
+1229339,2020,11-09-2020,South East Stars,Western Storm,L Filer,bowled,A Capsey
+1229339,2020,11-09-2020,South East Stars,Western Storm,GM Hennessy,bowled,A Cranstone
+1229339,2020,11-09-2020,South East Stars,Western Storm,S Hutchins,run out,KE White
+1229339,2020,11-09-2020,South East Stars,Western Storm,E Corney,lbw,AG Gordon
+1229339,2020,11-09-2020,South East Stars,Western Storm,S Hutchins,bowled,NE Farrant
+1229339,2020,11-09-2020,South East Stars,Western Storm,A Griffiths,caught,HV Jones
+1229339,2020,11-09-2020,South East Stars,Western Storm,GM Hennessy,caught,E Gray
+1229339,2020,11-09-2020,South East Stars,Western Storm,A Griffiths,caught,M Blythin
+1229339,2020,11-09-2020,South East Stars,Western Storm,GM Hennessy,caught,GJ Gibbs
+1229339,2020,11-09-2020,Western Storm,South East Stars,NE Farrant,bowled,FMK Morris
+1229339,2020,11-09-2020,Western Storm,South East Stars,MS Belt,caught,LA Parfitt
+1229339,2020,11-09-2020,Western Storm,South East Stars,HV Jones,bowled,GM Hennessy
+1229340,2020,11-09-2020,Southern Vipers,Sunrisers,G Scrivens,run out,EM McCaughan
+1229340,2020,11-09-2020,Southern Vipers,Sunrisers,J Gardner,lbw,ME Bouchier
+1229340,2020,11-09-2020,Southern Vipers,Sunrisers,G Scrivens,caught,CE Dean
+1229340,2020,11-09-2020,Southern Vipers,Sunrisers,KL Midwood,caught,PJ Scholfield
+1229340,2020,11-09-2020,Southern Vipers,Sunrisers,KL Midwood,caught,E Windsor
+1229340,2020,11-09-2020,Southern Vipers,Sunrisers,Sonali Patel,run out,GL Adams
+1229340,2020,11-09-2020,Southern Vipers,Sunrisers,Sonali Patel,lbw,TG Norris
+1229340,2020,11-09-2020,Southern Vipers,Sunrisers,KJ Wolfe,bowled,CE Rudd
+1229340,2020,11-09-2020,Southern Vipers,Sunrisers,KJ Wolfe,run out,AZ Monaghan
+1229340,2020,11-09-2020,Southern Vipers,Sunrisers,J Gardner,run out,PAC Cowdrill
+1229340,2020,11-09-2020,Sunrisers,Southern Vipers,TG Norris,caught,AD Carr
+1229340,2020,11-09-2020,Sunrisers,Southern Vipers,CM Taylor,caught,CL Griffith
+1229340,2020,11-09-2020,Sunrisers,Southern Vipers,PJ Scholfield,caught,ND Dattani
+1229340,2020,11-09-2020,Sunrisers,Southern Vipers,CE Dean,stumped,AJ Macleod
+1229340,2020,11-09-2020,Sunrisers,Southern Vipers,TG Norris,lbw,G Scrivens
+1229340,2020,11-09-2020,Sunrisers,Southern Vipers,GL Adams,caught,KS Castle
+1229340,2020,11-09-2020,Sunrisers,Southern Vipers,CE Dean,caught,J Gardner
+1229340,2020,11-09-2020,Sunrisers,Southern Vipers,TG Norris,caught,Sonali Patel
+1229340,2020,11-09-2020,Sunrisers,Southern Vipers,PAC Cowdrill,bowled,KJ Wolfe
+1229340,2020,11-09-2020,Sunrisers,Southern Vipers,PAC Cowdrill,caught,E Thorpe
+1229341,2020,11-09-2020,Lightning,Central Sparks,EA Russell,bowled,SJ Bryce
+1229341,2020,11-09-2020,Lightning,Central Sparks,EA Russell,lbw,B Ellis
+1229341,2020,11-09-2020,Lightning,Central Sparks,Anisha Patel,caught,KE Bryce
+1229341,2020,11-09-2020,Lightning,Central Sparks,Anisha Patel,caught,T Graves
+1229341,2020,11-09-2020,Lightning,Central Sparks,Anisha Patel,caught,LF Higham
+1229341,2020,11-09-2020,Lightning,Central Sparks,GK Davis,bowled,N Harman
+1229341,2020,11-09-2020,Lightning,Central Sparks,EL Arlott,caught,AJ Freeborn
+1229341,2020,11-09-2020,Lightning,Central Sparks,EL Arlott,run out,S Pai
+1229341,2020,11-09-2020,Central Sparks,Lightning,LG Kellogg,bowled,E Jones
+1229341,2020,11-09-2020,Central Sparks,Lightning,AD Presland,lbw,GM Davies
+1229341,2020,11-09-2020,Central Sparks,Lightning,T Graves,bowled,Marie Kelly
+1229341,2020,11-09-2020,Central Sparks,Lightning,AD Presland,bowled,P Davies
+1229341,2020,11-09-2020,Central Sparks,Lightning,AD Presland,lbw,M Home
+1229341,2020,11-09-2020,Central Sparks,Lightning,T Graves,caught,CAE Hill
+1229341,2020,11-09-2020,Central Sparks,Lightning,KE Bryce,caught,EL Arlott
+1229341,2020,11-09-2020,Central Sparks,Lightning,KE Bryce,run out,GK Davis
+1229341,2020,11-09-2020,Central Sparks,Lightning,KE Bryce,run out,EA Russell
+1229342,2020,13-09-2020,Southern Vipers,Western Storm,FMK Morris,bowled,EM McCaughan
+1229342,2020,13-09-2020,Western Storm,Southern Vipers,CE Dean,lbw,LA Parfitt
+1229342,2020,13-09-2020,Western Storm,Southern Vipers,PJ Scholfield,caught,FMK Morris
+1229342,2020,13-09-2020,Western Storm,Southern Vipers,CE Dean,stumped,GM Hennessy
+1229342,2020,13-09-2020,Western Storm,Southern Vipers,CE Dean,stumped,NAJ Wraith
+1229342,2020,13-09-2020,Western Storm,Southern Vipers,CM Taylor,caught,A Griffiths
+1229342,2020,13-09-2020,Western Storm,Southern Vipers,CM Taylor,caught,SN Luff
+1229342,2020,13-09-2020,Western Storm,Southern Vipers,CM Taylor,caught,EM Edgcombe
+1229342,2020,13-09-2020,Western Storm,Southern Vipers,CM Taylor,caught,E Corney
+1229342,2020,13-09-2020,Western Storm,Southern Vipers,GL Adams,bowled,N Holland
+1229342,2020,13-09-2020,Western Storm,Southern Vipers,GL Adams,caught,S Hutchins
+1229343,2020,13-09-2020,Sunrisers,South East Stars,NE Farrant,caught,AD Carr
+1229343,2020,13-09-2020,Sunrisers,South East Stars,NE Farrant,lbw,AJ Macleod
+1229343,2020,13-09-2020,Sunrisers,South East Stars,C Brewer,caught,CL Griffith
+1229343,2020,13-09-2020,Sunrisers,South East Stars,D Gregory,caught,ND Dattani
+1229343,2020,13-09-2020,Sunrisers,South East Stars,D Gregory,caught,KS Castle
+1229343,2020,13-09-2020,Sunrisers,South East Stars,HV Jones,run out,H Brown
+1229343,2020,13-09-2020,Sunrisers,South East Stars,AG Gordon,run out,G Scrivens
+1229343,2020,13-09-2020,Sunrisers,South East Stars,HV Jones,stumped,J Gardner
+1229343,2020,13-09-2020,Sunrisers,South East Stars,HV Jones,stumped,KL Midwood
+1229343,2020,13-09-2020,Sunrisers,South East Stars,NE Farrant,bowled,KJ Wolfe
+1229343,2020,13-09-2020,South East Stars,Sunrisers,KJ Wolfe,lbw,KE White
+1229343,2020,13-09-2020,South East Stars,Sunrisers,G Scrivens,caught,C Brewer
+1229343,2020,13-09-2020,South East Stars,Sunrisers,J Gardner,caught,A Cranstone
+1229343,2020,13-09-2020,South East Stars,Sunrisers,J Gardner,bowled,AG Gordon
+1229344,2020,13-09-2020,Thunder,Lightning,KE Bryce,caught and bowled,L Marshall
+1229344,2020,13-09-2020,Thunder,Lightning,KE Bryce,lbw,L Jackson
+1229344,2020,13-09-2020,Thunder,Lightning,AD Presland,lbw,E Threlkeld
+1229344,2020,13-09-2020,Thunder,Lightning,B Ellis,run out,GEB Boyce
+1229344,2020,13-09-2020,Thunder,Lightning,LF Higham,lbw,DL Collins
+1229344,2020,13-09-2020,Thunder,Lightning,B Ellis,run out,N Brown
+1229344,2020,13-09-2020,Thunder,Lightning,B Ellis,caught,AE Dyson
+1229344,2020,13-09-2020,Thunder,Lightning,KE Bryce,bowled,L Heap
+1229344,2020,13-09-2020,Thunder,Lightning,KE Bryce,stumped,R Duckworth
+1229344,2020,13-09-2020,Lightning,Thunder,HE Jones,lbw,B Ellis
+1229344,2020,13-09-2020,Lightning,Thunder,N Brown,bowled,SJ Bryce
+1229344,2020,13-09-2020,Lightning,Thunder,A Hartley,stumped,KE Bryce
+1229344,2020,13-09-2020,Lightning,Thunder,A Hartley,stumped,LF Higham
+1229344,2020,13-09-2020,Lightning,Thunder,L Heap,caught,T Graves
+1229344,2020,13-09-2020,Lightning,Thunder,A Hartley,caught and bowled,N Harman
+1229344,2020,13-09-2020,Lightning,Thunder,A Hartley,lbw,S Pai
+1229344,2020,13-09-2020,Lightning,Thunder,L Heap,bowled,S Munro
+1229344,2020,13-09-2020,Lightning,Thunder,L Heap,caught,AD Presland
+1229344,2020,13-09-2020,Lightning,Thunder,HE Jones,bowled,AJ Freeborn
+1229345,2020,13-09-2020,Northern Diamonds,Central Sparks,EA Russell,bowled,HJ Armitage
+1229345,2020,13-09-2020,Northern Diamonds,Central Sparks,HL Baker,stumped,RHM Hopkins
+1229345,2020,13-09-2020,Northern Diamonds,Central Sparks,HL Baker,caught,A Campbell
+1229345,2020,13-09-2020,Northern Diamonds,Central Sparks,HL Baker,lbw,AL MacDonald
+1229345,2020,13-09-2020,Northern Diamonds,Central Sparks,Anisha Patel,bowled,JL Gunn
+1229345,2020,13-09-2020,Northern Diamonds,Central Sparks,Anisha Patel,lbw,BAM Heath
+1229345,2020,13-09-2020,Northern Diamonds,Central Sparks,EA Russell,caught,SL Kalis
+1229345,2020,13-09-2020,Northern Diamonds,Central Sparks,EA Russell,lbw,PC Graham
+1229345,2020,13-09-2020,Northern Diamonds,Central Sparks,EA Russell,caught,HL Fenby
+1229345,2020,13-09-2020,Northern Diamonds,Central Sparks,EL Arlott,bowled,BA Langston
+1229345,2020,13-09-2020,Central Sparks,Northern Diamonds,BA Langston,lbw,GM Davies
+1229345,2020,13-09-2020,Central Sparks,Northern Diamonds,AL MacDonald,lbw,Marie Kelly
+1229345,2020,13-09-2020,Central Sparks,Northern Diamonds,KA Levick,caught and bowled,E Jones
+1229345,2020,13-09-2020,Central Sparks,Northern Diamonds,BA Langston,lbw,M Home
+1229346,2020,19-09-2020,South East Stars,Southern Vipers,TG Norris,caught,BF Smith
+1229346,2020,19-09-2020,South East Stars,Southern Vipers,CM Taylor,lbw,A Cranstone
+1229346,2020,19-09-2020,South East Stars,Southern Vipers,PJ Scholfield,caught,A Capsey
+1229346,2020,19-09-2020,South East Stars,Southern Vipers,LK Bell,caught,C Brewer
+1229346,2020,19-09-2020,South East Stars,Southern Vipers,CM Taylor,stumped,AN Davidson-Richards
+1229346,2020,19-09-2020,South East Stars,Southern Vipers,LK Bell,bowled,NE Farrant
+1229346,2020,19-09-2020,South East Stars,Southern Vipers,LK Bell,caught,HV Jones
+1229346,2020,19-09-2020,South East Stars,Southern Vipers,LK Bell,caught,PA Franklin
+1229346,2020,19-09-2020,South East Stars,Southern Vipers,GL Adams,run out,GJ Gibbs
+1229346,2020,19-09-2020,South East Stars,Southern Vipers,GL Adams,run out,D Gregory
+1229346,2020,19-09-2020,Southern Vipers,South East Stars,D Gregory,lbw,EM McCaughan
+1229346,2020,19-09-2020,Southern Vipers,South East Stars,HV Jones,caught and bowled,GL Adams
+1229346,2020,19-09-2020,Southern Vipers,South East Stars,D Gregory,lbw,ME Bouchier
+1229346,2020,19-09-2020,Southern Vipers,South East Stars,D Gregory,lbw,CE Dean
+1229346,2020,19-09-2020,Southern Vipers,South East Stars,HV Jones,caught,PJ Scholfield
+1229346,2020,19-09-2020,Southern Vipers,South East Stars,NE Farrant,bowled,CE Rudd
+1229347,2020,19-09-2020,Thunder,Northern Diamonds,BA Langston,bowled,L Marshall
+1229347,2020,19-09-2020,Thunder,Northern Diamonds,PC Graham,lbw,A Clarke
+1229347,2020,19-09-2020,Thunder,Northern Diamonds,PC Graham,bowled,E Threlkeld
+1229347,2020,19-09-2020,Thunder,Northern Diamonds,LCN Smith,bowled,N Brown
+1229347,2020,19-09-2020,Thunder,Northern Diamonds,JL Gunn,caught,GEB Boyce
+1229347,2020,19-09-2020,Thunder,Northern Diamonds,JL Gunn,lbw,DL Collins
+1229347,2020,19-09-2020,Thunder,Northern Diamonds,KA Levick,bowled,AE Dyson
+1229347,2020,19-09-2020,Thunder,Northern Diamonds,KA Levick,lbw,A Hartley
+1229347,2020,19-09-2020,Thunder,Northern Diamonds,BA Langston,bowled,L Heap
+1229347,2020,19-09-2020,Thunder,Northern Diamonds,BA Langston,bowled,R Duckworth
+1229347,2020,19-09-2020,Northern Diamonds,Thunder,HE Jones,bowled,RHM Hopkins
+1229347,2020,19-09-2020,Northern Diamonds,Thunder,A Hartley,caught and bowled,HJ Armitage
+1229347,2020,19-09-2020,Northern Diamonds,Thunder,L Heap,stumped,A Campbell
+1229347,2020,19-09-2020,Northern Diamonds,Thunder,L Heap,run out,AL MacDonald
+1229348,2020,19-09-2020,Lightning,Central Sparks,HL Baker,caught,B Ellis
+1229348,2020,19-09-2020,Lightning,Central Sparks,Anisha Patel,caught,KE Bryce
+1229348,2020,19-09-2020,Lightning,Central Sparks,CK Boycott,caught,AJ Freeborn
+1229348,2020,19-09-2020,Lightning,Central Sparks,Anisha Patel,bowled,LF Higham
+1229348,2020,19-09-2020,Lightning,Central Sparks,IECM Wong,run out,T Graves
+1229348,2020,19-09-2020,Central Sparks,Lightning,KL Gordon,caught,GM Davies
+1229348,2020,19-09-2020,Central Sparks,Lightning,LF Higham,caught,Marie Kelly
+1229348,2020,19-09-2020,Central Sparks,Lightning,LF Higham,bowled,EL Arlott
+1229348,2020,19-09-2020,Central Sparks,Lightning,KL Gordon,lbw,P Davies
+1229348,2020,19-09-2020,Central Sparks,Lightning,KE Bryce,bowled,CAE Hill
+1229348,2020,19-09-2020,Central Sparks,Lightning,B Ellis,caught,CK Boycott
+1229348,2020,19-09-2020,Central Sparks,Lightning,KE Bryce,lbw,EA Russell
+1229348,2020,19-09-2020,Central Sparks,Lightning,B Ellis,caught,IECM Wong
+1229348,2020,19-09-2020,Central Sparks,Lightning,B Ellis,stumped,HL Baker
+1229348,2020,19-09-2020,Central Sparks,Lightning,KE Bryce,caught and bowled,Anisha Patel
+1229349,2020,19-09-2020,Western Storm,Sunrisers,KJ Wolfe,bowled,LA Parfitt
+1229349,2020,19-09-2020,Western Storm,Sunrisers,KJ Wolfe,bowled,FMK Morris
+1229349,2020,19-09-2020,Western Storm,Sunrisers,J Gardner,caught,SN Luff
+1229349,2020,19-09-2020,Western Storm,Sunrisers,Sonali Patel,bowled,NAJ Wraith
+1229349,2020,19-09-2020,Western Storm,Sunrisers,AJ Macleod,caught and bowled,A Griffiths
+1229349,2020,19-09-2020,Western Storm,Sunrisers,AJ Macleod,caught,GM Hennessy
+1229349,2020,19-09-2020,Sunrisers,Western Storm,GM Hennessy,caught,CL Griffith
+1229349,2020,19-09-2020,Sunrisers,Western Storm,GM Hennessy,stumped,AD Carr
+1229349,2020,19-09-2020,Sunrisers,Western Storm,FMK Morris,caught,ND Dattani
+1229349,2020,19-09-2020,Sunrisers,Western Storm,S Hutchins,bowled,AJ Macleod
+1229349,2020,19-09-2020,Sunrisers,Western Storm,E Corney,lbw,M Rogers
+1229349,2020,19-09-2020,Sunrisers,Western Storm,N Holland,bowled,KS Castle
+1229349,2020,19-09-2020,Sunrisers,Western Storm,SN Luff,stumped,J Gardner
+1229349,2020,19-09-2020,Sunrisers,Western Storm,EM Edgcombe,run out,KL Midwood
+1229349,2020,19-09-2020,Sunrisers,Western Storm,EM Edgcombe,run out,Sonali Patel
+1229349,2020,19-09-2020,Sunrisers,Western Storm,EM Edgcombe,caught,G Scrivens
+1229350,2020,27-09-2020,Southern Vipers,Northern Diamonds,LCN Smith,caught,EM McCaughan
+1229350,2020,27-09-2020,Southern Vipers,Northern Diamonds,HJ Armitage,caught,ME Bouchier
+1229350,2020,27-09-2020,Southern Vipers,Northern Diamonds,KA Levick,lbw,CE Dean
+1229350,2020,27-09-2020,Southern Vipers,Northern Diamonds,HJ Armitage,caught,PJ Scholfield
+1229350,2020,27-09-2020,Southern Vipers,Northern Diamonds,KA Levick,caught,GL Adams
+1229350,2020,27-09-2020,Southern Vipers,Northern Diamonds,KA Levick,lbw,CE Rudd
+1229350,2020,27-09-2020,Southern Vipers,Northern Diamonds,BA Langston,run out,TG Norris
+1229350,2020,27-09-2020,Southern Vipers,Northern Diamonds,BA Langston,caught,AZ Monaghan
+1229350,2020,27-09-2020,Southern Vipers,Northern Diamonds,BA Langston,run out,E Windsor
+1229350,2020,27-09-2020,Southern Vipers,Northern Diamonds,JL Gunn,caught,CM Taylor
+1229350,2020,27-09-2020,Northern Diamonds,Southern Vipers,ME Bouchier,caught,L Winfield
+1229350,2020,27-09-2020,Northern Diamonds,Southern Vipers,CM Taylor,caught,HJ Armitage
+1229350,2020,27-09-2020,Northern Diamonds,Southern Vipers,CE Dean,run out,A Campbell
+1229350,2020,27-09-2020,Northern Diamonds,Southern Vipers,CM Taylor,hit wicket,AL MacDonald
+1229350,2020,27-09-2020,Northern Diamonds,Southern Vipers,CM Taylor,lbw,JL Gunn
+1229350,2020,27-09-2020,Northern Diamonds,Southern Vipers,CM Taylor,caught,BAM Heath
+1229350,2020,27-09-2020,Northern Diamonds,Southern Vipers,CE Dean,lbw,LCN Smith
+1229350,2020,27-09-2020,Northern Diamonds,Southern Vipers,CM Taylor,lbw,BA Langston
+1229350,2020,27-09-2020,Northern Diamonds,Southern Vipers,CM Taylor,caught,SL Kalis
+1229350,2020,27-09-2020,Northern Diamonds,Southern Vipers,GL Adams,caught,PC Graham
+1252264,2021,29-05-2021,Northern Diamonds,Central Sparks,IECM Wong,bowled,HJ Armitage
+1252264,2021,29-05-2021,Northern Diamonds,Central Sparks,EL Arlott,caught,NR Sciver
+1252264,2021,29-05-2021,Northern Diamonds,Central Sparks,S Glenn,lbw,SL Kalis
+1252264,2021,29-05-2021,Northern Diamonds,Central Sparks,S Butler,caught,L Winfield
+1252264,2021,29-05-2021,Northern Diamonds,Central Sparks,S Butler,caught,A Campbell
+1252264,2021,29-05-2021,Northern Diamonds,Central Sparks,IECM Wong,caught,KH Brunt
+1252264,2021,29-05-2021,Northern Diamonds,Central Sparks,IECM Wong,caught,AL MacDonald
+1252264,2021,29-05-2021,Northern Diamonds,Central Sparks,IECM Wong,caught,JL Gunn
+1252264,2021,29-05-2021,Northern Diamonds,Central Sparks,IECM Wong,caught,BA Langston
+1252264,2021,29-05-2021,Northern Diamonds,Central Sparks,EA Russell,caught,KA Levick
+1252264,2021,29-05-2021,Central Sparks,Northern Diamonds,BA Langston,lbw,GM Davies
+1252264,2021,29-05-2021,Central Sparks,Northern Diamonds,KH Brunt,caught,E Jones
+1252264,2021,29-05-2021,Central Sparks,Northern Diamonds,LCN Smith,caught,Marie Kelly
+1252264,2021,29-05-2021,Central Sparks,Northern Diamonds,LCN Smith,caught,M Home
+1252264,2021,29-05-2021,Central Sparks,Northern Diamonds,LCN Smith,caught,S Butler
+1252264,2021,29-05-2021,Central Sparks,Northern Diamonds,JL Gunn,caught,AE Jones
+1252264,2021,29-05-2021,Central Sparks,Northern Diamonds,BA Langston,caught,RA Fackrell
+1252264,2021,29-05-2021,Central Sparks,Northern Diamonds,KH Brunt,caught and bowled,IECM Wong
+1252265,2021,29-05-2021,Thunder,Western Storm,A Shrubsole,run out,GEB Boyce
+1252265,2021,29-05-2021,Thunder,Western Storm,A Shrubsole,lbw,E Threlkeld
+1252265,2021,29-05-2021,Thunder,Western Storm,A Shrubsole,bowled,P Cleary
+1252265,2021,29-05-2021,Thunder,Western Storm,A Shrubsole,bowled,N Brown
+1252265,2021,29-05-2021,Thunder,Western Storm,DR Gibson,run out,EL Lamb
+1252265,2021,29-05-2021,Thunder,Western Storm,GM Hennessy,caught,S Ecclestone
+1252265,2021,29-05-2021,Thunder,Western Storm,GM Hennessy,bowled,L Marshall
+1252265,2021,29-05-2021,Thunder,Western Storm,GM Hennessy,stumped,DL Collins
+1252265,2021,29-05-2021,Western Storm,Thunder,KL Cross,lbw,LA Parfitt
+1252265,2021,29-05-2021,Western Storm,Thunder,S Ecclestone,caught,SN Luff
+1252265,2021,29-05-2021,Western Storm,Thunder,KL Cross,caught,GM Hennessy
+1252265,2021,29-05-2021,Western Storm,Thunder,KL Cross,bowled,NAJ Wraith
+1252265,2021,29-05-2021,Western Storm,Thunder,P Cleary,caught,HC Knight
+1252265,2021,29-05-2021,Western Storm,Thunder,HE Jones,caught,FMK Morris
+1252265,2021,29-05-2021,Western Storm,Thunder,HE Jones,bowled,DR Gibson
+1252265,2021,29-05-2021,Western Storm,Thunder,S Ecclestone,bowled,N Harvey
+1252265,2021,29-05-2021,Western Storm,Thunder,S Ecclestone,bowled,MJ Robbins
+1252266,2021,29-05-2021,South East Stars,Sunrisers,KS Castle,caught,BF Smith
+1252266,2021,29-05-2021,South East Stars,Sunrisers,KS Castle,bowled,AN Davidson-Richards
+1252266,2021,29-05-2021,South East Stars,Sunrisers,KS Castle,caught,A Capsey
+1252266,2021,29-05-2021,South East Stars,Sunrisers,G Scrivens,bowled,A Cranstone
+1252266,2021,29-05-2021,South East Stars,Sunrisers,G Scrivens,run out,KE White
+1252266,2021,29-05-2021,South East Stars,Sunrisers,AJ Macleod,caught,NE Farrant
+1252266,2021,29-05-2021,South East Stars,Sunrisers,ND Dattani,lbw,GJ Gibbs
+1252266,2021,29-05-2021,Sunrisers,South East Stars,NE Farrant,caught,CL Griffith
+1252266,2021,29-05-2021,Sunrisers,South East Stars,NE Farrant,caught,AD Carr
+1252266,2021,29-05-2021,Sunrisers,South East Stars,NE Farrant,caught,AJ Macleod
+1252266,2021,29-05-2021,Sunrisers,South East Stars,NE Farrant,caught,FC Wilson
+1252266,2021,29-05-2021,Sunrisers,South East Stars,GJ Gibbs,bowled,MK Villiers
+1252266,2021,29-05-2021,Sunrisers,South East Stars,A Capsey,bowled,ND Dattani
+1252266,2021,29-05-2021,Sunrisers,South East Stars,BF Smith,caught,J Gardner
+1252266,2021,29-05-2021,Sunrisers,South East Stars,BF Smith,caught,G Scrivens
+1252266,2021,29-05-2021,Sunrisers,South East Stars,NE Farrant,bowled,GKS Gole
+1252266,2021,29-05-2021,Sunrisers,South East Stars,BF Smith,lbw,K Speed
+1252267,2021,29-05-2021,Lightning,Southern Vipers,LK Bell,caught,SJ Bryce
+1252267,2021,29-05-2021,Lightning,Southern Vipers,TG Norris,caught,KE Bryce
+1252267,2021,29-05-2021,Lightning,Southern Vipers,GA Elwiss,bowled,AJ Freeborn
+1252267,2021,29-05-2021,Lightning,Southern Vipers,TG Norris,lbw,ML Kirk
+1252267,2021,29-05-2021,Lightning,Southern Vipers,CM Taylor,caught,SB Odedra
+1252267,2021,29-05-2021,Lightning,Southern Vipers,CE Dean,caught,TT Beaumont
+1252267,2021,29-05-2021,Lightning,Southern Vipers,TG Norris,caught,LF Higham
+1252267,2021,29-05-2021,Lightning,Southern Vipers,CE Dean,caught,T Graves
+1252267,2021,29-05-2021,Lightning,Southern Vipers,GL Adams,caught,KL Gordon
+1252267,2021,29-05-2021,Southern Vipers,Lightning,KL Gordon,caught,GL Adams
+1252267,2021,29-05-2021,Southern Vipers,Lightning,KL Gordon,caught,DN Wyatt
+1252267,2021,29-05-2021,Southern Vipers,Lightning,KL Gordon,caught,ME Bouchier
+1252267,2021,29-05-2021,Southern Vipers,Lightning,KL Gordon,caught,GA Elwiss
+1252267,2021,29-05-2021,Southern Vipers,Lightning,T Graves,caught,CE Dean
+1252267,2021,29-05-2021,Southern Vipers,Lightning,KE Bryce,caught and bowled,E Windsor
+1252268,2021,31-05-2021,Northern Diamonds,Lightning,KE Bryce,caught,L Winfield
+1252268,2021,31-05-2021,Northern Diamonds,Lightning,S Munro,caught,NR Sciver
+1252268,2021,31-05-2021,Northern Diamonds,Lightning,KE Bryce,caught,HJ Armitage
+1252268,2021,31-05-2021,Northern Diamonds,Lightning,KE Bryce,caught and bowled,KH Brunt
+1252268,2021,31-05-2021,Northern Diamonds,Lightning,T Graves,bowled,SL Kalis
+1252268,2021,31-05-2021,Northern Diamonds,Lightning,T Graves,caught,A Campbell
+1252268,2021,31-05-2021,Northern Diamonds,Lightning,KE Bryce,caught,JL Gunn
+1252268,2021,31-05-2021,Northern Diamonds,Lightning,Y Graves,caught,BA Langston
+1252268,2021,31-05-2021,Northern Diamonds,Lightning,LF Higham,bowled,AL MacDonald
+1252268,2021,31-05-2021,Northern Diamonds,Lightning,LF Higham,caught,KA Levick
+1252268,2021,31-05-2021,Lightning,Northern Diamonds,KH Brunt,bowled,SJ Bryce
+1252268,2021,31-05-2021,Lightning,Northern Diamonds,KH Brunt,caught,KE Bryce
+1252268,2021,31-05-2021,Lightning,Northern Diamonds,NR Sciver,caught,AJ Freeborn
+1252268,2021,31-05-2021,Lightning,Northern Diamonds,KA Levick,caught,LF Higham
+1252268,2021,31-05-2021,Lightning,Northern Diamonds,NR Sciver,lbw,TT Beaumont
+1252268,2021,31-05-2021,Lightning,Northern Diamonds,KA Levick,lbw,S Pai
+1252268,2021,31-05-2021,Lightning,Northern Diamonds,KH Brunt,lbw,ML Kirk
+1252268,2021,31-05-2021,Lightning,Northern Diamonds,BA Langston,caught and bowled,T Graves
+1252268,2021,31-05-2021,Lightning,Northern Diamonds,KH Brunt,caught,Y Graves
+1252268,2021,31-05-2021,Lightning,Northern Diamonds,BA Langston,caught,KL Gordon
+1252269,2021,31-05-2021,Central Sparks,Western Storm,L Filer,caught,E Jones
+1252269,2021,31-05-2021,Central Sparks,Western Storm,L Filer,caught,Marie Kelly
+1252269,2021,31-05-2021,Central Sparks,Western Storm,DR Gibson,run out,GM Davies
+1252269,2021,31-05-2021,Central Sparks,Western Storm,FMK Morris,caught,M Home
+1252269,2021,31-05-2021,Central Sparks,Western Storm,HC Knight,bowled,S Butler
+1252269,2021,31-05-2021,Central Sparks,Western Storm,FMK Morris,caught,S Glenn
+1252269,2021,31-05-2021,Central Sparks,Western Storm,A Shrubsole,caught,RA Fackrell
+1252269,2021,31-05-2021,Western Storm,Central Sparks,S Glenn,bowled,HC Knight
+1252269,2021,31-05-2021,Western Storm,Central Sparks,RA Fackrell,caught,LA Parfitt
+1252269,2021,31-05-2021,Western Storm,Central Sparks,EA Russell,lbw,SN Luff
+1252269,2021,31-05-2021,Western Storm,Central Sparks,RA Fackrell,stumped,GM Hennessy
+1252269,2021,31-05-2021,Western Storm,Central Sparks,S Glenn,lbw,NAJ Wraith
+1252269,2021,31-05-2021,Western Storm,Central Sparks,RA Fackrell,caught,DR Gibson
+1252269,2021,31-05-2021,Western Storm,Central Sparks,EL Arlott,caught,A Shrubsole
+1252269,2021,31-05-2021,Western Storm,Central Sparks,EL Arlott,caught,FMK Morris
+1252269,2021,31-05-2021,Western Storm,Central Sparks,RA Fackrell,caught,MJ Robbins
+1252270,2021,31-05-2021,South East Stars,Southern Vipers,CM Taylor,caught,AN Davidson-Richards
+1252270,2021,31-05-2021,South East Stars,Southern Vipers,CM Taylor,caught,SIR Dunkley
+1252270,2021,31-05-2021,South East Stars,Southern Vipers,CM Taylor,caught,A Capsey
+1252270,2021,31-05-2021,South East Stars,Southern Vipers,CE Dean,bowled,BF Smith
+1252270,2021,31-05-2021,South East Stars,Southern Vipers,DN Wyatt,bowled,GJ Gibbs
+1252270,2021,31-05-2021,South East Stars,Southern Vipers,DN Wyatt,stumped,A Cranstone
+1252270,2021,31-05-2021,South East Stars,Southern Vipers,GL Adams,caught,KE White
+1252270,2021,31-05-2021,South East Stars,Southern Vipers,DN Wyatt,caught,R Southby
+1252270,2021,31-05-2021,South East Stars,Southern Vipers,CM Taylor,caught,NE Farrant
+1252270,2021,31-05-2021,South East Stars,Southern Vipers,CE Dean,lbw,D Gregory
+1252270,2021,31-05-2021,Southern Vipers,South East Stars,FR Davies,caught,GL Adams
+1252270,2021,31-05-2021,Southern Vipers,South East Stars,BF Smith,caught,ME Bouchier
+1252270,2021,31-05-2021,Southern Vipers,South East Stars,BF Smith,caught,GA Elwiss
+1252271,2021,31-05-2021,Thunder,Sunrisers,Sonali Patel,caught,EL Lamb
+1252271,2021,31-05-2021,Thunder,Sunrisers,KS Castle,caught,E Threlkeld
+1252271,2021,31-05-2021,Thunder,Sunrisers,MK Villiers,caught,P Cleary
+1252271,2021,31-05-2021,Thunder,Sunrisers,MK Villiers,caught,N Brown
+1252271,2021,31-05-2021,Thunder,Sunrisers,MK Villiers,caught,S Ecclestone
+1252271,2021,31-05-2021,Thunder,Sunrisers,G Scrivens,lbw,GEB Boyce
+1252271,2021,31-05-2021,Thunder,Sunrisers,Sonali Patel,caught,KL Cross
+1252271,2021,31-05-2021,Thunder,Sunrisers,Sonali Patel,stumped,L Marshall
+1252271,2021,31-05-2021,Thunder,Sunrisers,Sonali Patel,caught,A Hartley
+1252271,2021,31-05-2021,Sunrisers,Thunder,KL Cross,caught,CL Griffith
+1252271,2021,31-05-2021,Sunrisers,Thunder,KL Cross,caught,AD Carr
+1252271,2021,31-05-2021,Sunrisers,Thunder,S Ecclestone,lbw,AJ Macleod
+1252271,2021,31-05-2021,Sunrisers,Thunder,A Hartley,caught,ND Dattani
+1252271,2021,31-05-2021,Sunrisers,Thunder,A Hartley,caught,MK Villiers
+1252271,2021,31-05-2021,Sunrisers,Thunder,EL Lamb,bowled,FC Wilson
+1252271,2021,31-05-2021,Sunrisers,Thunder,S Ecclestone,stumped,G Scrivens
+1252271,2021,31-05-2021,Sunrisers,Thunder,KL Cross,lbw,J Gardner
+1252271,2021,31-05-2021,Sunrisers,Thunder,HE Jones,lbw,GKS Gole
+1252271,2021,31-05-2021,Sunrisers,Thunder,S Ecclestone,lbw,KS Castle
+1252272,2021,05-06-2021,Western Storm,South East Stars,NE Farrant,bowled,FMK Morris
+1252272,2021,05-06-2021,Western Storm,South East Stars,FR Davies,lbw,HC Knight
+1252272,2021,05-06-2021,Western Storm,South East Stars,BF Smith,caught and bowled,GM Hennessy
+1252272,2021,05-06-2021,Western Storm,South East Stars,GJ Gibbs,lbw,LA Parfitt
+1252272,2021,05-06-2021,Western Storm,South East Stars,D Gregory,bowled,SN Luff
+1252272,2021,05-06-2021,Western Storm,South East Stars,NE Farrant,caught and bowled,DR Gibson
+1252272,2021,05-06-2021,Western Storm,South East Stars,NE Farrant,bowled,NAJ Wraith
+1252272,2021,05-06-2021,Western Storm,South East Stars,NE Farrant,caught,A Shrubsole
+1252272,2021,05-06-2021,South East Stars,Western Storm,L Filer,caught,BF Smith
+1252272,2021,05-06-2021,South East Stars,Western Storm,N Harvey,caught,AN Davidson-Richards
+1252272,2021,05-06-2021,South East Stars,Western Storm,N Harvey,caught,A Capsey
+1252272,2021,05-06-2021,South East Stars,Western Storm,GM Hennessy,bowled,SIR Dunkley
+1252273,2021,05-06-2021,Sunrisers,Northern Diamonds,KH Brunt,lbw,AJ Macleod
+1252273,2021,05-06-2021,Sunrisers,Northern Diamonds,BA Langston,caught,G Scrivens
+1252273,2021,05-06-2021,Sunrisers,Northern Diamonds,KH Brunt,bowled,CL Griffith
+1252273,2021,05-06-2021,Sunrisers,Northern Diamonds,BA Langston,bowled,ND Dattani
+1252273,2021,05-06-2021,Sunrisers,Northern Diamonds,KH Brunt,bowled,MK Villiers
+1252273,2021,05-06-2021,Sunrisers,Northern Diamonds,JL Gunn,caught,FC Wilson
+1252273,2021,05-06-2021,Sunrisers,Northern Diamonds,JL Gunn,bowled,J Gardner
+1252273,2021,05-06-2021,Sunrisers,Northern Diamonds,JL Gunn,bowled,KS Castle
+1252273,2021,05-06-2021,Sunrisers,Northern Diamonds,LCN Smith,stumped,AD Carr
+1252273,2021,05-06-2021,Sunrisers,Northern Diamonds,KA Levick,bowled,GKS Gole
+1252273,2021,05-06-2021,Northern Diamonds,Sunrisers,KL Coppack,caught,L Winfield
+1252274,2021,06-06-2021,Lightning,Thunder,A Hartley,caught,SJ Bryce
+1252274,2021,06-06-2021,Lightning,Thunder,S Ecclestone,caught,TT Beaumont
+1252274,2021,06-06-2021,Lightning,Thunder,S Ecclestone,bowled,AJ Freeborn
+1252274,2021,06-06-2021,Lightning,Thunder,EL Lamb,caught and bowled,SB Odedra
+1252274,2021,06-06-2021,Lightning,Thunder,A Hartley,caught,KE Bryce
+1252274,2021,06-06-2021,Thunder,Lightning,KL Gordon,bowled,GEB Boyce
+1252274,2021,06-06-2021,Thunder,Lightning,KL Gordon,bowled,E Threlkeld
+1252274,2021,06-06-2021,Thunder,Lightning,T Graves,caught,P Cleary
+1252274,2021,06-06-2021,Thunder,Lightning,T Graves,caught,EL Lamb
+1252274,2021,06-06-2021,Thunder,Lightning,LF Higham,bowled,S Ecclestone
+1252274,2021,06-06-2021,Thunder,Lightning,KL Gordon,bowled,KL Cross
+1252274,2021,06-06-2021,Thunder,Lightning,KL Gordon,lbw,L Marshall
+1252274,2021,06-06-2021,Thunder,Lightning,LF Higham,caught,DL Collins
+1252274,2021,06-06-2021,Thunder,Lightning,LF Higham,lbw,N Brown
+1252274,2021,06-06-2021,Thunder,Lightning,S Munro,caught,A Hartley
+1252275,2021,05-06-2021,Central Sparks,Southern Vipers,CM Taylor,lbw,M Home
+1252275,2021,05-06-2021,Central Sparks,Southern Vipers,CM Taylor,caught,Marie Kelly
+1252275,2021,05-06-2021,Central Sparks,Southern Vipers,CE Dean,bowled,AE Jones
+1252275,2021,05-06-2021,Central Sparks,Southern Vipers,CM Taylor,run out,E Jones
+1252275,2021,05-06-2021,Central Sparks,Southern Vipers,CE Dean,caught,S Butler
+1252275,2021,05-06-2021,Central Sparks,Southern Vipers,CE Dean,lbw,GM Davies
+1252275,2021,05-06-2021,Central Sparks,Southern Vipers,CM Taylor,stumped,RA Fackrell
+1252275,2021,05-06-2021,Central Sparks,Southern Vipers,GA Elwiss,lbw,S Glenn
+1252275,2021,05-06-2021,Central Sparks,Southern Vipers,GL Adams,stumped,EL Arlott
+1252275,2021,05-06-2021,Central Sparks,Southern Vipers,GL Adams,bowled,IECM Wong
+1252275,2021,05-06-2021,Southern Vipers,Central Sparks,IECM Wong,bowled,GL Adams
+1252275,2021,05-06-2021,Southern Vipers,Central Sparks,EL Arlott,lbw,ME Bouchier
+1252275,2021,05-06-2021,Southern Vipers,Central Sparks,EL Arlott,lbw,GA Elwiss
+1252275,2021,05-06-2021,Southern Vipers,Central Sparks,EL Arlott,caught,CE Dean
+1252275,2021,05-06-2021,Southern Vipers,Central Sparks,EL Arlott,bowled,EM McCaughan
+1252275,2021,05-06-2021,Southern Vipers,Central Sparks,S Glenn,caught,E Windsor
+1252275,2021,05-06-2021,Southern Vipers,Central Sparks,EA Russell,lbw,TG Norris
+1252275,2021,05-06-2021,Southern Vipers,Central Sparks,EL Arlott,lbw,CE Rudd
+1252275,2021,05-06-2021,Southern Vipers,Central Sparks,IECM Wong,bowled,DN Wyatt
+1252275,2021,05-06-2021,Southern Vipers,Central Sparks,IECM Wong,caught,CM Taylor
+1252276,2021,12-06-2021,South East Stars,Northern Diamonds,JL Gunn,bowled,AN Davidson-Richards
+1252276,2021,12-06-2021,South East Stars,Northern Diamonds,KA Levick,bowled,BF Smith
+1252276,2021,12-06-2021,South East Stars,Northern Diamonds,LCN Smith,lbw,C Brewer
+1252276,2021,12-06-2021,South East Stars,Northern Diamonds,PC Graham,caught,A Capsey
+1252276,2021,12-06-2021,South East Stars,Northern Diamonds,BA Langston,bowled,KE White
+1252276,2021,12-06-2021,South East Stars,Northern Diamonds,JL Gunn,bowled,GJ Gibbs
+1252276,2021,12-06-2021,Northern Diamonds,South East Stars,FR Davies,caught,HJ Armitage
+1252276,2021,12-06-2021,Northern Diamonds,South East Stars,GJ Gibbs,lbw,RHM Hopkins
+1252276,2021,12-06-2021,Northern Diamonds,South East Stars,GJ Gibbs,caught,AL MacDonald
+1252276,2021,12-06-2021,Northern Diamonds,South East Stars,D Gregory,caught,A Campbell
+1252276,2021,12-06-2021,Northern Diamonds,South East Stars,D Gregory,bowled,SJ Taylor
+1252276,2021,12-06-2021,Northern Diamonds,South East Stars,BF Smith,caught,JL Gunn
+1252276,2021,12-06-2021,Northern Diamonds,South East Stars,BF Smith,run out,SL Kalis
+1252277,2021,12-06-2021,Sunrisers,Lightning,S Munro,bowled,G Scrivens
+1252277,2021,12-06-2021,Sunrisers,Lightning,S Munro,caught,AD Carr
+1252277,2021,12-06-2021,Sunrisers,Lightning,KL Gordon,lbw,AJ Macleod
+1252277,2021,12-06-2021,Sunrisers,Lightning,T Graves,caught,CL Griffith
+1252277,2021,12-06-2021,Sunrisers,Lightning,Y Graves,bowled,ND Dattani
+1252277,2021,12-06-2021,Sunrisers,Lightning,T Graves,bowled,J Gardner
+1252277,2021,12-06-2021,Sunrisers,Lightning,T Graves,caught,GKS Gole
+1252277,2021,12-06-2021,Sunrisers,Lightning,T Graves,lbw,KS Castle
+1252277,2021,12-06-2021,Sunrisers,Lightning,KE Bryce,caught,K Speed
+1252277,2021,12-06-2021,Lightning,Sunrisers,KS Castle,caught,SJ Bryce
+1252277,2021,12-06-2021,Lightning,Sunrisers,KL Midwood,lbw,ML Kirk
+1252277,2021,12-06-2021,Lightning,Sunrisers,AJ Macleod,bowled,KE Bryce
+1252277,2021,12-06-2021,Lightning,Sunrisers,KS Castle,lbw,LF Higham
+1252277,2021,12-06-2021,Lightning,Sunrisers,J Gardner,caught,AJ Freeborn
+1252278,2021,12-06-2021,Central Sparks,Thunder,P Cleary,run out,M Home
+1252278,2021,12-06-2021,Central Sparks,Thunder,L Jackson,lbw,P Davies
+1252278,2021,12-06-2021,Central Sparks,Thunder,L Jackson,run out,GM Davies
+1252278,2021,12-06-2021,Central Sparks,Thunder,HE Jones,stumped,S Butler
+1252278,2021,12-06-2021,Central Sparks,Thunder,HE Jones,caught and bowled,CK Boycott
+1252278,2021,12-06-2021,Central Sparks,Thunder,HE Jones,caught,S Glenn
+1252278,2021,12-06-2021,Central Sparks,Thunder,L Jackson,caught,IECM Wong
+1252278,2021,12-06-2021,Central Sparks,Thunder,L Jackson,bowled,RA Fackrell
+1252278,2021,12-06-2021,Central Sparks,Thunder,P Cleary,bowled,GK Davis
+1252278,2021,12-06-2021,Central Sparks,Thunder,L Jackson,run out,EA Russell
+1252278,2021,12-06-2021,Thunder,Central Sparks,S Glenn,bowled,GEB Boyce
+1252278,2021,12-06-2021,Thunder,Central Sparks,GK Davis,bowled,EL Lamb
+1252278,2021,12-06-2021,Thunder,Central Sparks,S Glenn,caught,P Cleary
+1252278,2021,12-06-2021,Thunder,Central Sparks,GK Davis,lbw,N Brown
+1252278,2021,12-06-2021,Thunder,Central Sparks,GK Davis,stumped,R Duckworth
+1252278,2021,12-06-2021,Thunder,Central Sparks,RA Fackrell,lbw,E Threlkeld
+1252278,2021,12-06-2021,Thunder,Central Sparks,EA Russell,lbw,L Jackson
+1252278,2021,12-06-2021,Thunder,Central Sparks,IECM Wong,bowled,L Marshall
+1252279,2021,12-06-2021,Western Storm,Southern Vipers,CE Dean,caught,LA Parfitt
+1252279,2021,12-06-2021,Western Storm,Southern Vipers,CE Dean,caught,FMK Morris
+1252279,2021,12-06-2021,Western Storm,Southern Vipers,CE Dean,stumped,SN Luff
+1252279,2021,12-06-2021,Western Storm,Southern Vipers,AZ Monaghan,caught,GM Hennessy
+1252279,2021,12-06-2021,Western Storm,Southern Vipers,LK Bell,bowled,NAJ Wraith
+1252279,2021,12-06-2021,Western Storm,Southern Vipers,LK Bell,bowled,KL George
+1252279,2021,12-06-2021,Western Storm,Southern Vipers,CM Taylor,lbw,N Harvey
+1252279,2021,12-06-2021,Western Storm,Southern Vipers,LK Bell,caught,DR Gibson
+1252279,2021,12-06-2021,Western Storm,Southern Vipers,GL Adams,caught,E Corney
+1252279,2021,12-06-2021,Western Storm,Southern Vipers,E Windsor,run out,MJ Robbins
+1252279,2021,12-06-2021,Southern Vipers,Western Storm,FMK Morris,caught,DN Wyatt
+1252279,2021,12-06-2021,Southern Vipers,Western Storm,L Filer,caught,GL Adams
+1252280,2021,10-09-2021,Western Storm,Northern Diamonds,BA Langston,bowled,GM Hennessy
+1252280,2021,10-09-2021,Western Storm,Northern Diamonds,BA Langston,caught,FMK Morris
+1252280,2021,10-09-2021,Western Storm,Northern Diamonds,LCN Smith,caught,A Griffiths
+1252280,2021,10-09-2021,Western Storm,Northern Diamonds,KA Levick,lbw,DR Gibson
+1252280,2021,10-09-2021,Western Storm,Northern Diamonds,LCN Smith,bowled,NAJ Wraith
+1252280,2021,10-09-2021,Western Storm,Northern Diamonds,KA Levick,bowled,B Gammon
+1252280,2021,10-09-2021,Western Storm,Northern Diamonds,LCN Smith,bowled,C Skelton
+1252280,2021,10-09-2021,Western Storm,Northern Diamonds,LCN Smith,bowled,J Roberts
+1252280,2021,10-09-2021,Western Storm,Northern Diamonds,EF Telford,run out,L Filer
+1252280,2021,10-09-2021,Western Storm,Northern Diamonds,LCN Smith,bowled,SN Luff
+1252280,2021,10-09-2021,Northern Diamonds,Western Storm,GM Hennessy,lbw,L Winfield
+1252280,2021,10-09-2021,Northern Diamonds,Western Storm,S Hutchins,lbw,SL Kalis
+1252280,2021,10-09-2021,Northern Diamonds,Western Storm,S Hutchins,lbw,L Dobson
+1252281,2021,10-09-2021,South East Stars,Lightning,G Ballinger,caught,AN Davidson-Richards
+1252281,2021,10-09-2021,South East Stars,Lightning,KE Bryce,caught,KE White
+1252281,2021,10-09-2021,South East Stars,Lightning,Y Graves,caught,BF Smith
+1252281,2021,10-09-2021,South East Stars,Lightning,Y Graves,caught,A Cranstone
+1252281,2021,10-09-2021,South East Stars,Lightning,Y Graves,run out,A Capsey
+1252281,2021,10-09-2021,South East Stars,Lightning,KL Gordon,bowled,PA Franklin
+1252281,2021,10-09-2021,South East Stars,Lightning,Y Graves,bowled,GJ Gibbs
+1252281,2021,10-09-2021,South East Stars,Lightning,KL Gordon,stumped,KM Chathli
+1252281,2021,10-09-2021,South East Stars,Lightning,KE Bryce,caught and bowled,K Moore
+1252281,2021,10-09-2021,Lightning,South East Stars,AN Davidson-Richards,caught,B Harmer
+1252281,2021,10-09-2021,Lightning,South East Stars,BF Smith,bowled,SJ Bryce
+1252281,2021,10-09-2021,Lightning,South East Stars,PA Franklin,bowled,AJ Freeborn
+1252281,2021,10-09-2021,Lightning,South East Stars,A Capsey,bowled,T Graves
+1252281,2021,10-09-2021,Lightning,South East Stars,PA Franklin,bowled,E Claridge
+1252281,2021,10-09-2021,Lightning,South East Stars,BF Smith,run out,KE Bryce
+1252281,2021,10-09-2021,Lightning,South East Stars,A Capsey,caught,KL Gordon
+1252281,2021,10-09-2021,Lightning,South East Stars,BF Smith,bowled,Y Graves
+1252281,2021,10-09-2021,Lightning,South East Stars,BF Smith,caught,G Ballinger
+1252281,2021,10-09-2021,Lightning,South East Stars,AN Davidson-Richards,caught,S Munro
+1252282,2021,10-09-2021,Sunrisers,Central Sparks,Anisha Patel,lbw,G Scrivens
+1252282,2021,10-09-2021,Sunrisers,Central Sparks,E Jones,caught,CL Griffith
+1252282,2021,10-09-2021,Sunrisers,Central Sparks,RA Fackrell,bowled,FC Wilson
+1252282,2021,10-09-2021,Sunrisers,Central Sparks,RA Fackrell,bowled,ND Dattani
+1252282,2021,10-09-2021,Sunrisers,Central Sparks,E Jones,caught,AJ Macleod
+1252282,2021,10-09-2021,Sunrisers,Central Sparks,RA Fackrell,bowled,KS Castle
+1252282,2021,10-09-2021,Sunrisers,Central Sparks,IECM Wong,caught,J Gardner
+1252282,2021,10-09-2021,Central Sparks,Sunrisers,G Scrivens,caught,E Jones
+1252282,2021,10-09-2021,Central Sparks,Sunrisers,KL Coppack,bowled,Marie Kelly
+1252282,2021,10-09-2021,Central Sparks,Sunrisers,KS Castle,caught,D Perrin
+1252282,2021,10-09-2021,Central Sparks,Sunrisers,GKS Gole,caught,GM Davies
+1252283,2021,10-09-2021,Thunder,Southern Vipers,LK Bell,bowled,GEB Boyce
+1252283,2021,10-09-2021,Thunder,Southern Vipers,LK Bell,bowled,S Smale
+1252283,2021,10-09-2021,Thunder,Southern Vipers,TG Norris,caught and bowled,E Threlkeld
+1252283,2021,10-09-2021,Thunder,Southern Vipers,PJ Scholfield,caught,EL Lamb
+1252283,2021,10-09-2021,Thunder,Southern Vipers,PJ Scholfield,caught,N Brown
+1252283,2021,10-09-2021,Thunder,Southern Vipers,PJ Scholfield,bowled,L Marshall
+1252283,2021,10-09-2021,Thunder,Southern Vipers,CM Taylor,lbw,L Jackson
+1252283,2021,10-09-2021,Thunder,Southern Vipers,TG Norris,caught and bowled,AE Dyson
+1252283,2021,10-09-2021,Thunder,Southern Vipers,TG Norris,caught,HE Jones
+1252283,2021,10-09-2021,Thunder,Southern Vipers,TG Norris,caught,KL Cross
+1252283,2021,10-09-2021,Southern Vipers,Thunder,KL Cross,caught,GL Adams
+1252283,2021,10-09-2021,Southern Vipers,Thunder,HE Jones,lbw,GH Lewis
+1252283,2021,10-09-2021,Southern Vipers,Thunder,KL Cross,caught,GA Elwiss
+1252283,2021,10-09-2021,Southern Vipers,Thunder,EL Lamb,caught,PJ Scholfield
+1252283,2021,10-09-2021,Southern Vipers,Thunder,A Hartley,lbw,EM McCaughan
+1252283,2021,10-09-2021,Southern Vipers,Thunder,HE Jones,lbw,CE Rudd
+1252283,2021,10-09-2021,Southern Vipers,Thunder,A Hartley,lbw,TG Norris
+1252284,2021,12-09-2021,Northern Diamonds,Thunder,AE Dyson,caught,HJ Armitage
+1252284,2021,12-09-2021,Northern Diamonds,Thunder,N Brown,caught,RHM Hopkins
+1252284,2021,12-09-2021,Northern Diamonds,Thunder,HE Jones,run out,L Dobson
+1252284,2021,12-09-2021,Northern Diamonds,Thunder,A Hartley,caught,SL Kalis
+1252284,2021,12-09-2021,Northern Diamonds,Thunder,HE Jones,caught,A Campbell
+1252284,2021,12-09-2021,Northern Diamonds,Thunder,A Hartley,caught,LCN Smith
+1252284,2021,12-09-2021,Thunder,Northern Diamonds,PC Graham,caught,S Smale
+1252284,2021,12-09-2021,Thunder,Northern Diamonds,KA Levick,lbw,E Threlkeld
+1252284,2021,12-09-2021,Thunder,Northern Diamonds,HJ Armitage,caught,D Mullan
+1252284,2021,12-09-2021,Thunder,Northern Diamonds,HJ Armitage,caught,GEB Boyce
+1252284,2021,12-09-2021,Thunder,Northern Diamonds,HJ Armitage,run out,N Brown
+1252284,2021,12-09-2021,Thunder,Northern Diamonds,KA Levick,bowled,L Jackson
+1252284,2021,12-09-2021,Thunder,Northern Diamonds,KA Levick,caught,AE Dyson
+1252284,2021,12-09-2021,Thunder,Northern Diamonds,KA Levick,lbw,L Marshall
+1252285,2021,12-09-2021,Central Sparks,South East Stars,R MacDonald-Gay,caught,E Jones
+1252285,2021,12-09-2021,Central Sparks,South East Stars,PA Franklin,caught,Marie Kelly
+1252285,2021,12-09-2021,Central Sparks,South East Stars,R MacDonald-Gay,lbw,GM Davies
+1252285,2021,12-09-2021,Central Sparks,South East Stars,D Gregory,caught,D Perrin
+1252285,2021,12-09-2021,Central Sparks,South East Stars,BF Smith,lbw,TF Brookes
+1252285,2021,12-09-2021,Central Sparks,South East Stars,BF Smith,caught,RA Fackrell
+1252285,2021,12-09-2021,Central Sparks,South East Stars,K Moore,run out,CAE Hill
+1252285,2021,12-09-2021,Central Sparks,South East Stars,K Moore,bowled,IECM Wong
+1252285,2021,12-09-2021,Central Sparks,South East Stars,AN Davidson-Richards,bowled,CK Boycott
+1252285,2021,12-09-2021,Central Sparks,South East Stars,AN Davidson-Richards,bowled,GK Davis
+1252285,2021,12-09-2021,South East Stars,Central Sparks,GK Davis,caught,BF Smith
+1252285,2021,12-09-2021,South East Stars,Central Sparks,GK Davis,caught,AN Davidson-Richards
+1252285,2021,12-09-2021,South East Stars,Central Sparks,IECM Wong,caught,KE White
+1252285,2021,12-09-2021,South East Stars,Central Sparks,CK Boycott,run out,A Cranstone
+1252285,2021,12-09-2021,South East Stars,Central Sparks,RA Fackrell,lbw,A Capsey
+1252285,2021,12-09-2021,South East Stars,Central Sparks,RA Fackrell,bowled,Emma Jones
+1252285,2021,12-09-2021,South East Stars,Central Sparks,RA Fackrell,caught,KM Chathli
+1252285,2021,12-09-2021,South East Stars,Central Sparks,GK Davis,caught,PA Franklin
+1252285,2021,12-09-2021,South East Stars,Central Sparks,GK Davis,lbw,R MacDonald-Gay
+1252285,2021,12-09-2021,South East Stars,Central Sparks,E Jones,caught,K Moore
+1252286,2021,12-09-2021,Western Storm,Lightning,KL Gordon,lbw,FMK Morris
+1252286,2021,12-09-2021,Western Storm,Lightning,S Munro,caught,LA Parfitt
+1252286,2021,12-09-2021,Western Storm,Lightning,S Munro,caught and bowled,GM Hennessy
+1252286,2021,12-09-2021,Western Storm,Lightning,KE Bryce,bowled,A Griffiths
+1252286,2021,12-09-2021,Western Storm,Lightning,KL Gordon,lbw,DR Gibson
+1252286,2021,12-09-2021,Western Storm,Lightning,KL Gordon,caught,SN Luff
+1252286,2021,12-09-2021,Western Storm,Lightning,G Ballinger,bowled,NAJ Wraith
+1252286,2021,12-09-2021,Lightning,Western Storm,C Nicholas,run out,B Harmer
+1252286,2021,12-09-2021,Lightning,Western Storm,L Filer,caught,KE Bryce
+1252286,2021,12-09-2021,Lightning,Western Storm,C Nicholas,bowled,SJ Bryce
+1252286,2021,12-09-2021,Lightning,Western Storm,N Harvey,bowled,AJ Freeborn
+1252286,2021,12-09-2021,Lightning,Western Storm,DR Gibson,caught,T Graves
+1252286,2021,12-09-2021,Lightning,Western Storm,FMK Morris,lbw,LF Higham
+1252286,2021,12-09-2021,Lightning,Western Storm,GM Hennessy,caught,KL Gordon
+1252286,2021,12-09-2021,Lightning,Western Storm,FMK Morris,caught,S Munro
+1252286,2021,12-09-2021,Lightning,Western Storm,GM Hennessy,caught,Y Graves
+1252286,2021,12-09-2021,Lightning,Western Storm,N Harvey,caught,G Ballinger
+1252287,2021,12-09-2021,Southern Vipers,Sunrisers,Sonali Patel,caught,EM McCaughan
+1252287,2021,12-09-2021,Southern Vipers,Sunrisers,G Scrivens,caught,ME Bouchier
+1252287,2021,12-09-2021,Southern Vipers,Sunrisers,Sonali Patel,caught,GL Adams
+1252287,2021,12-09-2021,Southern Vipers,Sunrisers,ND Dattani,bowled,GH Lewis
+1252287,2021,12-09-2021,Southern Vipers,Sunrisers,ND Dattani,caught,E Windsor
+1252287,2021,12-09-2021,Southern Vipers,Sunrisers,Sonali Patel,caught,PJ Scholfield
+1252287,2021,12-09-2021,Southern Vipers,Sunrisers,KS Castle,bowled,TG Norris
+1252287,2021,12-09-2021,Southern Vipers,Sunrisers,Sonali Patel,run out,CE Rudd
+1252287,2021,12-09-2021,Southern Vipers,Sunrisers,KS Castle,stumped,LK Bell
+1252287,2021,12-09-2021,Sunrisers,Southern Vipers,GL Adams,bowled,G Scrivens
+1252287,2021,12-09-2021,Sunrisers,Southern Vipers,LK Bell,lbw,CL Griffith
+1252287,2021,12-09-2021,Sunrisers,Southern Vipers,GA Elwiss,lbw,AJ Macleod
+1252287,2021,12-09-2021,Sunrisers,Southern Vipers,GL Adams,caught,ND Dattani
+1252287,2021,12-09-2021,Sunrisers,Southern Vipers,CM Taylor,stumped,KS Castle
+1252287,2021,12-09-2021,Sunrisers,Southern Vipers,TG Norris,caught,J Gardner
+1252288,2021,18-09-2021,Lightning,Central Sparks,IECM Wong,caught,B Ellis
+1252288,2021,18-09-2021,Lightning,Central Sparks,GK Davis,caught,SJ Bryce
+1252288,2021,18-09-2021,Lightning,Central Sparks,EL Arlott,caught,AJ Freeborn
+1252288,2021,18-09-2021,Lightning,Central Sparks,IECM Wong,bowled,B Harmer
+1252288,2021,18-09-2021,Lightning,Central Sparks,IECM Wong,caught,E Claridge
+1252288,2021,18-09-2021,Lightning,Central Sparks,RA Fackrell,run out,KE Bryce
+1252288,2021,18-09-2021,Central Sparks,Lightning,Y Graves,stumped,Marie Kelly
+1252288,2021,18-09-2021,Central Sparks,Lightning,KL Gordon,caught,E Jones
+1252288,2021,18-09-2021,Central Sparks,Lightning,KL Gordon,run out,D Perrin
+1252288,2021,18-09-2021,Central Sparks,Lightning,KL Gordon,caught,GM Davies
+1252288,2021,18-09-2021,Central Sparks,Lightning,SB Odedra,caught,IECM Wong
+1252288,2021,18-09-2021,Central Sparks,Lightning,G Ballinger,bowled,RA Fackrell
+1252288,2021,18-09-2021,Central Sparks,Lightning,SB Odedra,caught,TF Brookes
+1252288,2021,18-09-2021,Central Sparks,Lightning,G Ballinger,caught,EL Arlott
+1252288,2021,18-09-2021,Central Sparks,Lightning,KE Bryce,caught,CK Boycott
+1252289,2021,18-09-2021,Thunder,South East Stars,R MacDonald-Gay,run out,S Smale
+1252289,2021,18-09-2021,Thunder,South East Stars,PA Franklin,caught,GEB Boyce
+1252289,2021,18-09-2021,Thunder,South East Stars,D Gregory,caught,N Brown
+1252289,2021,18-09-2021,Thunder,South East Stars,K Moore,caught,D Mullan
+1252289,2021,18-09-2021,Thunder,South East Stars,D Gregory,caught,L Marshall
+1252289,2021,18-09-2021,Thunder,South East Stars,A Capsey,caught,L Heap
+1252289,2021,18-09-2021,Thunder,South East Stars,A Capsey,lbw,L Jackson
+1252289,2021,18-09-2021,Thunder,South East Stars,Emma Jones,caught,AE Dyson
+1252289,2021,18-09-2021,Thunder,South East Stars,Emma Jones,run out,HE Jones
+1252289,2021,18-09-2021,Thunder,South East Stars,PA Franklin,run out,A Hartley
+1252289,2021,18-09-2021,South East Stars,Thunder,L Jackson,bowled,C Brewer
+1252289,2021,18-09-2021,South East Stars,Thunder,AE Dyson,caught,AN Davidson-Richards
+1252289,2021,18-09-2021,South East Stars,Thunder,A Hartley,caught,A Capsey
+1252289,2021,18-09-2021,South East Stars,Thunder,HE Jones,caught,GJ Gibbs
+1252289,2021,18-09-2021,South East Stars,Thunder,A Hartley,caught,K Moore
+1252289,2021,18-09-2021,South East Stars,Thunder,HE Jones,lbw,KE White
+1252289,2021,18-09-2021,South East Stars,Thunder,HE Jones,caught,PA Franklin
+1252289,2021,18-09-2021,South East Stars,Thunder,HE Jones,caught,KM Chathli
+1252289,2021,18-09-2021,South East Stars,Thunder,HE Jones,caught,R MacDonald-Gay
+1252289,2021,18-09-2021,South East Stars,Thunder,L Heap,caught,Emma Jones
+1252290,2021,18-09-2021,Western Storm,Sunrisers,KL Coppack,lbw,LA Parfitt
+1252290,2021,18-09-2021,Western Storm,Sunrisers,MK Villiers,caught,FMK Morris
+1252290,2021,18-09-2021,Western Storm,Sunrisers,KS Castle,lbw,GM Hennessy
+1252290,2021,18-09-2021,Western Storm,Sunrisers,MK Villiers,caught,A Griffiths
+1252290,2021,18-09-2021,Sunrisers,Western Storm,GM Hennessy,caught and bowled,CL Griffith
+1252290,2021,18-09-2021,Sunrisers,Western Storm,N Harvey,caught,G Scrivens
+1252290,2021,18-09-2021,Sunrisers,Western Storm,C Nicholas,stumped,AJ Macleod
+1252290,2021,18-09-2021,Sunrisers,Western Storm,DR Gibson,stumped,ND Dattani
+1252290,2021,18-09-2021,Sunrisers,Western Storm,N Harvey,bowled,FC Wilson
+1252290,2021,18-09-2021,Sunrisers,Western Storm,GM Hennessy,stumped,AD Carr
+1252290,2021,18-09-2021,Sunrisers,Western Storm,C Nicholas,lbw,KS Castle
+1252290,2021,18-09-2021,Sunrisers,Western Storm,DR Gibson,run out,MK Villiers
+1252290,2021,18-09-2021,Sunrisers,Western Storm,DR Gibson,caught,Sonali Patel
+1252290,2021,18-09-2021,Sunrisers,Western Storm,C Nicholas,run out,KL Coppack
+1252291,2021,18-09-2021,Northern Diamonds,Southern Vipers,TG Norris,caught,RHM Hopkins
+1252291,2021,18-09-2021,Northern Diamonds,Southern Vipers,GA Elwiss,bowled,HJ Armitage
+1252291,2021,18-09-2021,Northern Diamonds,Southern Vipers,ME Bouchier,stumped,SL Kalis
+1252291,2021,18-09-2021,Northern Diamonds,Southern Vipers,LK Bell,caught,A Campbell
+1252291,2021,18-09-2021,Northern Diamonds,Southern Vipers,GL Adams,run out,L Dobson
+1252291,2021,18-09-2021,Northern Diamonds,Southern Vipers,LK Bell,run out,BAM Heath
+1252291,2021,18-09-2021,Northern Diamonds,Southern Vipers,LK Bell,bowled,BA Langston
+1252291,2021,18-09-2021,Northern Diamonds,Southern Vipers,PJ Scholfield,bowled,PC Graham
+1252291,2021,18-09-2021,Northern Diamonds,Southern Vipers,PJ Scholfield,lbw,R Slater
+1252291,2021,18-09-2021,Northern Diamonds,Southern Vipers,GL Adams,caught,LCN Smith
+1252291,2021,18-09-2021,Southern Vipers,Northern Diamonds,R Slater,run out,EM McCaughan
+1252291,2021,18-09-2021,Southern Vipers,Northern Diamonds,PC Graham,caught,ME Bouchier
+1252291,2021,18-09-2021,Southern Vipers,Northern Diamonds,PC Graham,caught,GL Adams
+1252291,2021,18-09-2021,Southern Vipers,Northern Diamonds,PC Graham,lbw,GH Lewis
+1252291,2021,18-09-2021,Southern Vipers,Northern Diamonds,BA Langston,run out,E Windsor
+1252292,2021,22-09-2021,Central Sparks,Northern Diamonds,BA Langston,lbw,Marie Kelly
+1252292,2021,22-09-2021,Central Sparks,Northern Diamonds,R Slater,caught,D Perrin
+1252292,2021,22-09-2021,Central Sparks,Northern Diamonds,R Slater,caught,E Jones
+1252292,2021,22-09-2021,Central Sparks,Northern Diamonds,LCN Smith,caught,TF Brookes
+1252292,2021,22-09-2021,Central Sparks,Northern Diamonds,LCN Smith,lbw,IECM Wong
+1252292,2021,22-09-2021,Central Sparks,Northern Diamonds,BA Langston,lbw,GM Davies
+1252292,2021,22-09-2021,Central Sparks,Northern Diamonds,KA Levick,caught,CAE Hill
+1252292,2021,22-09-2021,Northern Diamonds,Central Sparks,GK Davis,caught,HJ Armitage
+1252292,2021,22-09-2021,Northern Diamonds,Central Sparks,EL Arlott,caught,RHM Hopkins
+1252292,2021,22-09-2021,Northern Diamonds,Central Sparks,EL Arlott,bowled,L Dobson
+1252292,2021,22-09-2021,Northern Diamonds,Central Sparks,Marie Kelly,caught,A Campbell
+1252293,2021,25-09-2021,Northern Diamonds,Southern Vipers,PJ Scholfield,bowled,HJ Armitage
+1252293,2021,25-09-2021,Northern Diamonds,Southern Vipers,GL Adams,caught,LCN Smith
+1252293,2021,25-09-2021,Northern Diamonds,Southern Vipers,CM Taylor,bowled,L Dobson
+1252293,2021,25-09-2021,Northern Diamonds,Southern Vipers,GL Adams,lbw,SL Kalis
+1252293,2021,25-09-2021,Northern Diamonds,Southern Vipers,TG Norris,lbw,BAM Heath
+1252293,2021,25-09-2021,Northern Diamonds,Southern Vipers,GL Adams,caught,JL Gunn
+1252293,2021,25-09-2021,Northern Diamonds,Southern Vipers,GL Adams,lbw,BA Langston
+1252293,2021,25-09-2021,Northern Diamonds,Southern Vipers,CM Taylor,bowled,PC Graham
+1252293,2021,25-09-2021,Northern Diamonds,Southern Vipers,TG Norris,caught,KA Levick
+1252293,2021,25-09-2021,Northern Diamonds,Southern Vipers,GA Elwiss,caught,A Campbell
+1252293,2021,25-09-2021,Southern Vipers,Northern Diamonds,BA Langston,bowled,GL Adams
+1252293,2021,25-09-2021,Southern Vipers,Northern Diamonds,BA Langston,bowled,EM McCaughan
+1252293,2021,25-09-2021,Southern Vipers,Northern Diamonds,PC Graham,caught,GA Elwiss
+1252293,2021,25-09-2021,Southern Vipers,Northern Diamonds,KA Levick,stumped,ME Bouchier
+1252293,2021,25-09-2021,Southern Vipers,Northern Diamonds,JL Gunn,bowled,GH Lewis
+1252293,2021,25-09-2021,Southern Vipers,Northern Diamonds,JL Gunn,caught,PJ Scholfield
+1252293,2021,25-09-2021,Southern Vipers,Northern Diamonds,JL Gunn,lbw,CE Rudd
+1229327,2020,29-08-2020,Central Sparks,Northern Diamonds,KH Brunt,caught,E Jones
+1229327,2020,29-08-2020,Central Sparks,Northern Diamonds,KA Levick,caught,AE Jones
+1229327,2020,29-08-2020,Central Sparks,Northern Diamonds,BA Langston,caught,Marie Kelly
+1229327,2020,29-08-2020,Central Sparks,Northern Diamonds,,run out,GM Davies
+1229327,2020,29-08-2020,Central Sparks,Northern Diamonds,KH Brunt,bowled,S Glenn
+1229327,2020,29-08-2020,Central Sparks,Northern Diamonds,JL Gunn,bowled,TF Brookes
+1229327,2020,29-08-2020,Central Sparks,Northern Diamonds,KH Brunt,caught,CK Boycott
+1229327,2020,29-08-2020,Central Sparks,Northern Diamonds,KH Brunt,bowled,EL Arlott
+1229327,2020,29-08-2020,Central Sparks,Northern Diamonds,KH Brunt,bowled,IECM Wong
+1229327,2020,29-08-2020,Central Sparks,Northern Diamonds,BA Langston,lbw,Anisha Patel
+1229327,2020,29-08-2020,Northern Diamonds,Central Sparks,CK Boycott,caught,L Winfield
+1229328,2020,29-08-2020,Thunder,Lightning,S Munro,caught,L Marshall
+1229328,2020,29-08-2020,Thunder,Lightning,,run out,GEB Boyce
+1229328,2020,29-08-2020,Thunder,Lightning,S Munro,caught,EL Lamb
+1229328,2020,29-08-2020,Thunder,Lightning,S Munro,caught,E Threlkeld
+1229328,2020,29-08-2020,Thunder,Lightning,,run out,N Brown
+1229328,2020,29-08-2020,Thunder,Lightning,LF Higham,bowled,KL Cross
+1229328,2020,29-08-2020,Thunder,Lightning,KL Gordon,bowled,S Turner
+1229328,2020,29-08-2020,Thunder,Lightning,LF Higham,lbw,Olivia Thomas
+1229328,2020,29-08-2020,Thunder,Lightning,,run out,HE Jones
+1229328,2020,29-08-2020,Lightning,Thunder,N Brown,caught,TT Beaumont
+1229328,2020,29-08-2020,Lightning,Thunder,S Ecclestone,bowled,SJ Bryce
+1229328,2020,29-08-2020,Lightning,Thunder,,run out,KE Bryce
+1229328,2020,29-08-2020,Lightning,Thunder,A Hartley,caught,AJ Freeborn
+1229328,2020,29-08-2020,Lightning,Thunder,HE Jones,lbw,B Ellis
+1229328,2020,29-08-2020,Lightning,Thunder,A Hartley,lbw,LF Higham
+1229328,2020,29-08-2020,Lightning,Thunder,S Ecclestone,bowled,N Harman
+1229328,2020,29-08-2020,Lightning,Thunder,KL Cross,bowled,KL Gordon
+1229328,2020,29-08-2020,Lightning,Thunder,,run out,T Graves
+1229328,2020,29-08-2020,Lightning,Thunder,,run out,S Munro

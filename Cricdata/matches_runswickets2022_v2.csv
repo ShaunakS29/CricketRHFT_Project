@@ -1,0 +1,17 @@
+match_id,Team1,Team1_batting_score,Team1_bowling_score,Team2,Team2_batting_score,Team2_bowling_score,Winner,Team1_total_runs,Team2_total_runs,Team2_runs_10overs,Team2_wickets_10overs,DLS
+202201,Central Sparks,0.433825013,0.43476118,Southern Vipers,0.475675517,0.580834545,Southern Vipers,69,75,75,3,Yes
+202202,South East Stars,0.375114619,0.349222603,Sunrisers,0.324266819,0.2107826,South East Stars,281,201,59,1,No
+202203,Western Storm,0.477618414,0.297775728,Lightning,0.476237423,0.391991038,Western Storm,241,166,36,3,Yes
+202204,Thunder,0.289145629,0.503731127,Northern Diamonds,0.439798362,0.600177174,Northern Diamonds,235,241,56,1,No
+202205,Central Sparks,0.433825013,0.43476118,Western Storm,0.441738934,0.249513999,Central Sparks,206,184,32,3,No
+202206,Northern Diamonds,0.467440307,0.51058991,Sunrisers,0.338241342,0.2107826,Northern Diamonds,194,188,41,0,No
+202207,Thunder,0.279985542,0.494208166,Lightning,0.486728906,0.330789227,Lightning,238,241,55,1,No
+202208,Southern Vipers,0.449753331,0.48135938,South East Stars,0.379504876,0.346962424,Southern Vipers,306,173,60,0,No
+202209,Central Sparks,0.413920208,0.405100047,Northern Diamonds,0.510656447,0.592534003,Northern Diamonds,214,215,55,0,No
+202210,South East Stars,0.328292048,0.384760496,Thunder,0.278046773,0.494208166,South East Stars,198,146,48,1,No
+202211,Sunrisers,0.361044293,0.2107826,Western Storm,0.44738367,0.260960436,Western Storm,254,257,36,2,No
+202212,Southern Vipers,0.386009227,0.516161946,Lightning,0.446476229,0.361917257,Southern Vipers,294,228,49,2,No
+202213,Southern Vipers,0.440367619,0.533679145,Sunrisers,0.361044293,0.2107826,Southern Vipers,233,222,28,1,No
+202214,South East Stars,0.281045183,0.393499937,Western Storm,0.48261869,0.240340823,South East Stars,283,247,48,1,No
+202215,Lightning,0.500271022,0.397604086,Northern Diamonds,0.502112272,0.630816455,Northern Diamonds,199,200,50,1,No
+202216,Thunder,0.298086466,0.522041761,Central Sparks,0.433825013,0.43311462,Thunder,219,191,34,0,Yes

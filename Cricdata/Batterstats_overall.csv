@@ -1,0 +1,159 @@
+batting_team,striker,batter_labels,matches,balls_faced,runs_off_bat,50s,100s,dismissals,strike_rate,batting_average,matches_played
+Central Sparks,AE Jones,AE Jones (Central Sparks),5,311,320,0,2,4,77.83,80.0,1-5
+Central Sparks,Anisha Patel,Anisha Patel (Central Sparks),3,10,4,0,0,2,51.11,2.0,1-5
+Central Sparks,CAE Hill,CAE Hill (Central Sparks),6,160,83,0,0,4,61.42,20.75,6-10
+Central Sparks,CK Boycott,CK Boycott (Central Sparks),7,214,101,0,0,6,49.4,16.83,6-10
+Central Sparks,D Perrin,D Perrin (Central Sparks),4,128,92,0,0,4,63.69,23.0,1-5
+Central Sparks,E Jones,E Jones (Central Sparks),14,980,633,4,2,12,55.05,52.75,>=11
+Central Sparks,EA Russell,EA Russell (Central Sparks),5,13,12,0,0,3,68.67,4.0,1-5
+Central Sparks,EL Arlott,EL Arlott (Central Sparks),8,144,108,0,0,5,71.68,21.6,6-10
+Central Sparks,GK Davis,GK Davis (Central Sparks),4,39,24,0,0,3,74.26,8.0,1-5
+Central Sparks,GM Davies,GM Davies (Central Sparks),14,566,362,2,0,14,46.88,25.86,>=11
+Central Sparks,HL Baker,HL Baker (Central Sparks),1,8,5,0,0,1,62.5,5.0,1-5
+Central Sparks,IECM Wong,IECM Wong (Central Sparks),9,72,57,0,0,8,64.18,7.12,6-10
+Central Sparks,M Home,M Home (Central Sparks),7,135,50,0,0,7,27.18,7.14,6-10
+Central Sparks,Marie Kelly,Marie Kelly (Central Sparks),13,640,405,4,0,11,52.95,36.82,>=11
+Central Sparks,P Davies,P Davies (Central Sparks),5,111,47,0,0,3,33.41,15.67,1-5
+Central Sparks,RA Fackrell (CF),RA Fackrell (Central Sparks),7,139,75,0,0,6,56.56,12.5,6-10
+Central Sparks,S Butler,S Butler (Central Sparks),4,126,57,0,0,4,37.36,14.25,1-5
+Central Sparks,S Glenn,S Glenn (Central Sparks),6,153,141,1,0,5,60.94,28.2,6-10
+Central Sparks,TF Brookes,TF Brookes (Central Sparks),6,161,100,0,0,4,60.33,25.0,6-10
+Lightning,AD Presland,AD Presland (Lightning),2,25,9,0,0,1,37.84,9.0,1-5
+Lightning,AJ Freeborn,AJ Freeborn (Lightning),12,440,272,0,0,12,53.74,22.67,>=11
+Lightning,B Ellis,B Ellis (Lightning),7,218,124,1,0,7,49.11,17.71,6-10
+Lightning,B Harmer,B Harmer (Lightning),3,28,21,0,0,3,68.05,7.0,1-5
+Lightning,E Claridge,E Claridge (Lightning),3,66,46,0,0,2,44.48,23.0,1-5
+Lightning,G Ballinger,G Ballinger (Lightning),4,35,29,0,0,3,72.12,9.67,1-5
+Lightning,Ilenia Sims,Ilenia Sims (Lightning),1,7,1,0,0,0,14.29,,1-5
+Lightning,J Groves,J Groves (Lightning),1,3,2,0,0,0,66.67,,1-5
+Lightning,KE Bryce,KE Bryce (Lightning),13,674,494,3,1,12,58.93,41.17,>=11
+Lightning,KL Gordon,KL Gordon (Lightning),6,98,59,0,0,5,57.1,11.8,6-10
+Lightning,LF Higham,LF Higham (Lightning),11,240,143,0,0,10,51.77,14.3,>=11
+Lightning,LG Kellogg,LG Kellogg (Lightning),2,10,1,0,0,1,6.25,1.0,1-5
+Lightning,ML Kirk,ML Kirk (Lightning),3,109,71,1,0,3,40.09,23.67,1-5
+Lightning,N Harman,N Harman (Lightning),5,56,43,0,0,5,86.67,8.6,1-5
+Lightning,RA Fackrell (L),RA Fackrell (Lightning),1,23,8,0,0,1,34.78,8.0,1-5
+Lightning,S Munro,S Munro (Lightning),5,41,25,0,0,4,53.57,6.25,1-5
+Lightning,S Pai,S Pai (Lightning),4,76,32,0,0,4,50.0,8.0,1-5
+Lightning,SB Odedra,SB Odedra (Lightning),4,95,63,0,0,2,73.04,31.5,1-5
+Lightning,SJ Bryce,SJ Bryce (Lightning),13,824,597,5,1,12,59.34,49.75,>=11
+Lightning,T Graves,T Graves (Lightning),12,294,217,1,0,10,76.72,21.7,>=11
+Lightning,TT Beaumont,TT Beaumont (Lightning),5,323,220,3,0,5,57.34,44.0,1-5
+Lightning,Y Graves,Y Graves (Lightning),4,102,53,0,0,3,57.61,17.67,1-5
+Northern Diamonds,A Campbell,A Campbell (Northern Diamonds),12,352,293,2,0,12,73.39,24.42,>=11
+Northern Diamonds,AL MacDonald,AL MacDonald (Northern Diamonds),9,277,179,1,0,9,56.5,19.89,6-10
+Northern Diamonds,BA Langston,BA Langston (Northern Diamonds),11,242,234,2,0,8,82.26,29.25,>=11
+Northern Diamonds,BAM Heath,BAM Heath (Northern Diamonds),10,250,249,2,0,7,72.26,35.57,6-10
+Northern Diamonds,HJ Armitage,HJ Armitage (Northern Diamonds),16,569,373,2,0,13,64.06,28.69,>=11
+Northern Diamonds,HL Fenby,HL Fenby (Northern Diamonds),3,33,19,0,0,1,70.95,19.0,1-5
+Northern Diamonds,JL Gunn,JL Gunn (Northern Diamonds),10,436,258,2,0,8,59.34,32.25,6-10
+Northern Diamonds,KA Levick,KA Levick (Northern Diamonds),6,53,27,0,0,3,47.88,9.0,6-10
+Northern Diamonds,KH Brunt,KH Brunt (Northern Diamonds),3,70,49,0,0,3,48.67,16.33,1-5
+Northern Diamonds,L Dobson,L Dobson (Northern Diamonds),5,129,74,0,0,5,37.43,14.8,1-5
+Northern Diamonds,L Tipton,L Tipton (Northern Diamonds),1,24,14,0,0,1,58.33,14.0,1-5
+Northern Diamonds,L Winfield,L Winfield (Northern Diamonds),7,286,228,1,1,7,66.42,32.57,6-10
+Northern Diamonds,LCN Smith,LCN Smith (Northern Diamonds),7,157,112,0,0,5,79.19,22.4,6-10
+Northern Diamonds,NR Sciver,NR Sciver (Northern Diamonds),5,174,134,0,1,3,127.86,44.67,1-5
+Northern Diamonds,PC Graham,PC Graham (Northern Diamonds),6,78,61,0,0,4,47.96,15.25,6-10
+Northern Diamonds,R Slater,R Slater (Northern Diamonds),2,32,6,0,0,1,10.0,6.0,1-5
+Northern Diamonds,RHM Hopkins,RHM Hopkins (Northern Diamonds),8,254,97,0,0,8,31.4,12.12,6-10
+Northern Diamonds,SJ Taylor,SJ Taylor (Northern Diamonds),1,6,2,0,0,1,33.33,2.0,1-5
+Northern Diamonds,SL Kalis,SL Kalis (Northern Diamonds),14,741,487,5,0,12,49.68,40.58,>=11
+South East Stars,A Capsey,A Capsey (South East Stars),13,400,283,2,0,12,54.28,23.58,>=11
+South East Stars,A Cranstone,A Cranstone (South East Stars),12,379,239,0,0,10,53.65,23.9,>=11
+South East Stars,AG Gordon,AG Gordon (South East Stars),3,40,9,0,0,2,15.61,4.5,1-5
+South East Stars,AN Davidson-Richards,AN Davidson-Richards (South East Stars),10,375,240,3,0,10,42.72,24.0,6-10
+South East Stars,BF Smith,BF Smith (South East Stars),9,278,269,2,0,9,100.94,29.89,6-10
+South East Stars,C Brewer,C Brewer (South East Stars),4,234,161,1,0,4,66.14,40.25,1-5
+South East Stars,D Gregory,D Gregory (South East Stars),4,26,2,0,0,2,5.5,1.0,1-5
+South East Stars,E Gray,E Gray (South East Stars),2,16,4,0,0,2,28.2,2.0,1-5
+South East Stars,Emma Jones,Emma Jones (South East Stars),3,42,33,0,0,2,61.78,16.5,1-5
+South East Stars,FR Davies,FR Davies (South East Stars),3,70,21,0,0,1,56.44,21.0,1-5
+South East Stars,GJ Gibbs,GJ Gibbs (South East Stars),8,133,109,0,0,7,75.38,15.57,6-10
+South East Stars,HV Jones,HV Jones (South East Stars),5,123,74,0,0,5,55.55,14.8,1-5
+South East Stars,K Moore,K Moore (South East Stars),3,116,85,0,0,3,74.6,28.33,1-5
+South East Stars,KE White,KE White (South East Stars),10,335,189,2,0,9,44.7,21.0,6-10
+South East Stars,KM Chathli,KM Chathli (South East Stars),3,71,40,0,0,3,50.26,13.33,1-5
+South East Stars,M Blythin,M Blythin (South East Stars),2,114,56,1,0,2,41.16,28.0,1-5
+South East Stars,MS Belt,MS Belt (South East Stars),2,8,5,0,0,1,125.0,5.0,1-5
+South East Stars,NE Farrant,NE Farrant (South East Stars),7,172,101,0,0,7,49.14,14.43,6-10
+South East Stars,PA Franklin,PA Franklin (South East Stars),5,105,82,0,0,4,86.31,20.5,1-5
+South East Stars,R MacDonald-Gay,R MacDonald-Gay (South East Stars),2,25,0,0,0,2,0.0,0.0,1-5
+South East Stars,R Southby,R Southby (South East Stars),7,71,42,0,0,3,61.38,14.0,6-10
+South East Stars,SE Rowe,SE Rowe (South East Stars),4,116,79,0,0,3,45.88,26.33,1-5
+South East Stars,SIR Dunkley,SIR Dunkley (South East Stars),5,343,298,2,1,4,67.46,74.5,1-5
+Southern Vipers,AZ Monaghan,AZ Monaghan (Southern Vipers),5,29,11,0,0,2,28.42,5.5,1-5
+Southern Vipers,CE Dean,CE Dean (Southern Vipers),9,318,214,1,0,6,54.27,35.67,6-10
+Southern Vipers,CE Rudd,CE Rudd (Southern Vipers),9,186,105,0,0,9,53.35,11.67,6-10
+Southern Vipers,CM Taylor,CM Taylor (Southern Vipers),4,42,20,0,0,2,53.72,10.0,1-5
+Southern Vipers,DN Wyatt,DN Wyatt (Southern Vipers),6,414,325,5,0,5,80.66,65.0,6-10
+Southern Vipers,E Windsor,E Windsor (Southern Vipers),10,363,215,0,0,7,55.11,30.71,6-10
+Southern Vipers,EM McCaughan,EM McCaughan (Southern Vipers),12,393,242,2,0,11,51.67,22.0,>=11
+Southern Vipers,ER Chandler,ER Chandler (Southern Vipers),1,6,5,0,0,1,83.33,5.0,1-5
+Southern Vipers,GA Elwiss,GA Elwiss (Southern Vipers),7,300,265,1,1,5,57.98,53.0,6-10
+Southern Vipers,GH Lewis,GH Lewis (Southern Vipers),4,150,97,0,0,4,68.32,24.25,1-5
+Southern Vipers,GL Adams,GL Adams (Southern Vipers),15,1013,733,6,1,14,57.75,52.36,>=11
+Southern Vipers,LK Bell,LK Bell (Southern Vipers),2,9,7,0,0,1,85.0,7.0,1-5
+Southern Vipers,ME Bouchier,ME Bouchier (Southern Vipers),14,493,378,2,0,12,75.06,31.5,>=11
+Southern Vipers,PAC Cowdrill,PAC Cowdrill (Southern Vipers),1,6,4,0,0,1,66.67,4.0,1-5
+Southern Vipers,PJ Scholfield,PJ Scholfield (Southern Vipers),11,271,180,0,0,8,66.22,22.5,>=11
+Southern Vipers,TG Norris,TG Norris (Southern Vipers),10,118,74,0,0,6,56.46,12.33,6-10
+Sunrisers,AD Carr,AD Carr (Sunrisers),11,243,157,1,0,11,39.13,14.27,>=11
+Sunrisers,AJ Macleod,AJ Macleod (Sunrisers),13,415,282,1,0,13,49.71,21.69,>=11
+Sunrisers,CL Griffith,CL Griffith (Sunrisers),11,477,357,2,0,11,64.65,32.45,>=11
+Sunrisers,E Thorpe,E Thorpe (Sunrisers),2,26,23,0,0,1,90.0,23.0,1-5
+Sunrisers,FC Wilson,FC Wilson (Sunrisers),8,221,205,2,0,7,75.34,29.29,6-10
+Sunrisers,G Scrivens,G Scrivens (Sunrisers),13,513,298,1,0,13,48.94,22.92,>=11
+Sunrisers,GKS Gole,GKS Gole (Sunrisers),5,79,40,0,0,5,44.2,8.0,1-5
+Sunrisers,H Brown,H Brown (Sunrisers),1,47,16,0,0,1,34.04,16.0,1-5
+Sunrisers,J Gardner,J Gardner (Sunrisers),13,367,251,1,0,12,68.33,20.92,>=11
+Sunrisers,K Speed,K Speed (Sunrisers),2,12,3,0,0,2,24.28,1.5,1-5
+Sunrisers,KJ Wolfe,KJ Wolfe (Sunrisers),4,34,13,0,0,4,35.32,3.25,1-5
+Sunrisers,KL Coppack,KL Coppack (Sunrisers),3,33,11,0,0,1,38.8,11.0,1-5
+Sunrisers,KL Midwood,KL Midwood (Sunrisers),6,124,67,0,0,4,49.17,16.75,6-10
+Sunrisers,KS Castle,KS Castle (Sunrisers),13,321,191,1,0,11,52.58,17.36,>=11
+Sunrisers,M Rogers,M Rogers (Sunrisers),3,31,21,0,0,1,71.27,21.0,1-5
+Sunrisers,MK Villiers,MK Villiers (Sunrisers),6,180,148,1,0,6,63.22,24.67,6-10
+Sunrisers,ND Dattani,ND Dattani (Sunrisers),13,444,268,1,0,13,49.88,20.62,>=11
+Sunrisers,Sonali Patel,Sonali Patel (Sunrisers),7,83,30,0,0,5,33.85,6.0,6-10
+Thunder,A Clarke,A Clarke (Thunder),1,6,1,0,0,1,16.67,1.0,1-5
+Thunder,A Hartley,A Hartley (Thunder),12,96,64,0,0,5,54.61,12.8,>=11
+Thunder,AE Dyson,AE Dyson (Thunder),7,185,74,0,0,6,39.45,12.33,6-10
+Thunder,D Mullan,D Mullan (Thunder),2,40,8,0,0,2,14.82,4.0,1-5
+Thunder,DL Collins,DL Collins (Thunder),7,111,42,0,0,5,47.41,8.4,6-10
+Thunder,E Threlkeld,E Threlkeld (Thunder),13,435,241,2,0,12,39.75,20.08,>=11
+Thunder,EL Lamb,EL Lamb (Thunder),7,324,246,0,1,7,58.81,35.14,6-10
+Thunder,GEB Boyce,GEB Boyce (Thunder),13,581,337,2,0,13,49.41,25.92,>=11
+Thunder,HE Jones,HE Jones (Thunder),9,78,33,0,0,4,41.15,8.25,6-10
+Thunder,KL Cross,KL Cross (Thunder),6,255,162,1,0,5,51.15,32.4,6-10
+Thunder,L Heap,L Heap (Thunder),5,89,47,0,0,5,44.62,9.4,1-5
+Thunder,L Jackson,L Jackson (Thunder),7,243,81,0,0,7,27.5,11.57,6-10
+Thunder,L Marshall,L Marshall (Thunder),13,262,151,0,0,13,40.26,11.62,>=11
+Thunder,N Brown,N Brown (Thunder),13,420,251,1,0,13,54.18,19.31,>=11
+Thunder,Olivia Thomas,Olivia Thomas (Thunder),3,90,17,0,0,2,10.14,8.5,1-5
+Thunder,P Cleary,P Cleary (Thunder),4,153,93,1,0,4,36.98,23.25,1-5
+Thunder,R Duckworth,R Duckworth (Thunder),5,218,67,0,0,4,26.46,16.75,1-5
+Thunder,S Ecclestone,S Ecclestone (Thunder),5,143,124,1,0,4,70.16,31.0,1-5
+Thunder,S Smale,S Smale (Thunder),3,65,25,0,0,3,26.03,8.33,1-5
+Thunder,S Turner,S Turner (Thunder),2,26,3,0,0,2,13.12,1.5,1-5
+Western Storm,A Griffiths,A Griffiths (Western Storm),7,276,262,2,0,7,93.82,37.43,6-10
+Western Storm,A Shrubsole,A Shrubsole (Western Storm),3,75,101,1,0,2,130.62,50.5,1-5
+Western Storm,B Gammon,B Gammon (Western Storm),1,9,0,0,0,1,0.0,0.0,1-5
+Western Storm,C Nicholas,C Nicholas (Western Storm),2,73,46,0,0,1,63.06,46.0,1-5
+Western Storm,C Skelton,C Skelton (Western Storm),2,64,43,0,0,1,83.01,43.0,1-5
+Western Storm,DR Gibson,DR Gibson (Western Storm),8,118,133,0,0,6,100.67,22.17,6-10
+Western Storm,E Corney,E Corney (Western Storm),4,44,28,0,0,3,60.96,9.33,1-5
+Western Storm,EM Edgcombe,EM Edgcombe (Western Storm),2,12,11,0,0,1,75.0,11.0,1-5
+Western Storm,FMK Morris,FMK Morris (Western Storm),13,422,284,0,0,13,64.77,21.85,>=11
+Western Storm,GM Hennessy,GM Hennessy (Western Storm),13,439,285,1,1,13,47.64,21.92,>=11
+Western Storm,HC Knight,HC Knight (Western Storm),5,419,381,5,0,4,92.22,95.25,1-5
+Western Storm,J Roberts,J Roberts (Western Storm),1,4,0,0,0,1,0.0,0.0,1-5
+Western Storm,KL George,KL George (Western Storm),3,93,56,0,0,2,46.51,28.0,1-5
+Western Storm,L Filer,L Filer (Western Storm),5,28,14,0,0,1,33.41,14.0,1-5
+Western Storm,LA Parfitt,LA Parfitt (Western Storm),11,403,220,1,0,10,45.54,22.0,>=11
+Western Storm,MJ Robbins,MJ Robbins (Western Storm),4,37,9,0,0,3,26.24,3.0,1-5
+Western Storm,N Harvey,N Harvey (Western Storm),5,61,41,0,0,2,55.83,20.5,1-5
+Western Storm,N Holland,N Holland (Western Storm),2,14,8,0,0,2,36.36,4.0,1-5
+Western Storm,NAJ Wraith,NAJ Wraith (Western Storm),12,283,174,1,0,11,45.44,15.82,>=11
+Western Storm,S Hutchins,S Hutchins (Western Storm),1,11,4,0,0,1,36.36,4.0,1-5
+Western Storm,SN Luff,SN Luff (Western Storm),13,1003,756,6,2,11,66.04,68.73,>=11

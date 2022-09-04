@@ -1,0 +1,238 @@
+match_id,batting_team,partnership,net_runs,batter1,batter1_runs,batter2,batter2_runs,innings,from_node,to_node,Winner
+1229326,Sunrisers,AJ Macleod & MK Villiers,3.0,AJ Macleod,2.0,MK Villiers,0.0,1.0,MK Villiers,AJ Macleod,Southern Vipers
+1229326,Sunrisers,FC Wilson & KL Midwood,5.0,FC Wilson,0.0,KL Midwood,5.0,1.0,FC Wilson,KL Midwood,Southern Vipers
+1229326,Sunrisers,FC Wilson & ND Dattani,15.0,FC Wilson,11.0,ND Dattani,2.0,1.0,ND Dattani,FC Wilson,Southern Vipers
+1229326,Sunrisers,G Scrivens & MK Villiers,21.0,G Scrivens,8.0,MK Villiers,10.0,1.0,G Scrivens,MK Villiers,Southern Vipers
+1229326,Sunrisers,KJ Wolfe & KS Castle,10.0,KJ Wolfe,2.0,KS Castle,3.0,1.0,KJ Wolfe,KS Castle,Southern Vipers
+1229326,Sunrisers,KL Midwood & AD Carr,10.0,KL Midwood,1.0,AD Carr,4.0,1.0,KL Midwood,AD Carr,Southern Vipers
+1229326,Sunrisers,KS Castle & Sonali Patel,10.0,KS Castle,5.0,Sonali Patel,3.0,1.0,Sonali Patel,KS Castle,Southern Vipers
+1229326,Sunrisers,MK Villiers & J Gardner,33.0,MK Villiers,16.0,J Gardner,13.0,1.0,J Gardner,MK Villiers,Southern Vipers
+1229326,Sunrisers,MK Villiers & ND Dattani,92.0,MK Villiers,36.0,ND Dattani,40.0,1.0,MK Villiers,ND Dattani,Southern Vipers
+1229326,Sunrisers,Sonali Patel & MK Villiers,3.0,Sonali Patel,1.0,MK Villiers,2.0,1.0,Sonali Patel,MK Villiers,Southern Vipers
+1229326,Southern Vipers,GL Adams & DN Wyatt,111.0,GL Adams,37.0,DN Wyatt,54.0,2.0,GL Adams,DN Wyatt,Southern Vipers
+1229326,Southern Vipers,ME Bouchier & CE Dean,40.0,ME Bouchier,16.0,CE Dean,23.0,2.0,ME Bouchier,CE Dean,Southern Vipers
+1229326,Southern Vipers,ME Bouchier & DN Wyatt,29.0,ME Bouchier,17.0,DN Wyatt,12.0,2.0,DN Wyatt,ME Bouchier,Southern Vipers
+1229326,Southern Vipers,PJ Scholfield & CE Dean,28.0,PJ Scholfield,23.0,CE Dean,4.0,2.0,CE Dean,PJ Scholfield,Southern Vipers
+1229330,Southern Vipers,CE Dean & CE Rudd,21.0,CE Dean,12.0,CE Rudd,5.0,1.0,CE Rudd,CE Dean,Southern Vipers
+1229330,Southern Vipers,E Windsor & CE Dean,26.0,E Windsor,14.0,CE Dean,11.0,1.0,CE Dean,E Windsor,Southern Vipers
+1229330,Southern Vipers,EM McCaughan & CE Dean,12.0,EM McCaughan,5.0,CE Dean,7.0,1.0,EM McCaughan,CE Dean,Southern Vipers
+1229330,Southern Vipers,GL Adams & CE Dean,10.0,GL Adams,3.0,CE Dean,4.0,1.0,GL Adams,CE Dean,Southern Vipers
+1229330,Southern Vipers,GL Adams & DN Wyatt,105.0,GL Adams,36.0,DN Wyatt,53.0,1.0,GL Adams,DN Wyatt,Southern Vipers
+1229330,Southern Vipers,ME Bouchier & GL Adams,34.0,ME Bouchier,16.0,GL Adams,16.0,1.0,ME Bouchier,GL Adams,Southern Vipers
+1229330,Southern Vipers,PJ Scholfield & CE Dean,24.0,PJ Scholfield,9.0,CE Dean,9.0,1.0,PJ Scholfield,CE Dean,Southern Vipers
+1229330,Southern Vipers,TG Norris & CE Dean,29.0,TG Norris,10.0,CE Dean,17.0,1.0,TG Norris,CE Dean,Southern Vipers
+1229331,Sunrisers,AD Carr & AJ Macleod,10.0,AD Carr,10.0,AJ Macleod,0.0,2.0,AJ Macleod,AD Carr,South East Stars
+1229331,Sunrisers,AD Carr & ND Dattani,12.0,AD Carr,9.0,ND Dattani,2.0,2.0,ND Dattani,AD Carr,South East Stars
+1229331,Sunrisers,FC Wilson & AD Carr,56.0,FC Wilson,29.0,AD Carr,24.0,2.0,AD Carr,FC Wilson,South East Stars
+1229331,Sunrisers,G Scrivens & AD Carr,9.0,G Scrivens,2.0,AD Carr,6.0,2.0,G Scrivens,AD Carr,South East Stars
+1229331,Sunrisers,J Gardner & AD Carr,42.0,J Gardner,25.0,AD Carr,17.0,2.0,AD Carr,J Gardner,South East Stars
+1229331,Sunrisers,KS Castle & AD Carr,52.0,KS Castle,21.0,AD Carr,26.0,2.0,KS Castle,AD Carr,South East Stars
+1229331,Sunrisers,MK Villiers & AD Carr,20.0,MK Villiers,12.0,AD Carr,7.0,2.0,AD Carr,MK Villiers,South East Stars
+1229331,Sunrisers,KS Castle & Sonali Patel,11.0,KS Castle,4.0,Sonali Patel,7.0,2.0,KS Castle,Sonali Patel,South East Stars
+1229335,Sunrisers,CL Griffith & AD Carr,2.0,CL Griffith,0.0,AD Carr,0.0,2.0,CL Griffith,AD Carr,Western Storm
+1229335,Sunrisers,G Scrivens & GKS Gole,6.0,G Scrivens,2.0,GKS Gole,4.0,2.0,G Scrivens,GKS Gole,Western Storm
+1229335,Sunrisers,G Scrivens & J Gardner,51.0,G Scrivens,16.0,J Gardner,24.0,2.0,G Scrivens,J Gardner,Western Storm
+1229335,Sunrisers,G Scrivens & ND Dattani,31.0,G Scrivens,8.0,ND Dattani,20.0,2.0,G Scrivens,ND Dattani,Western Storm
+1229335,Sunrisers,KJ Wolfe & E Thorpe,17.0,KJ Wolfe,3.0,E Thorpe,12.0,2.0,KJ Wolfe,E Thorpe,Western Storm
+1229335,Sunrisers,KJ Wolfe & J Gardner,7.0,KJ Wolfe,0.0,J Gardner,7.0,2.0,KJ Wolfe,J Gardner,Western Storm
+1229335,Sunrisers,KS Castle & J Gardner,34.0,KS Castle,8.0,J Gardner,23.0,2.0,KS Castle,J Gardner,Western Storm
+1229335,Sunrisers,ND Dattani & CL Griffith,31.0,ND Dattani,7.0,CL Griffith,15.0,2.0,ND Dattani,CL Griffith,Western Storm
+1229337,Southern Vipers,AZ Monaghan & TG Norris,1.0,AZ Monaghan,1.0,TG Norris,0.0,1.0,TG Norris,AZ Monaghan,Southern Vipers
+1229337,Southern Vipers,CE Dean & CE Rudd,31.0,CE Dean,12.0,CE Rudd,18.0,1.0,CE Dean,CE Rudd,Southern Vipers
+1229337,Southern Vipers,PJ Scholfield & CE Dean,23.0,PJ Scholfield,13.0,CE Dean,9.0,1.0,CE Dean,PJ Scholfield,Southern Vipers
+1229337,Southern Vipers,CM Taylor & AZ Monaghan,1.0,CM Taylor,1.0,AZ Monaghan,0.0,1.0,AZ Monaghan,CM Taylor,Southern Vipers
+1229337,Southern Vipers,ER Chandler & AZ Monaghan,8.0,ER Chandler,5.0,AZ Monaghan,1.0,1.0,AZ Monaghan,ER Chandler,Southern Vipers
+1229337,Southern Vipers,GL Adams & EM McCaughan,84.0,GL Adams,44.0,EM McCaughan,37.0,1.0,EM McCaughan,GL Adams,Southern Vipers
+1229337,Southern Vipers,ME Bouchier & CE Dean,15.0,ME Bouchier,8.0,CE Dean,7.0,1.0,CE Dean,ME Bouchier,Southern Vipers
+1229337,Southern Vipers,ME Bouchier & EM McCaughan,35.0,ME Bouchier,20.0,EM McCaughan,13.0,1.0,EM McCaughan,ME Bouchier,Southern Vipers
+1229337,Southern Vipers,TG Norris & CE Rudd,11.0,TG Norris,7.0,CE Rudd,3.0,1.0,CE Rudd,TG Norris,Southern Vipers
+1229340,Southern Vipers,AZ Monaghan & CE Rudd,26.0,AZ Monaghan,5.0,CE Rudd,19.0,1.0,AZ Monaghan,CE Rudd,Southern Vipers
+1229340,Southern Vipers,GL Adams & CE Dean,64.0,GL Adams,23.0,CE Dean,39.0,1.0,GL Adams,CE Dean,Southern Vipers
+1229340,Southern Vipers,CE Rudd & GL Adams,1.0,CE Rudd,0.0,GL Adams,1.0,1.0,CE Rudd,GL Adams,Southern Vipers
+1229340,Southern Vipers,CM Taylor & AZ Monaghan,13.0,CM Taylor,9.0,AZ Monaghan,3.0,1.0,AZ Monaghan,CM Taylor,Southern Vipers
+1229340,Southern Vipers,CM Taylor & PAC Cowdrill,9.0,CM Taylor,3.0,PAC Cowdrill,4.0,1.0,CM Taylor,PAC Cowdrill,Southern Vipers
+1229340,Southern Vipers,E Windsor & GL Adams,44.0,E Windsor,14.0,GL Adams,27.0,1.0,E Windsor,GL Adams,Southern Vipers
+1229340,Southern Vipers,GL Adams & EM McCaughan,10.0,GL Adams,2.0,EM McCaughan,8.0,1.0,GL Adams,EM McCaughan,Southern Vipers
+1229340,Southern Vipers,GL Adams & PJ Scholfield,31.0,GL Adams,22.0,PJ Scholfield,8.0,1.0,PJ Scholfield,GL Adams,Southern Vipers
+1229340,Southern Vipers,ME Bouchier & GL Adams,34.0,ME Bouchier,18.0,GL Adams,14.0,1.0,GL Adams,ME Bouchier,Southern Vipers
+1229340,Sunrisers,AJ Macleod & CL Griffith,6.0,AJ Macleod,5.0,CL Griffith,1.0,2.0,CL Griffith,AJ Macleod,Southern Vipers
+1229340,Sunrisers,AJ Macleod & G Scrivens,22.0,AJ Macleod,8.0,G Scrivens,9.0,2.0,AJ Macleod,G Scrivens,Southern Vipers
+1229340,Sunrisers,E Thorpe & KL Midwood,14.0,E Thorpe,11.0,KL Midwood,3.0,2.0,KL Midwood,E Thorpe,Southern Vipers
+1229340,Sunrisers,KJ Wolfe & KL Midwood,9.0,KJ Wolfe,7.0,KL Midwood,2.0,2.0,KL Midwood,KJ Wolfe,Southern Vipers
+1229340,Sunrisers,KL Midwood & J Gardner,2.0,KL Midwood,2.0,J Gardner,0.0,2.0,J Gardner,KL Midwood,Southern Vipers
+1229340,Sunrisers,KS Castle & G Scrivens,9.0,KS Castle,4.0,G Scrivens,4.0,2.0,KS Castle,G Scrivens,Southern Vipers
+1229340,Sunrisers,KS Castle & J Gardner,63.0,KS Castle,20.0,J Gardner,39.0,2.0,KS Castle,J Gardner,Southern Vipers
+1229340,Sunrisers,ND Dattani & AJ Macleod,48.0,ND Dattani,20.0,AJ Macleod,22.0,2.0,ND Dattani,AJ Macleod,Southern Vipers
+1229340,Sunrisers,Sonali Patel & KL Midwood,10.0,Sonali Patel,4.0,KL Midwood,5.0,2.0,Sonali Patel,KL Midwood,Southern Vipers
+1229342,Southern Vipers,GL Adams & EM McCaughan,155.0,GL Adams,74.0,EM McCaughan,63.0,1.0,EM McCaughan,GL Adams,Southern Vipers
+1229342,Southern Vipers,ME Bouchier & GL Adams,133.0,ME Bouchier,50.0,GL Adams,80.0,1.0,ME Bouchier,GL Adams,Southern Vipers
+1229343,Sunrisers,CL Griffith & AD Carr,13.0,CL Griffith,1.0,AD Carr,6.0,1.0,CL Griffith,AD Carr,South East Stars
+1229343,Sunrisers,AJ Macleod & CL Griffith,4.0,AJ Macleod,3.0,CL Griffith,1.0,1.0,CL Griffith,AJ Macleod,South East Stars
+1229343,Sunrisers,H Brown & ND Dattani,22.0,H Brown,6.0,ND Dattani,14.0,1.0,H Brown,ND Dattani,South East Stars
+1229343,Sunrisers,G Scrivens & J Gardner,28.0,G Scrivens,16.0,J Gardner,7.0,1.0,J Gardner,G Scrivens,South East Stars
+1229343,Sunrisers,J Gardner & H Brown,24.0,J Gardner,14.0,H Brown,10.0,1.0,H Brown,J Gardner,South East Stars
+1229343,Sunrisers,Sonali Patel & KJ Wolfe,2.0,Sonali Patel,0.0,KJ Wolfe,1.0,1.0,Sonali Patel,KJ Wolfe,South East Stars
+1229343,Sunrisers,KL Midwood & J Gardner,35.0,KL Midwood,22.0,J Gardner,9.0,1.0,J Gardner,KL Midwood,South East Stars
+1229343,Sunrisers,ND Dattani & CL Griffith,55.0,ND Dattani,19.0,CL Griffith,25.0,1.0,ND Dattani,CL Griffith,South East Stars
+1229343,Sunrisers,Sonali Patel & KL Midwood,15.0,Sonali Patel,9.0,KL Midwood,5.0,1.0,KL Midwood,Sonali Patel,South East Stars
+1229346,Southern Vipers,CE Rudd & E Windsor,72.0,CE Rudd,35.0,E Windsor,34.0,2.0,E Windsor,CE Rudd,Southern Vipers
+1229346,Southern Vipers,E Windsor & PJ Scholfield,2.0,E Windsor,1.0,PJ Scholfield,1.0,2.0,E Windsor,PJ Scholfield,Southern Vipers
+1229346,Southern Vipers,GL Adams & EM McCaughan,52.0,GL Adams,25.0,EM McCaughan,11.0,2.0,EM McCaughan,GL Adams,Southern Vipers
+1229346,Southern Vipers,ME Bouchier & GL Adams,26.0,ME Bouchier,10.0,GL Adams,16.0,2.0,ME Bouchier,GL Adams,Southern Vipers
+1229346,Southern Vipers,PJ Scholfield & CE Dean,61.0,PJ Scholfield,30.0,CE Dean,24.0,2.0,CE Dean,PJ Scholfield,Southern Vipers
+1229346,Southern Vipers,TG Norris & E Windsor,17.0,TG Norris,5.0,E Windsor,12.0,2.0,TG Norris,E Windsor,Southern Vipers
+1229349,Sunrisers,AD Carr & AJ Macleod,11.0,AD Carr,7.0,AJ Macleod,1.0,2.0,AJ Macleod,AD Carr,Western Storm
+1229349,Sunrisers,AJ Macleod & M Rogers,17.0,AJ Macleod,12.0,M Rogers,3.0,2.0,M Rogers,AJ Macleod,Western Storm
+1229349,Sunrisers,AJ Macleod & CL Griffith,55.0,AJ Macleod,9.0,CL Griffith,41.0,2.0,AJ Macleod,CL Griffith,Western Storm
+1229349,Sunrisers,G Scrivens & J Gardner,69.0,G Scrivens,41.0,J Gardner,26.0,2.0,J Gardner,G Scrivens,Western Storm
+1229349,Sunrisers,G Scrivens & Sonali Patel,5.0,G Scrivens,5.0,Sonali Patel,0.0,2.0,Sonali Patel,G Scrivens,Western Storm
+1229349,Sunrisers,KS Castle & J Gardner,26.0,KS Castle,17.0,J Gardner,6.0,2.0,J Gardner,KS Castle,Western Storm
+1229349,Sunrisers,KL Midwood & G Scrivens,39.0,KL Midwood,12.0,G Scrivens,26.0,2.0,KL Midwood,G Scrivens,Western Storm
+1229349,Sunrisers,KS Castle & M Rogers,12.0,KS Castle,3.0,M Rogers,7.0,2.0,KS Castle,M Rogers,Western Storm
+1229349,Sunrisers,ND Dattani & AJ Macleod,7.0,ND Dattani,1.0,AJ Macleod,6.0,2.0,ND Dattani,AJ Macleod,Western Storm
+1229350,Southern Vipers,GL Adams & CE Dean,5.0,GL Adams,3.0,CE Dean,2.0,1.0,CE Dean,GL Adams,Southern Vipers
+1229350,Southern Vipers,CM Taylor & LK Bell,11.0,CM Taylor,1.0,LK Bell,6.0,1.0,CM Taylor,LK Bell,Southern Vipers
+1229350,Southern Vipers,E Windsor & AZ Monaghan,3.0,E Windsor,2.0,AZ Monaghan,1.0,1.0,AZ Monaghan,E Windsor,Southern Vipers
+1229350,Southern Vipers,CE Rudd & E Windsor,7.0,CE Rudd,1.0,E Windsor,6.0,1.0,CE Rudd,E Windsor,Southern Vipers
+1229350,Southern Vipers,E Windsor & CM Taylor,29.0,E Windsor,16.0,CM Taylor,6.0,1.0,CM Taylor,E Windsor,Southern Vipers
+1229350,Southern Vipers,E Windsor & GL Adams,7.0,E Windsor,2.0,GL Adams,4.0,1.0,E Windsor,GL Adams,Southern Vipers
+1229350,Southern Vipers,GL Adams & EM McCaughan,100.0,GL Adams,57.0,EM McCaughan,35.0,1.0,EM McCaughan,GL Adams,Southern Vipers
+1229350,Southern Vipers,ME Bouchier & GL Adams,50.0,ME Bouchier,28.0,GL Adams,16.0,1.0,GL Adams,ME Bouchier,Southern Vipers
+1229350,Southern Vipers,GL Adams & PJ Scholfield,3.0,GL Adams,0.0,PJ Scholfield,3.0,1.0,GL Adams,PJ Scholfield,Southern Vipers
+1229350,Southern Vipers,TG Norris & E Windsor,16.0,TG Norris,5.0,E Windsor,11.0,1.0,TG Norris,E Windsor,Southern Vipers
+1252266,Sunrisers,AD Carr & AJ Macleod,18.0,AD Carr,7.0,AJ Macleod,7.0,2.0,AD Carr,AJ Macleod,South East Stars
+1252266,Sunrisers,AJ Macleod & CL Griffith,14.0,AJ Macleod,5.0,CL Griffith,9.0,2.0,AJ Macleod,CL Griffith,South East Stars
+1252266,Sunrisers,FC Wilson & AJ Macleod,10.0,FC Wilson,9.0,AJ Macleod,0.0,2.0,AJ Macleod,FC Wilson,South East Stars
+1252266,Sunrisers,FC Wilson & ND Dattani,2.0,FC Wilson,1.0,ND Dattani,1.0,2.0,FC Wilson,ND Dattani,South East Stars
+1252266,Sunrisers,G Scrivens & ND Dattani,36.0,G Scrivens,24.0,ND Dattani,10.0,2.0,ND Dattani,G Scrivens,South East Stars
+1252266,Sunrisers,G Scrivens & J Gardner,23.0,G Scrivens,12.0,J Gardner,11.0,2.0,J Gardner,G Scrivens,South East Stars
+1252266,Sunrisers,K Speed & KS Castle,1.0,K Speed,1.0,KS Castle,0.0,2.0,KS Castle,K Speed,South East Stars
+1252266,Sunrisers,KS Castle & GKS Gole,12.0,KS Castle,2.0,GKS Gole,10.0,2.0,KS Castle,GKS Gole,South East Stars
+1252266,Sunrisers,MK Villiers & ND Dattani,73.0,MK Villiers,34.0,ND Dattani,36.0,2.0,MK Villiers,ND Dattani,South East Stars
+1252267,Southern Vipers,CE Dean & GA Elwiss,17.0,CE Dean,12.0,GA Elwiss,2.0,2.0,GA Elwiss,CE Dean,Southern Vipers
+1252267,Southern Vipers,GA Elwiss & ME Bouchier,17.0,GA Elwiss,8.0,ME Bouchier,7.0,2.0,ME Bouchier,GA Elwiss,Southern Vipers
+1252267,Southern Vipers,GL Adams & DN Wyatt,60.0,GL Adams,28.0,DN Wyatt,28.0,2.0,GL Adams,DN Wyatt,Southern Vipers
+1252267,Southern Vipers,ME Bouchier & DN Wyatt,41.0,ME Bouchier,14.0,DN Wyatt,25.0,2.0,ME Bouchier,DN Wyatt,Southern Vipers
+1252267,Southern Vipers,PJ Scholfield & CE Dean,36.0,PJ Scholfield,14.0,CE Dean,20.0,2.0,PJ Scholfield,CE Dean,Southern Vipers
+1252267,Southern Vipers,E Windsor & PJ Scholfield,41.0,E Windsor,15.0,PJ Scholfield,24.0,2.0,E Windsor,PJ Scholfield,Southern Vipers
+1252267,Southern Vipers,TG Norris & PJ Scholfield,3.0,TG Norris,3.0,PJ Scholfield,0.0,2.0,PJ Scholfield,TG Norris,Southern Vipers
+1252270,Southern Vipers,CE Dean & DN Wyatt,4.0,CE Dean,2.0,DN Wyatt,1.0,2.0,DN Wyatt,CE Dean,Southern Vipers
+1252270,Southern Vipers,GA Elwiss & DN Wyatt,87.0,GA Elwiss,45.0,DN Wyatt,38.0,2.0,DN Wyatt,GA Elwiss,Southern Vipers
+1252270,Southern Vipers,GL Adams & DN Wyatt,17.0,GL Adams,6.0,DN Wyatt,9.0,2.0,GL Adams,DN Wyatt,Southern Vipers
+1252270,Southern Vipers,ME Bouchier & DN Wyatt,30.0,ME Bouchier,13.0,DN Wyatt,16.0,2.0,ME Bouchier,DN Wyatt,Southern Vipers
+1252271,Sunrisers,AJ Macleod & CL Griffith,37.0,AJ Macleod,11.0,CL Griffith,22.0,2.0,AJ Macleod,CL Griffith,Thunder
+1252271,Sunrisers,FC Wilson & AJ Macleod,72.0,FC Wilson,39.0,AJ Macleod,27.0,2.0,AJ Macleod,FC Wilson,Thunder
+1252271,Sunrisers,FC Wilson & MK Villiers,9.0,FC Wilson,8.0,MK Villiers,0.0,2.0,MK Villiers,FC Wilson,Thunder
+1252271,Sunrisers,KS Castle & GKS Gole,25.0,KS Castle,8.0,GKS Gole,15.0,2.0,KS Castle,GKS Gole,Thunder
+1252271,Sunrisers,G Scrivens & J Gardner,37.0,G Scrivens,19.0,J Gardner,17.0,2.0,J Gardner,G Scrivens,Thunder
+1252271,Sunrisers,KS Castle & J Gardner,10.0,KS Castle,4.0,J Gardner,5.0,2.0,KS Castle,J Gardner,Thunder
+1252271,Sunrisers,FC Wilson & ND Dattani,9.0,FC Wilson,3.0,ND Dattani,5.0,2.0,FC Wilson,ND Dattani,Thunder
+1252271,Sunrisers,KS Castle & Sonali Patel,12.0,KS Castle,1.0,Sonali Patel,5.0,2.0,KS Castle,Sonali Patel,Thunder
+1252273,Sunrisers,FC Wilson & AD Carr,7.0,FC Wilson,1.0,AD Carr,6.0,1.0,FC Wilson,AD Carr,Northern Diamonds
+1252273,Sunrisers,J Gardner & AD Carr,5.0,J Gardner,0.0,AD Carr,5.0,1.0,J Gardner,AD Carr,Northern Diamonds
+1252273,Sunrisers,CL Griffith & FC Wilson,6.0,CL Griffith,0.0,FC Wilson,5.0,1.0,CL Griffith,FC Wilson,Northern Diamonds
+1252273,Sunrisers,FC Wilson & ND Dattani,4.0,FC Wilson,0.0,ND Dattani,0.0,1.0,FC Wilson,ND Dattani,Northern Diamonds
+1252273,Sunrisers,AJ Macleod & G Scrivens,5.0,AJ Macleod,3.0,G Scrivens,1.0,1.0,G Scrivens,AJ Macleod,Northern Diamonds
+1252273,Sunrisers,GKS Gole & AD Carr,9.0,GKS Gole,7.0,AD Carr,1.0,1.0,AD Carr,GKS Gole,Northern Diamonds
+1252273,Sunrisers,KL Coppack & GKS Gole,8.0,KL Coppack,4.0,GKS Gole,4.0,1.0,KL Coppack,GKS Gole,Northern Diamonds
+1252273,Sunrisers,KS Castle & AD Carr,8.0,KS Castle,0.0,AD Carr,5.0,1.0,KS Castle,AD Carr,Northern Diamonds
+1252273,Sunrisers,FC Wilson & MK Villiers,1.0,FC Wilson,0.0,MK Villiers,1.0,1.0,FC Wilson,MK Villiers,Northern Diamonds
+1252275,Southern Vipers,CE Rudd & DN Wyatt,52.0,CE Rudd,10.0,DN Wyatt,39.0,2.0,CE Rudd,DN Wyatt,Central Sparks
+1252275,Southern Vipers,DN Wyatt & E Windsor,34.0,DN Wyatt,13.0,E Windsor,14.0,2.0,DN Wyatt,E Windsor,Central Sparks
+1252275,Southern Vipers,GL Adams & DN Wyatt,16.0,GL Adams,3.0,DN Wyatt,9.0,2.0,GL Adams,DN Wyatt,Central Sparks
+1252275,Southern Vipers,ME Bouchier & DN Wyatt,1.0,ME Bouchier,1.0,DN Wyatt,0.0,2.0,DN Wyatt,ME Bouchier,Central Sparks
+1252275,Southern Vipers,TG Norris & DN Wyatt,1.0,TG Norris,1.0,DN Wyatt,0.0,2.0,DN Wyatt,TG Norris,Central Sparks
+1252277,Sunrisers,AD Carr & AJ Macleod,12.0,AD Carr,10.0,AJ Macleod,0.0,1.0,AJ Macleod,AD Carr,Lightning
+1252277,Sunrisers,AJ Macleod & CL Griffith,10.0,AJ Macleod,0.0,CL Griffith,9.0,1.0,AJ Macleod,CL Griffith,Lightning
+1252277,Sunrisers,AJ Macleod & G Scrivens,8.0,AJ Macleod,4.0,G Scrivens,3.0,1.0,G Scrivens,AJ Macleod,Lightning
+1252277,Sunrisers,KS Castle & J Gardner,1.0,KS Castle,1.0,J Gardner,0.0,1.0,J Gardner,KS Castle,Lightning
+1252277,Sunrisers,K Speed & KL Midwood,8.0,K Speed,2.0,KL Midwood,5.0,1.0,K Speed,KL Midwood,Lightning
+1252277,Sunrisers,KL Coppack & KL Midwood,11.0,KL Coppack,6.0,KL Midwood,3.0,1.0,KL Midwood,KL Coppack,Lightning
+1252277,Sunrisers,KS Castle & KL Midwood,9.0,KS Castle,7.0,KL Midwood,2.0,1.0,KL Midwood,KS Castle,Lightning
+1252277,Sunrisers,KS Castle & ND Dattani,87.0,KS Castle,44.0,ND Dattani,36.0,1.0,ND Dattani,KS Castle,Lightning
+1252277,Sunrisers,ND Dattani & CL Griffith,60.0,ND Dattani,29.0,CL Griffith,24.0,1.0,CL Griffith,ND Dattani,Lightning
+1252279,Southern Vipers,GL Adams & DN Wyatt,57.0,GL Adams,25.0,DN Wyatt,28.0,2.0,GL Adams,DN Wyatt,Southern Vipers
+1252279,Southern Vipers,ME Bouchier & EM McCaughan,24.0,ME Bouchier,19.0,EM McCaughan,4.0,2.0,EM McCaughan,ME Bouchier,Southern Vipers
+1252279,Southern Vipers,ME Bouchier & GL Adams,97.0,ME Bouchier,38.0,GL Adams,52.0,2.0,ME Bouchier,GL Adams,Southern Vipers
+1252282,Sunrisers,AJ Macleod & CL Griffith,77.0,AJ Macleod,30.0,CL Griffith,43.0,1.0,AJ Macleod,CL Griffith,Central Sparks
+1252282,Sunrisers,CL Griffith & G Scrivens,67.0,CL Griffith,26.0,G Scrivens,26.0,1.0,CL Griffith,G Scrivens,Central Sparks
+1252282,Sunrisers,FC Wilson & AJ Macleod,3.0,FC Wilson,0.0,AJ Macleod,3.0,1.0,FC Wilson,AJ Macleod,Central Sparks
+1252282,Sunrisers,J Gardner & AJ Macleod,4.0,J Gardner,0.0,AJ Macleod,4.0,1.0,J Gardner,AJ Macleod,Central Sparks
+1252282,Sunrisers,KS Castle & J Gardner,11.0,KS Castle,8.0,J Gardner,2.0,1.0,J Gardner,KS Castle,Central Sparks
+1252282,Sunrisers,M Rogers & J Gardner,26.0,M Rogers,8.0,J Gardner,17.0,1.0,M Rogers,J Gardner,Central Sparks
+1252282,Sunrisers,ND Dattani & AJ Macleod,16.0,ND Dattani,7.0,AJ Macleod,9.0,1.0,ND Dattani,AJ Macleod,Central Sparks
+1252283,Southern Vipers,E Windsor & AZ Monaghan,6.0,E Windsor,4.0,AZ Monaghan,0.0,2.0,AZ Monaghan,E Windsor,Southern Vipers
+1252283,Southern Vipers,CE Rudd & E Windsor,37.0,CE Rudd,13.0,E Windsor,19.0,2.0,CE Rudd,E Windsor,Southern Vipers
+1252283,Southern Vipers,E Windsor & EM McCaughan,12.0,E Windsor,2.0,EM McCaughan,8.0,2.0,E Windsor,EM McCaughan,Southern Vipers
+1252283,Southern Vipers,GA Elwiss & EM McCaughan,5.0,GA Elwiss,0.0,EM McCaughan,5.0,2.0,GA Elwiss,EM McCaughan,Southern Vipers
+1252283,Southern Vipers,GH Lewis & EM McCaughan,28.0,GH Lewis,16.0,EM McCaughan,10.0,2.0,EM McCaughan,GH Lewis,Southern Vipers
+1252283,Southern Vipers,GL Adams & EM McCaughan,13.0,GL Adams,2.0,EM McCaughan,10.0,2.0,GL Adams,EM McCaughan,Southern Vipers
+1252283,Southern Vipers,PJ Scholfield & EM McCaughan,10.0,PJ Scholfield,2.0,EM McCaughan,8.0,2.0,PJ Scholfield,EM McCaughan,Southern Vipers
+1252283,Southern Vipers,TG Norris & E Windsor,1.0,TG Norris,0.0,E Windsor,1.0,2.0,TG Norris,E Windsor,Southern Vipers
+1252287,Southern Vipers,GA Elwiss & CE Rudd,5.0,GA Elwiss,2.0,CE Rudd,1.0,1.0,CE Rudd,GA Elwiss,Southern Vipers
+1252287,Southern Vipers,GA Elwiss & LK Bell,12.0,GA Elwiss,8.0,LK Bell,1.0,1.0,LK Bell,GA Elwiss,Southern Vipers
+1252287,Southern Vipers,GA Elwiss & TG Norris,6.0,GA Elwiss,2.0,TG Norris,3.0,1.0,GA Elwiss,TG Norris,Southern Vipers
+1252287,Southern Vipers,GH Lewis & GA Elwiss,44.0,GH Lewis,18.0,GA Elwiss,20.0,1.0,GH Lewis,GA Elwiss,Southern Vipers
+1252287,Southern Vipers,GL Adams & EM McCaughan,35.0,GL Adams,5.0,EM McCaughan,23.0,1.0,GL Adams,EM McCaughan,Southern Vipers
+1252287,Southern Vipers,GL Adams & GA Elwiss,100.0,GL Adams,35.0,GA Elwiss,56.0,1.0,GL Adams,GA Elwiss,Southern Vipers
+1252287,Southern Vipers,ME Bouchier & GL Adams,45.0,ME Bouchier,30.0,GL Adams,10.0,1.0,GL Adams,ME Bouchier,Southern Vipers
+1252287,Southern Vipers,PJ Scholfield & GA Elwiss,62.0,PJ Scholfield,29.0,GA Elwiss,24.0,1.0,GA Elwiss,PJ Scholfield,Southern Vipers
+1252287,Sunrisers,AJ Macleod & CL Griffith,112.0,AJ Macleod,50.0,CL Griffith,56.0,2.0,AJ Macleod,CL Griffith,Southern Vipers
+1252287,Sunrisers,FC Wilson & AJ Macleod,60.0,FC Wilson,24.0,AJ Macleod,29.0,2.0,FC Wilson,AJ Macleod,Southern Vipers
+1252287,Sunrisers,CL Griffith & G Scrivens,75.0,CL Griffith,35.0,G Scrivens,30.0,2.0,G Scrivens,CL Griffith,Southern Vipers
+1252287,Sunrisers,FC Wilson & KS Castle,30.0,FC Wilson,18.0,KS Castle,11.0,2.0,KS Castle,FC Wilson,Southern Vipers
+1252287,Sunrisers,FC Wilson & M Rogers,9.0,FC Wilson,6.0,M Rogers,3.0,2.0,M Rogers,FC Wilson,Southern Vipers
+1252287,Sunrisers,J Gardner & FC Wilson,15.0,J Gardner,3.0,FC Wilson,11.0,2.0,J Gardner,FC Wilson,Southern Vipers
+1252287,Sunrisers,FC Wilson & ND Dattani,7.0,FC Wilson,6.0,ND Dattani,1.0,2.0,ND Dattani,FC Wilson,Southern Vipers
+1252290,Sunrisers,MK Villiers & AD Carr,22.0,MK Villiers,13.0,AD Carr,7.0,2.0,AD Carr,MK Villiers,Western Storm
+1252290,Sunrisers,CL Griffith & G Scrivens,90.0,CL Griffith,49.0,G Scrivens,31.0,2.0,G Scrivens,CL Griffith,Western Storm
+1252290,Sunrisers,FC Wilson & AJ Macleod,30.0,FC Wilson,16.0,AJ Macleod,11.0,2.0,AJ Macleod,FC Wilson,Western Storm
+1252290,Sunrisers,FC Wilson & MK Villiers,1.0,FC Wilson,0.0,MK Villiers,0.0,2.0,FC Wilson,MK Villiers,Western Storm
+1252290,Sunrisers,AJ Macleod & G Scrivens,40.0,AJ Macleod,21.0,G Scrivens,15.0,2.0,G Scrivens,AJ Macleod,Western Storm
+1252290,Sunrisers,MK Villiers & J Gardner,9.0,MK Villiers,6.0,J Gardner,3.0,2.0,J Gardner,MK Villiers,Western Storm
+1252290,Sunrisers,KL Coppack & J Gardner,1.0,KL Coppack,1.0,J Gardner,0.0,2.0,J Gardner,KL Coppack,Western Storm
+1252290,Sunrisers,KS Castle & MK Villiers,40.0,KS Castle,20.0,MK Villiers,18.0,2.0,MK Villiers,KS Castle,Western Storm
+1252290,Sunrisers,FC Wilson & ND Dattani,42.0,FC Wilson,18.0,ND Dattani,18.0,2.0,FC Wilson,ND Dattani,Western Storm
+1252290,Sunrisers,Sonali Patel & J Gardner,2.0,Sonali Patel,1.0,J Gardner,0.0,2.0,J Gardner,Sonali Patel,Western Storm
+1252291,Southern Vipers,E Windsor & GA Elwiss,1.0,E Windsor,1.0,GA Elwiss,0.0,2.0,GA Elwiss,E Windsor,Southern Vipers
+1252291,Southern Vipers,GL Adams & GA Elwiss,89.0,GL Adams,39.0,GA Elwiss,43.0,2.0,GL Adams,GA Elwiss,Southern Vipers
+1252291,Southern Vipers,PJ Scholfield & GA Elwiss,34.0,PJ Scholfield,15.0,GA Elwiss,18.0,2.0,PJ Scholfield,GA Elwiss,Southern Vipers
+1252291,Southern Vipers,GH Lewis & GA Elwiss,62.0,GH Lewis,39.0,GA Elwiss,23.0,2.0,GA Elwiss,GH Lewis,Southern Vipers
+1252291,Southern Vipers,GL Adams & EM McCaughan,7.0,GL Adams,3.0,EM McCaughan,2.0,2.0,EM McCaughan,GL Adams,Southern Vipers
+1252291,Southern Vipers,ME Bouchier & GL Adams,67.0,ME Bouchier,40.0,GL Adams,25.0,2.0,GL Adams,ME Bouchier,Southern Vipers
+1252293,Southern Vipers,GA Elwiss & ME Bouchier,41.0,GA Elwiss,14.0,ME Bouchier,16.0,2.0,GA Elwiss,ME Bouchier,Southern Vipers
+1252293,Southern Vipers,GH Lewis & E Windsor,31.0,GH Lewis,23.0,E Windsor,7.0,2.0,E Windsor,GH Lewis,Southern Vipers
+1252293,Southern Vipers,GH Lewis & ME Bouchier,15.0,GH Lewis,1.0,ME Bouchier,13.0,2.0,GH Lewis,ME Bouchier,Southern Vipers
+1252293,Southern Vipers,ME Bouchier & EM McCaughan,6.0,ME Bouchier,4.0,EM McCaughan,0.0,2.0,EM McCaughan,ME Bouchier,Southern Vipers
+1252293,Southern Vipers,E Windsor & PJ Scholfield,16.0,E Windsor,6.0,PJ Scholfield,9.0,2.0,E Windsor,PJ Scholfield,Southern Vipers
+1252293,Southern Vipers,TG Norris & E Windsor,78.0,TG Norris,40.0,E Windsor,34.0,2.0,E Windsor,TG Norris,Southern Vipers
+1229327,,,,,,,,,,,Northern Diamonds
+1229328,,,,,,,,,,,Thunder
+1229329,,,,,,,,,,,Western Storm
+1229332,,,,,,,,,,,Central Sparks
+1229333,,,,,,,,,,,Northern Diamonds
+1229334,,,,,,,,,,,Central Sparks
+1229336,,,,,,,,,,,Northern Diamonds
+1229338,,,,,,,,,,,Northern Diamonds
+1229339,,,,,,,,,,,Western Storm
+1229341,,,,,,,,,,,Lightning
+1229344,,,,,,,,,,,Thunder
+1229345,,,,,,,,,,,Central Sparks
+1229347,,,,,,,,,,,Northern Diamonds
+1229348,,,,,,,,,,,Lightning
+1252264,,,,,,,,,,,Central Sparks
+1252265,,,,,,,,,,,Western Storm
+1252268,,,,,,,,,,,Northern Diamonds
+1252269,,,,,,,,,,,Central Sparks
+1252272,,,,,,,,,,,South East Stars
+1252274,,,,,,,,,,,Lightning
+1252276,,,,,,,,,,,Northern Diamonds
+1252278,,,,,,,,,,,Thunder
+1252280,,,,,,,,,,,Northern Diamonds
+1252281,,,,,,,,,,,South East Stars
+1252284,,,,,,,,,,,Northern Diamonds
+1252285,,,,,,,,,,,Central Sparks
+1252286,,,,,,,,,,,Western Storm
+1252288,,,,,,,,,,,Lightning
+1252289,,,,,,,,,,,Thunder
+1252292,,,,,,,,,,,Northern Diamonds
