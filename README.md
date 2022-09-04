@@ -12,11 +12,18 @@ This project puts its focus on match data of the 2020 and 2021 seasons and analy
 The analysis inclusive of visualization and modelling was primarily done using Python 3.8 programming language along with associated libraries like NumPy, Pandas, Matplotlib, Seaborn and Scikit-Learn. Microsoft Excel was used for some data investigation and preparation.
 
 The project contains the below mentioned Jupyter notebook files with relevant code snippets and outputs.
-### 1.CricketRHFT_project_initial_datacleaning (initial data cleaning and preparation)
-### 2.CricketRHFT_project_analysis_part1 (toss/ winner /winning margin)
-### 3.CricketRHFT_project_analysis_part2 (batting/bowling parameters)
-### 4.CricketRHFT_project_analysis_part3 (batting partnerships)
-### 5.CricketRHFT_project_analysis_part4 (player and team evaluation with batting and bowling scores)
-### 6.CricketRHFT_project_modelling_part1 (predicting winner of match)
-### 7.CricketRHFT_project_modelling_part2 (predicitng second innings runs)
+### 1.CricketRHFT_project_initial_datacleaning 
+(initial data cleaning and preparation)
+### 2.CricketRHFT_project_analysis_part1 
+(toss/ winner /winning margin)
+### 3.CricketRHFT_project_analysis_part2 
+(batting/bowling parameters)
+### 4.CricketRHFT_project_analysis_part3 
+(batting partnerships)
+### 5.CricketRHFT_project_analysis_part4 
+(player and team evaluation with batting and bowling scores)
+### 6.CricketRHFT_project_modelling_part1 
+(predicting winner of match)
+### 7.CricketRHFT_project_modelling_part2 
+(predicitng second innings runs)
 
