@@ -1,4 +1,5 @@
-Dissertation project on cricket match and player analysis
+**Dissertation project on cricket match and player analysis**
+
 26th August 2022
 
 <a href="https://github.com/ShaunakS29/CricketRHFT_Project/wiki/1.-Overview" target="_blank"><img src="https://img.shields.io/badge/-Overview-yellow" alt="Overview" height="30" width="100"></a>
